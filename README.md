@@ -3,7 +3,7 @@
 This repo contains the computer-control (serial) programs for Pokémon Automation.
 
 All Repos:
-- [Microcontroller Programs](https://github.com/PokemonAutomation/Microcontroller) (this repo)
+- [Microcontroller Programs](https://github.com/PokemonAutomation/Microcontroller)
 - Computer-Control Programs (this repo)
 - [AutoMaxLair](https://github.com/PokemonAutomation/AutoMaxLair)
 
