@@ -66,5 +66,4 @@ This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSw
 
 Most of the options here are self-explanatory.
 
-<img src="images/SurpriseTrade-Settings.png">
 
