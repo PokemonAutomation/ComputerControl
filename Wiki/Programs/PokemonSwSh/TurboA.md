@@ -33,7 +33,7 @@ Stand in front of either the Digging Duo. For the Cram-o-matic, make sure you ha
 
 ***
 
-### Options
+## Options
 
 This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
