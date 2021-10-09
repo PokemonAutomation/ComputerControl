@@ -18,7 +18,7 @@ TurboA does exactly what its name implies - it endlessly presses A. The purpose 
 
 ***
 
-### Options
+## Options
 
 Most of the options here are self-explanatory.
 
