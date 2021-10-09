@@ -31,7 +31,7 @@ Nearly all microcontroller programs are also available as computer-control progr
 - [Trade Bot](PokemonSwSh/TradeBot.md)
 - [Clothing Buyer](PokemonSwSh/ClothingBuyer.md)
 - [Ball Thrower](PokemonSwSh/BallThrower.md)
-- [Autonomous Ball Thrower](PokemonSwShAutonomous/BallThrower.md)
+- [Autonomous Ball Thrower](PokemonSwSh/AutonomousBallThrower.md)
 - [Dex Rec Finder](PokemonSwShAutonomous/DexRecFinder.md)
 
 **Date-Spam Farmers:**
