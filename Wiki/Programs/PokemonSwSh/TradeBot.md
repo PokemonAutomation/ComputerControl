@@ -65,7 +65,7 @@ When the program reaches the end of a box, it will pause for a longer period bef
    > - You get disconnected from the internet while the program is running.
 
 
-### Options
+## Options
 
 This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
