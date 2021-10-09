@@ -1,8 +1,8 @@
 # Mass Release
 
 **Related Programs:**
-- **Microcontroller:** [MassRelease](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/MassRelease.md)
-- **Computer Control:** [Mass Release](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/NintendoSwitch/MassRelease.md) (this program)
+- **Microcontroller:** [MassRelease](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/MassRelease.md)
+- **Computer Control:** [Mass Release](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/MassRelease.md) (this program)
 
 The microcontroller and computer-control versions of this program are functionally identical.
 
