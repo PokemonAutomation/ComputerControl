@@ -6,7 +6,7 @@ This section covers the required hardware for users who have the Arduino Uno R3.
 
 **Microcontroller Hardware:**
 
-Make sure you have all the [microcontroller hardware](https://github.com/PokemonAutomation/Microcontroller/blob/main/Wiki/Hardware/ArduinoUnoR3.md).
+Make sure you have all the [microcontroller hardware](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Hardware/ArduinoUnoR3.md).
 
 **Buy the following additional components:**
 

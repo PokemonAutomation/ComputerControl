@@ -9,8 +9,8 @@ Setting up serial connection and video capture is the same regardless of what de
 ## Step 1: Acquire the Hardware
 
 Make sure you have all the hardware:
-1. [Microcontroller Hardware](https://github.com/Mysticial/PA-Microcontroller/blob/main/Wiki/Hardware/README.md)
-2. [Serial Hardware](https://github.com/Mysticial/PA-ComputerControl/blob/main/Wiki/Hardware/README.md)
+1. [Microcontroller Hardware](https://github.com/Mysticial/PA-Microcontroller/blob/master/Wiki/Hardware/README.md)
+2. [Serial Hardware](https://github.com/Mysticial/PA-ComputerControl/blob/master/Wiki/Hardware/README.md)
 
 ## Step 2: Download the SerialPrograms package.
 

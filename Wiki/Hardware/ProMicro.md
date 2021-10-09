@@ -6,7 +6,7 @@ This section covers the required hardware for users who have the Pro Micro.
 
 **Microcontroller Hardware:**
 
-Make sure you have all the [microcontroller hardware](https://github.com/PokemonAutomation/Microcontroller/blob/main/Wiki/Hardware/ProMicro.md).
+Make sure you have all the [microcontroller hardware](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Hardware/ProMicro.md).
 
 **Buy the following additional components:**
 1. Serial Board (**Pick one**)
@@ -42,7 +42,7 @@ This option is the easiest to setup, however the mini grabber cables that are ne
 <img src="images/serial-pro-micro-mg.jpg" height="400">
 
 **Required Hardware:**
-1. The [microcontroller hardware](https://github.com/PokemonAutomation/Microcontroller/blob/main/Wiki/Hardware/ProMicro.md).
+1. The [microcontroller hardware](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Hardware/ProMicro.md).
 2. A [USB-to-TTL UART cable or board](https://www.adafruit.com/product/954). It is recommended to get one with the CP210x controller.
 > ***Avoid the Prolific (PLxxxx) controllers. Many of them are knock-offs that do not work.***
 3. [Mini grabber to jumper wires (male).](https://www.amazon.com/gp/product/B08M5GNY47) You want the one with ***male*** jumper wires.
@@ -72,7 +72,7 @@ This option is cleaner, but is more involved.
 <img src="images/pro-micro-hammer-0.jpg" height="400">
 
 **Required Hardware:**
-1. The [microcontroller hardware](https://github.com/PokemonAutomation/Microcontroller/blob/main/Wiki/Hardware/ProMicro.md).
+1. The [microcontroller hardware](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Hardware/ProMicro.md).
 2. A [USB-to-TTL UART cable or board](https://www.adafruit.com/product/954). It is recommended to get one with the CP210x controller.
 > ***Avoid the Prolific (PLxxxx) controllers. Many of them are knock-offs that do not work.***
 3. [Solderless Hammer Headers](https://www.adafruit.com/product/3662)

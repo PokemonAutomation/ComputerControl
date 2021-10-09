@@ -6,7 +6,7 @@ This section covers the required hardware for users who have Teensy 2.0 or Teens
 
 **Microcontroller Hardware:**
 
-Make sure you have all the [microcontroller hardware](https://github.com/PokemonAutomation/Microcontroller/blob/main/Wiki/Hardware/Teensy2.md).
+Make sure you have all the [microcontroller hardware](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Hardware/Teensy2.md).
 
 **Buy the following additional components:**
 1. Serial Board (**Pick one**)
@@ -45,7 +45,7 @@ This option is the easiest to setup, however the mini grabber cables that are ne
 <img src="images/serial-teensy2-mg.jpg" height="300"> <img src="images/serial-teensypp2-mg.jpg" height="300">
 
 **Required Hardware:**
-1. The [microcontroller hardware](https://github.com/PokemonAutomation/Microcontroller/blob/main/Wiki/Hardware/Teensy2.md).
+1. The [microcontroller hardware](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Hardware/Teensy2.md).
 2. A [USB-to-TTL UART cable or board](https://www.adafruit.com/product/954). It is recommended to get one with the CP210x controller.
 > ***Avoid the Prolific (PLxxxx) controllers. Many of them are knock-offs that do not work.***
 3. [Mini grabber to jumper wires (male).](https://www.amazon.com/gp/product/B08M5GNY47) You want the one with ***male*** jumper wires.
@@ -81,7 +81,7 @@ This option is cleaner, but is more involved.
 <img src="images/teensy2-hammer-0.jpg" height="300"> <img src="images/teensypp2-hammer-0.jpg" height="300">
 
 **Required Hardware:**
-1. The [microcontroller hardware](https://github.com/PokemonAutomation/Microcontroller/blob/main/Wiki/Hardware/Teensy2.md).
+1. The [microcontroller hardware](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Hardware/Teensy2.md).
 2. A [USB-to-TTL UART cable or board](https://www.adafruit.com/product/954). It is recommended to get one with the CP210x controller.
 > ***Avoid the Prolific (PLxxxx) controllers. Many of them are knock-offs that do not work.***
 3. [Solderless Hammer Headers](https://www.adafruit.com/product/3662)
