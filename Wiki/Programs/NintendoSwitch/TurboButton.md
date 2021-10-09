@@ -1,9 +1,9 @@
 # Nintendo Switch: Turbo Button
 
 **Related Programs:**
-- **Microcontroller:** [TurboA](https://github.com/PokemonAutomation/Microcontroller/blob/main/Wiki/Programs/NintendoSwitch/TurboA.md) (this program)
-- **Computer Control:** [Turbo A](https://github.com/PokemonAutomation/ComputerControl/blob/main/Wiki/Programs/PokemonSwSh/TurboA.md)
-- **Computer Control:** [Turbo Button](https://github.com/PokemonAutomation/ComputerControl/blob/main/Wiki/Programs/NintendoSwitch/TurboButton.md)
+- **Microcontroller:** [TurboA](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/TurboA.md) (this program)
+- **Computer Control:** [Turbo A](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/TurboA.md)
+- **Computer Control:** [Turbo Button](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/NintendoSwitch/TurboButton.md)
 
 ## Program Description
 

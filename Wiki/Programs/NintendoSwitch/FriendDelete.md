@@ -1,8 +1,8 @@
 # Friend Delete
 
 **Related Programs:**
-- **Microcontroller:** [FriendDelete](https://github.com/PokemonAutomation/Microcontroller/blob/main/Wiki/Programs/NintendoSwitch/FriendDelete.md)
-- **Computer Control:** [Friend Delete](https://github.com/PokemonAutomation/ComputerControl/blob/main/Wiki/Programs/NintendoSwitch/FriendDelete.md) (this program)
+- **Microcontroller:** [FriendDelete](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/FriendDelete.md)
+- **Computer Control:** [Friend Delete](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/NintendoSwitch/FriendDelete.md) (this program)
 
 The microcontroller and computer-control versions of this program are functionally identical.
 
