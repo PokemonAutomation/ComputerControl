@@ -7,6 +7,7 @@
 
 This program is deprecated for computer-control. Use [Turbo Button](/Wiki/Programs/NintendoSwitch/TurboButton.md) instead.
 
+
 ## Program Description
 
 TurboA does exactly what its name implies - it endlessly presses A. The purpose of this program is to grind the Digging Duo and Cram-o-matic.
@@ -31,7 +32,6 @@ Stand in front of either the Digging Duo. For the Cram-o-matic, make sure you ha
 > - It takes about 16 hours and 3 million watts to dig the common fossils from 0 -> 960+.
 > - Rare fossils are 1/5’th the rarity of the common fossils.
 
-***
 
 ## Options
 

@@ -6,6 +6,7 @@
 
 The microcontroller and computer-control versions of this program are functionally identical.
 
+
 ## Program Description
 
 Delete or block from your friend list.
@@ -41,7 +42,6 @@ The default sorting order of your friends list is:
 
 However, you can trick it to sort all best friends first by enabling local communication (such as by going offline in Pokémon). This suppresses the online status of your friends when you first load it - thus forcing it to sort only by best friend status. As long as you don't press Y on your friends list or re-enter the friends list while online, it won't re-sort based on online status.
 
-***
 
 ## Options
 
