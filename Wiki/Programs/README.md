@@ -1,4 +1,4 @@
-# Program List
+# Program List (Computer Control)
 
 This is a list of all the computer-control programs. To run these programs, you need the [full computer-control setup](/Wiki/Hardware/README.md).
 
