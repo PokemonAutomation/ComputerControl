@@ -30,7 +30,7 @@ This program is experimental and is more suited for high-demand and high-quantit
 3. Check there is nothing in front of you that can be interacted with.
 4. Backed yourself into a corner where you cannot travel down or right.
 5. Your location should be safe from getting attacked by wild Pokémon.
-4. Start the program in game or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+6. Start the program in game or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Box Setup
 

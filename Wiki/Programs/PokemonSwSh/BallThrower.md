@@ -1,8 +1,8 @@
 # Ball Thrower
 
 **Related Programs:**
-- **Microcontroller:** [Clothing Buyer](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ClothingBuyer.md)
-- **Computer Control:** [Clothing Buyer](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ClothingBuyer.md) (this program)
+- **Microcontroller:** [Ball Thrower](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/BallThrower.md)
+- **Computer Control:** [Ball Thrower](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/BallThrower.md) (this program)
 - **Computer Control:** [Autonomous Ball Thrower](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/AutonomousBallThrower.md)
 
 The microcontroller and computer-control versions of this program are functionally identical.
@@ -88,7 +88,7 @@ Example of Trevenant:
    1. Early in the battle, you should send out Trevenant and use both Skill Swap and Trick. This moves the PP-restoring Leppa Berry onto the opposing Pokémon and changes its ability to Harvest so that the berry is restored after use. This setup prevents it from ever running out of PP.
 6. Swap to your [Pokémon wall](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-PokemonWalls)
 7. Place cursor over "Pokémon" button (while in battle)
-8. Start the program in the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+8. Start the program in game or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Default Program Settings
 

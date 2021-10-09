@@ -1,8 +1,8 @@
 # Autonomous Ball Thrower
 
 **Related Programs:**
-- **Microcontroller:** [Clothing Buyer](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ClothingBuyer.md)
-- **Computer Control:** [Clothing Buyer](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ClothingBuyer.md)
+- **Microcontroller:** [Ball Thrower](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/BallThrower.md)
+- **Computer Control:** [Ball Thrower](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/BallThrower.md)
 - **Computer Control:** [Autonomous Ball Thrower](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/AutonomousBallThrower.md) (this program)
 
 

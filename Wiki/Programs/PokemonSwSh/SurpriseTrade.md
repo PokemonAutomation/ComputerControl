@@ -27,7 +27,7 @@ This program is similar to brianuuuSonic's BoxSurpriseTrade, but is also toleran
 2. Check there is nothing in front of you that can be interacted with.
 3. Backed yourself into a corner where you cannot travel down or right.
 4. Your location should be safe from getting attacked by wild Pokémon.
-4. Start the program in game or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+5. Start the program in game or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Box Setup
 
