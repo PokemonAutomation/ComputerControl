@@ -45,7 +45,6 @@ See [Maximizing Switch Stability](https://github.com/PokemonAutomation/SwSh-Ardu
 Most of the options here are self-explanatory.
 This program does not use the global setting to bypassing the system update window. It has its own setting for that. (See below.)
 
-<img src="images/MassRelease-1.png">
 
 ### Dodge System Update Window:
 
