@@ -2,7 +2,7 @@
 
 This is a list of all the computer-control programs. To run these programs, you need the [full computer-control setup](/Wiki/Hardware/README.md).
 
-For microcontroller-only programs, go to the [Microcontroller repository](https://github.com/PokemonAutomation/Microcontroller/blob/main/Wiki/Programs/README.md).
+For microcontroller-only programs, go to the [Microcontroller repository](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md).
 
 Nearly all microcontroller programs are also available as computer-control programs.
 
