@@ -43,7 +43,7 @@ However, you can trick it to sort all best friends first by enabling local commu
 
 ***
 
-### Options
+## Options
 
 Most of the options here are self-explanatory. If your internet connection is slow, you can try adjusting the delays.
 
