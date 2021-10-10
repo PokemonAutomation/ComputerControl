@@ -153,11 +153,11 @@ You will notice that the programs are color-coded:
 
 Since the SerialPrograms use a prebuilt PABotBase .hex binary, you don't actually need to install WinAVR to use it. So if you intend to use only the serial programs, you can skip installing the toolchain.
 
-### SerialPrograms can connect to the basic programs.
+### The application can connect to the microcontroller programs.
 
-This tutorial assumes that the device is running PABotBase. In reality AdvancedPrograms will work with any of the [microcontroller programs](https://github.com/PokemonAutomation/Microcontroller) running natively on the device provided that the protocol versions are compatible.
+This tutorial assumes that the device is running PABotBase. In reality the application will still recognize any of the [microcontroller programs](https://github.com/PokemonAutomation/Microcontroller) running on the device provided that the protocol versions are compatible.
 
-PABotBase is the only program that will accept commands over serial, so you will not be able to control the other programs. However, logging from the program will appear in the output window. Therefore SerialPrograms supercedes the DeviceLogger that was released in the native programs.
+PABotBase is the only program that will accept commands over serial, so you will not be able to control the other programs. However, logging from the program will appear in the output window.
 
 ### Programs do not always need to start in the grip menu.
 
