@@ -4,7 +4,7 @@ This repo contains the computer-control programs (formerly known as "serial prog
 
 All Repos:
 - [Microcontroller Programs](https://github.com/PokemonAutomation/Microcontroller)
-- Computer-Control Programs (this repo)
+- [Computer-Control Programs](https://github.com/PokemonAutomation/ComputerControl) (this repo)
 - [AutoMaxLair](https://github.com/PokemonAutomation/AutoMaxLair)
 
 If you are new to automation you should start with the [microcontroller programs](https://github.com/PokemonAutomation/Microcontroller). The computer-control programs in this repo build off of the microcontroller programs.
