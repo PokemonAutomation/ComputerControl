@@ -20,8 +20,8 @@ Nearly all microcontroller programs are also available as computer-control progr
 
 ## Pokémon Sword/Shield
 
-- [Pokémon Setttings](PokemonSwSh/PokemonSettings.md)
-- [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md)
+- Done - [Pokémon Setttings](PokemonSwSh/PokemonSettings.md)
+- Done - [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md)
 - [Friend Search Disconnect](PokemonSwSh/FriendSearchDisconnect.md)
 
 **General Programs:**

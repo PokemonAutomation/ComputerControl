@@ -10,6 +10,8 @@ This program is useful for activating the Y-COMM glitch while playing on the com
 
 Therefore, friend-search is the only remaining option.
 
+<img src="images/FriendSearchDisconnect-0.png">
+
 ### Instructions
 
 1. You are inside the game. (not the Switch Home or settings)
@@ -30,3 +32,17 @@ To activate Y-COMM glitch using this program:
 5. As soon as you match with someone, click "Start Program...".
 
 The program will disconnect from the internet and return to the game.
+
+## Options
+
+### User Slot
+
+This is the [user profile number](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/UserSlotNumber.md) to use to perform the disconnect.
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
