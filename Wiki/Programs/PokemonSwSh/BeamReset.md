@@ -14,6 +14,8 @@ Automatically reset a den beam. The purpose is for finding purple beams.
 
 Drop a wishing piece in, check if it's red or purple. Pause for you to check, then reset.
 
+<img src="images/BeamReset-0.png">
+
 ### Setup of Settings
 
 1. Text Speed: SLOW
@@ -39,8 +41,6 @@ Red beams will show up faster. Purple beams are slower and will appear after the
 ## Options
 
 This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
-
-<img src="images/BeamReset-Settings.png">
 
 ### Delay before Reset:
 
