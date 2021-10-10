@@ -4,9 +4,7 @@
 - **Microcontroller:** [Den Roller](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DenRoller.md)
 - **Computer Control:** [Den Roller](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DenRoller.md) (this program)
 
-While this program exists for both microcontroller and computer-control, the latter provides substantial improvements over the former.
-
-The computer-control den roller can read the sprite of the den Pokémon and automatically stop on what you want.
+The computer-control version of this program provides substantial improvements over the microcontroller version.
 
 
 ## Program Description
