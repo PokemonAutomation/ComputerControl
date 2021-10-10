@@ -21,8 +21,11 @@ Nearly all microcontroller programs are also available as computer-control progr
 ## Pokémon Sword/Shield
 
 - Done - [Pokémon Setttings](PokemonSwSh/PokemonSettings.md)
+
+## QoL Macros
+
 - Done - [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md)
-- [Friend Search Disconnect](PokemonSwSh/FriendSearchDisconnect.md)
+- Done - [Friend Search Disconnect](PokemonSwSh/FriendSearchDisconnect.md)
 
 **General Programs:**
 
