@@ -13,7 +13,7 @@ BerryFarmer will farm berries from a tree. It requires activating the Y-Comm.
 
 This program runs at 13.4 seconds per fetch.
 
-<img src="images/DateSpam-BerryFarmer.png">
+<img src="images/DateSpam-BerryFarmer-0.png">
 
 ### Setup of Settings
 
