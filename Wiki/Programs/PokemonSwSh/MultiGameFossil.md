@@ -1,8 +1,8 @@
 # Multi-Game Fossil Revive
 
 **Related Programs:**
-- **Microcontroller:** [Multi-Game Fossil Revive](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-MultiGameFossil.md)
-- **Computer Control:** [Multi-Game Fossil Revive](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-MultiGameFossil.md) (this program)
+- **Microcontroller:** [Multi-Game Fossil Revive](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/MultiGameFossil.md)
+- **Computer Control:** [Multi-Game Fossil Revive](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/MultiGameFossil.md) (this program)
 
 The microcontroller and computer-control versions of this program are functionally identical.
 
