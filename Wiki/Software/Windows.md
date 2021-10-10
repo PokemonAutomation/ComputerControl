@@ -130,7 +130,7 @@ To view the keyboard/controller mapping, click on "Keyboard Layout" in the botto
 The joystick mappings should be fairly standard for FPS and 3D adventure games. The remaining buttons are somewhat arbitrary and not necessarily intuitive.
 As of this writing, there is no support for changing the key mapping.
 
-The playability of this will depend drastically on the quality of your capture card. Some capture cards have very low video latency. Other cards may be to slow to play on the computer in real time. Regardless, even if it is slow, you can use the program for remote access to setup and run programs while you are away.
+The playability of this will depend drastically on the quality of your capture card. Some capture cards have very low video latency. Other cards may be too slow to play on the computer in real time. Regardless, even if it is slow, you can use the program for remote access to setup and run programs while you are away.
 
 **Note:** Since `Shift` is mapped to the B button, you will need to disable Sticky Keys in the system. Alternatively, you can press `CTRL` for B. Some buttons have multiple keyboard keys that can be used to invoke it, but they are undocumented at this time.
 
