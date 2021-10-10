@@ -8,9 +8,10 @@ Nearly all microcontroller programs are also available as computer-control progr
 
 ## Nintendo Switch
 
-- [Framework Setttings](NintendoSwitch/FrameworkSettings.md)
-- [Virtual Console](NintendoSwitch/VirtualConsole.md)
-- [Switch Viewer](NintendoSwitch/SwitchViewer.md)
+- Done - [Framework Setttings](NintendoSwitch/FrameworkSettings.md)
+- Done - [Virtual Console](NintendoSwitch/VirtualConsole.md)
+- Done - [Switch Viewer](NintendoSwitch/SwitchViewer.md)
+- [TurboA](NintendoSwitch/TurboA.md)
 - [Turbo Button](NintendoSwitch/TurboButton.md)
 - [Prevent Sleep](NintendoSwitch/PreventSleep.md)
 - [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)
@@ -25,7 +26,6 @@ Nearly all microcontroller programs are also available as computer-control progr
 
 **General Programs:**
 
-- [Turbo A](PokemonSwSh/TurboA.md)
 - [Mass Release](PokemonSwSh/MassRelease.md)
 - [Surprise Trade](PokemonSwSh/SurpriseTrade.md)
 - [Trade Bot](PokemonSwSh/TradeBot.md)
