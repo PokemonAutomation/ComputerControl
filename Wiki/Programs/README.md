@@ -16,7 +16,7 @@ Nearly all microcontroller programs are also available as computer-control progr
 - Done - [Prevent Sleep](NintendoSwitch/PreventSleep.md)
 - Done - [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)
 - Done - [Friend Delete](NintendoSwitch/FriendDelete.md)
-- Done - [Pokémon Home: Page Swap](NintendoSwitch/PokemonHomePageSwap.md)
+- Done - [Pokémon Home: Page Swap](NintendoSwitch/PokemonHome-PageSwap.md)
 
 ## Pokémon Sword/Shield
 
