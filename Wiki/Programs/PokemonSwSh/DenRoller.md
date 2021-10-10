@@ -48,6 +48,10 @@ This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSw
 
 The number of frames to roll. The default is 3. But some people may prefer to save high-value dens more than 3 days back for added safety in case of accidental roll-over.
 
+### Desired Pokémon:
+
+Stop on this Pokémon when it is found. If not set, the program behaves identically to microcontroller DenRoller and will keep rolling.
+
 ### Catchability:
 
 Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any such uncatchable Pokémon, you must set this to `Maybe Uncatchable`.
