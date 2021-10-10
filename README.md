@@ -17,7 +17,6 @@ If you came here intending to run AutoMaxLair you must still go through here as 
 - [See Releases](https://github.com/PokemonAutomation/ComputerControl/releases)
 
 **Contents:**
-- [Introduction](#Introduction)
 - [Hardware Setup](Wiki/Hardware/README.md)
 - [Software Setup](Wiki/Software/README.md)
 - [Program List](Wiki/Programs/README.md)
@@ -27,8 +26,6 @@ If you came here intending to run AutoMaxLair you must still go through here as 
 - [Version History](Wiki/VersionHistory.md)
 
 <img src="Wiki/images/server-banner.png" width="800">
-
-## Introduction
 
 
 
