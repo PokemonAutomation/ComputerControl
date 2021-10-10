@@ -44,10 +44,6 @@ Most of the options here are self-explanatory.
 
 <img src="images/PurpleBeamFinder-Settings.png">
 
-### Delay before Reset:
-
-Wait this long before resetting the game for the next attempt.
-
 ### Extra Line:
 
 German (and possibly other languages) has an extra line of text before the wishing piece is dropped. Check this box if this is the case.
