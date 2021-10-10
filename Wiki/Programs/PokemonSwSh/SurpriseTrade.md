@@ -66,4 +66,15 @@ This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/Ninten
 
 Most of the options here are self-explanatory.
 
+<img src="images/SurpriseTrade-Settings.png">
+
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
+
 
