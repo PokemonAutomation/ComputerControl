@@ -62,7 +62,7 @@ Nearly all microcontroller programs are also available as computer-control progr
 - [Stats Reset - Regi](PokemonSwSh/StatsReset-Regi.md)
 
 **Unattended Shiny Hunting:**
-- [Multi-Game Fossil Revive](PokemonSwSh/MultiGame-FossilRevive.md)
+- [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md)
 - [Shiny Hunt Unattended - Regi](PokemonSwSh/ShinyHuntUnattended-Regi.md)
 - [Shiny Hunt Unattended - Swords Of Justice](PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md)
 - [Shiny Hunt Unattended - Strong Spawn](PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md)
