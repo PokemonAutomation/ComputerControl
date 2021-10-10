@@ -21,7 +21,7 @@ TurboA does exactly what its name implies - it endlessly presses A. The purpose 
 ### Instructions
 
 1. You are standing in front of what you want to mash A in front of.
-2. Start the program in game or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+2. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Default Program Settings
 
@@ -35,8 +35,15 @@ Stand in front of either the Digging Duo. For the Cram-o-matic, make sure you ha
 
 ## Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
 This program has no program-specific configuration options.
 
+
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
 
