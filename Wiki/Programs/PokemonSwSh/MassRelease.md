@@ -33,10 +33,8 @@ MassRelease will release entire boxes of Pokémon. The main use case is getting 
 
    > Once started, this program will release the specified number of boxes consecutively starting from the current box.
 
-### Required Parameters:
-- `BOXES_TO_RELEASE`: You must specify the number of boxes to release.
-
 ### Safety Recommendations:
+
 See [Maximizing Switch Stability](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/SwitchStability.md).
 
 

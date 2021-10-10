@@ -27,7 +27,7 @@ This program is similar to brianuuuSonic's BoxSurpriseTrade, but is also toleran
 2. Check there is nothing in front of you that can be interacted with.
 3. Backed yourself into a corner where you cannot travel down or right.
 4. Your location should be safe from getting attacked by wild Pokémon.
-5. Start the program in game or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+5. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Box Setup
 
@@ -62,7 +62,7 @@ When the program reaches the end of a box, it will pause for a longer period bef
 
 ## Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
 Most of the options here are self-explanatory.
 
