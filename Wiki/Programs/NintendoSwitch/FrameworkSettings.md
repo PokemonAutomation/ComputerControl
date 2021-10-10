@@ -9,7 +9,7 @@ This is a list of global settings for the Nintendo Switch.
 After you plug in the controller, wait this long before starting the program. The LEDs will flash during this time.
 The purpose of this is to indicate that the program is starting correctly.
 
-*(The option is an artifact from the Microncontroller programs. It is currently not used in the Computer-Control programs.)*
+***(The option is an artifact from the Microcontroller programs. It is currently not used in the Computer-Control programs.)***
 
 ### Settings to Home Delay
 
