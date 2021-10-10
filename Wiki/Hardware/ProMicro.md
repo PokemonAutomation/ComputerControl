@@ -79,7 +79,7 @@ This option is cleaner, but is more involved.
 4. A box cutter or a wire cutter.
 5. Pliers. (you will likely need two of them)
 
-<img src="images/uart-adafruit.jpg" height="200"> <img src=images/hammer-headers.jpg" height="200">
+<img src="images/uart-adafruit.jpg" height="200"> <img src="images/hammer-headers.jpg" height="200">
 
 **Hardware Setup:**
 
