@@ -13,7 +13,7 @@ WattFarmer will farm watts from a wishing piece beam. It requires activating the
 
 This program runs at 7.2 seconds per fetch. This is about 1 million watts/hour at 2000/fetch.
 
-<img src="images/DateSpam-WattFarmer.png">
+<img src="images/DateSpam-WattFarmer-0.png">
 
 ### Setup of Settings
 
