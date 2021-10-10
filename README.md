@@ -17,8 +17,8 @@ If you came here intending to run AutoMaxLair you must still go through here as 
 - [See Releases](https://github.com/PokemonAutomation/ComputerControl/releases)
 
 **Contents:**
-- [Hardware Setup](Wiki/Hardware/README.md)
-- [Software Setup](Wiki/Software/README.md)
+- [Hardware Tutorial](Wiki/Hardware/README.md)
+- [Software Tutorial](Wiki/Software/README.md)
 - [Program List](Wiki/Programs/README.md)
   - [Nintendo Switch](Wiki/Programs/README.md#nintendo-switch)
   - [Pokémon Sword/Shield](Wiki/Programs/README.md#pokémon-swordshield)
