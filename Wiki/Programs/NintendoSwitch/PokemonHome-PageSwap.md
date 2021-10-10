@@ -6,7 +6,7 @@ Swap one page (30 boxes) in Pokémon Home with your Sword/Shield game.
 
 This program can also be used on the last (incomplete) page of Pokémon Home as long as you manually stop the program early.
 
-<img src="images/PokemonHome-PageSwap-0.jpg">
+<img src="images/PokemonHome-PageSwap-0.png ">
 
 ## Instructions:
 1. Have Pokémon home in the following configuration. (see below)
