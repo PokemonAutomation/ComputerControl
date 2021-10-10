@@ -1,6 +1,6 @@
 # Windows Tutorial: Serial Connection and Video Capture
 
-This the guide for setting up serial programs on Windows. If you are here, your basic hardware setup should be fully working. So now you are ready to move up to the level - serial connectivity and video capture.
+This the guide for setting up serial programs on Windows. If you are here, your basic hardware setup should be fully working. So now you are ready to move up to serial connectivity and video capture!
 
 Setting up serial connection and video capture is the same regardless of what device you have. Therefore all the device-specific tutorials will merge here.
 
