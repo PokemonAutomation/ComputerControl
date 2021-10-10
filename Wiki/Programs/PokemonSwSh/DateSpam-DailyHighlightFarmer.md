@@ -13,7 +13,7 @@ Farm the daily highlight watt trader in Crown Tundra. It requires activating the
 
 This program runs at 15.8 seconds per purchase.
 
-<img src="images/DateSpam-DailyHighlightFarmer.png">
+<img src="images/DateSpam-DailyHighlightFarmer-0.png">
 
 ### Setup of Settings
 
