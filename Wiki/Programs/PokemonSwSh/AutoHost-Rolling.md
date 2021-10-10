@@ -29,7 +29,7 @@ Functionally, all this program does is repeat the following sequence forever:
 2. Host the Pokémon.
 3. Reset the game.
 
-<img src="images/AutoHost-Rolling-0.jpg">
+<img src="images/AutoHost-Rolling-0.png">
 
 ---
 
