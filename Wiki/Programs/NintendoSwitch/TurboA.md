@@ -1,4 +1,4 @@
-# Nintendo Switch: Turbo A
+# Turbo A
 
 **Related Programs:**
 - **Microcontroller:** [Turbo A](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/TurboA.md) (this program)
