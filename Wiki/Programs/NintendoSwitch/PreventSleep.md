@@ -16,3 +16,9 @@ The program will press B every 15 seconds.
 > This doesn't *require* that you be in the Switch Home menu, but it does require you to be in a place where the controller's button presses are being accepted. If you are inside a single-player game that disables all but the primary controller, these B presses will be ignored if your device is not the primary controller.
 > 
 > **Note:** There is an option in the Switch settings to prevent the Switch from sleeping from being idle. That is probably the preferred method if you are running remotely and do not want to risk the Switch sleeping.
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
