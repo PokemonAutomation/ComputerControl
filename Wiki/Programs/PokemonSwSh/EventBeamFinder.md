@@ -6,12 +6,12 @@
 
 The microcontroller and computer-control versions of this program are functionally identical.
 
-<img src="images/EventBeamFinder-0.png">
-
 
 ## Program Description
 
 Drop wishing pieces between two dens until you find an event den.
+
+<img src="images/EventBeamFinder-0.png">
 
 ### Setup of Settings
 
