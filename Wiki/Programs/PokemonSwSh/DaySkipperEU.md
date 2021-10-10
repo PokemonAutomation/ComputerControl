@@ -1,12 +1,12 @@
-# Day Skipper (JPN)
+# Day Skipper (EU)
 
 **Related Programs:**
 - **Microcontroller:** [Day Skipper (JPN)](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperJPN.md)
 - **Microcontroller:** [Day Skipper (EU)](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperEU.md)
 - **Microcontroller:** [Day Skipper (US)](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperUS.md)
 - **Microcontroller:** [Day Skipper (JPN) - 7.8k](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperJPN-7.8k.md)
-- **Computer Control:** [Day Skipper (JPN)](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperJPN.md) (this program)
-- **Computer Control:** [Day Skipper (EU)](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperEU.md)
+- **Computer Control:** [Day Skipper (JPN)](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperJPN.md)
+- **Computer Control:** [Day Skipper (EU)](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperEU.md) (this program)
 - **Computer Control:** [Day Skipper (US)](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperUS.md)
 - **Computer Control:** [Day Skipper (JPN) - 7.8k](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperJPN-7.8k.md)
 
@@ -16,15 +16,19 @@ The microcontroller and computer-control versions of the same program are functi
 
 ## Program Description
 
-This is the original "7k Skipper". It is a Japanese day skipper that runs at 7619 skips/hour.
+This is the EU day skipper that runs at 7350 - 7550 skips/hour.
 
-<img src="images/DaySkipperJPN-0.png">
+The exact speed will depend on the real life year. For the year 2020, it will run at about 7541 skips/hour.
+
+> Note that this skipper is slower than the [Japanese date skipper](DaySkipperJPN.md). If you are doing large skips, it is recommended to change the Switch language to Japanese and use the Japanese skipper.
+
+<img src="images/DaySkipperEU-0.png">
 
 ### Setup of Settings
 
 1. System time: Un-synced
-2. The language for your Switch must be set to Japanese (日本語).
-3. Set the date to the 1st of a month with 31 days that is not March.
+2. The language/region for the Switch must have a date layout of dd/mm/year/hour/min.
+   1. Unlike the JPN date skipper, you do not need to set the starting the date. However you do need to set the current year correctly.
 3. The VS (Y-COMM) glitch must be active.
 
 ### Instructions
@@ -32,17 +36,17 @@ This is the original "7k Skipper". It is a Japanese day skipper that runs at 761
 Most people use the following workflow:
 
 1. Undock the Switch if it is docked.
-2. Change the Switch language to Japanese.
-3. Set the date to the 1st of a month with 31 days that is not March.
-4. Enter the game and go to a Pokémon center.
+2. Change the Switch region to EU.
+3. Enter the game and go to a Pokémon center.
    1. The Isle of Armor dojo is not reliable!
-5. Connect to the internet and start a link battle.
-6. When someone is found, turn on airplane mode and keep it on.
-7. Mash B to clear all the messages.
-8. Confirm that the VS glitch is active by leaving and re-entering the game. The screen should flash when you re-enter the game.
-9. Go into settings and date time.
-10. Dock the Switch if desired.
-11. Start the program.
+4. Connect to the internet and start a link battle.
+5. When someone is found, turn on airplane mode and keep it on.
+6. Mash B to clear all the messages.
+7. Confirm that the VS glitch is active by leaving and re-entering the game. The screen should flash when you re-enter the game.
+8. Go into settings, then Date and Time menu.
+9. Dock the Switch if desired.
+10. Start the program.
+
    > Start the script anywhere in the Date/Time menu except the time zone menu. It will automatically find the right place.
 
    > If the game is a digital copy and the Switch is not the primary, you will not be able to turn on airplane mode for longer skips that take multiple hours. This is because the Switch will periodically check online to see if it’s allowed to keep running the game. Airplane mode prevents this which causes the game to halt.
@@ -68,6 +72,11 @@ It is strongly recommended to read each of these sections. These are common to a
 Skip this many frames. The actual number of skips performed may be less if any errors were made.
 
 This can be as large as 4,294,967,295. But it will take 60+ years to skip that many frames.
+
+### Real Life Year:
+
+Set this to the current year in real life. 
+More specifically, this needs to be the year that the time-sync will change the date to.
 
 ### Auto-Recover Interval:
 
