@@ -13,7 +13,7 @@ LotoFarmer will farm the loto. It requires activating the VS glitch.
 
 This program runs at 18.7 seconds per attempt.
 
-<img src="images/DateSpam-LotoFarmer.png">
+<img src="images/DateSpam-LotoFarmer-0.png">
 
 ### Setup of Settings
 
