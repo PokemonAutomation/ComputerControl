@@ -31,7 +31,7 @@ A smart version of Beam Reset that automatically stops on a purple beam.
 3. The weather is not snow or snowstorm. Intensive weather can interfere with the detection.
 4. Save in the position listed in #1
 5. Return to the overworld
-6. Navigate and start the program in the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+6. Start the program in game or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
    > When the program finds a purple beam, it will make a lot of noise to get your attention. Ensure you [setup sound](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Tutorial:-Windows_Serial#step-7-setup-sound) if viewing through the program interface.
 
