@@ -13,7 +13,7 @@ Farm the Stow-on-Side bargains dealer. It requires activating the VS glitch.
 
 This program runs at 14.2 seconds per purchase.
 
-<img src="images/DateSpam-StowOnSideFarmer.png">
+<img src="images/DateSpam-StowOnSideFarmer-0.png">
 
 ### Setup of Settings
 
