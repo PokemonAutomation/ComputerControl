@@ -23,3 +23,11 @@ TurboA does exactly what its name implies - it endlessly presses A. The purpose 
 Most of the options here are self-explanatory.
 
 
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+

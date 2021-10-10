@@ -14,8 +14,8 @@ Nearly all microcontroller programs are also available as computer-control progr
 - Done - [TurboA](NintendoSwitch/TurboA.md)
 - Done - [Turbo Button](NintendoSwitch/TurboButton.md)
 - Done - [Prevent Sleep](NintendoSwitch/PreventSleep.md)
-- [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)
-- [Friend Delete](NintendoSwitch/FriendDelete.md)
+- Done - [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)
+- Done - [Friend Delete](NintendoSwitch/FriendDelete.md)
 - [Pokémon Home: Page Swap](NintendoSwitch/PokemonHomePageSwap.md)
 
 ## Pokémon Sword/Shield
