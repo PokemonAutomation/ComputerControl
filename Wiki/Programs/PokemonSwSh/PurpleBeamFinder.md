@@ -8,7 +8,7 @@
 
 ## Program Description
 
-A smart version of Beam Reset that automatically stops on a purple beam.
+A smart version of [Beam Reset](BeamReset.md) that automatically stops on a purple beam.
 
 > **This program requires video feedback!**
 
@@ -31,14 +31,14 @@ A smart version of Beam Reset that automatically stops on a purple beam.
 3. The weather is not snow or snowstorm. Intensive weather can interfere with the detection.
 4. Save in the position listed in #1
 5. Return to the overworld
-6. Start the program in game or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+6. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
-   > When the program finds a purple beam, it will make a lot of noise to get your attention. Ensure you [setup sound](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Tutorial:-Windows_Serial#step-7-setup-sound) if viewing through the program interface.
+   > When the program finds a purple beam, it will make a lot of noise to get your attention.
 
 
 ## Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
 Most of the options here are self-explanatory.
 
