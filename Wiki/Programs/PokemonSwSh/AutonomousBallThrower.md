@@ -22,6 +22,7 @@ Keep throwing ball until you catch the Pokémon you're fighting. In case of fail
 1. Save before being attacked by the Pokémon.
 2. Run the program and let the Pokémon attack you (alternatively, you can manually trigger the fight yourself but it will wait forever if you need to reset).
 
+If the catch rate is low, you may need to follow the setup described in [Ball Thrower](BallThrower.md).
 
 ## Options
 
