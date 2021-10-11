@@ -17,7 +17,7 @@ This program will automatically hunt for Calyrex (and its horse) and automatical
 
 1. Your lead Pokémon must be able to "wall Calyrex"
    1. This means Calyrex is unable to damage your Pokémon
-   2. See the associated [Pokémon Walls](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-PokemonWalls) appendix page.
+   2. See the associated [Pokémon Walls](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/PokemonWalls.md) appendix page.
 
 ## Instructions
 
@@ -110,8 +110,10 @@ If Check Horse stats is set to true, the required Sp. Def's IVs.
 If Check Horse stats is set to true, the required Speed's IVs.
 
 
-***
 
-### Video Feedback:
+<hr>
 
-**This program requires video feedback.**
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+

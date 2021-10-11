@@ -59,7 +59,7 @@ Nearly all microcontroller programs are also available as computer-control progr
 - Done - [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md)
 
 **Non-Shiny Hunting:**
-- [Stats Reset](PokemonSwSh/StatsReset.md)
+- Done - [Stats Reset](PokemonSwSh/StatsReset.md)
 - [Stats Reset - Calyrex](PokemonSwSh/StatsReset-Calyrex.md)
 - [Stats Reset - Moltres](PokemonSwSh/StatsReset-Moltres.md)
 - [Stats Reset - Regi](PokemonSwSh/StatsReset-Regi.md)

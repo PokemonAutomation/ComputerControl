@@ -17,7 +17,7 @@ This program will automatically hunt for Regis and automatically stop based on t
 
 1. Your lead Pokémon must be able to "wall Regis"
    1. This means Regis are unable to damage your Pokémon
-   2. See the associated [Pokémon Walls](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-PokemonWalls) appendix page.
+   2. See the associated [Pokémon Walls](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/PokemonWalls.md) appendix page.
 
 ## Instructions
 
@@ -75,8 +75,12 @@ The required Sp. Def's IVs.
 
 The required Speed's IVs.
 
-***
 
-### Video Feedback:
 
-**This program requires video feedback.**
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
