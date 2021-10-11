@@ -26,7 +26,7 @@ Drop a wishing piece in, check if it's red or purple. Pause for you to check, th
 1. You must stand in front of an empty den with watts collected.
 2. You must be facing the center of the den.
 3. Save.
-4. Start the program in game or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+4. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Default Program Settings
 
@@ -40,7 +40,7 @@ Red beams will show up faster. Purple beams are slower and will appear after the
 
 ## Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
 ### Delay before Reset:
 

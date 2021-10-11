@@ -38,11 +38,11 @@ Nearly all microcontroller programs are also available as computer-control progr
 - Done - [Dex Rec Finder](PokemonSwSh/DexRecFinder.md)
 
 **Date-Spam Farmers:**
-- [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)
-- [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md)
-- [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)
-- [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)
-- [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)
+- Done - [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)
+- Done - [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md)
+- Done - [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)
+- Done - [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)
+- Done - [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)
 
 **Den Hunting:**
 - [Beam Reset](PokemonSwSh/BeamReset.md)
@@ -99,6 +99,7 @@ Nearly all microcontroller programs are also available as computer-control progr
 **Auto Max Lair 2.0 (under development):**
 - [Max Lair: Single Adventure](PokemonSwSh/MaxLair-SingleAdventure.md)
 - [Max Lair: Standard](PokemonSwSh/MaxLair-Standard.md)
+- [Max Lair: Boss Finder](PokemonSwSh/MaxLair-BossFinder.md)
 
 ## Pokémon Brilliant Diamond/Shining Pearl
 
