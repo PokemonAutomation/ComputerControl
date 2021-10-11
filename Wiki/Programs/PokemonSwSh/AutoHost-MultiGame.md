@@ -61,7 +61,7 @@ Most of the options in this program as the same as [AutoHost-Rolling](AutoHost-R
 
 This is the important part of the multi-game autohost since it is where you specify the list of games and what settings to host within each game.
 
-This example above 2 games running with different settings. The 1st game runs on user #2 with the usual 3-day roll. The 2nd game runs on user #3 as a soft-locked den with a 1st turn move select with dynamax.
+This example above 2 games running with different settings. The 1st game runs on user #2 with the usual 3-day roll. The 2nd game runs on user #2 as a soft-locked den with a 1st turn move select with dynamax.
 
 In other words, there is a quite a bit of customization that can be done for each game.
 
