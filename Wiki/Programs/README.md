@@ -66,12 +66,12 @@ Nearly all microcontroller programs are also available as computer-control progr
 
 **Unattended Shiny Hunting:**
 - Done - [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md)
-- [Shiny Hunt Unattended - Regi](PokemonSwSh/ShinyHuntUnattended-Regi.md)
-- [Shiny Hunt Unattended - Swords Of Justice](PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md)
-- [Shiny Hunt Unattended - Strong Spawn](PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md)
-- [Shiny Hunt Unattended - Regigigas2](PokemonSwSh/ShinyHuntUnattended-Regigigas2.md)
-- [Shiny Hunt Unattended - IoA Trade](PokemonSwSh/ShinyHuntUnattended-IoATrade.md)
-- [Curry Hunter](PokemonSwSh/CurryHunter.md)
+- Done - [Shiny Hunt Unattended - Regi](PokemonSwSh/ShinyHuntUnattended-Regi.md)
+- Done - [Shiny Hunt Unattended - Swords Of Justice](PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md)
+- Done - [Shiny Hunt Unattended - Strong Spawn](PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md)
+- Done - [Shiny Hunt Unattended - Regigigas2](PokemonSwSh/ShinyHuntUnattended-Regigigas2.md)
+- Done - [Shiny Hunt Unattended - IoA Trade](PokemonSwSh/ShinyHuntUnattended-IoATrade.md)
+- Done - [Curry Hunter](PokemonSwSh/CurryHunter.md)
 
 **Autonomous Shiny Hunting:**
 - [Shiny Hunt Autonomous - Regi](PokemonSwSh/ShinyHuntAutonomous-Regi.md)
