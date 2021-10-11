@@ -20,8 +20,6 @@ Soft-reset for shiny Regigigas.
 
 [Please read the appendix to understand how unattended shiny-hunting programs work.](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/UnattendedShinyHunting.md)
 
-This is a more optimized version of [ShinyHuntUnattended-Regigigas](ShinyHuntUnattended-Regigigas.md) that runs at about one minute per encounter. It uses a method based on a comment under one of brianuuuSonic's videos suggesting that Reversal can OHKO Regigigas.
-
 This program uses a 1 HP lead that is able to OHKO the Regigigas using the move Reversal. Then it retries until it runs out of PP where it will do a soft-reset to restore the PP and continue.
 
 <img src="images/ShinyHuntUnattended-Regigigas2-0.png">
