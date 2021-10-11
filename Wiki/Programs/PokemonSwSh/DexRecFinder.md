@@ -1,10 +1,15 @@
-# Dex Rec 
+# Pokédex Recommendation Finder
 
 ## Program Description
 
-Find a specific Pokédex Recommendation (Dex Rec). The purpose of dex recs is to increase the encounter odds of a particular Pokémon that you are trying to hunt. This program is typically used in combination with the [fishing](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Advanced:-ShinyHuntAutonomous-Fishing) and [overworld](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Advanced:-ShinyHuntAutonomous-Overworld) encounter bots.
+Find a specific Pokédex Recommendation (Dex Rec). The purpose of dex recs is to increase the encounter odds of a particular Pokémon that you are trying to hunt. This program is typically used in combination with the [fishing](ShinyHuntAutonomous-Fishing.md) and [overworld](ShinyHuntAutonomous-Overworld.md) encounter bots.
 
-<img src="https://raw.githubusercontent.com/PokemonAutomation/SwSh-Arduino/master/Documentation/SerialPrograms/images/DexRecFinder.png" width="800">
+<img src="images/DexRecFinder-0.png">
+
+**Note:**
+
+If you are hunting authentic Sinistea, do not use a Dex Rec. Dex Rec for Sinistea only boosts the phony form. It does not boost the authentic form.
+Boosting the Sinistea (or anything in the area you are hunting) will *lower* the chances of encounter authentic Sinistea.
 
 
 ### Setup of Settings
@@ -25,7 +30,7 @@ Find a specific Pokédex Recommendation (Dex Rec). The purpose of dex recs is to
    - Adjust cursor to be over Pokédex
    - Press 'B' to exit the menu
 5. You must be in the overworld (not inside the menu)
-6. Start the program in the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu)
+6. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
    > The program will repeatedly date-skip and view the Pokédex. It has two operating modes:
    > 1. No feedback. If you do not select a game language or a desired Pokémon, you must watch it and manually stop it when you see what you want.
@@ -45,12 +50,14 @@ Once you have found what you want, save the game and disable the Y-COMM glitch t
 
 This program does not have the ability to avoid the system update window.
 
+<img src="images/DexRecFinder-Settings.png">
+
 ### Game Language
 
 If set to "None", the program will not stop by itself. You must manually stop it when you see what you want.
 Otherwise, set it to the language of your game so that the program can properly read what Pokémon appears in each set of recommendations.
 
-> Requires the use of a video card to read what Pokémon appears in each set of recommendations.
+> Requires the game language be set and a video card to read what Pokémon appears in each set of recommendations.
 
 ### Desired Pokémon
 
@@ -66,12 +73,13 @@ View the Pokédex for this long before moving on to the next day skip.
 
 Mash B for this long to return to the overworld from the Pokédex.
 
-***
 
-## Advanced features
+<hr>
 
-### Video Feedback:
+**Discord Server:** 
 
-   > **THESE SETTINGS ARE ONLY APPLICABLE IF YOU ARE USING A CAPTURE CARD**
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
 
-With feedback. If you set the correct game language and a desired Pokémon, it will automatically stop when the desired Pokémon appears in the recommendations.
+
+
+
