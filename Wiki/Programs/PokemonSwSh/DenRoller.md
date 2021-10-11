@@ -25,7 +25,8 @@ If video feedback is enabled, it will keep track of stats, automatically stop on
 2. Casual mode: Off
 3. System time: Un-synced
 
-> *If starting the game requires checking the internet (because it is digital on a non-primary Switch), you will need to go to `FrameworkSettings` and enable `Start Game Requires Internet`*
+> *If starting the game requires checking the internet (because it is digital on a non-primary Switch), you will need to enable ["**Start Game Requires Internet**"](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#start-game-requires-internet).
+
 
 ### Instructions
 
@@ -52,7 +53,7 @@ Stop on this Pokémon when it is found. If not set, the program behaves identica
 
 ### Catchability:
 
-Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any such uncatchable Pokémon, you must set this to `Maybe Uncatchable`.
+Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any such uncatchable Pokémon, you must set this to "Maybe Uncatchable".
 
 ### View Time:
 
