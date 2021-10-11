@@ -45,8 +45,8 @@ Nearly all microcontroller programs are also available as computer-control progr
 - Done - [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)
 
 **Den Hunting:**
-- [Beam Reset](PokemonSwSh/BeamReset.md)
-- [Purple Beam Finder](PokemonSwSh/PurpleBeamFinder.md)
+- Done - [Beam Reset](PokemonSwSh/BeamReset.md)
+- Done - [Purple Beam Finder](PokemonSwSh/PurpleBeamFinder.md)
 - [Event Beam Finder](PokemonSwSh/EventBeamFinder.md)
 - [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md)
 - [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md)
