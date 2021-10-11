@@ -26,7 +26,7 @@ This program runs at 18.7 seconds per attempt.
 ### Instructions
 
 1. You must be standing in front of the PC.
-2. Start the program in game or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+2. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 
 ## Options

@@ -26,7 +26,7 @@ This program runs at 15.8 seconds per purchase.
 ### Instructions
 
 1. You must be standing in front of the daily highlights watt trader in Snowslide Slope.
-2. Start the program in game or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+2. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 
 ## Options

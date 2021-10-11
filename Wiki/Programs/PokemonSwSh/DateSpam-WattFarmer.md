@@ -31,7 +31,7 @@ This program runs at 7.2 seconds per fetch. This is about 1 million watts/hour a
 
 1. You must be standing in front of a wishing piece den with watts collected.
 2. Your location should be safe from getting attacked by wild Pokémon.
-3. Start the program in game or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+3. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 
 ## Options
