@@ -32,10 +32,10 @@ Nearly all microcontroller programs are also available as computer-control progr
 - Done - [Mass Release](PokemonSwSh/MassRelease.md)
 - Done - [Surprise Trade](PokemonSwSh/SurpriseTrade.md)
 - Done - [Trade Bot](PokemonSwSh/TradeBot.md)
-- [Clothing Buyer](PokemonSwSh/ClothingBuyer.md)
-- [Ball Thrower](PokemonSwSh/BallThrower.md)
-- [Autonomous Ball Thrower](PokemonSwSh/AutonomousBallThrower.md)
-- [Dex Rec Finder](PokemonSwShAutonomous/DexRecFinder.md)
+- Done - [Clothing Buyer](PokemonSwSh/ClothingBuyer.md)
+- Done - [Ball Thrower](PokemonSwSh/BallThrower.md)
+- Done - [Autonomous Ball Thrower](PokemonSwSh/AutonomousBallThrower.md)
+- Done - [Dex Rec Finder](PokemonSwSh/DexRecFinder.md)
 
 **Date-Spam Farmers:**
 - [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)
