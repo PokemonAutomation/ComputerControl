@@ -6,6 +6,7 @@
 
 The microcontroller and computer-control versions of this program are functionally identical.
 
+
 ## Program Description
 
 TradeBot is a coded version of [SurpriseTrade](SurpriseTrade.md). The main use case is for hosting giveaways.
@@ -30,7 +31,7 @@ This program is experimental and is more suited for high-demand and high-quantit
 3. Check there is nothing in front of you that can be interacted with.
 4. Backed yourself into a corner where you cannot travel down or right.
 5. Your location should be safe from getting attacked by wild Pokémon.
-6. Start the program in game or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+6. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Box Setup
 
@@ -67,8 +68,20 @@ When the program reaches the end of a box, it will pause for a longer period bef
 
 ## Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
 Most of the options here are self-explanatory.
 
 <img src="images/TradeBot-Settings.png">
+
+
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
+
+
