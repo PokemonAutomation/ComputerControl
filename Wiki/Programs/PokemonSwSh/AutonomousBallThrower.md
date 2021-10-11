@@ -35,14 +35,17 @@ After finding a shiny, go to the Switch Home to idle. Turn this off for unattend
 
 ### Ball Select:
 
-THe ball you want to catch the Pokémon in.
+The ball you want to catch the Pokémon in.
 
 ### Game Language:
 
 Pick the language you're playing in.
 
-***
 
-### Video Feedback:
+<hr>
 
-**This program requires video feedback.**
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
