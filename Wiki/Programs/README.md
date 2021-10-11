@@ -48,10 +48,10 @@ Nearly all microcontroller programs are also available as computer-control progr
 - Done - [Beam Reset](PokemonSwSh/BeamReset.md)
 - Done - [Purple Beam Finder](PokemonSwSh/PurpleBeamFinder.md)
 - Done - [Event Beam Finder](PokemonSwSh/EventBeamFinder.md)
-- [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md)
-- [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md)
-- [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md)
-- [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md)
+- Done - [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md)
+- Done - [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md)
+- Done - [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md)
+- Done - [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md)
 
 **Hosting:**
 - [Den Roller](PokemonSwSh/DenRoller.md)

@@ -61,12 +61,12 @@ Prevent the den from rolling over by periodically touching the date at this inte
 
 
 ## Advanced Settings:
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
+These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.
 
 
 ### Mash to Trade Delay:
 
-This is how long from when you start the trade to when the trade ends. You shouldn’t need to change this.
+This is how long from when you start the trade to when the trade ends. You shouldn't need to change this.
 
 ***
 

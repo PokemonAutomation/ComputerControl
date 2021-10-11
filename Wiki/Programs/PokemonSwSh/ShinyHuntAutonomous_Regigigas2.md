@@ -46,7 +46,7 @@ Here is an example of a lead Pokémon that is properly setup to guarantee a OHKO
    > - Battle animations are off.
    > - Your lead Pokémon does not have high happiness.
    > - Your lead Pokémon does not have an ability that activates upon entry to battle.
-   > - The first move on your lead Pokémon (Reversal) is fully PP up’ed to 24 PP.
+   > - The first move on your lead Pokémon (Reversal) is fully PP up'ed to 24 PP.
 
 ### Instructions
 
@@ -76,7 +76,7 @@ After finding a shiny, go to the Switch Home to idle. Turn this off for unattend
 
 ### Reversal PP:
 
-This is the amount of PP of your attacking move. Reversal has 24 PP when fully PP up’ed.
+This is the amount of PP of your attacking move. Reversal has 24 PP when fully PP up'ed.
 
 ### Require Square:
 
@@ -91,7 +91,7 @@ Prevent the den from rolling over by periodically touching the date at this inte
 
 
 ## Advanced Settings:
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
+These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.
 
 
 ### Catch to Overworld Delay:

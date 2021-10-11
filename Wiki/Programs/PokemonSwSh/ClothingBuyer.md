@@ -29,7 +29,7 @@ This program is not particularly efficient, but will properly handle items that 
 
 Preliminary testing suggests that this program takes an hour to buy out the entire Wedgehurst clothing store.
 
-*Be aware that this program will change your clothing. So you may need to fix it when you’re done.*
+*Be aware that this program will change your clothing. So you may need to fix it when you're done.*
 
    > Note that this program does not stop since it does not know when it is done. Therefore you must stop it manually and check to see if it there is anything left to buy.
 

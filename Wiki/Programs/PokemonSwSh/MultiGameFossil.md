@@ -21,7 +21,7 @@ MultiGameFossil is a more advanced fossil reviving program that can revive fossi
 
 1. Text Speed: Fast
 2. Casual mode: Off
-3. Have “Send to Boxes” set to “Automatic”.
+3. Have "Send to Boxes" set to "Automatic".
 4. Have nicknaming off.
 5. Have the Pokédex entry for the Pokémon they are reviving.
 6. Have spoken to the professor before.
@@ -51,11 +51,11 @@ If you are only using one game, only use one entry.
 
 Once you have revived a ton of fossils, you need to check if there are any shinies. There are generally 3 ways to do this:
 1. Manually check them one-by-one.
-   > This option is pretty self-explanatory. Seriously, don’t do this. It’s time-consuming and error-prone. You won’t want to miss a shiny because you’re impatient and were checking them too quickly.
+   > This option is pretty self-explanatory. Seriously, don't do this. It's time-consuming and error-prone. You won't want to miss a shiny because you're impatient and were checking them too quickly.
 2. Check your Pokédex for the shiny sprite.
-   > This option is a very fast way to check if you have a shiny, but it only works if you don’t already have the Pokédex entry for it. Thus it’s only good for the 1st time you revive the shiny. If you don’t have the shiny sprite in the Pokédex before running the program, but you do afterwards, then you have revived a shiny!
+   > This option is a very fast way to check if you have a shiny, but it only works if you don't already have the Pokédex entry for it. Thus it's only good for the 1st time you revive the shiny. If you don't have the shiny sprite in the Pokédex before running the program, but you do afterwards, then you have revived a shiny!
 3. Save the game, enter Pokémon Home, and filter by shiny.
-   > This will always work, but requires Pokémon Home and the use of backup saves. Save the game if you haven’t already, then immediately enter Pokémon Home. Pokémon Home lets you filter by shiny – thus you can quickly check if you have revived any shinies. If not, you need to close Home without saving and reload the backup save to recover the fossils. 
+   > This will always work, but requires Pokémon Home and the use of backup saves. Save the game if you haven't already, then immediately enter Pokémon Home. Pokémon Home lets you filter by shiny – thus you can quickly check if you have revived any shinies. If not, you need to close Home without saving and reload the backup save to recover the fossils. 
 
 
 ## Options
@@ -70,7 +70,7 @@ This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSw
 ## Troubleshooting
 
 - If you forgot to load the backup save and thus have a game full of non-shiny fossils, DO NOT fly! Flying will overwrite the backup save causing you to lose all the fossils that were used.
-- When exiting Pokémon Home, you MUST select “exit without saving changes”. If you exit saving changes, it will hard-save and wipe the backup save even if you made no changes!
+- When exiting Pokémon Home, you MUST select "exit without saving changes". If you exit saving changes, it will hard-save and wipe the backup save even if you made no changes!
 
 ***
 
@@ -80,15 +80,15 @@ The purpose of a multi-game fossil program is to allow you to go afk for a longe
 
 Reviving fossils runs at approximately one revive/18.7 seconds. This comes out to about 5 hours for a full game of 960. Unfortunately, 5 hours is not enough to last overnight or a work day. Thus in order to prevent idling and to increase the efficiency of fossils reviving, you must use multiple game saves to get past the 32 box limit of 960 revives.
 
-Thus with 2 games with empty boxes, you can run fossils for 10 hours continuously without needing any attention. This will be enough to last overnight and maybe a day of work. Using even more games will give more flexibility when you aren’t able to revive 960 fossils at a time.
+Thus with 2 games with empty boxes, you can run fossils for 10 hours continuously without needing any attention. This will be enough to last overnight and maybe a day of work. Using even more games will give more flexibility when you aren't able to revive 960 fossils at a time.
 
 ### Managing Backup Saves:
 
 When reviving over multiple game saves, all but the last game will be saved. This means that the fossils will have been consumed. In order to recover them, you must use backup saves.
 
-> If you don’t know what backup saves or how to use them, look it up online. We won’t re-iterate it here. As a reminder, you can load a backup save by pressing UP+X+B on the title screen.
+> If you don't know what backup saves or how to use them, look it up online. We won't re-iterate it here. As a reminder, you can load a backup save by pressing UP+X+B on the title screen.
 
-The idea here is to hard-save in front of the professor before running the program. That way when you reload a backup save, you will reload the game from just before the reviving began. If you don’t hard-save, you will reload further back – most likely the fly point in front of the Route 6 tent since flying will overwrite the backup save. This is fine too so hard-saving isn’t really necessary.
+The idea here is to hard-save in front of the professor before running the program. That way when you reload a backup save, you will reload the game from just before the reviving began. If you don't hard-save, you will reload further back – most likely the fly point in front of the Route 6 tent since flying will overwrite the backup save. This is fine too so hard-saving isn't really necessary.
 
 Hard-saving can be done either by trading, or saving the game through Pokémon Home.
 

@@ -152,7 +152,7 @@ Everything from here on down is from the old combined repo that includes both na
 -  Fixed a bug in the raid count logging for AutoHost-MultiGame.
 
 ### 2021-01-09:
--  joyrida’s improvements to Mac and Unix build scripts.
+-  joyrida's improvements to Mac and Unix build scripts.
 
 ### 2021-01-08:
 -  Minor adjustment to the BallThrower program.
@@ -248,7 +248,7 @@ Everything from here on down is from the old combined repo that includes both na
 -  Fixed an incorrect type used for EggSuperCombined2.
 
 ### 2020-12-01:
--  Renamed all “SoftReset” programs to “ShinyHunt” programs.
+-  Renamed all "SoftReset" programs to "ShinyHunt" programs.
 -  Refactored all the system update window bypassing logic and options.
 
 ### 2020-11-30:
@@ -263,7 +263,7 @@ Everything from here on down is from the old combined repo that includes both na
 ### 2020-11-27:
 -  Added DateSpam-DailyHighlightFarmer.
 -  Renamed all the date-spam farmers so they sort together.
--  In GodEggItemDupe, the delay to enter your party now uses the “MENU_TO_POKEMON_DELAY” parameter in Settings.c.
+-  In GodEggItemDupe, the delay to enter your party now uses the "MENU_TO_POKEMON_DELAY" parameter in Settings.c.
 -  Removed AutoHost-Airplane and AutoHost-FriendSearch. Use softlock camp method instead.
 -  Refactored this manual.
 
@@ -344,8 +344,8 @@ Everything from here on down is from the old combined repo that includes both na
 -  Revamped the handling of uncatchable Pokémon. Uncatchable prompt avoidance can now be configured on a per-program basis. For AutoHostMultiGame, it can be configured on a per-game basis.
 
 ### 2020-09-26:
--  All programs that receive Pokémon must now have “Send to Boxes” set to “Automatic”.
--  Added a global setting that speeds up certain programs when “Send to Boxes” is set to “Automatic”. This new option is enabled by default.
+-  All programs that receive Pokémon must now have "Send to Boxes" set to "Automatic".
+-  Added a global setting that speeds up certain programs when "Send to Boxes" is set to "Automatic". This new option is enabled by default.
 -  EggCombined, EggSuperCombined, and MultiGameFossil are now slightly faster due to the above.
 -  Added EggFetcher2 which uses the triangulation method to avoid fly-backs.
 
@@ -365,7 +365,7 @@ Everything from here on down is from the old combined repo that includes both na
 -  The !BuildAll scripts will now work even if you run them from the wrong working directory.
 
 ### 2020-09-07:
--  The !BuildAll scripts will now tell you if WinAVR isn’t installed.
+-  The !BuildAll scripts will now tell you if WinAVR isn't installed.
 -  AutoHostRolling now closes the game before it rolls back the date for the next run.
 -  AutoHostFriendSearch now disconnects one second earlier to compensate for the extra time needed to navigate all the way into the user profile.
 
@@ -383,7 +383,7 @@ Everything from here on down is from the old combined repo that includes both na
 -  Fixed a stupid bug for all date navigation programs.
 
 ### 2020-08-28:
--  Added ClothingBuyer. It’s not efficient, but it will eventually buy out an entire store.
+-  Added ClothingBuyer. It's not efficient, but it will eventually buy out an entire store.
 -  When a program finishes, it will run a user-provided callback. Here you can insert code to turn on LEDs or other output pins.
 -  Failure case mitigation for date-spamming.
 
@@ -399,7 +399,7 @@ Everything from here on down is from the old combined repo that includes both na
 
 ### 2020-08-25:
 -  Added rollover prevention to AutoHostAirplane, AutoHostFriendSearch, AutoHostRolling, and AutoHostMultiGame. This will prevent the den from rolling over if left running for a very long time.
--  When starting a program, the LEDs will flash momentarily to indicate that the program has actually started running. If the LEDs don’t flash (stay on or off), it means the device did not connect properly.
+-  When starting a program, the LEDs will flash momentarily to indicate that the program has actually started running. If the LEDs don't flash (stay on or off), it means the device did not connect properly.
 -  GodEggItemDupe has a new option to forcibly detach the item before releasing the Pokémon. This is needed to allow duplication of special items like Rusted Sword/Shield.
 
 ### 2020-08-22:
@@ -436,7 +436,7 @@ Everything from here on down is from the old combined repo that includes both na
 -  All day skippers now default to 10 skips instead of 200,000. This makes it harder to overskip by using the wrong program.
 -  Adjusted egg timings to improve reliability.
 -  Code entry will skip invalid digits instead of converting them to zero.
--  Removed “!ReadMe.txt” since it has been superseded by this manual.
+-  Removed "!ReadMe.txt" since it has been superseded by this manual.
 -  Removed documentation for all programs since they are now in this manual.
 -  Minor grammar and wording changes to this manual.
 -  Build scripts have been shuffled around.

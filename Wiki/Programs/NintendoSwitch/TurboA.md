@@ -30,7 +30,7 @@ Stand in front of either the Digging Duo. For the Cram-o-matic, make sure you ha
 
 > Useful Tips:
 > - It takes about 16 hours and 3 million watts to dig the common fossils from 0 -> 960+.
-> - Rare fossils are 1/5’th the rarity of the common fossils.
+> - Rare fossils are 1/5'th the rarity of the common fossils.
 
 
 ## Options

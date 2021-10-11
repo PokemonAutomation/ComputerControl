@@ -10,7 +10,7 @@ The computer-control version of this program provides substantial improvements o
 ## Program Description
 This is a multi-game version of [AutoHost-Rolling](AutoHost-Rolling.md).
 
-> **Don’t use this program until you have used AutoHost-Rolling and are familiar with all its options. This program is significantly more complicated to setup.**
+> **Don't use this program until you have used AutoHost-Rolling and are familiar with all its options. This program is significantly more complicated to setup.**
 
 This program will auto-host across multiple game saves with different user profiles. In short, you specify a list of user profiles and auto-host settings. The program will then run down this list and auto-host each game accordingly. Once it has finished hosting everything on the list, it starts from the beginning again.
 
@@ -65,7 +65,7 @@ These options can be customized per game.
 
 ### Game Slot Position:
 
-If you are hosting from one game version only, set this to 1. You don’t need to read any further.
+If you are hosting from one game version only, set this to 1. You don't need to read any further.
 If you are hosting from both Sword and Shield, set this to the game slot of the version when the program starts.
 
 For example:
@@ -138,7 +138,7 @@ While hosting the current den, accept friend requests for a future den.
 - If 2, accept friend requests for the den that will be hosted 2 dens later.
 - ...
 
-The motivation here is that there is a significant delay from when you accept a friend requests to when the person can see the stamp. If you are accepting FRs for the den that’s currently being hosted, the user that just got accepted may need to wait until the auto-host loops around the entire list of dens and returns the current one. This can take a very long time if you are hosting a lot of dens.
+The motivation here is that there is a significant delay from when you accept a friend requests to when the person can see the stamp. If you are accepting FRs for the den that's currently being hosted, the user that just got accepted may need to wait until the auto-host loops around the entire list of dens and returns the current one. This can take a very long time if you are hosting a lot of dens.
 
 This option lets you shift the order of the FR accepts so that the accepted FRs become relevant much sooner.
 
@@ -152,7 +152,7 @@ Set this value to zero to disable the feature. This option is ignored if at leas
 
 There are multiple timings here related to your internet connection. You may need to adjust these to ensure the auto-host works correctly.
 
-Try with the defaults first. If things don’t work, then try increasing these timings. Likewise, if your internet connection is very fast, feel free to reduce some of these delays.
+Try with the defaults first. If things don't work, then try increasing these timings. Likewise, if your internet connection is very fast, feel free to reduce some of these delays.
 
 
 

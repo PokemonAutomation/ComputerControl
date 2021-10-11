@@ -13,11 +13,11 @@ The microcontroller and computer-control versions of this program are functional
 
 This is one of the most evil programs. FastCodeEntry can enter any 8-digit raid code in about ~0.5 seconds. This includes complicated codes that require multiple keypad traversals.
 
-So in all cases, this is fast enough to muscle your way into people’s coded raids at superhuman speeds.
+So in all cases, this is fast enough to muscle your way into people's coded raids at superhuman speeds.
 
-> *By using this program, you agree that you are an asshole. Furthermore, you will be required to embrace your asshole status by flaunting it in front of all the people you’ve blocked out of raids.*
+> *By using this program, you agree that you are an asshole. Furthermore, you will be required to embrace your asshole status by flaunting it in front of all the people you've blocked out of raids.*
 
-This is the same code entry routine that’s used by the auto-hosts. But as a standalone program, it is much more dangerous and morally reprehensible.
+This is the same code entry routine that's used by the auto-hosts. But as a standalone program, it is much more dangerous and morally reprehensible.
 
 > Due to the nature of this program and its intended use-case, this program does not wait to start nor does it flash the LEDs. It runs immediately after connecting to the Switch.
 

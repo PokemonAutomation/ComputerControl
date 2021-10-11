@@ -49,8 +49,8 @@ Most people use the following workflow:
 
    > Start the script anywhere in the Date/Time menu except the time zone menu. It will automatically find the right place.
 
-   > If the game is a digital copy and the Switch is not the primary, you will not be able to turn on airplane mode for longer skips that take multiple hours. This is because the Switch will periodically check online to see if it’s allowed to keep running the game. Airplane mode prevents this which causes the game to halt.
-   > If this applies to you, either make the Switch the primary, or don’t enable airplane mode. If you opt for the latter, you can expect the day skipper to make a lot more errors.
+   > If the game is a digital copy and the Switch is not the primary, you will not be able to turn on airplane mode for longer skips that take multiple hours. This is because the Switch will periodically check online to see if it's allowed to keep running the game. Airplane mode prevents this which causes the game to halt.
+   > If this applies to you, either make the Switch the primary, or don't enable airplane mode. If you opt for the latter, you can expect the day skipper to make a lot more errors.
 
 ### Default Program Settings
 
@@ -80,7 +80,7 @@ More specifically, this needs to be the year that the time-sync will change the 
 
 ### Auto-Recover Interval:
 
-Perform an auto-recovery every this number of skips. This is the recovery routine that recovers from trapping errors. You shouldn’t need to touch this value.
+Perform an auto-recovery every this number of skips. This is the recovery routine that recovers from trapping errors. You shouldn't need to touch this value.
 
 
 

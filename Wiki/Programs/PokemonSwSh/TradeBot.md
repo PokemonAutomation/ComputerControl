@@ -40,7 +40,7 @@ This program is experimental and is more suited for high-demand and high-quantit
 2. You must be on the first box.
 3. Do not have any untradable Pokémon in these boxes. (no fused Pokémon)
 
-> It goes without saying that this is a very dangerous program. Don’t run this program unattended unless the game is completely free of Pokémon you want to keep.
+> It goes without saying that this is a very dangerous program. Don't run this program unattended unless the game is completely free of Pokémon you want to keep.
 
 ### Default Program Settings
 

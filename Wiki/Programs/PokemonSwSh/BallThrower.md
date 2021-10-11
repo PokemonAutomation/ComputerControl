@@ -31,7 +31,7 @@ This program blindly throws balls without context. Thus the only way it can work
    > Since the program will only be throwing balls, your in-battle Pokémon will never use any moves or any items. Thus it must be able to wall the opposing Pokémon without using moves or items.
    > 
    > How you do this will depend on what you are battling. But generally speaking, this falls into two categories:
-   > 1. Completely disable all of the opposing Pokémon’s damaging moves (type immunity + Imprison).
+   > 1. Completely disable all of the opposing Pokémon's damaging moves (type immunity + Imprison).
    > 2. Reduce the damage that you take such that passive healing (from Leftovers) is sufficient to stay alive.
 
 
@@ -39,7 +39,7 @@ This program blindly throws balls without context. Thus the only way it can work
 
 1. Test Speed: Fast
 2. Casual mode: Off
-3. The “Send to Boxes” option must be set to “Automatic”.
+3. The "Send to Boxes" option must be set to "Automatic".
 
 ### Setup of Party
 

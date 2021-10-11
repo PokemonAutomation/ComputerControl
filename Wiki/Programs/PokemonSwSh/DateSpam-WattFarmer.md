@@ -25,7 +25,7 @@ This program runs at 7.2 seconds per fetch. This is about 1 million watts/hour a
 5. You must be offline.
 6. Airplane mode must be off.
 
-   > **Stability Recommendation:** Stand ***behind*** the den so that the beam is directly in front of your character. Sometimes, the program will miss a button press which causes the date-spamming to happen in the game instead of the Switch settings. This will cause the character to move downwards and away from the den if you’re not standing behind it.
+   > **Stability Recommendation:** Stand ***behind*** the den so that the beam is directly in front of your character. Sometimes, the program will miss a button press which causes the date-spamming to happen in the game instead of the Switch settings. This will cause the character to move downwards and away from the den if you're not standing behind it.
 
 ### Instructions
 

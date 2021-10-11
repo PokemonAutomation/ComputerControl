@@ -77,7 +77,7 @@ The option will make the program run from star shinies and stop only on a square
 
 ### Regi:
 
-This is what you’re resetting for. Pick from: `Regirock`, `Regice`, `Registeel`, `Regieleki`, and `Regidrago`.
+This is what you're resetting for. Pick from: `Regirock`, `Regice`, `Registeel`, `Regieleki`, and `Regidrago`.
 
 ### Rollover Prevention:
 
@@ -87,7 +87,7 @@ Prevent the den from rolling over by periodically touching the date at this inte
 
 
 ## Advanced Settings:
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
+These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.
 
 
 ### Exit Battle Timeout:

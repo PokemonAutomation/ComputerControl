@@ -11,7 +11,7 @@ The microcontroller and computer-control versions of this program are functional
 
 Delete or block from your friend list.
 
-Once you’ve auto-hosted enough, your friend list is going to fill up. FriendDelete can clean it up.
+Once you've auto-hosted enough, your friend list is going to fill up. FriendDelete can clean it up.
 
 <img src="images/FriendDelete-0.png">
 
