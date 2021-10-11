@@ -55,8 +55,8 @@ Nearly all microcontroller programs are also available as computer-control progr
 
 **Hosting:**
 - Done - [Den Roller](PokemonSwSh/DenRoller.md)
-- [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md)
-- [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md)
+- Done - [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md)
+- Done - [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md)
 
 **Non-Shiny Hunting:**
 - [Stats Reset](PokemonSwSh/StatsReset.md)

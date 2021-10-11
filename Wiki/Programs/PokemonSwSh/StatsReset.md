@@ -6,7 +6,7 @@ Reset gift Pokémon for desired stats.
 
 You can't shiny-hunt these, so you might as well go for stats...
 
-<img src="https://github.com/PokemonAutomation/SwSh-Arduino/raw/master/Documentation/SerialPrograms/images/StatsReset.png" width="1000">
+<img src="images/StatsReset.png">
 
 ### Setup of Settings
 
@@ -30,19 +30,16 @@ You can't shiny-hunt these, so you might as well go for stats...
 1. Stand in front of the person who gives you the gift Pokémon. (or in front of Poipole)
 2. Save.
 3. Return to the overworld. (not inside the menu)
-4. Start the program in the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+4. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Default Program Settings
 
 This program requires you to input what stat range you want to search for.
 
-***
-
-### Options
 
 ## Options:
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
 ### Go Home when Done:
 
@@ -60,8 +57,10 @@ The Pokémon you are resetting for.
 
 The desired IV spread for each stat.
 
-***
+<hr>
 
-### Video Feedback:
+**Discord Server:** 
 
-**This program requires video feedback.**
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
