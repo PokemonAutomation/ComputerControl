@@ -31,7 +31,7 @@ Functionally, all this program does is repeat the following sequence forever:
 
 If video feedback is disabled, this program behaves identically to the [microcontroller AutoHost-Rolling](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/AutoHost-Rolling.md).
 
-If video feedback is enabled, it will keep track of stats and will waste a lot less time waiting since it can see when it's ready to move on from each stage.
+If video feedback is enabled, it will keep track of stats and will run faster since it can see the screen and waste less time waiting.
 
 <img src="images/AutoHost-Rolling-0.png">
 
