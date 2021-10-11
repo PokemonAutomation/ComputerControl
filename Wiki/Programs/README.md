@@ -54,7 +54,7 @@ Nearly all microcontroller programs are also available as computer-control progr
 - Done - [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md)
 
 **Hosting:**
-- [Den Roller](PokemonSwSh/DenRoller.md)
+- Done - [Den Roller](PokemonSwSh/DenRoller.md)
 - [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md)
 - [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md)
 
