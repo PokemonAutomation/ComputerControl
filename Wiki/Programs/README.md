@@ -31,7 +31,7 @@ Nearly all microcontroller programs are also available as computer-control progr
 
 - Done - [Mass Release](PokemonSwSh/MassRelease.md)
 - Done - [Surprise Trade](PokemonSwSh/SurpriseTrade.md)
-- [Trade Bot](PokemonSwSh/TradeBot.md)
+- Done - [Trade Bot](PokemonSwSh/TradeBot.md)
 - [Clothing Buyer](PokemonSwSh/ClothingBuyer.md)
 - [Ball Thrower](PokemonSwSh/BallThrower.md)
 - [Autonomous Ball Thrower](PokemonSwSh/AutonomousBallThrower.md)
