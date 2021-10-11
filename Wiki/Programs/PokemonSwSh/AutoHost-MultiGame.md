@@ -18,6 +18,13 @@ Other than that, this program has all the same features as AutoHost-Rolling. Som
 
 If you have 8 user profiles and the ability to play both Sword and Shield without changing cartridges, you can theoretically host up to 16 dens with this program.
 
+<img src="images/AutoHost-Rolling-0.jpg">
+
+If video feedback is disabled, this program behaves identically to the [microcontroller AutoHost-MultiGame](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/AutoHost-MultiGame.md).
+
+If video feedback is enabled, it will keep track of stats and will waste a lot less time waiting since it can see when it's ready to move on from each stage.
+
+
 > **Important Warning:**
 > 
 > *All auto-hosts carry a risk of destroying the den that is being hosted. The failure case is an error that causes the program to clear the raid and drop a new wishing piece. Dropping a wishing piece is a hard-save and cannot be reversed via backup save.*
@@ -38,11 +45,9 @@ If you have 8 user profiles and the ability to play both Sword and Shield withou
 3. If you are hosting from one game version only (Sword or Shield), it must be the 1st slot in the games list.
 4. If you are hosting from both Sword and Shield, they must be in slots 1 and 2 of the games list.
 5. Close all games across all systems.
-6. Start the program in the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md).
+5. Start the program in the Switch home or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
-> *If starting the game requires checking the internet (because it is digital on a non-primary Switch), you will need to open up `PokemonSettings.c` and change `START_GAME_REQUIRES_INTERNET` to true.*
-> 
-> *If any den has uncatchable Pokémon (like Mewtwo or Zeraora), you need to set a flag to bypass that extra prompt. See Uncatchable Pokémon Prompt.*
+> *If starting the game requires checking the internet (because it is digital on a non-primary Switch), you will need to enable ["**Start Game Requires Internet**"](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#start-game-requires-internet).
 
 
 ## Options:
@@ -76,7 +81,7 @@ When hosting from both Sword and Shield, the games will swap position each time 
 
 ### User Slot Position:
 
-This is the [user profile](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-UserSlotNumber) for the user that will be hosted.
+This is the [user profile](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/UserSlotNumber.md) for the user that will be hosted.
 
 ### Backup Save:
 
@@ -84,11 +89,11 @@ If set to true, the game will load backup save upon soft-reset.
 
 The idea here is to roll forward from the save frame to the shiny frame. Once on the shiny frame (with the desired softlock), you enter and exit the camp to setup a backup save on the shiny frame. That way, you can load the backup save on the shiny frame while leaving the real save safely 3 or more frames before
 .
-This option only makes sense when `SKIPS = 0`.
+This option only makes sense when **(Skips = 0)**.
 
 ### Catchability:
 
-Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any such uncatchable Pokémon, you must this to false. If the den has uncatchable Pokémon, but it is hard-locked in a way that prevents any of them from showing up while rolling or hosting, then it is safe to leave this as true.
+Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any such uncatchable Pokémon, you must set this to false. If the den has uncatchable Pokémon, but it is hard-locked in a way that prevents any of them from showing up while rolling or hosting, then it is safe to leave this as true.
 
 ### Frame Skips:
 
@@ -102,9 +107,9 @@ Set to true if you wish to accept friend requests for the user for this den.
 
 This is a silly feature that lets you choose a first move before resetting the game.
 
-If `1st Move` is 0, no first move is selected and the program resets as usual.
+If **(1st Move = 0)**, no first move is selected and the program resets as usual.
 
-Otherwise, the move slot if the slot # for the move (1 = first move). The flag `.dynamax` will let you dmax/gmax the Pokémon as well.
+Otherwise, the move slot if the slot # for the move (1 = first move). The **Dynamax** box will let you dmax/gmax the Pokémon as well.
 
 ### Additional Raid Delay:
 
@@ -112,15 +117,15 @@ If you are farming a Pokémon and the time between raids is too short to join co
 
 ## Global Options:
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_SLOW`](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-slow) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (slow)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-slow) to bypass the system update window.
 
-In addition to the main options below, there are more [global options](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings) that can be configured if you encounter problems.
+In addition to the main options below, there are more [global options](PokemonSettings.md) that can be configured if you encounter problems.
 
 All options here are global and will be applied to all the participating save files.
 
 ### Raid Code:
 
-See [Raid Code Entry](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-RaidCode).
+See [Raid Code Entry](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/RaidCode.md).
 
 ### Host Online:
 
@@ -144,9 +149,9 @@ This option lets you shift the order of the FR accepts so that the accepted FRs 
 
 ### Rollover Prevention:
 
-If none of the dens are rolling (`SKIPS = 0`), the date will advance naturally. This means that the dens being hosted will eventually roll over. To prevent this, the auto-host will periodically touch the date at the specified interval.
+If none of the dens are rolling (**SKIPS = 0**), the date will advance naturally. This means that the dens being hosted will eventually roll over. To prevent this, the auto-host will periodically touch the date at the specified interval.
 
-Set this value to zero to disable the feature. This option is ignored if at least one den has (SKIPS > 0).
+Set this value to zero to disable the feature. This option is ignored if at least one den has (**SKIPS > 0**).
 
 ### Internet Connection Delays:
 
