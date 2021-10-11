@@ -43,16 +43,16 @@ Most Switches will have a working value somewhere between 1800 and 1930 – whic
    > 
    > When you attempt to calibrate, you will find that the variation can be upwards of one second. In other words, you will get an entire range of delays. For the program to work correctly, that entire range of delays needs to fit into the **0.3 – 1.7 second** window as suggested above. Therefore you will need to be patient and time multiple encounters to find that range of delays.
    > 
-   > In reality, the range of delays is probably a Gaussian distribution. So even when you think you’ve found the range, there will be occasional outliers that fall outside the window and can cause a false positive or a false negative. False negatives you won’t know unless you happen to see it. False positives will stop the program. If you get false positives after multiple hours of correct operation, then try increasing your delay by 10 ticks.
+   > In reality, the range of delays is probably a Gaussian distribution. So even when you think you've found the range, there will be occasional outliers that fall outside the window and can cause a false positive or a false negative. False negatives you won't know unless you happen to see it. False positives will stop the program. If you get false positives after multiple hours of correct operation, then try increasing your delay by 10 ticks.
 
 **Too Much Variation:**
 
 On some Switches and environments, you may find that your range of delays is too large to fit into the recommended timing window. Here are some tricks you can try to reduce that variation:
 - Restart your Switch.
-- Turn on airplane mode and set “AIRPLANE_MODE” to true.
+- Turn on airplane mode and set "AIRPLANE_MODE" to true.
 - Detach your Joy-Cons.
 
-If this still doesn’t work, then it may be impossible to completely avoid both false positives and false negatives. Thus you must choose which one is more acceptable. False negatives are usually more acceptable since they don’t stop the program. Thus you want to calibrate it such that the shortest menu->LED time is about 0.3 seconds. Any shiny encounter that comes in exceptionally fast will be lost since the program will run from it.
+If this still doesn't work, then it may be impossible to completely avoid both false positives and false negatives. Thus you must choose which one is more acceptable. False negatives are usually more acceptable since they don't stop the program. Thus you want to calibrate it such that the shortest menu->LED time is about 0.3 seconds. Any shiny encounter that comes in exceptionally fast will be lost since the program will run from it.
 
 If the variation is so high such that it will run from more than 50% of the shiny encounters, then it becomes more time efficient to use the [ShinyHuntUnattended-StrongSpawn](ShinyHuntUnattended-StrongSpawn.md) program instead.
 
@@ -93,9 +93,9 @@ When correctly calibrated:
 - If the encounter is not shiny, the program will run from the battle and move on to the next encounter.
 - If the encounter is shiny, the program will trap itself inside the Pokémon menu. This allows you to manually back out and fight the shiny Pokémon.
 
-   > If you come back and see it trapped, it doesn’t guarantee that the encounter is shiny. This program has a lot more variation and has a higher chance of false positives than the other unattended shiny-hunting programs.
+   > If you come back and see it trapped, it doesn't guarantee that the encounter is shiny. This program has a lot more variation and has a higher chance of false positives than the other unattended shiny-hunting programs.
 
-By default, you cannot use multiple Switches to run this program simultaneously on the same Pokémon. They will try to enter each other’s camps which will break the program. If you need to do this, turn on airplane mode and set `AIRPLANE_MODE` to true.
+By default, you cannot use multiple Switches to run this program simultaneously on the same Pokémon. They will try to enter each other's camps which will break the program. If you need to do this, turn on airplane mode and set `AIRPLANE_MODE` to true.
 
 ***
 
@@ -123,7 +123,7 @@ This feature will also prevent any unintentional day-skips that will destroy any
 
 ## Advanced Settings:
 
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
+These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.
 
 ### Enter Camp Delay:
 
