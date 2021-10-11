@@ -18,7 +18,7 @@ Other than that, this program has all the same features as AutoHost-Rolling. Som
 
 If you have 8 user profiles and the ability to play both Sword and Shield without changing cartridges, you can theoretically host up to 16 dens with this program.
 
-<img src="images/AutoHost-Rolling-0.jpg">
+<img src="images/AutoHost-Rolling-0.png">
 
 If video feedback is disabled, this program behaves identically to the [microcontroller AutoHost-MultiGame](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/AutoHost-MultiGame.md).
 
