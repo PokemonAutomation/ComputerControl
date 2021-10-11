@@ -60,9 +60,9 @@ Nearly all microcontroller programs are also available as computer-control progr
 
 **Non-Shiny Hunting:**
 - Done - [Stats Reset](PokemonSwSh/StatsReset.md)
-- [Stats Reset - Calyrex](PokemonSwSh/StatsReset-Calyrex.md)
-- [Stats Reset - Moltres](PokemonSwSh/StatsReset-Moltres.md)
-- [Stats Reset - Regi](PokemonSwSh/StatsReset-Regi.md)
+- Done - [Stats Reset - Calyrex](PokemonSwSh/StatsReset-Calyrex.md)
+- Done - [Stats Reset - Moltres](PokemonSwSh/StatsReset-Moltres.md)
+- Done - [Stats Reset - Regi](PokemonSwSh/StatsReset-Regi.md)
 
 **Unattended Shiny Hunting:**
 - [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md)

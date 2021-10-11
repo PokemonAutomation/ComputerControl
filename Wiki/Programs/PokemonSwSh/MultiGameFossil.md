@@ -40,9 +40,9 @@ MultiGameFossil is a more advanced fossil reviving program that can revive fossi
 2. You must have at least one of every fossil.
 3. You must have enough fossils to run its specified batch.
 4. Be saved in front of the professor.
-5. Start the program in the Switch home or the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+5. Start the program in the Switch home or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
-   > If starting the game requires checking the internet (because it is digital on a non-primary Switch), you will need to open up `PokemonSettings.c` and change [`START_GAME_REQUIRES_INTERNET`](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings#start-game-requires-internet) to true.
+> *If starting the game requires checking the internet (because it is digital on a non-primary Switch), you will need to enable ["**Start Game Requires Internet**"](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#start-game-requires-internet).
 
 Once started, the program will iterate the specified game list in the order they are listed. For each entry, it will enter the game and revive the specified fossil the specified number of times. Once it has finished reviving in that game, it will save the game and move on to the next game. If it is the last entry in the list, it will not save the same and will return to the Switch Home to idle.
 If you are only using one game, only use one entry.
@@ -60,7 +60,7 @@ Once you have revived a ton of fossils, you need to check if there are any shini
 
 ## Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
 <img src="images/MultiGameFossil-Settings.png">
 
