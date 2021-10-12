@@ -10,8 +10,8 @@ This program will randomly seek out and encounter overworld Pokémon until it fi
 
 [Demo Video.mov (Authentic Sinistea)](https://cdn.discordapp.com/attachments/780505858613837835/842199538440732672/Shiny_Authentic_Sinistea.mp4)
 
-<img src="https://raw.githubusercontent.com/PokemonAutomation/SwSh-Arduino/master/Documentation/SerialPrograms/images/ShinyHuntAutonomous-Overworld.jpg" width="800">
-<img src="https://github.com/PokemonAutomation/SwSh-Arduino/raw/master/Documentation/SerialPrograms/images/ShinyHuntAutonomous-Overworld-1.jpg" width="800">
+<img src="images/ShinyHuntAutonomous-Overworld-0.jpg" width="800">
+<img src="images/ShinyHuntAutonomous-Overworld-1.jpg" width="800">
 
 ### Setup of Settings
 
@@ -40,7 +40,7 @@ This program will randomly seek out and encounter overworld Pokémon until it fi
    * You are not on your bike. (Needed for correct trajectory movement)
 2. Save.
 3. Return to overworld (not inside the menu).
-4. Start the program in the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+4. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Default Program Settings
 
@@ -63,7 +63,7 @@ By default, the program is configured to randomly target everything. Here are so
 | "Fan Favorite"" | Sinistea (Glimwood*) | `No Preference` | `Horizontal Line Only`, `Max Target Alpha = 0` |
 
 *Needs to be in this specific location:<br>
-<img src="https://raw.githubusercontent.com/PokemonAutomation/SwSh-Arduino/master/Documentation/SerialPrograms/images/ShinyHuntAutonomous-Overworld-Glimwood.png" width="800">
+<img src="images/ShinyHuntAutonomous-Overworld-Glimwood.png" width="800">
 
 > **Notes:**
 > Trigger Methods `Whistle Only` and `Circle Only` are generally not recommended. Though the options are there if you want to experiment.
@@ -71,13 +71,14 @@ By default, the program is configured to randomly target everything. Here are so
 > - `Whistle Only` combined with `Exclamation Marks Only (Ignore Question Marks)` will get stuck if the Pokémon walk up to you, but don't attack.
 > - `Circle Only` will get stuck if you manage to get just outside of the grassy area. Normally, whistling will trigger a mark reaction to pull you back to the grass.
 
-***
 
-### Options
+## Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
 There is no option to search only for a square shiny. Nearly all shinies are square and only 15/65536 are star. Therefore it is infeasible to hunt for star shiny.
+
+<img src="images/ShinyHuntAutonomous-Overworld-Settings.png">
 
 
 ### Go Home when Done:
@@ -145,8 +146,13 @@ After running, wait this long to return to the overworld. The program will resum
 
 After moving towards a Pokémon, make a circle. This increases the chance of encountering the Pokémon if it has moved or if the trajectory missed.
 
-***
 
-### Video Feedback:
+<hr>
 
-**This program requires video feedback.**
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
+
+
