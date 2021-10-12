@@ -94,9 +94,9 @@ Nearly all microcontroller programs are also available as computer-control progr
 
 **Multi-Switch Programs:**
 - Synchronized Spinning
-- [Raid Item Farmer (OHKO)](PokemonSwSh/RaidItemFarmerOHKO.md)
+- Done - [Raid Item Farmer (OHKO)](PokemonSwSh/RaidItemFarmerOHKO.md)
 
-**Auto Max Lair 2.0 (under development):**
+[**Auto Max Lair 2.0 (under development):**](PokemonSwSh/MaxLair.md)
 - [Max Lair: Single Adventure](PokemonSwSh/MaxLair-SingleAdventure.md)
 - [Max Lair: Standard](PokemonSwSh/MaxLair-Standard.md)
 - [Max Lair: Boss Finder](PokemonSwSh/MaxLair-BossFinder.md)
