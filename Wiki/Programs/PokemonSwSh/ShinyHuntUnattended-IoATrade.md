@@ -33,7 +33,7 @@ Before you continue, first read the appendix on unattended shiny-hunting calibra
 Section: [Unattended Shiny-Hunting Calibration](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/UnattendedShinyHunting.md#calibrating-unattended-shiny-hunting)
 
 **Calibrating the Run-Away time:**
-The variable that controls the critical delay for this program is "START_TO_RUN_DELAY".
+The variable that controls the critical delay for this program is **"Start to Run Delay"**.
 - If neither Pokémon is shiny, the LEDs will turn on ***0.5 – 1.5 seconds AFTER*** the battle menu appears. The program will run from the Beartic.
 - If either Pokémon is shiny, the LEDs will turn on ***0.5 – 1.0 seconds BEFORE*** the battle menu appears. The program will not run and will instead trap  itself in the summary of your Pokémon.
 

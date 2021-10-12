@@ -1,8 +1,14 @@
 # Shiny Hunt (Autonomous) - IoA Trade
 
+**Related Programs:**
+- **Microcontroller:** [Shiny Hunt Unattended: IoA Trade](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-IoATrade.md)
+- **Computer Control:** [Shiny Hunt Unattended: IoA Trade](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-IoATrade.md)
+- **Computer Control:** [Shiny Hunt Autonomous: IoA Trade](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-IoATrade.md) (this program)
+
+
 ## Program Description
 
-This is the autonomous version of [ShinyHuntUnattended-IoATrade](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Basic:-ShinyHuntUnattended-IoATrade).
+This is the autonomous version of [ShinyHuntUnattended-IoATrade](ShinyHuntUnattended-IoATrade.md).
 
 This program will automatically hunt for a shiny Regina trade and stop on a shiny. It requires video feedback and has these advantages over the unattended version of this program:
 - No calibration is needed. This program will detect a shiny from its shiny icon.
@@ -13,7 +19,7 @@ This program will automatically hunt for a shiny Regina trade and stop on a shin
 
 [Demo Video.mov](https://cdn.discordapp.com/attachments/755635697737531544/823274129292525638/2021-03-21_14-14-40.mp4)
 
-<img src="https://github.com/PokemonAutomation/SwSh-Arduino/raw/master/Documentation/SerialPrograms/images/ShinyHuntAutonomous-IoATrade.jpg" width="800">
+<img src="images/ShinyHuntAutonomous-IoATrade-0.jpg" width="800">
 
 ### Setup of Settings
 
@@ -39,15 +45,18 @@ This program will automatically hunt for a shiny Regina trade and stop on a shin
 4. Save by pressing "R".
    > This ensures your cursor stays over the "Pokédex" button.
 5. Return to overworld (not inside the menu).
-6. Start the program in the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+6. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Default Program Settings
 
 * When the desired shiny is found, the program will save a video of the encounter.
 
-### Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings#tolerate-system-update-menu-fast) to bypass the system update window.
+## Options
+
+This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
+
+<img src="images/ShinyHuntAutonomous-IoATrade-Settings.png">
 
 ### Go Home when Done:
 
@@ -68,8 +77,13 @@ These are advanced settings. You shouldn't need to touch these unless something 
 
 This is how long from when you start the trade to when the trade ends. You shouldn't need to change this.
 
-***
 
-### Video Feedback:
+<hr>
 
-**This program requires video feedback.**
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
+
+
