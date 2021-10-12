@@ -1,8 +1,15 @@
 # Shiny Hunt (Autonomous) - Swords of Justice
 
+**Related Programs:**
+- **Microcontroller:** [Shiny Hunt: Swords of Justice](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ShinyHunt-SwordsOfJustice.md)
+- **Microcontroller:** [Shiny Hunt Unattended: Swords of Justice](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md)
+- **Computer Control:** [Shiny Hunt Unattended: Swords of Justice](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md)
+- **Computer Control:** [Shiny Hunt Autonomous: Swords of Justice](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-SwordsOfJustice.md) (this program)
+
+
 ## Program Description
 
-This is the autonomous version of [ShinyHuntUnattended-SwordsOfJustice](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Basic:-ShinyHuntUnattended-SwordOfJustice).
+This is the autonomous version of [ShinyHuntUnattended-SwordsOfJustice](ShinyHuntUnattended-SwordOfJustice.md).
 
 This program will automatically hunt for a shiny Sword of Justice and automatically stop on a shiny. It fully utilizes video feedback and has these advantages over the unattended version of this program:
 - No calibration is needed. This program will detect a shiny from its animation.
@@ -11,7 +18,7 @@ This program will automatically hunt for a shiny Sword of Justice and automatica
 
 [Demo Video.mp4](https://cdn.discordapp.com/attachments/755635697737531544/822268782910636062/2021-03-18_19-38-31.mp4)
 
-<img src="https://github.com/PokemonAutomation/SwSh-Arduino/raw/master/Documentation/SerialPrograms/images/ShinyHuntAutonomous-SwordsOfJustice.jpg" width="800">
+<img src="images/ShinyHuntAutonomous-SwordsOfJustice-0.jpg" width="800">
 
 ### Setup of Settings
 
@@ -40,19 +47,20 @@ This program will automatically hunt for a shiny Sword of Justice and automatica
 3. Open the menu and put the cursor over the "Pokémon Camp" option.
 4. Hit "B" to close the menu.
 5. You must be in the overworld. (not inside the menu)
-6. Start the program in the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+6. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Default Program Settings
 
 When a shiny is found, the program will save a video of the encounter.
 
-***
 
-### Options
+## Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
 There is no option to search only for a square shiny. Nearly all shinies are square and only 15/65536 are star. Therefore it is infeasible to hunt for star shiny.
+
+<img src="images/ShinyHuntAutonomous-SwordsOfJustice-Settings.png">
 
 ### Go Home when Done:
 
@@ -79,8 +87,15 @@ After running, wait this long to return to the overworld. The program will resum
 
 Wait this long after entering camp before you leave.
 
-***
 
-### Video Feedback:
+<hr>
 
-**This program requires video feedback.**
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
+
+
+
+
