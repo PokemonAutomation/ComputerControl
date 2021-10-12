@@ -24,13 +24,13 @@ Setup for All Switches:
 3. Whoever attacks first must be able to one-hit-KO (OHKO) the Pokémon.
 
 Switch Hosting the Raid:
-1. The hosting Switch is the upper-left Switch in [Switch Viewer](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Switch-Viewer)
+1. The hosting Switch is the upper-left Switch.
 2. The first move of the lead Pokémon must be faster than the raid Pokémon.
 3. The first move of the lead Pokémon must OHKO the raid Pokémon.
 4. You are standing in front of a den containing Shedinja or something that can be OHKO'ed.
 5. There are no watts in the den.
 6. You are either saved in this position, or softlocked using the backup save method.
-7. Navigate to the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+7. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 Switch(s) Raiding:
 1. Setup safeguards
@@ -39,7 +39,7 @@ Switch(s) Raiding:
    * The default Poké Ball is a low value ball; in case it tries to catch the Pokémon
 2. You are in the overworld and safe from being attacked.
 3. There is nothing in front of you that can be interacted with.
-4. Navigate to the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+4. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
    > Additional Recommendations:
    > - Avoid using any Pokémon that have activating abilities. This adds delay and may require adjusting the default timings.
@@ -55,9 +55,8 @@ Switch(s) Raiding:
 
 The default program settings are intended to clear a raid in one move. You can adjust the settings to allow to clear a raid in one turn (one move per Switch).
 
-***
 
-### Options
+## Options
 
 Most of the options are self-explanatory timings which we won't cover. The program already provides descriptions for them.
 
@@ -65,7 +64,7 @@ Most of the options are self-explanatory timings which we won't cover. The progr
 
 Set to false if the host is saved on the Pokémon that is to be farmed. If the host is softlocked (using the backup save method), set this to true.
 
-See [AutoHost-Rolling](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Basic:-AutoHost-Rolling) for more details on backup softlocks.
+See [AutoHost-Rolling](AutoHost-Rolling.md) for more details on backup softlocks.
 
 ### Raid Start to Attack Delay:
 
@@ -81,8 +80,13 @@ This program does not touch the date, but requires that the host stay on the cur
 
 Set this value to zero to disable the feature.
 
-***
 
-### Video Feedback:
+<hr>
 
-This program does not use video feedback. Capture cards are optional.
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
+
+
