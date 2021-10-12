@@ -1,8 +1,14 @@
 # Shiny Hunt (Autonomous) - Strong Spawn
 
+**Related Programs:**
+- **Microcontroller:** [Shiny Hunt Unattended: Strong Spawn](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md)
+- **Computer Control:** [Shiny Hunt Unattended: Strong Spawn](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md)
+- **Computer Control:** [Shiny Hunt Autonomous: Strong Spawn](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-StrongSpawn.md) (this program)
+
+
 ## Program Description
 
-This is the autonomous version of [ShinyHuntUnattended-StrongSpawn](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Basic:-ShinyHuntUnattended-StrongSpawn).
+This is the autonomous version of [ShinyHuntUnattended-StrongSpawn](ShinyHuntUnattended-StrongSpawn.md).
 
 This program will automatically hunt for a shiny strong spawn and automatically stop on a shiny. It fully utilizes video feedback and has these advantages over the unattended version of this program:
 - No calibration is needed. This program will detect a shiny from its animation.
@@ -11,7 +17,7 @@ This program will automatically hunt for a shiny strong spawn and automatically 
 
 [Demo Video.mp4](https://cdn.discordapp.com/attachments/755635697737531544/822487995407532032/StrongSpawn.mp4)
 
-<img src="https://github.com/PokemonAutomation/SwSh-Arduino/raw/master/Documentation/SerialPrograms/images/ShinyHuntAutonomous-StrongSpawn.jpg" width="800">
+<img src="images/ShinyHuntAutonomous-StrongSpawn-0.jpg" width="800">
 
 ### Setup of Settings
 
@@ -42,15 +48,16 @@ This program will automatically hunt for a shiny strong spawn and automatically 
 4. Change the date forward and backwards one day. (This forces a day skip while resetting the date.)
 5. Save the game.
 6. Close the game.
-7. Start the program in the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+7. Start the program in the Switch home or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
-***
 
-### Options
+## Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
 There is no option to search only for a square shiny. Nearly all shinies are square and only 15/65536 are star. Therefore it is infeasible to hunt for star shiny.
+
+<img src="images/ShinyHuntAutonomous-StrongSpawn-Settings.png">
 
 ### Go Home when Done:
 
@@ -60,17 +67,20 @@ After finding a shiny, go to the Switch Home to idle. Turn this off for unattend
 
 Every this many hours, rollback the time by this many hours. This keeps the time constant to prevent the weather from changing. It also allows you to target time-specific marks. Set this to zero to disable this feature.
 
-***
-
-### Video Feedback:
-
-**This program requires video feedback.**
-
-***
-
 ## Troubleshooting
 
 If you start the program and the target Pokémon does not pop-up below you:
 1. Stop the program.
 2. Move to where the Pokémon spawned.
 3. Redo the steps in "Run Program Instructions".
+
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
+
+
