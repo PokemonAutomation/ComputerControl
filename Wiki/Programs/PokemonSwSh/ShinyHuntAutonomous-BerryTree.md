@@ -6,7 +6,7 @@ This program will shiny hunt the berry tree encounters.
 
 [Demo Video.mov](https://cdn.discordapp.com/attachments/755635697737531544/821977215725469726/2021-03-18_00-21-14.mp4)
 
-<img src="images/ShinyHuntAutonomous-BerryTree.jpg" width="800">
+<img src="images/ShinyHuntAutonomous-BerryTree-0.jpg" width="800">
 
 Unlike the Shiny Hunt (Unattended) programs, the Autonomous programs require *no* calibration. This program needs a capture card to detect a shiny from its animation.
 
