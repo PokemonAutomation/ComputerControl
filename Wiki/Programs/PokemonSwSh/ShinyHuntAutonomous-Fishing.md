@@ -6,7 +6,7 @@ This program will shiny hunt fishing encounters.
 
 [Demo Video.mov](https://cdn.discordapp.com/attachments/755635697737531544/823709108150075412/2021-03-22_19-04-14.mp4)
 
-<img src="https://github.com/PokemonAutomation/SwSh-Arduino/raw/master/Documentation/SerialPrograms/images/ShinyHuntAutonomous-Fishing.jpg" width="800">
+<img src="images/ShinyHuntAutonomous-Fishing-0.jpg" width="800">
 
 Unlike the Shiny Hunt (Unattended) programs, the Autonomous programs require no calibration. This program needs a capture card to detect a shiny from its animation.
 
@@ -36,33 +36,31 @@ Unlike the Shiny Hunt (Unattended) programs, the Autonomous programs require no 
 1. Stand in front of a fishing spot.
 2. Save.
 3. Return to overworld (not inside the menu).
-4. Start the program in the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+4. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Default Program Settings
 
 * When a shiny is found, the program will save a video of the encounter.
 * The program will keep track of encounter statistics.
 
-***
 
-### Options
+## Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
 There is no option to search only for a square shiny. Nearly all shinies are square and only 15/65536 are star. Therefore it is infeasible to hunt for star shiny.
 
+<img src="images/ShinyHuntAutonomous-Fishing-Settings.png">
 
 ### Go Home when Done:
 
 After finding a shiny, go to the Switch Home to idle. Turn this off for unattended streaming so that your viewers can see the shiny.
-
 
 ### Game Language:
 
 If set to a language, the program will attempt to read the name of each Pokémon you encounter and log it.
 
 If you are playing in an Asian language (Japanese, Korean, Chinese), set your video resolution to 1080p or higher. These languages are difficult to accurately read with text recognition at low resolutions.
-
 
 ### Time Rollback:
 
@@ -81,8 +79,13 @@ After running, wait this long to return to the overworld. The program will resum
 
 Wait this long for the fishing spot to respawn.
 
-***
 
-### Video Feedback:
+<hr>
 
-**This program requires video feedback.**
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
+
+
