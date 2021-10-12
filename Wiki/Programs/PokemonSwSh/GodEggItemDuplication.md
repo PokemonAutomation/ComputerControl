@@ -1,8 +1,8 @@
 # God Egg Item Dupe
 
 **Related Programs:**
-- **Microcontroller:** [God Egg Item Dupe](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/GodEggItemDupe.md)
-- **Computer Control:** [God Egg Item Dupe](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/GodEggItemDupe.md) (this program)
+- **Microcontroller:** [God Egg Item Dupe](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/GodEggItemDuplication.md)
+- **Computer Control:** [God Egg Item Dupe](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/GodEggItemDuplication.md) (this program)
 
 The microcontroller and computer-control versions of this program are functionally identical.
 
