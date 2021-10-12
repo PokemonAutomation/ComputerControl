@@ -11,7 +11,7 @@
 
 ***These programs are still in development. They are not yet available to the public. The documentation here is preliminary and may change.***
 
-The Max Lair programs (also known as "Serial AutoDA") are program that plays and shiny-hunts the Dynamax Adventures. It is the to [AutoMaxLair](https://github.com/PokemonAutomation/AutoMaxLair).
+The Max Lair programs (also known as "Serial AutoDA") are programs that play and shiny-hunt the Dynamax Adventures. They are the successor to [AutoMaxLair](https://github.com/PokemonAutomation/AutoMaxLair).
 
 The AutoDA programs will:
 
