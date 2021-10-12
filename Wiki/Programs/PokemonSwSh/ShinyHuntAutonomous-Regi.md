@@ -1,8 +1,15 @@
 # Shiny Hunt (Autonomous) - Regi
 
+**Related Programs:**
+- **Microcontroller:** [Shiny Hunt: Regi](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ShinyHunt-Regi.md)
+- **Microcontroller:** [Shiny Hunt Unattended: Regi](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-Regi.md)
+- **Computer Control:** [Shiny Hunt Unattended: Regi](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-Regi.md)
+- **Computer Control:** [Shiny Hunt Autonomous: Regi](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-Regi.md) (this program)
+
+
 ## Program Description
 
-This is the autonomous version of [ShinyHuntUnattended-Regi](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Basic:-ShinyHuntUnattended-Regi).
+This is the autonomous version of [ShinyHuntUnattended-Regi](ShinyHuntUnattended-Regi.md).
 
 This program will automatically hunt for a shiny Regi golem and automatically stop on a shiny. It requires video feedback and has these advantages over the unattended version of this program:
 - No calibration is needed. This program will detect a shiny from its animation.
@@ -17,8 +24,8 @@ This program will automatically hunt for a shiny Regi golem and automatically st
 - [Star.mov](https://cdn.discordapp.com/attachments/755635697737531544/821048280187928616/2021-03-15_10-31-35.mp4)
 - [Square.mov](https://cdn.discordapp.com/attachments/755635697737531544/824087881119301672/2021-03-23_20-06-38.mp4)
 
-<img src="https://github.com/PokemonAutomation/SwSh-Arduino/raw/master/Documentation/SerialPrograms/images/ShinyHuntAutonomous-Regi.jpg" width="800">
-<img src="https://github.com/PokemonAutomation/SwSh-Arduino/raw/master/Documentation/SerialPrograms/images/ShinyHuntAutonomous-Regi-Square.jpg" width="800">
+<img src="ShinyHuntAutonomous-Regi.jpg" width="800">
+<img src="ShinyHuntAutonomous-Regi-Square.jpg" width="800">
 
 ### Setup of Settings
 
@@ -45,7 +52,7 @@ This program will automatically hunt for a shiny Regi golem and automatically st
 2. Stand in front of the statue.
 3. Save.
 4. Return to overworld (not inside the menu).
-5. Start the program in the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+5. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
    > **If hunting for Regieleki or Regidrago, you must be locked into your choice.**
    >    1. Light the floor with your choice.
@@ -61,11 +68,12 @@ This program will automatically hunt for a shiny Regi golem and automatically st
 - This program will keep track of encounter statistics.
 - If the program gets stuck, it will exit and re-enter the building.
 
-***
 
-### Options
+## Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
+
+<img src="ShinyHuntAutonomous-Regi-Settings.png">
 
 ### Go Home when Done:
 
@@ -98,8 +106,13 @@ After running, wait this long to return to the overworld. The program will resum
 
 The time needed to enter and exit the building during a correction.
 
-***
 
-### Video Feedback:
+<hr>
 
-**This program requires video feedback.**
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
+
+
