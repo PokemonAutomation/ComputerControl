@@ -24,8 +24,8 @@ This program will automatically hunt for a shiny Regi golem and automatically st
 - [Star.mov](https://cdn.discordapp.com/attachments/755635697737531544/821048280187928616/2021-03-15_10-31-35.mp4)
 - [Square.mov](https://cdn.discordapp.com/attachments/755635697737531544/824087881119301672/2021-03-23_20-06-38.mp4)
 
-<img src="ShinyHuntAutonomous-Regi.jpg" width="800">
-<img src="ShinyHuntAutonomous-Regi-Square.jpg" width="800">
+<img src="images/ShinyHuntAutonomous-Regi-0.jpg" width="800">
+<img src="images/ShinyHuntAutonomous-Regi-Square-0.jpg" width="800">
 
 ### Setup of Settings
 
@@ -73,7 +73,7 @@ This program will automatically hunt for a shiny Regi golem and automatically st
 
 This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
-<img src="ShinyHuntAutonomous-Regi-Settings.png">
+<img src="images/ShinyHuntAutonomous-Regi-Settings.png">
 
 ### Go Home when Done:
 
