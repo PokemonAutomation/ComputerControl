@@ -1,8 +1,15 @@
 # Shiny Hunt (Autonomous) - Regigigas 2
 
+**Related Programs:**
+- **Microcontroller:** [Shiny Hunt Unattended: Regigigas](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-Regigigas.md)
+- **Microcontroller:** [Shiny Hunt Unattended: Regigigas2](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-Regigigas2.md)
+- **Computer Control:** [Shiny Hunt Unattended: Regigigas2](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-Regigigas2.md)
+- **Computer Control:** [Shiny Hunt Autonomous: Regigigas2](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-Regigigas2.md) (this program)
+
+
 ## Program Description
 
-This is the autonomous version of [ShinyHuntUnattended-Regigigas2](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Basic:-ShinyHuntUnattended-Regigigas2).
+This is the autonomous version of [ShinyHuntUnattended-Regigigas2](ShinyHuntUnattended-Regigigas2.md).
 
 This program will automatically hunt for Regigigas and automatically stop on a shiny. It fully utilizes video feedback and has these advantages over the unattended version of this program:
 - No calibration is needed. This program will detect a shiny from its animation.
@@ -15,8 +22,8 @@ This program will automatically hunt for Regigigas and automatically stop on a s
 
 [Demo Video.mov](https://cdn.discordapp.com/attachments/755635697737531544/822702343606632458/2021-03-20_00-22-46.mp4)
 
-<img src="https://raw.githubusercontent.com/PokemonAutomation/SwSh-Arduino/master/Documentation/SerialPrograms/images/ShinyHuntAutonomous-Regigigas2.jpg" width="800">
-<img src="https://github.com/PokemonAutomation/SwSh-Arduino/raw/master/Documentation/SerialPrograms/images/ShinyHuntAutonomous-Regigigas2-Square.jpg" width="800">
+<img src="images/ShinyHuntAutonomous-Regigigas2-0.jpg" width="800">
+<img src="images/ShinyHuntAutonomous-Regigigas2-1.jpg" width="800">
 
 ### Setup of Settings
 
@@ -39,8 +46,10 @@ This program will automatically hunt for Regigigas and automatically stop on a s
 
 Here is an example of a lead Pokémon that is properly setup to guarantee a OHKO on Regigigas.
 
-<img src="https://github.com/PokemonAutomation/SwSh-Arduino/raw/master/Documentation/NativePrograms/images/ShinyHuntUnattended-Regigigas2-0.png" width="400"> <img src="https://github.com/PokemonAutomation/SwSh-Arduino/raw/master/Documentation/NativePrograms/images/ShinyHuntUnattended-Regigigas2-1.png" width="400">
-<img src="https://github.com/PokemonAutomation/SwSh-Arduino/raw/master/Documentation/NativePrograms/images/ShinyHuntUnattended-Regigigas2-2.png" width="400">
+<img src="images/ShinyHuntUnattended-Regigigas2-1.png" width="400"> <img src="images/ShinyHuntUnattended-Regigigas2-2.png" width="400">
+<img src="images/ShinyHuntUnattended-Regigigas2-3.png" width="400">
+
+(The position of the move "Reversal" should be in the 1st slot instead of the 2nd as shown in these pictures.)
 
    > **Recommended for Performance:**
    > - Battle animations are off.
@@ -54,7 +63,7 @@ Here is an example of a lead Pokémon that is properly setup to guarantee a OHKO
 2. The `REVERSAL_PP` parameter must be set to no more than the amount of PP of your second move.
 3. Save. 
 4. You must be in the overworld. (not inside the menu)
-5. Start the program in the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+5. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Default Program Settings
 
@@ -64,11 +73,12 @@ Here is an example of a lead Pokémon that is properly setup to guarantee a OHKO
  - This program will keep track of encounter statistics.
  - If the program gets stuck, it will exit and re-enter the building.
 
-***
 
-### Options
+## Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
+
+<img src="images/ShinyHuntAutonomous-Regigigas2-Settings.png">
 
 ### Go Home when Done:
 
@@ -98,8 +108,13 @@ These are advanced settings. You shouldn't need to touch these unless something 
 
 The amount of time from when you choose not to catch Regigigas to when you return to the overworld.
 
-***
 
-### Video Feedback:
+<hr>
 
-**This program requires video feedback.**
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
+
+

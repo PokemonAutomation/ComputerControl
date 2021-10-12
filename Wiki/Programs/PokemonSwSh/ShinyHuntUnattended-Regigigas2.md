@@ -66,8 +66,6 @@ Here is an example of a lead Pokémon that is properly setup to guarantee a OHKO
 <img src="images/ShinyHuntUnattended-Regigigas2-1.png" width="400"> <img src="images/ShinyHuntUnattended-Regigigas2-2.png" width="400">
 <img src="images/ShinyHuntUnattended-Regigigas2-3.png" width="400">
 
-(The position of the move "Reversal" should be in the 1st slot instead of the 2nd as shown in these pictures.)
-
 ### Instructions
 
 1. You must be saved in front of the Regigigas den.
@@ -115,6 +113,7 @@ The amount of time from when you attack Regigigas to when you can choose to catc
 ### Catch to Overworld Delay:
 
 The amount of time from when you choose not to catch Regigigas to when you return to the overworld.
+
 
 <hr>
 
