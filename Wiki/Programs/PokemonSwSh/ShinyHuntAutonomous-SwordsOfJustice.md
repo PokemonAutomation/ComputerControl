@@ -9,7 +9,7 @@
 
 ## Program Description
 
-This is the autonomous version of [ShinyHuntUnattended-SwordsOfJustice](ShinyHuntUnattended-SwordOfJustice.md).
+This is the autonomous version of [ShinyHuntUnattended-SwordsOfJustice](ShinyHuntUnattended-SwordsOfJustice.md).
 
 This program will automatically hunt for a shiny Sword of Justice and automatically stop on a shiny. It fully utilizes video feedback and has these advantages over the unattended version of this program:
 - No calibration is needed. This program will detect a shiny from its animation.
