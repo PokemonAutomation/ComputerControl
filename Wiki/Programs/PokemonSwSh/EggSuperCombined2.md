@@ -94,7 +94,7 @@ Starting with Box 3 as the current box, the program will:
    > All recommendations, precautions, and usage tips for EggCombined apply to this program as well.
 
 ### Additional Recommendations:
-- See [Maximizing Switch Stability](/Wiki/Programs/NintendoSwitch/SwitchStability.md). The MassRelease portion of this program is sensitive to jitter.
+- See [Maximizing Switch Stability](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/SwitchStability.md). The MassRelease portion of this program is sensitive to jitter.
 - Don't leave any Pokémon you care about in the game. It goes without saying that mass-release is inherently dangerous to run unattended.
 - Use a dedicated game with 32 empty boxes. If you're at the point where you're considering this program for optimized egg hatching, you might as well just speedrun a new game and shiny charm it with a living dex that you probably already have sitting in Pokémon Home.
 
