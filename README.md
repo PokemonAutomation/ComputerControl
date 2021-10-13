@@ -27,6 +27,14 @@ If you came here intending to run AutoMaxLair you must still go through here as 
 
 <img src="Wiki/images/server-banner.png" width="800">
 
+## Computer-Control Automation
+
+The next level game console automation using computer control, machine learning, and artificial intelligence.
+
+<img src="Wiki/Hardware/images/serial-setup.jpg" width="800">
+<img src="Wiki/Programs/PokemonSwSh/images/ShinyHuntAutonomous-Overworld-1.jpg" width="800">
+<img src="Wiki/Programs/PokemonSwSh/images/MaxLair-0.png" width="800">
+
 
 
 
