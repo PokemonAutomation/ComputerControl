@@ -2,6 +2,8 @@
 
 This section covers the required hardware for users who have the Arduino Uno R3.
 
+***Be aware that the Arduino Uno R3 cannot run all the computer-control programs. As a result it also deprecated. We recommend switching to a different microcontroller if possible.***
+
 ## Hardware Requirements
 
 **Microcontroller Hardware:**
