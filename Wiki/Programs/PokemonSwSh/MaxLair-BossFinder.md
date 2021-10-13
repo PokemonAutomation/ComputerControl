@@ -47,7 +47,7 @@ This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/Ninten
 
 ### Host Switch
 
-When running multiple Switches, this selects which one will be the hosting Switch. The host will be able to pick the boss. Everyone else will join the host.
+When running multiple Switches, this selects which one will be the hosting Switch.
 
 
 ## Per-Switch Options
