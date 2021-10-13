@@ -4,7 +4,10 @@ This is a list of all the computer-control programs. To run these programs, you 
 
 For microcontroller-only programs, go to the [Microcontroller repository](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md).
 
-Nearly all microcontroller programs are also available as computer-control programs.
+Nearly every program that exists for microcontroller is also available here under computer-control.
+Many of the programs here are direct ports of the microcontroller versions and will function identically without utilizing video feedback.
+
+Therefore, computer-control programs completely supercede the microcontroller programs if you have the hardware for it.
 
 ## Nintendo Switch
 
