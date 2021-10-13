@@ -21,7 +21,12 @@ Your computer must be sufficiently powerful:
 
 ## Serial Hardware
 
-(introduction)
+In order to use computer-control programs, your computer needs to be able to control your game console (duh!).
+
+The way we do it is by using a [serial connection](https://en.wikipedia.org/wiki/Serial_port) to connect the microcontroller to the computer. This allows the computer to take control of your game console. But some programs also need to see the screen! So a video capture card is also needed.
+
+<img src="/Wiki/Hardware/images/serial-setup.jpg ">
+
 
 The serial hardware setup will depend on what microcontroller you have.
 
