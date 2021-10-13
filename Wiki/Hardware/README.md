@@ -5,6 +5,7 @@ This is the guide for buying and setting up the hardware for the computer-contro
 If you already have the hardware, skip ahead to the software tutorial.
 - [Software Tutorial](/Wiki/Software/README.md)
 
+
 ## Before you Begin
 
 Before you begin, make sure you meet all of the following requirements:
