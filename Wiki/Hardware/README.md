@@ -12,6 +12,8 @@ Before you begin, make sure you meet all of the following requirements:
 
 1. You have a working [microcontroller setup](https://github.com/PokemonAutomation/Microcontroller) and you know how to run microcontroller programs.
 2. You have computer running 64-bit Windows. As of this writing, no platforms other than 64-bit Windows are supported.
+3. You have a regular Switch (not a Switch Lite) if you want to use programs requiring video feedback.
+4. Be willing to spend an additional $20 - $50 USD for the new hardware.
 
 Your computer must be sufficiently powerful:
 
