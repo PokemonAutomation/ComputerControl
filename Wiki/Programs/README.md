@@ -25,7 +25,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 - [Pokémon Setttings](PokemonSwSh/PokemonSettings.md)
 
-## QoL Macros
+### QoL Macros
 
 - [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md)
 - [Friend Search Disconnect](PokemonSwSh/FriendSearchDisconnect.md)
