@@ -22,7 +22,7 @@ It also supports the following enhancements:
 
 1. **Multi-Switch Support:** The ability to run multiple Switch with a collaborative AI to increase win-rate.
 2. **Online Mode:** Play online with other people.
-3. **Auto-Hosting: ** Host online with one or more Switches and have others join you.
+3. **Auto-Hosting:** Host online with one or more Switches and have others join you.
 4. Support for all 9 languages in Sword/Shield.
 
 The online and auto-hosting functionality makes it possible for multiple people to run the same program in lock-step and automatically join/help each other.
