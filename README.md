@@ -25,8 +25,6 @@ If you came here intending to run AutoMaxLair you must still go through here as 
   - [Pokémon Brilliant Diamond/Shining Pearl (coming soon...)](Wiki/Programs/README.md#pokémon-brilliant-diamondshining-pearl)
 - [Version History](Wiki/VersionHistory.md)
 
-<img src="Wiki/images/server-banner.png" width="800">
-
 ## Computer-Control Automation
 
 The next level game console automation using computer control, machine learning, and artificial intelligence.
