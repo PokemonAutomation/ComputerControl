@@ -11,7 +11,8 @@
 
 ## Program Description
 
-This program runs a DAs with a specific boss until the boss turns up shiny. It does not reset the game or try to preserve balls. Thus the path is random every time.
+This program runs adventures with a specific boss until the boss turns up shiny. It does not reset the game or try to preserve balls, thus the path is random every time.
+It will take any non-boss shinies it finds. If there are multiple non-boss shinies, it takes the first one and continues.
 
 ### Setup of Settings
 

@@ -11,8 +11,8 @@
 
 ## Program Description
 
-This program looks for a specific boss. It runs DAs with random bosses until it reaches a specific stop condition.
-It does not reset the game or try to preserve balls. Thus the path is random every time.
+This program looks for a specific boss. It runs adventures with random bosses until it reaches a specific stop condition.
+It does not reset the game or try to preserve balls, thus the path is random every time.
 
 The stop conditions can be specified on a per-boss basis:
 - Catch and always stop program. (use this if you're looking for this boss)
