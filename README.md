@@ -9,7 +9,7 @@ All Repos:
 
 If you are new to automation you should start with the [microcontroller programs](https://github.com/PokemonAutomation/Microcontroller). Everything here builds off of the microcontroller programs.
 
-If you came here intending to run AutoMaxLair you must still go through here as the hardware setup is identical.
+If you came here intending to run [AutoMaxLair](https://github.com/PokemonAutomation/AutoMaxLair) you must still go through here as the hardware setup is identical.
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
 
