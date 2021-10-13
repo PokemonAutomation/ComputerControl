@@ -16,7 +16,7 @@ Unlike the Shiny Hunt (Unattended) programs, the Autonomous programs require no 
 2. Video Resolution: 1280 x 720 or higher in program settings
    > Shiny detection is not reliable at low resolutions.
    > If playing in an Asian language, your video resolution need to be 1080p. Text recognition is more accurate at higher resolutions.
-3. Test Speed: Fast
+3. Text Speed: Fast
 4. Casual mode: Off
 5. System time: Un-synced
 

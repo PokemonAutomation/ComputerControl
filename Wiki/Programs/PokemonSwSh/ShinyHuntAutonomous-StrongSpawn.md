@@ -24,7 +24,7 @@ This program will automatically hunt for a shiny strong spawn and automatically 
 1. Screen size: Must be 100% within the Switch settings
 2. Video Resolution: 1280 x 720 or higher in program settings
    > Shiny detection is not reliable at low resolutions.
-3. Test Speed: Fast
+3. Text Speed: Fast
 4. Casual mode: Off
 5. System time: Un-synced
 6. Switch Date: Change the date to one that has the appropriate weather for your desired strong spawn.

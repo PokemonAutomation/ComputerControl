@@ -13,7 +13,7 @@ You can't shiny-hunt these, so you might as well go for stats...
 1. Screen size: Must be 100% within the Switch settings
 2. Video Resolution: 1280 x 720 or higher in program settings
    > Shiny detection is not reliable at low resolutions.
-3. Test Speed: Fast
+3. Text Speed: Fast
 4. Casual mode: Off
 5. Setup of menu icons are in their default locations
    1. The Pokémon option must be in the 1st row, 2nd from the left.

@@ -30,7 +30,7 @@ This program will automatically hunt for Regigigas and automatically stop on a s
 1. Screen size: Must be 100% within the Switch settings
 2. Video Resolution: 1280 x 720 or higher in program settings
    > Shiny detection is not reliable at low resolutions.
-3. Test Speed: Fast
+3. Text Speed: Fast
 4. Casual mode: Off
 5. System time: Un-synced
 

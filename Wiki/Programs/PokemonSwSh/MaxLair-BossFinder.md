@@ -25,7 +25,7 @@ Since this program does not know the boss for each adventure, win rates will be 
 
 1. Screen size: Must be 100% within the Switch settings
 2. Video Resolution: 1920 x 1080 or higher in program settings.
-3. Test Speed: Fast
+3. Text Speed: Fast
 4. Casual mode: Off
 
 This must be done to all participating Switches.
