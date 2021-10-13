@@ -50,9 +50,12 @@ This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/Ninten
 
 When running multiple Switches, this selects which one will be the hosting Switch. The host will be able to pick the boss. Everyone else will join the host.
 
+
+## Per-Switch Options
+
 ### Game Language
 
-This option is a per-Switch option. You must pick the language that matches the game language.
+You must pick the language that matches the game language.
 
 ### Normal Ball
 

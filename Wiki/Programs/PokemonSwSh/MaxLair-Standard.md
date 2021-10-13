@@ -50,9 +50,12 @@ The slot number of the boss.
 - Slot 2: The 2nd boss on the list.
 - Slot 3: The 3rd boss on the list.
 
+
+## Per-Switch Options
+
 ### Game Language
 
-This option is a per-Switch option. You must pick the language that matches the game language.
+You must pick the language that matches the game language.
 
 ### Normal Ball
 
