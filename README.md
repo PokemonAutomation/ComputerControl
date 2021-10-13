@@ -2,6 +2,8 @@
 
 This repo contains the computer-control programs (formerly known as "serial programs") for Pokémon Automation.
 
+[More information about this project.](https://github.com/PokemonAutomation/About/blob/master/README.md)
+
 All Repos:
 - [Microcontroller Programs](https://github.com/PokemonAutomation/Microcontroller)
 - [Computer-Control Programs](https://github.com/PokemonAutomation/ComputerControl) (this repo)
