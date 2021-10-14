@@ -1,4 +1,4 @@
-# Day Skipper (JPN)
+# Day Skipper (JPN - 7.8k)
 
 **Related Programs:**
 - **Microcontroller:** [Day Skipper (JPN)](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperJPN.md)
