@@ -1,4 +1,4 @@
-## AutoHost-Rolling
+# AutoHost-Rolling
 
 **Related Programs:**
 - **Microcontroller:** [Auto-Host Rolling](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/AutoHost-Rolling.md)
