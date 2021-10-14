@@ -11,7 +11,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Nintendo Switch
 
-| **Program** | **Video Feedback** | **Teensy** | **Pro Micro** | **Arduino Uno R3** |
+| **Program** | **Video Feedback** | **Teensy(++) 2.0** | **Pro Micro** | **Arduino Uno R3** |
 | --- | --- | --- | --- | --- |
 | [Framework Setttings](NintendoSwitch/FrameworkSettings.md)        | --- | --- | --- | --- |
 | [Virtual Console](NintendoSwitch/VirtualConsole.md)               | ---      | Yes | Yes | Yes |
@@ -25,7 +25,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Pokémon Sword/Shield
 
-| **Program** | **Video Feedback** | **Teensy** | **Pro Micro** | **Arduino Uno R3** |
+| **Program** | **Video Feedback** | **Teensy(++) 2.0** | **Pro Micro** | **Arduino Uno R3** |
 | --- | --- | --- | --- | --- |
 | [Pokémon Setttings](PokemonSwSh/PokemonSettings.md)        | --- | --- | --- | --- |
 ||
