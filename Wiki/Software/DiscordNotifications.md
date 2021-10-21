@@ -47,7 +47,7 @@ For now, you can leave the Tags alone. These let you control what types of notif
 
 At this point, the webhook should be working and programs that send notifications will now appear in your channel. But let's test it to make sure.
 
-Navigate to any program that sends notifications. All programs that send notifications will have the following section near the bottom of the settings. When you find it, check the box to enable the notifications.
+Navigate to any program that sends notifications. All programs that send notifications will have the following section near the bottom of the settings.
 
 <img src="images/discord-notifications-event-settings-0.png">
 
@@ -88,7 +88,7 @@ This lets you filter what events are sent down this webhook. The way it works is
 
 A notification is sent down the webhook only if all of these conditions are met:
 1. The webhook is enabled. ("Enabled" is checked)
-2. The corresponding event in the program is enabled. ("Enable" is checked)
+2. The corresponding event in the program is enabled. (Notifications are enabled for the program and "Enable" is checked for the respective event.)
 3. There is at least one tag in common between the webhook and the event type in the program.
 4. The event that is being sent is not being rate limited.
 
