@@ -59,7 +59,7 @@ If it doesn't, there can literally be a million things wrong. A good place to st
 
 ### Advanced Settings
 
-Of course there's a lot more to the webhook settings than the guide aboves covers. This section will cover the rest of them.
+Now that you have a webhook working, here's the guide for the remaining webhook settings.
 
 **Multiple Webhooks:**
 
