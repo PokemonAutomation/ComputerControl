@@ -71,7 +71,7 @@ This lets you turn on or off the entire webhook. If unchecked, nothing will be s
 
 **Column: "Description"**
 
-Enter your own description for this webhook to you can identify them.
+Enter your own description for this webhook so you can identify them. This doesn't matter if you only have webhook, but is very useful when you have many of them.
 
 **Column: "Allow Pings"**
 
