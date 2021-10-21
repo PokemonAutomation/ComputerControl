@@ -45,7 +45,7 @@ For now, you can leave the Tags alone. These let you control what types of notif
 
 ### Step 4: Send a test message.
 
-At this point, the webhook should be working and programs that sent notifications will now appear in your channel. But let's test it to make sure.
+At this point, the webhook should be working and programs that send notifications will now appear in your channel. But let's test it to make sure.
 
 Navigate to any program that sends notifications. All programs that send notifications will have the following section near the bottom of the settings. When you find it, check the box to enable the notifications.
 
