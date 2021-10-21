@@ -41,9 +41,7 @@ Once you have your webhook URL, check the box for "Discord Webhook Settings" to 
 
 Paste the webhook URL into respective box. It will be blanked out just like a password.
 
-You can optionally enter a description for the webhook. This is only for your own purposes and is useful when managing multiple webhooks.
-
-For now, you can leave the Tags alone. These let you control what types of notifications are sent to which webhooks and will be explained in a later section.
+For now, leave all the other options alone.
 
 ## Step 4: Send a test message.
 
