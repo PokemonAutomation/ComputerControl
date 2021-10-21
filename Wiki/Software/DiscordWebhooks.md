@@ -1,4 +1,9 @@
-# Discord Notifications: Get program notifications on Discord!
+# Discord Webhook Notifications:
+
+**Back To:** [Discord Integration](DiscordIntegration.md)
+
+
+This section covers how to setup and customize notifications using Discord webhooks.
 
 Notifications can be useful for various things. For example:
 1. Get notified when a shiny is found.
@@ -8,17 +13,14 @@ Notifications can be useful for various things. For example:
 <img src="images/discord-notifications-0.png" height="600">
 
 
-## Discord Webhooks:
 
-Currently, the only form of notification that is supported are Discord Webhooks. Full integration is still under development and not available yet.
-
-### Step 1: Open up the Discord settings.
+## Step 1: Open up the Discord settings.
 
 Open up the serial programs and click on the Settings button in the bottom-left section. This opens up the settings panel. Scroll down to the Discord settings.
 
 <img src="images/discord-notifications-program-settings.png">
 
-### Step 2: Get your Discord user ID.
+## Step 2: Get your Discord user ID.
 
 Your Discord ID is not "Username#1234". It's actually just a number. To get your Discord ID, [follow this guide](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).
 
@@ -27,7 +29,7 @@ Paste your ID into the "Discord User ID box."
 <img src="images/discord-notifications-program-settings-userid.png">
 
 
-### Step 3: Create a webhook.
+## Step 3: Create a webhook.
 
 [Follow this guide to create a webhook.](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
 
@@ -43,7 +45,7 @@ You can optionally enter a description for the webhook. This is only for your ow
 
 For now, you can leave the Tags alone. These let you control what types of notifications are sent to which webhooks and will be explained in a later section.
 
-### Step 4: Send a test message.
+## Step 4: Send a test message.
 
 At this point, the webhook should be working and programs that send notifications will now appear in your channel. But let's test it to make sure.
 
@@ -57,23 +59,23 @@ Click on any of the "Send Test Message" buttons. If everything worked properly, 
 
 If it doesn't, there can literally be a million things wrong. A good place to start is to open up the Output Window and look for any errors.
 
-### Advanced Settings
+## Advanced Settings
 
 Now that you have a webhook working, here's the guide for the remaining webhook settings.
 
-**Multiple Webhooks:**
+### Multiple Webhooks:
 
 The application supports multiple webhooks. This lets you send notifications do multiple channels/servers. (for example, live-hosting in multiple servers, or showing off your shinies)
 
-**Column: "Enabled"**
+### Column: "Enabled"
 
 This lets you turn on or off the entire webhook. If unchecked, nothing will be sent to that webhook. Thus you can disable webhooks without deleting them from the program.
 
-**Column: "Description"**
+### Column: "Description"
 
 Enter your own description for this webhook so you can identify them. This doesn't matter if you only have webhook, but is very useful when you have many of them.
 
-**Column: "Allow Pings"**
+### Column: "Allow Pings"
 
 If unchecked, you will never be pinged by that webhook. If checked, you will be pinged if the notification requests a ping.
 
@@ -82,7 +84,7 @@ In order to be pinged by a notification, all of these conditions must be met:
 2. "Allow Pings" is checked for this webhook.
 3. "Should Ping" is checked for the respective event in the program's discord notification settings.
 
-**Column: "Tags"**
+### Column: "Tags"
 
 This lets you filter what events are sent down this webhook. The way it works is as follows:
 
@@ -96,13 +98,9 @@ The tag can be any alpha-numeric string and must match exactly. By default the p
 
 A typical use-case is to send logs ("Notifs") down one channel while broadcasting live-hosting notifications to multiple servers.
 
-**Column: "Webhook URL"**
+### Column: "Webhook URL"
 
 The URL of the webhook. (duh!) It is blanked out because it is sensitive. Anyone with the URL can send anything they want down your webhook.
-
-## Discord Bot
-
-Full integration via a Discord bot is still under development. Stay tuned!
 
 
 
@@ -112,5 +110,9 @@ Full integration via a Discord bot is still under development. Stay tuned!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
+
+
 
 
