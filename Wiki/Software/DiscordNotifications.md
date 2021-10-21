@@ -12,30 +12,41 @@ Notifications can be useful for various things. For example:
 
 Currently, the only form of notification that is supported are Discord Webhooks. Full integration is still under development and not available yet.
 
-### Step 1: Create a Webhook.
+### Step 1: Open up the Discord settings.
 
-To do this, you need webhook permissions for the channel you wish to use. If you don't, you can create your own personal server.
+Open up the serial programs and click on the Settings button in the bottom-left section. This opens up the settings panel. Scroll down to the Discord settings.
 
-Navigate to the channel you want to you and click on the gear symbol to open up the settings. If you don't see the gear symbol, it means you do not have sufficient access to the channel.
+<img src="images/discord-notifications-program-settings.png">
 
-<img src="images/discord-notifications-1.png">
+### Step 2: Get your Discord user ID.
 
-On the left sidebar, click on the "Integrations" options. Then click on "View Webhooks".
+Your Discord ID is not "Username#1234". It's actually just a number. To get your Discord ID, [follow this guide](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).
 
-<img src="images/discord-notifications-2.png">
+Paste your ID into the "Discord User ID box."
 
-Click on "New Webhook" to create the webhook. Feel free to customize the name and avatar.
+<img src="images/discord-notifications-program-settings-userid.png">
 
-<img src="images/discord-notifications-3.png">
 
-Click on "Copy Webhook URL" to copy the URL.
+### Step 3: Create a webhook.
+
+[Follow this guide to create a webhook.](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
+
+Note that you will need webhook permissions for the channel you wish to use. If you don't, you can create your own personal server.
+
+Once you have your webhook URL, check the box for "Discord Webhook Settings" to enable it, then click "Add Row".
+
+<img src="images/discord-notifications-webhooks-0.png">
+
+Paste the webhook URL into respective box. It will be blanked out just like a password.
+
+You can optionally enter a description for the webhook. This is only for your own purposes and is useful when managing multiple webhooks.
+
+For now, you can leave the Tags alone. These let you control what types of notifications are sent to which webhooks. These will be explained later.
+
 
 
 ### Step 2: Add Webhook URL to Program Settings.
 
-Open up the serial programs and click on the Settings button in the bottom-left section. This opens up the settings panel. Scroll down to the Discord settings.
-
-<img src="images/discord-notifications-4.png">
 
 
 
