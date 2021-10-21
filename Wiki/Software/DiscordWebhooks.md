@@ -84,7 +84,7 @@ In order to be pinged by a notification, all of these conditions must be met:
 
 ### Column: "Tags"
 
-This lets you filter what events are sent down this webhook. The way it works is as follows:
+This lets you filter what events are sent down this webhook. A notification is only sent down a webhook if it shares a tag with the event itself.
 
 A notification is sent down the webhook only if all of these conditions are met:
 1. The webhook is enabled. ("Enabled" is checked)
@@ -92,7 +92,7 @@ A notification is sent down the webhook only if all of these conditions are met:
 3. There is at least one tag in common between the webhook and the event type in the program.
 4. The event that is being sent is not being rate limited.
 
-The tag can be any alpha-numeric string and must match exactly. By default the program pre-populates tags with "Notifs", "Showcase", and "LiveHost", but free to change them and make your own.
+The tag can be any alpha-numeric string and must match exactly. By default the program pre-populates the tags with "Notifs", "Showcase", and "LiveHost". You are free to change them or make your own.
 
 A typical use-case is to send logs ("Notifs") down one channel while broadcasting live-hosting notifications to multiple servers.
 
