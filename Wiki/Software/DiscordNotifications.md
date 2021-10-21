@@ -47,7 +47,7 @@ For now, you can leave the Tags alone. These let you control what types of notif
 
 At this point, the webhook should be working and programs that sent notifications will now appear in your channel. But let's test it to make sure.
 
-Navigate to any program that sends notifications. All programs that send notifications will have "Discord Notifications" section near the bottom of the settings. When you find it, check the box to enable the notifications.
+Navigate to any program that sends notifications. All programs that send notifications will have the following section near the bottom of the settings. When you find it, check the box to enable the notifications.
 
 <img src="images/discord-notifications-event-settings-0.png">
 
@@ -59,7 +59,46 @@ If it doesn't, there can literally be a million things wrong. A good place to st
 
 ### Advanced Settings
 
+Of course there's a lot more to the webhook settings than the guide aboves covers. This section will cover the rest of them.
 
+**Multiple Webhooks:**
+
+The application supports multiple webhooks. This lets you send notifications do multiple channels/servers. (for example, live-hosting in multiple servers, or showing off your shinies)
+
+**Column: "Enabled"**
+
+This lets you turn on or off the entire webhook. If unchecked, nothing will be sent to that webhook. Thus you can disable webhooks without deleting them from the program.
+
+**Column: "Description"**
+
+Enter your own description for this webhook to you can identify them.
+
+**Column: "Allow Pings"**
+
+If unchecked, you will never be pinged by that webhook. If checked, you will be pinged if the notification requests a ping.
+
+In order to be pinged by a notification, all of these conditions must be met:
+1. The notification is sent down this webhook.
+2. "Allow Pings" is checked for this webhook.
+3. "Should Ping" is checked for the respective event in the program's discord notification settings.
+
+**Column: "Tags"**
+
+This lets you filter what events are sent down this webhook. The way it works is as follows:
+
+A notification is sent down the webhook only if all of these conditions are met:
+1. The webhook is enabled. ("Enabled" is checked)
+2. The corresponding event in the program is enabled. ("Enable" is checked)
+3. There is at least one tag in common between the webhook and the event type in the program.
+4. The event that is being sent is not being rate limited.
+
+The tag can be any alpha-numeric string and must match exactly. By default the program pre-populates tags with "Notifs", "Showcase", and "LiveHost", but free to change them and make your own.
+
+A typical use-case is to send logs ("Notifs") down one channel while broadcasting live-hosting notifications to multiple servers.
+
+**Column: "Webhook URL"**
+
+The URL of the webhook. (duh!) It is blanked out because it is sensitive. Anyone with the URL can send anything they want down your webhook.
 
 ## Discord Bot
 
