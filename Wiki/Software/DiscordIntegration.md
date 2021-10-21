@@ -5,7 +5,7 @@ The Computer-Programs application can integrate with Discord. These can be usefu
 1. Get notified when a shiny is found.
 2. Get notified when a long-running program is finished or otherwise needs your attention.
 3. Send notifications for live (real-time) hosting.
-4. Remotely control control your Switch via Discord bot commands. (under development)
+4. Remotely control your Switch via Discord bot commands. (under development)
 5. Remotely start/stop programs via Discord bot commands. (under development)
 
 <img src="images/discord-notifications-0.png" height="600">
