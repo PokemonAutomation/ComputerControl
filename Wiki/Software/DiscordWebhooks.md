@@ -63,7 +63,7 @@ Now that you have a webhook working, here's the guide for the remaining webhook 
 
 ### Multiple Webhooks:
 
-The application supports multiple webhooks. This lets you send notifications do multiple channels/servers. (for example, live-hosting in multiple servers, or showing off your shinies)
+The application supports multiple webhooks. This lets you send notifications to multiple channels/servers. (for example, live-hosting in multiple servers, or showing off your shinies) Likewise multiple webhooks can be used to sent different types of notifications to different channels.
 
 ### Column: "Enabled"
 
