@@ -61,7 +61,7 @@ This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/Ninten
 
 In addition to the main options below, there are more [global options](PokemonSettings.md) that can be configured if you encounter problems.
 
-<img src="images/GodEggItemDupe-Settings.png">
+<img src="images/GodEggItemDuplication-Settings.png">
 
 ### Fetch Attempts:
 

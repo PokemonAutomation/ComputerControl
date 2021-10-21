@@ -65,7 +65,7 @@ This is the ball that will be used to catch all non-boss Pokémon.
 
 ### Boss Ball
 
-This is the ball that will be used ot catch the boss.
+This is the ball that will be used to catch the boss.
 
 
 ## Hosting Options
@@ -73,9 +73,9 @@ This is the ball that will be used ot catch the boss.
 ### Mode
 
 Pretty self-explanatory. The options are:
-- Alone: Run by yourself using only Switches controlled by this program.
-- Host Locally: Allow other local Switches to join.
-- Host Online: Allow other people online to join.
+- **Alone:** Run by yourself using only Switches controlled by this program.
+- **Host Locally:** Allow other local Switches to join.
+- **Host Online:** Allow other people online to join.
 
 When hosting, you may not actually be the host. You may join someone else's lobby with a compatible boss selection. In reality, there is no distinction between host and non-host.
 The program is fully capable of playing as the non-primary player.
