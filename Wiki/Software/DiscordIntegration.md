@@ -11,7 +11,7 @@ The Computer-Programs application can integrate with Discord. These can be usefu
 <img src="images/discord-notifications-0.png" height="600">
 
 
-Sub-Articles:
+**Sub-Articles:**
 - [Discord Webhook Notifications](DiscordWebhooks.md)
 - Discord Bot (under development)
 
