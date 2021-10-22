@@ -10,9 +10,8 @@ Make sure you have all the [microcontroller hardware](https://github.com/Pokemon
 
 **Buy the following additional components:**
 1. Serial Board (**Pick one**)
-   1. UART Cable ([CP210x controller](https://www.adafruit.com/product/954))
-      > ***DO NOT get the Prolific (PLxxxx) controllers. They do not work. And they are explicitly blocked in the program. YOU HAVE BEEN WARNED!***
-      >  The Adafruit UART cable is reliable and beginner-friendly, but it is also quite expensive.
+   1. UART Cable ([CP210x controller](https://www.adafruit.com/product/954)) Adafruit UART cable is not the cheapest, but it is the most beginner-friendly.<br><br>
+      ***DO NOT get the Prolific (PLxxxx) controllers.* They do not work and they are explicitly blocked in the program.**<br><br>They are cheap because they do not work. If you buy it anyway, you will be wasting your time and money.<br><br>**YOU HAVE BEEN WARNED!**<br><br>
    2. CP210x board ([4 for $8](https://www.amazon.com/gp/product/B07T1XR9FT)) | ([2 for $8](https://www.amazon.com/gp/product/B07D6LLX19/)) | ([1 for $8](https://www.amazon.com/dp/B072K3Z3TL))
       >  If you are experienced (or confident), these are some cheaper alternatives which also work. These may require a trivial amount of extra wiring.
 2. Board Connection (**Pick one**)
