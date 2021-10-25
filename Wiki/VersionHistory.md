@@ -1,5 +1,18 @@
 # Version History
 
+
+### 2021-10-25:
+- PABotBase hex will now flash the LEDs to help with debugging serial connection errors.
+- Added support for auto-host notifications for #live-hosting channels.
+- Improved Discord webhook management and better control of notifications.
+- Dex Rec Finder will notify when it finds a match.
+- Dex Rec Finder now supports exclusions.
+- Date skippers will now send notifications on its progress.
+- Improved notifications for various programs.
+- WattFarmer now has a 5 second start delay to fix an issue that kills VS-glitch for people with slow connections. (thanks Big M#3359 for reporting this)
+- Updated all the documentation links to point to the new repo.
+- Numerous bug fixes.
+
 ### 2021-10-10:
 - New wiki that splits Microcontroller and Computer-Control programs.
 
