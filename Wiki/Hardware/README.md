@@ -34,9 +34,9 @@ The way we do it is by using a [serial connection](https://en.wikipedia.org/wiki
 
 The serial hardware setup will depend on what microcontroller you have.
 
+- [Arduino Leonardo](ArduinoLeonardo.md)
 - [Teensy 2.0 and Teensy++ 2.0](Teensy2.md)
 - [Pro Micro](ProMicro.md)
-- [Arduino Leonardo](ArduinoLeonardo.md)
 - [Arduino Uno R3](ArduinoUnoR3.md)
 
 
