@@ -36,6 +36,7 @@ The serial hardware setup will depend on what microcontroller you have.
 
 - [Teensy 2.0 and Teensy++ 2.0](Teensy2.md)
 - [Pro Micro](ProMicro.md)
+- [Arduino Leonardo](ArduinoLeonardo.md)
 - [Arduino Uno R3](ArduinoUnoR3.md)
 
 
