@@ -17,6 +17,7 @@ This program runs adventures with a specific boss until a stop condition is reac
 2. Video Resolution: 1920 x 1080 or higher in program settings.
 3. Text Speed: Fast
 4. Casual mode: Off
+5. System time: Un-synced
 
 This must be done to all participating Switches.
 
