@@ -9,7 +9,7 @@
 
 ## Program Description
 
-This program runs adventures with a specific boss until a stop condition is reached. ((see below)[#per-switch-options])
+This program runs adventures with a specific boss until a stop condition is reached. ([see below](#per-switch-options))
 
 ### Setup of Settings
 
