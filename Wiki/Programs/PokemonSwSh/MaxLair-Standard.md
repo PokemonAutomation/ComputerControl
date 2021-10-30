@@ -77,7 +77,7 @@ The possible actions are:
 2. Continue Running. Take any shiny non-boss Pokémon along the way.
 3. Reset the game.
 
-Resetting the game puts you back the entrance. While this costs ore, it will recover all the balls you used. If this Switch is the host, it will preserve the path that was just run.
+Resetting the game will cost ore in the long run, but will recover the balls you used. If this Switch is the host, it will preserve the path that was just run.
 
 ***Setting this option to reset on the host Switch is equivalent to "Keep Path" from AutoMaxLair.***
 
