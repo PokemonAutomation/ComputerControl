@@ -102,9 +102,9 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Raid Item Farmer (OHKO)](PokemonSwSh/RaidItemFarmerOHKO.md)             |          | Yes | Yes |
 ||
 | [**Auto Max Lair 2.0 (under development):**](PokemonSwSh/MaxLair.md) |
-| [Max Lair: Single Adventure](PokemonSwSh/MaxLair-SingleAdventure.md) | Required | Yes | Yes |
 | [Max Lair: Standard](PokemonSwSh/MaxLair-Standard.md)                | Required | Yes | Yes |
 | [Max Lair: Boss Finder](PokemonSwSh/MaxLair-BossFinder.md)           | Required | Yes | Yes |
+
 
 ## Pokémon Brilliant Diamond/Shining Pearl
 

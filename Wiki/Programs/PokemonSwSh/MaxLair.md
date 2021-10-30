@@ -1,10 +1,8 @@
 # Max Lair Programs
 
 **Program List:**
-- [Max Lair: Single Adventure](MaxLair-SingleAdventure.md)
 - [Max Lair: Standard](MaxLair-Standard.md)
 - [Max Lair: Boss Finder](MaxLair-BossFinder.md)
-- [Max Lair: Keep Path](MaxLair-KeepFinder.md) (doesn't exist yet)
 
 
 ## Program Description

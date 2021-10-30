@@ -3,16 +3,13 @@
 [Max Lair Info](MaxLair.md)
 
 **Related Programs:**
-- [Max Lair: Single Adventure](MaxLair-SingleAdventure.md)
 - [Max Lair: Standard](MaxLair-Standard.md) (this program)
 - [Max Lair: Boss Finder](MaxLair-BossFinder.md)
-- [Max Lair: Keep Path](MaxLair-KeepFinder.md) (doesn't exist yet)
 
 
 ## Program Description
 
-This program runs adventures with a specific boss until the boss turns up shiny. It does not reset the game or try to preserve balls, thus the path is random every time.
-It will take any non-boss shinies it finds. If there are multiple non-boss shinies, it takes the first one and continues.
+This program runs adventures with a specific boss until a stop condition is reached. ((see below)[#per-switch-options])
 
 ### Setup of Settings
 
@@ -27,9 +24,8 @@ This must be done to all participating Switches.
 
 1. Stand in front of the professor.
 2. Make sure you have at least one boss saved.
-3. Make sure you don't need to pay ore to start a new adventure.
-4. If the hosting mode is "Alone" or "Host Locally", all Switches need to be offline.
-5. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+3. If the hosting mode is "Alone" or "Host Locally", all Switches need to be offline.
+4. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 This must be done on all participating Switches.
 
@@ -66,6 +62,24 @@ This is the ball that will be used to catch all non-boss Pokémon.
 ### Boss Ball
 
 This is the ball that will be used to catch the boss.
+
+### No Shiny Action, Non-Boss Shiny Action, Shiny Boss Action
+
+At the end of each adventure, the result will be one of the following:
+1. No shinies found.
+2. One (or more) non-boss Pokémon is shiny.
+3. The boss is shiny.
+
+This option lets you tell the program what to do for each of these cases.
+
+The possible actions are:
+1. Stop Program. This stops the *entire* program - including for all Switches.
+2. Continue Running. Take any shiny non-boss Pokémon along the way.
+3. Reset the game.
+
+Resetting the game puts you back the entrance. While this costs ore, it will recover all the balls you used. If this Switch is the host, it will preserve the path that was just run.
+
+***Setting this option to reset on the host Switch is equivalent to "Keep Path" from AutoMaxLair.***
 
 
 ## Hosting Options

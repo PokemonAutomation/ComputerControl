@@ -3,10 +3,8 @@
 [Max Lair Info](MaxLair.md)
 
 **Related Programs:**
-- [Max Lair: Single Adventure](MaxLair-SingleAdventure.md)
 - [Max Lair: Standard](MaxLair-Standard.md)
 - [Max Lair: Boss Finder](MaxLair-BossFinder.md) (this program)
-- [Max Lair: Keep Path](MaxLair-KeepFinder.md) (doesn't exist yet)
 
 
 ## Program Description
@@ -15,9 +13,8 @@ This program looks for a specific boss. It runs adventures with random bosses un
 It does not reset the game or try to preserve balls, thus the path is random every time.
 
 The stop conditions can be specified on a per-boss basis:
-- Catch and always stop program. (use this if you're looking for this boss)
-- Catch and stop if shiny.
-- Do not catch and continue running.
+- Always stop program. (use this if you're looking for this boss)
+- Stop if shiny.
 
 Since this program does not know the boss for each adventure, win rates will be lower than the other modes.
 
@@ -33,9 +30,8 @@ This must be done to all participating Switches.
 ### Instructions
 
 1. Stand in front of the professor.
-2. Make sure you don't need to pay ore to start a new adventure.
-3. If the hosting mode is "Alone" or "Host Locally", all Switches need to be offline.
-4. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+2. If the hosting mode is "Alone" or "Host Locally", all Switches need to be offline.
+3. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 This must be done on all participating Switches.
 
@@ -60,10 +56,6 @@ You must pick the language that matches the game language.
 ### Normal Ball
 
 This is the ball that will be used to catch all non-boss Pokémon.
-
-### Boss Ball
-
-This is the ball that will be used ot catch the boss.
 
 
 ## Hosting Options
