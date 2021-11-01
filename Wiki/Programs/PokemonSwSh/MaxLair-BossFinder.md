@@ -31,8 +31,9 @@ This must be done to all participating Switches.
 ### Instructions
 
 1. Stand in front of the professor.
-2. If the hosting mode is "Alone" or "Host Locally", all Switches need to be offline.
-3. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+2. Make sure you have at least one boss saved.
+3. If the hosting mode is "Alone" or "Host Locally", all Switches need to be offline.
+4. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 This must be done on all participating Switches.
 
