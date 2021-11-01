@@ -28,9 +28,7 @@ This program will automatically hunt for a shiny Regina trade and stop on a shin
    > Shiny detection is not reliable at low resolutions.
 3. Text Speed: Fast
 4. Casual mode: Off
-5. System time: Un-synced
-6. VS (Y-Comm) glitch must be active
-7. Setup in-game menu as follows (default locations):
+5. Setup in-game menu as follows (default locations):
    * The Pokédex button must be in the upper-left corner.
    * The Pokémon button must be in the 1st row, 2nd from the left. 
 
