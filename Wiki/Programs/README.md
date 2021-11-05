@@ -101,7 +101,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | Synchronized Spinning                                                    |          | Yes | Yes |
 | [Raid Item Farmer (OHKO)](PokemonSwSh/RaidItemFarmerOHKO.md)             |          | Yes | Yes |
 ||
-| [**Auto Max Lair 2.0 (under development):**](PokemonSwSh/MaxLair.md) |
+| [**Auto Max Lair 2.0:**](PokemonSwSh/MaxLair.md) |
 | [Max Lair: Standard](PokemonSwSh/MaxLair-Standard.md)                | Required | Yes | Yes |
 | [Max Lair: Strong Boss](PokemonSwSh/MaxLair-StrongBoss.md)           | Required | Yes | Yes |
 | [Max Lair: Boss Finder](PokemonSwSh/MaxLair-BossFinder.md)           | Required | Yes | Yes |
