@@ -25,8 +25,9 @@ This must be done to all participating Switches.
 
 1. Stand in front of the professor.
 2. Make sure the host has at least one boss saved.
-3. If the hosting mode is "Alone" or "Host Locally", all Switches need to be offline.
-4. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+3. The host has not caught the boss yet. (The program cannot distinguish an uncatchable boss from a loss. It needs to be able to catch to boss to determine if it won.)
+4. If the hosting mode is "Alone" or "Host Locally", all Switches need to be offline.
+5. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 This must be done on all participating Switches.
 
