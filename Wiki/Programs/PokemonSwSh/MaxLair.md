@@ -2,6 +2,7 @@
 
 **Program List:**
 - [Max Lair: Standard](MaxLair-Standard.md)
+- [Max Lair: Strong Boss](MaxLair-StrongBoss.md)
 - [Max Lair: Boss Finder](MaxLair-BossFinder.md)
 
 
@@ -39,8 +40,6 @@ Serial AutoDA is a rewrite/port of AutoMaxLair, but it's not an complete replace
 
 **AutoMaxLair features missing from AutoDA:**
 - Stat and IV hunting.
-- Strong boss mode.
-- Ball saver mode.
 - Hunting for specific non-boss Pokémon.
 
 <img src="images/MaxLair-1.png">

@@ -4,6 +4,7 @@
 
 **Related Programs:**
 - [Max Lair: Standard](MaxLair-Standard.md) (this program)
+- [Max Lair: Strong Boss](MaxLair-StrongBoss.md)
 - [Max Lair: Boss Finder](MaxLair-BossFinder.md)
 
 
@@ -26,23 +27,19 @@ This must be done to all participating Switches.
 ### Instructions
 
 1. Stand in front of the professor.
-2. Make sure you have at least one boss saved.
-3. The host has not caught the boss that has been chosen.
-4. If the hosting mode is "Alone" or "Host Locally", all Switches need to be offline.
-5. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+2. Make sure the host has at least one boss saved.
+3. If the hosting mode is "Alone" or "Host Locally", all Switches need to be offline.
+4. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 This must be done on all participating Switches.
 
 The program will talk to the professor and start the adventure. It will automatically detect the boss from the silhouette (if available).
 
+<img src="images/MaxLairStandard-Settings.png">
 
 ## General Options
 
 This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
-
-### Host Switch
-
-When running multiple Switches, this selects which one will be the hosting Switch. The host will be able to pick the boss. Everyone else will join the host.
 
 ### Boss Slot
 
@@ -51,6 +48,10 @@ The slot number of the boss.
 - Slot 1: The 1st boss on the list. (the top one)
 - Slot 2: The 2nd boss on the list.
 - Slot 3: The 3rd boss on the list.
+
+### Host Switch
+
+When running multiple Switches, this selects which one will be the hosting Switch. The host will be able to pick the boss. Everyone else will join the host.
 
 
 ## Per-Switch Options
