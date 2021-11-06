@@ -68,7 +68,7 @@ This is the ball that will be used to catch all non-boss Pokémon.
 ### Mode
 
 Pretty self-explanatory. The options are:
-- **Alone:** Run by yourself using only Switches controlled by this program.
+- **Not Hosting:** Run by yourself using only Switches controlled by this program.
 - **Host Locally:** Allow other local Switches to join.
 - **Host Online:** Allow other people online to join.
 
