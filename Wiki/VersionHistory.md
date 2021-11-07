@@ -1,6 +1,11 @@
 # Version History
 
 
+### 2021-11-07:
+- Added serial AutoDA.
+- Images will now embed into webhook notifications.
+- The program will now check your hardware and warn you of any potential performance issues.
+
 ### 2021-10-25:
 - PABotBase hex will now flash the LEDs to help with debugging serial connection errors.
 - Added support for auto-host notifications for #live-hosting channels.
