@@ -6,7 +6,7 @@ This is the fourth step in the process towards computer controlled automation! B
 
 In order to use computer-control programs, your computer needs to be able to control your game console (duh!).
 
-The way we do it is by using a [serial connection](link to header) to connect the microcontroller to the computer. This allows the computer to take control of your game console. But some programs also need to see the screen! So a video capture card is also needed.
+The way we do it is by using a serial connection[(1)](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Software/Beginner-Windows.md#1serial-connection) to connect the microcontroller to the computer. This allows the computer to take control of your game console. But some programs also need to see the screen! So a video capture card is also needed.
 
 <img src="/Wiki/Hardware/images/serial-setup.jpg">
 
@@ -16,7 +16,7 @@ Before you begin, make sure you meet all of the following requirements:
 
 1. You have a regular Switch (not a Switch Lite) if you want to use programs requiring video feedback.
       * ***Note that Switch Lite cannot output video. Therefore it cannot run any programs that require video capture. If you wish to pursue this level of automation, it might be worth considering investing in a full Switch.***
-2. You have a working [microcontroller setup](link to header) and you know how to run microcontroller programs. (See STEP 3)
+2. You have a working microcontroller setup[(2)](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Software/Beginner-Windows.md#1serial-connection) and you know how to run microcontroller programs. (See STEP 3)
 3. You have computer running 64-bit Windows.
       * As of this writing, no platforms other than 64-bit Windows are supported.
 4. ***Windows 11 has problems that are out of our control. Do not use Windows 11. Downgrade to Windows 10 if possible.***
