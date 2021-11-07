@@ -16,7 +16,7 @@ Before you begin, make sure you meet all of the following requirements:
 
 1. You have a regular Switch (not a Switch Lite) if you want to use programs requiring video feedback.
       * ***Note that Switch Lite cannot output video. Therefore it cannot run any programs that require video capture. If you wish to pursue this level of automation, it might be worth considering investing in a full Switch.***
-2. You have a working [microcontroller setup](https://github.com/PokemonAutomation/Microcontroller) and you know how to run microcontroller programs. (See STEP 3)
+2. You have a working [microcontroller setup](link to header) and you know how to run microcontroller programs. (See STEP 3)
 3. You have computer running 64-bit Windows.
       * As of this writing, no platforms other than 64-bit Windows are supported.
 4. ***Windows 11 has problems that are out of our control. Do not use Windows 11. Downgrade to Windows 10 if possible.***
@@ -175,6 +175,7 @@ None. You're done!
 # References
 
 ### (1)[Serial Connection](https://en.wikipedia.org/wiki/Serial_port)
+### (2)[Microcontroller Repo](https://github.com/PokemonAutomation/Microcontroller)
 
 ## Notes
 
