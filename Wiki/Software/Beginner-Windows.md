@@ -177,7 +177,7 @@ None. You're done!
 ### (1)[Serial Connection](https://en.wikipedia.org/wiki/Serial_port)
 ### (2)[Microcontroller Repo](https://github.com/PokemonAutomation/Microcontroller)
 
-## Notes
+# Notes
 
 ### Programs do not always need to start in the grip menu.
 
