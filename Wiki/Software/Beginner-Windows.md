@@ -53,24 +53,24 @@ Make the following connections:
 
 The root folder of the SerialPrograms package should have a set of .hex files for each of the different devices.
 
-<img src="/Wiki/Hardware/images/serial-programs-root.png" height="300">
+<img src="/Wiki/Software/images/serial-programs-root.png" height="300">
 
 1. Run the QMK Toolbox program that you downloaded in PART 3.
 2. Open the .hex named `PABotBase-Switch-20211025-ArduinoLeonardo.hex` located in the roof of the folder you downloaded and unzipped.
 3. Change the MCU to `atmega32u4`.
 4. Check the "Auto-Flash" box.
 
-<img src="/Wiki/Hardware/images/tutorial-windows-leonardo-2.png" height="600">
+<img src="https://github.com/Ensamma/Microcontroller/blob/master/Wiki/Software/images/tutorial-windows-leonardo-2.png" height="600">
 
 5. Plug the Leonardo into your computer.
 6. Press the reset button.
 
-<img src="/Wiki/Hardware/images/tutorial-windows-leonardo-3.jpg" height="400">
+<img src="https://github.com/Ensamma/Microcontroller/blob/master/Wiki/Software/images/tutorial-windows-leonardo-3.jpg" height="400">
 
 The QMK program will now flash the program to the Leonardo and show a bunch of logging.
 Afterwards, the 3 LEDs on the Leonardo should flash in unison for 5 seconds before turning off.
 
-<img src="/Wiki/Hardware/images/tutorial-windows-leonardo-4.png" height="600">
+<img src="https://github.com/Ensamma/Microcontroller/blob/master/Wiki/Software/images/tutorial-windows-leonardo-4.png" height="600">
 
 7. Unplug the Leonardo from your computer.
 
@@ -96,14 +96,14 @@ Here is an example of a setup after steps 4 and 5.
 ## Step 6: Open up SerialPrograms.
 
 1. Run the `SerialPrograms-Windows.cmd` script.
-<img src="/Wiki/Hardware/images/serial-programs-main.png" height="600">
+<img src="/Wiki/Software/images/serial-programs-main.png" height="600">
 
 2. Under the "Serial Port" dropdown, select Arduino Leonardo.
 3. Under the "Camera" dropdown, select your video capture device.
 
 If everything worked correctly, it should look like this. Note that you will not hear any sound. (see next section)
 
-<img src="/Wiki/Hardware/images/serial-programs-setup.png">
+<img src="/Wiki/Software/images/serial-programs-setup.png">
 
 **Interpreting the "Serial Port" Text**
 1. Red "Not connected" - Cannot open port, or check wires, and drivers
@@ -141,7 +141,7 @@ The default program is the Virtual Console. It simply displays the video from yo
 
 To view the keyboard/controller mapping, click on "Keyboard Layout" in the bottom left section of the program.
 
-<img src="/Wiki/Hardware/images/serial-programs-mapping.png" height="400">
+<img src="/Wiki/Software/images/serial-programs-mapping.png" height="400">
 
 The joystick mappings should be fairly standard for FPS and 3D adventure games. The remaining buttons are somewhat arbitrary and not necessarily intuitive.
 As of this writing, there is no support for changing the key mapping.
