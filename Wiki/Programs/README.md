@@ -109,7 +109,15 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Pokémon Brilliant Diamond/Shining Pearl
 
-Stay tuned...
+| **Program** | **Video Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
+| --- | --- | --- | --- |
+| [Pokémon Setttings](PokemonBDSP/PokemonSettings.md)          | --- | --- | --- |
+||
+| **Shiny Hunting:** |
+| [Starter Reset](PokemonBDSP/StarterReset.md)                 | Required | Yes | Yes |
+| [Shiny Hunt - Overworld](PokemonBDSP/ShinyHunt-Overworld.md) | Required | Yes | Yes |
+| [Shiny Hunt - Fishing](PokemonBDSP/ShinyHunt-Fishing.md)     | Required | Yes | Yes |
+| [Legendary Reset](PokemonBDSP/LegendaryReset.md)             | Required | Yes | Yes |
 
 
 <hr>
