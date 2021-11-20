@@ -6,7 +6,7 @@ This program will shiny hunt random encounters (grass, cave). It supports both s
 
 This program does not work in the Grand Underground.
 
-<img src="images/ShinyHunt-Overworld-0.jpg">
+<img src="images/ShinyHunt-Overworld-0.png">
 
 ### Setup of Settings
 
