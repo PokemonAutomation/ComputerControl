@@ -8,6 +8,8 @@ This program does not work in the Grand Underground.
 
 <img src="images/ShinyHunt-Overworld-0.png">
 
+Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/911482282295058453/2021-11-19_22-56-40.mp4
+
 ### Setup of Settings
 
 1. Screen size: Must be 100% within the Switch settings

@@ -4,6 +4,10 @@
 
 Reset for a shiny starter.
 
+<img src="images/StarterReset-0.png">
+
+Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/911525673414303744/2021-11-20_01-27-36.mp4
+
 
 ### Setup of Settings
 
