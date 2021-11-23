@@ -37,7 +37,7 @@ Alternatively you can use a spread move that wipes out both as long as it doesn'
 
 <img src="images/MoneyFarmerRoute210-0.png" width="400">
 
-Once started, the program will walk down to the following location in Route 212 and repeatedly battle the old woman.
+Once started, the program will walk to the following locations on Route 210 and repeatedly battle the Ace Trainer pair.
 
 <img src="images/MoneyFarmerRoute210-1.png" width="400"> <img src="images/MoneyFarmerRoute210-2.png" width="400">
 
