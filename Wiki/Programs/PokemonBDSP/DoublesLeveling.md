@@ -9,8 +9,7 @@ Thus you will want to preserve one of the late-game battle battle partners for t
 This program will also detect any shiny Pokémon along the way, thus it can be used to simultaneously level up your team and shiny-hunt double encounters.
 
 <img src="images/DoublesLeveling-0.png">
-<img src="images/DoublesLeveling-1.png" width="400">
-<img src="images/DoublesLeveling-2.png" width="400">
+<img src="images/DoublesLeveling-1.png" width="400"><img src="images/DoublesLeveling-2.png" width="400">
 
 ### Setup of Settings
 
