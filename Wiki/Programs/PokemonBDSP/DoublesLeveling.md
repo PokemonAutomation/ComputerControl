@@ -1,14 +1,16 @@
-# Shiny Hunt - Overworld
+# Double Battle Leveling
 
 ## Program Description
 
-This program will shiny hunt random encounters (grass, cave). It supports both single and double encounters.
+This program will level up your team using one of the partner battles.
+It relies on the fact that your battle partner will keep you healed thus giving you infinite PP to keep battling forever.
+Thus you will want to preserve one of the late-game battle battle partners for the purpose of using this program.
 
-This program does not work in the Grand Underground.
+This program will also detect any shiny Pokémon along the way, thus it can be used to simultaneously level up your team and shiny-hunt double encounters.
 
-<img src="images/ShinyHunt-Overworld-0.png">
-
-Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/911482282295058453/2021-11-19_22-56-40.mp4
+<img src="images/DoublesLeveling-0.png">
+<img src="images/DoublesLeveling-1.png" width="400">
+<img src="images/DoublesLeveling-2.png" width="400">
 
 ### Setup of Settings
 
@@ -18,9 +20,11 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/9114822822
 3. Text Speed: Fast
 
 ### Setup of Party
-1. Your lead Pokémon must be able to run away. (faster or holding Smoke Ball)
+1. You currently have a [battle partner](https://www.serebii.net/brilliantdiamondshiningpearl/battlepartners.shtml).
+2. Your lead Pokémon must reliably win all battles by spamming its first move. (a good spread move that OHKO's both wild Pokémon)
 
    > **Recommended for Performance**
+   > - Battle animations are off.
    > - Your lead Pokémon is not shiny.
    > - Your lead Pokémon does not have high happiness.
    > - Your lead Pokémon does not have an ability that activates upon entry to battle.
@@ -31,6 +35,11 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/9114822822
 1. Stand in a spot where you can move left/right or up/down forever and not wander off.
 2. Make sure you are safe from getting attacked by trainers.
 3. Start the program in game. Make sure the device is the connected controller.
+
+If setup properly the program will repeatedly battle wild encounters until one of the following happens:
+1. Someone levels up and needs to learn a move.
+2. It encounters a shiny and your settings are set to stop on a shiny.
+3. An error occurs (such as your lead Pokémon fainting).
 
 
 ## Options

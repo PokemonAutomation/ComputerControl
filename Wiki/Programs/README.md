@@ -113,6 +113,9 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | --- | --- | --- | --- |
 | [Pokémon Setttings](PokemonBDSP/PokemonSettings.md)          | --- | --- | --- |
 ||
+| **Farming:** |
+| [Double Battle Leveling](PokemonBDSP/DoublesLeveling.md)     | Required | Yes | Yes |
+||
 | **Shiny Hunting:** |
 | [Starter Reset](PokemonBDSP/StarterReset.md)                 | Required | Yes | Yes |
 | [Shiny Hunt - Overworld](PokemonBDSP/ShinyHunt-Overworld.md) | Required | Yes | Yes |
