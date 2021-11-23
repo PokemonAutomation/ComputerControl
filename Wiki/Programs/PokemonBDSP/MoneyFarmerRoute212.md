@@ -20,13 +20,13 @@ With the Amulet Coin, this program can max out your money at 999,999 in a couple
 
 1. Beat all the trainers on Route 212 so they don't get in the way.
 2. You have fly unlocked.
-3. You have VS Seeker registered. (and the Dpad shortcut option correctly selected in the program)
+3. You have the VS Seeker registered. (and the Dpad shortcut option correctly selected in the program)
 4. Your lead Pokémon is faster than the rich elderly couple's mons.
 5. Every move that you intend to use must have the PP set properly in the program.
 6. Every move that you intend to use must always OHKO the opponent mons.
 7. Make sure nobody in your party is at risk of leveling up and learning a move or evolving.
 8. You are on foot. (not on your bike)
-9. Your Pokemon is not following you.
+9. Your Pokémon is not following you.
 10. Start the program in front of the Hearthome City Pokémon Center.
 
 **Recommended:** Have the Amulet Coin on your leading Pokémon for double the pay out.
