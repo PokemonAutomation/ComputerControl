@@ -29,11 +29,11 @@ This is essentially an automated version of: https://www.youtube.com/watch?v=9qN
 
 **Recommended:** Have the Amulet Coin on your leading Pokémon for double the pay out.
 
-<img src="images/MoneyFarmerRoute212-0.png" width="400">
+<img src="images/MoneyFarmerRoute212-0.png">
 
 Once started, the program will walk down to the following location in Route 212 and repeatedly battle the old woman.
 
-<img src="images/MoneyFarmerRoute212-1.png" width="400">
+<img src="images/MoneyFarmerRoute212-1.png">
 
 
 ## Options
@@ -48,7 +48,7 @@ This is the Dpad button that is used to quickly trigger the fishing rod.
 This the amount of PP for each of your lead Pokémon's moves.
 If you don't wish to use a move, set the PP to zero. If you do wish to use a move, it must be able to OHKO the lady's Roselia.
 
-When the program runs out of PP for a move, it moves to the next move. One there is no PP left for all available moves, it flies back to Hearthome City to heal and return.
+When the program runs out of PP for a move, it moves to the next move. Once there is no PP left for all available moves, it flies back to Hearthome City to heal and return.
 
 
 
