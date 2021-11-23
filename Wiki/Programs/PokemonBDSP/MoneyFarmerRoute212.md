@@ -2,7 +2,7 @@
 
 ## Program Description
 
-Farm money by using the VS seeker to repeatedly battle trainer with high payout.
+Farm money by using the VS seeker to repeatedly battle a trainer with high payout.
 
 This is essentially an automated version of: https://www.youtube.com/watch?v=9qN-fB6XX90
 
