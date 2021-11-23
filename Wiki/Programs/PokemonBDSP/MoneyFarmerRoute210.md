@@ -47,7 +47,7 @@ Once started, the program will walk to the following locations on Route 210 and 
 
 ### VS Seeker Shortcut:
 
-This is the Dpad button that is used to quickly trigger the fishing rod.
+This is the Dpad button that is used to quickly trigger the VS Seeker.
 
 ### Lead Pokémon Move 1/2/3/4 PP + 2nd Pokémon Move 1/2/3/4 PP
 
