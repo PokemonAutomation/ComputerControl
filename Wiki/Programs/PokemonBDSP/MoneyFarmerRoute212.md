@@ -6,6 +6,8 @@ Farm money by using the VS seeker to repeatedly battle a trainer with high payou
 
 This is essentially an automated version of: https://www.youtube.com/watch?v=9qN-fB6XX90
 
+With the Amulet Coin, this program can max out your money at 999,999 in a couple hours.
+
 <img src="images/MoneyFarmerRoute212-2.png">
 
 ### Setup of Settings
