@@ -27,6 +27,8 @@ This is essentially an automated version of: https://www.youtube.com/watch?v=9qN
 9. Your Pokemon is not following you.
 10. Start the program in front of the Hearthome City Pokémon Center.
 
+**Recommended:** Have the Amulet Coin on your leading Pokémon for double the pay out.
+
 <img src="images/MoneyFarmerRoute212-0.png" width="400">
 
 Once started, the program will walk down to the following location in Route 212 and repeatedly battle the old woman.
