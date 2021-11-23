@@ -43,7 +43,7 @@ Once started, the program will walk down to the following location in Route 212 
 
 This is the Dpad button that is used to quickly trigger the fishing rod.
 
-### Move 1/2/3/4 PP
+### Move 1/2/3/4 PP:
 
 This the amount of PP for each of your lead Pokémon's moves.
 If you don't wish to use a move, set the PP to zero. If you do wish to use a move, it must be able to OHKO the lady's Roselia.
