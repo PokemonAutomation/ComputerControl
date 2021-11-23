@@ -8,7 +8,7 @@
 
 Farm money by using the VS seeker to repeatedly battle trainer with high payout.
 
-This version of the Money Farmer uses a higher paying trainer (double) battle on Route 212. But it is more complicated to set up.
+This version of the Money Farmer uses a higher paying trainer (double) battle on Route 210. But it is more complicated to set up.
 
 <img src="images/MoneyFarmerRoute210-3.png">
 
