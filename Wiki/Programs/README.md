@@ -111,16 +111,17 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 | **Program** | **Video Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
 | --- | --- | --- | --- |
-| [Pokémon Setttings](PokemonBDSP/PokemonSettings.md)          | --- | --- | --- |
+| [Pokémon Setttings](PokemonBDSP/PokemonSettings.md)                   | --- | --- | --- |
 ||
 | **Farming:** |
-| [Double Battle Leveling](PokemonBDSP/DoublesLeveling.md)     | Required | Yes | Yes |
+| [Money Farming (Route 212)](PokemonBDSP/MoneyFarmingRoute212.md)      | Required | Yes | Yes |
+| [Double Battle Leveling](PokemonBDSP/DoublesLeveling.md)              | Required | Yes | Yes |
 ||
 | **Shiny Hunting:** |
-| [Starter Reset](PokemonBDSP/StarterReset.md)                 | Required | Yes | Yes |
-| [Shiny Hunt - Overworld](PokemonBDSP/ShinyHunt-Overworld.md) | Required | Yes | Yes |
-| [Shiny Hunt - Fishing](PokemonBDSP/ShinyHunt-Fishing.md)     | Required | Yes | Yes |
-| [Legendary Reset](PokemonBDSP/LegendaryReset.md)             | Required | Yes | Yes |
+| [Starter Reset](PokemonBDSP/StarterReset.md)                          | Required | Yes | Yes |
+| [Shiny Hunt - Overworld](PokemonBDSP/ShinyHunt-Overworld.md)          | Required | Yes | Yes |
+| [Shiny Hunt - Fishing](PokemonBDSP/ShinyHunt-Fishing.md)              | Required | Yes | Yes |
+| [Legendary Reset](PokemonBDSP/LegendaryReset.md)                      | Required | Yes | Yes |
 
 
 <hr>
