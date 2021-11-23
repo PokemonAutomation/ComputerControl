@@ -35,7 +35,7 @@ This program will also detect any shiny Pokémon along the way, thus it can be u
 2. Make sure you are safe from getting attacked by trainers.
 3. Start the program in game. Make sure the device is the connected controller.
 
-If setup properly the program will repeatedly battle wild encounters until one of the following happens:
+If setup properly, the program will repeatedly battle wild encounters until one of the following happens:
 1. Someone levels up and needs to learn a move.
 2. It encounters a shiny and your settings are set to stop on a shiny.
 3. An error occurs (such as your lead Pokémon fainting).
