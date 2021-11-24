@@ -24,7 +24,7 @@ If you came here intending to run [AutoMaxLair](https://github.com/PokemonAutoma
 - [Program List](Wiki/Programs/README.md)
   - [Nintendo Switch](Wiki/Programs/README.md#nintendo-switch)
   - [Pokémon Sword/Shield](Wiki/Programs/README.md#pokémon-swordshield)
-  - [Pokémon Brilliant Diamond/Shining Pearl (coming soon...)](Wiki/Programs/README.md#pokémon-brilliant-diamondshining-pearl)
+  - [Pokémon Brilliant Diamond/Shining Pearl](Wiki/Programs/README.md#pokémon-brilliant-diamondshining-pearl)
 - [Version History](Wiki/VersionHistory.md)
 
 ## Computer-Control Automation
