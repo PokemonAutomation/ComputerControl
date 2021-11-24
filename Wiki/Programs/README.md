@@ -115,6 +115,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 ||
 | **Farming:** |
 | [Money Farmer (Route 212)](PokemonBDSP/MoneyFarmerRoute212.md)        | Required | Yes | Yes |
+| [Money Farmer (Route 210)](PokemonBDSP/MoneyFarmerRoute212.md)        | Required | Yes | Yes |
 | [Double Battle Leveling](PokemonBDSP/DoublesLeveling.md)              | Required | Yes | Yes |
 ||
 | **Shiny Hunting:** |

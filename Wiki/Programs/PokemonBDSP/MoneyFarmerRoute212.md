@@ -1,5 +1,9 @@
 # Money Farmer (Route 212)
 
+**Related Programs:**
+- [Money Farmer (Route 212)](MoneyFarmerRoute212.md) (this program)
+- [Money Farmer (Route 210)](MoneyFarmerRoute210.md)
+
 ## Program Description
 
 Farm money by using the VS seeker to repeatedly battle a trainer with high payout.
