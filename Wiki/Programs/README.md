@@ -114,7 +114,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Pokémon Setttings](PokemonBDSP/PokemonSettings.md)                   | --- | --- | --- |
 ||
 | **General:** |
-| [Mass Release (in development)](PokemonBDSP/MassRelease.md)                            |          | Yes | Yes |
+| [Mass Release](PokemonBDSP/MassRelease.md)                            |          | Yes | Yes |
 ||
 | **Farming:** |
 | [Money Farmer (Route 212)](PokemonBDSP/MoneyFarmerRoute212.md)        | Required | Yes | Yes |
@@ -128,8 +128,8 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Legendary Reset](PokemonBDSP/LegendaryReset.md)                      | Required | Yes | Yes |
 ||
 | **Eggs:** |
-| [Egg Fetcher (in development)](PokemonBDSP/EggFetcher.md)                              |          | Yes | Yes |
-| [Egg Hatcher (in development)](PokemonBDSP/EggHatcher.md)                              |          | Yes | Yes |
+| [Egg Fetcher](PokemonBDSP/EggFetcher.md)                              |          | Yes | Yes |
+| [Egg Hatcher](PokemonBDSP/EggHatcher.md)                              |          | Yes | Yes |
 
 
 <hr>
