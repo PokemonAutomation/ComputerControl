@@ -1,8 +1,5 @@
 # Egg Hatcher
 
-***This program is still in development and is not yet available.***
-
-
 ## Program Description
 
 Hatch eggs from your boxes. This is the counterpart to [EggFetcher](EggFetcher.md).
