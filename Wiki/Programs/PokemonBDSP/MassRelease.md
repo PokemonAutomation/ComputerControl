@@ -1,7 +1,5 @@
 # Mass Release
 
-***This program is still in development and is not yet available.***
-
 ## Program Description
 
 MassRelease will release entire boxes of Pokémon. The main use case is getting rid of breedjects, non-shiny fossils, and other hunts.
