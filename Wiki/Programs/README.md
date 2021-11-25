@@ -123,6 +123,10 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Shiny Hunt - Overworld](PokemonBDSP/ShinyHunt-Overworld.md)          | Required | Yes | Yes |
 | [Shiny Hunt - Fishing](PokemonBDSP/ShinyHunt-Fishing.md)              | Required | Yes | Yes |
 | [Legendary Reset](PokemonBDSP/LegendaryReset.md)                      | Required | Yes | Yes |
+||
+| **Eggs:** |
+| [Egg Fetcher (in development)](PokemonBDSP/EggFetcher.md)                              |          | Yes | Yes |
+| [Egg Hatcher (in development)](PokemonBDSP/EggHatcher.md)                              |          | Yes | Yes |
 
 
 <hr>
