@@ -1,7 +1,5 @@
 # Egg Fetcher
 
-***This program is still in development and is not yet available.***
-
 ## Program Description
 
 Fetch eggs into your boxes without hatching them.
