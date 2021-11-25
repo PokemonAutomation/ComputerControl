@@ -113,6 +113,9 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | --- | --- | --- | --- |
 | [Pokémon Setttings](PokemonBDSP/PokemonSettings.md)                   | --- | --- | --- |
 ||
+| **General:** |
+| [Mass Release (in development)](PokemonBDSP/MassRelease.md)                            |          | Yes | Yes |
+||
 | **Farming:** |
 | [Money Farmer (Route 212)](PokemonBDSP/MoneyFarmerRoute212.md)        | Required | Yes | Yes |
 | [Money Farmer (Route 210)](PokemonBDSP/MoneyFarmerRoute210.md)        | Required | Yes | Yes |
