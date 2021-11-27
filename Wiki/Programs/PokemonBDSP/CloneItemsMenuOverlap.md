@@ -23,7 +23,7 @@ Clone 5 items at a time using the menu overlap menu method described here: https
 
 ### Instructions
 
-1. Setup your party and box like the following image:
+1. Setup your party and box like the above image:
 2. You are standing in this specific grassy area in Route 212.
    - This location is always rainy and cloudy which helps the program identify the overworld.
    - The rain delays the start of the battle long enough for the program to swap the party.
