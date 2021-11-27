@@ -25,8 +25,8 @@ Clone 5 items at a time using the menu overlap menu method described here: https
 
 1. Setup your party and box like the following image:
 2. You are standing in this specific grassy area in Route 212.
-   a) This location is always rainy and cloudy which helps the program identify the overworld.
-   b) The rain delays the start of the battle long enough for the program to swap the party.
+   - This location is always rainy and cloudy which helps the program identify the overworld.
+   - The rain delays the start of the battle long enough for the program to swap the party.
 2. You are on foot. (not on your bike)
 3. Your cursor in the menu is over "Pokémon".
 4. Save the game.
