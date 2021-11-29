@@ -31,7 +31,7 @@ MassRelease will release entire boxes of Pokémon. The main use case is getting 
 3. The cursor must be red. (not blue or green)
 2. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
-   > Once started, this program will release the specified number of boxes consecutively starting from the current box.
+Once started, this program will release the specified number of boxes consecutively starting from the current box.
 
 ### Safety Recommendations:
 
