@@ -32,7 +32,7 @@ This program is used with [EggHatcher](EggHatcher.md) to fetch and hatch eggs. T
 
 ### Go Home when Done:
 
-After the program finished, go to the Switch Home to idle.
+After the program finishes, go to the Switch Home to idle.
 
 ### Fetch Attempts:
 
