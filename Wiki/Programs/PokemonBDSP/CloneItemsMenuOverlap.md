@@ -49,7 +49,7 @@ The program will trigger the overlap glitch, then clone the 5 Pokémon in your p
 
 ### Go Home when Done:
 
-After the program finished, go to the Switch Home to idle.
+After the program finishes, go to the Switch Home to idle.
 
 ### Batches to Clone:
 
