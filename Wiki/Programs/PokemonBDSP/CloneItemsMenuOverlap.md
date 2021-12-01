@@ -2,6 +2,12 @@
 
 ***This program is still in development and is not yet available.***
 
+**Related Programs:**
+- [Clone Items (Menu Overlap Method)](CloneItemsMenuOverlap.md) (this program)
+- [Clone Items (Box Copy Method)](CloneItemsBoxCopy.md)
+
+*The "Box Copy Method" is much faster and easier to setup. There is little point in using this cloning program. The only reason this program exists is because it was made before the box copy method was discovered.*
+
 ## Program Description
 
 Clone 5 items at a time using the menu overlap menu method described here: https://www.youtube.com/watch?v=IBDYRePk2qQ
