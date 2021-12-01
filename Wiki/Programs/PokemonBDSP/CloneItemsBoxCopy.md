@@ -40,7 +40,7 @@ The program will trigger the overlap glitch, clone the current box, release the 
 
 ### Go Home when Done:
 
-After the program finished, go to the Switch Home to idle.
+After the program finishes, go to the Switch Home to idle.
 
 ### Boxes to Clone:
 
