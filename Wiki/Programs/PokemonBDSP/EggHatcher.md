@@ -43,7 +43,7 @@ The program will hatch eggs in batches of 5 (one column at a time). Once a box i
 
 ### Go Home when Done:
 
-After the program finished, go to the Switch Home to idle.
+After the program finishes, go to the Switch Home to idle.
 
 ### Boxes of Eggs to Hatch:
 
