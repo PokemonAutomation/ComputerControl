@@ -32,7 +32,7 @@ The root folder of the SerialPrograms package should have a set of .hex files fo
 
 Flash the appropriate one to your device.
 
-***If you do not know how to do this, it means you skipped the entire [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md). STOP right now and go back to the Microcontroller tutorial.***
+***If you do not know how to do this, it means you skipped the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md). STOP right now and go back to the Microcontroller tutorial.***
 
 ## Step 4: Setup the serial connection.
 
