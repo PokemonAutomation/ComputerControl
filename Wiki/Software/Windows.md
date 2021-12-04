@@ -30,6 +30,8 @@ The root folder of the SerialPrograms package should have a set of .hex files fo
 
 Flash the appropriate one to your device.
 
+***If you do not know how to do this, it means you skipped the entire Microcontroller tutorial. STOP right now and complete the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md) first.***
+
 ## Step 4: Setup the serial connection.
 
 1. Turn on your Switch.
