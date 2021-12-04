@@ -2,7 +2,7 @@
 
 This the guide for setting up serial programs on Windows. If you are here, your basic hardware setup should be fully working. So now you are ready to move up to serial connectivity and video capture!
 
-***Do not continue if you have not completed the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md).**
+***Do not continue if you have not completed the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md).***
 
 ***Do NOT skip the Microcontroller tutorial even if you have no intention to run Microcontroller programs. The Microcontroller tutorial provides basic information needed for both Microcontroller and Computer-Control programs.***
 
