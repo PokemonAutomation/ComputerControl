@@ -19,7 +19,7 @@ Clone an entire box of items at a time using the method described here: https://
 ### Box Setup
 
 1. The current box is completely filled with 30 Pokémon.
-2. All 30 Pokémon in the current box must releasable and holding an item.
+2. All 30 Pokémon in the current box must releasable.
 3. The next box (to the right) is empty.
 
 <img src="images/CloneItemsBoxCopy-1.png">
