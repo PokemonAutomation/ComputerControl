@@ -26,7 +26,7 @@ The most extreme example of this are the [firmware fuses](https://blog.jonlu.ca/
 As such, Nintendo makes it very difficult to downgrade a game version. And if you are not on the latest version, it keeps nagging you until you update or you fat-finger the update button.
 Likewise, you cannot go online in the game unless it is fully updated to the latest version.
 
-Once a game has been updated to a specific version, the Switch "remembers" which game version it had and will refuse to run an earlier version even if you wipe the game from the Switch. The only way is to factory-reset the Switch. (see #downgrading)
+Once a game has been updated to a specific version, the Switch "remembers" which game version it had and will refuse to run an earlier version even if you wipe the game from the Switch. The only way is to factory-reset the Switch. (see [Downgrading](#downgrading))
 
 This extremely user unfriendly process is quite intentional by design. Because as we said, they want to force everything to the latest version.
 
