@@ -18,7 +18,7 @@ All methods here can be done with normal Switches and do not require CFW or home
 3. A Switch that has the game version which you wish to preserve. In other words, you must have at least one Switch that has not been updated to 1.1.2.
 
 
-## Nintendo Switch Anti-Downgrade Mechanisms
+## Anti-Downgrade Mechanisms
 
 The Switch (and many other platforms) *really* want to keep you on the latest version of everything and will go out of their way to prevent you from downgrading anything.
 The most extreme example of this are the [firmware fuses](https://blog.jonlu.ca/posts/nintendo-switch) - which fortunately does not apply to game versions.
