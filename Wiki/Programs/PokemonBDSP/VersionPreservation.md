@@ -6,8 +6,8 @@ If you're here, you probably already know that Pokémon BDSP has a number clonin
 - [Clone Items (Box Copy Method)](CloneItemsBoxCopy.md)
 
 These exploits have been patched in v1.1.2 - thus making it one of the "bad" game updates because it removes the *useful* bugs, while leaving behind all the *bad* ones.
+(Namely, v1.1.2 patched all the cloning glitches, while leaving behind all the broken PokeRadar and shiny charm mechanics.)
 
-Namely, v1.1.2 patched all the cloning glitches, while leaving behind all the broken PokeRadar and shiny charm mechanics.
 Thus it is better to stay on v1.1.1 unless you need to go online.
 
 This page will give a summary on the different ways to keep v1.1.1 or downgrading the game version in general.
