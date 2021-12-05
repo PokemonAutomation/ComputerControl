@@ -63,7 +63,7 @@ However, it will not be able to dodge a game update menu if starting the game re
 
 ## Syncing Game Version with another Switch
 
-It's impossible to update to something that isn't the latest version online. But fortunately, the Switch allows you to synchronize game versions across 2 (or more) Switches locally without an internet connection.
+It's impossible to update (online) to something that isn't the latest version online. But fortunately, the Switch allows you to synchronize game versions across 2 (or more) Switches locally without an internet connection.
 This can be utilized to update another Switch to a version that isn't the latest. However, it cannot be used to *downgrade* a version (*claim needs to be verified*).
 
 To upgrade a Switch locally, you need:
