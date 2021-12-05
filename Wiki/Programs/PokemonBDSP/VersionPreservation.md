@@ -117,7 +117,7 @@ Once you have reset the Switch, you can insert the game cartridge back into it a
 
 If you do not have a Switch that you can utilize to synchronize to the earlier version, you are unfortunately stuck with the version that's on the game cartridge itself.
 
-(* *Even if you have a hacked Switch, don't do this using any method not available to non-hacked Switches unless you're completely offline in emuNAND. Unless you want to get your Switch banned.*)
+(* *Even if you have a hacked Switch, don't do this using any method not available to non-hacked Switches unless you're completely offline in emuNAND. Since you'll probably just get your Switch banned.*)
 
 
 **Important Note:**
