@@ -2,6 +2,8 @@
 
 ***This glitch has been patched out in v1.1.2 of the game. This program will only work on v1.1.1 and earlier.***
 
+See: [Version Preservation](VersionPreservation.md)
+
 **Related Programs:**
 - [Clone Items (Menu Overlap Method)](CloneItemsMenuOverlap.md) (this program)
 - [Clone Items (Box Copy Method)](CloneItemsBoxCopy.md)
