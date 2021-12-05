@@ -1,5 +1,11 @@
 # Mass Release
 
+**Related Programs:**
+- **Microcontroller:** [Mass Release](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonBDSP/MassRelease.md)
+- **Computer Control:** [Mass Release](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonBDSP/MassRelease.md) (this program)
+
+The microcontroller and computer-control versions of this program are functionally identical.
+
 ## Program Description
 
 MassRelease will release entire boxes of Pokémon. The main use case is getting rid of breedjects, non-shiny fossils, and other hunts.

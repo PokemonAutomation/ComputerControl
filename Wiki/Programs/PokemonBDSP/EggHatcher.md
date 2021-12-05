@@ -1,5 +1,11 @@
 # Egg Hatcher
 
+**Related Programs:**
+- **Microcontroller:** [Egg Hatcher](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonBDSP/EggHatcher.md)
+- **Computer Control:** [Egg Hatcher](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonBDSP/EggHatcher.md) (this program)
+
+The microcontroller and computer-control versions of this program are functionally identical.
+
 ## Program Description
 
 Hatch eggs from your boxes. This is the counterpart to [EggFetcher](EggFetcher.md).
