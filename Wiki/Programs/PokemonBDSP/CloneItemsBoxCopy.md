@@ -31,7 +31,8 @@ Clone an entire box of items at a time using the method described here: https://
 1. Setup your party and box like the above image:
 2. You are indoors standing a place with no moving NPCs. (such as a Pokémon center)
 3. Your cursor in the menu is over "Pokémon".
-4. Start the program in the game.
+4. The menu is closed. (You're in the overworld with no menu open.)
+5. Start the program in the game.
 
 <img src="images/CloneItemsBoxCopy-2.png">
 
