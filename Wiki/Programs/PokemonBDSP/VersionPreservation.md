@@ -107,7 +107,7 @@ What if you already updated to 1.1.2? Now your options are much more limited and
 
 As menitoned earlier, the Switch remembers the version numbers of every game that has ever been on it. If you ever try to start a game with an earlier version, it flat out refuses to run without updating.
 
-*There is only one known way to fix this (without hacking the Switch): **Factory Reset***
+*There is only one known way to fix this (without hacking the Switch * ): **Factory Reset***
 
 This needs to be a complete factory reset that wipes all user data as well. The "reset" that preserves user data does not reset the game versions that it "remembers".
 
@@ -116,6 +116,8 @@ This needs to be a complete factory reset that wipes all user data as well. The 
 Once you have reset the Switch, you can insert the game cartridge back into it and [synchronize it back to the version you want.](#syncing-game-version-with-another-switch)
 
 If you do not have a Switch that you can utilize to synchronize to the earlier version, you are unfortunately stuck with the version that's on the game cartridge itself.
+
+(* *Even if you have a hacked Switch, don't do this using any method not available to non-hacked Switches unless you're completely offline in emuNAND. Unless you want to get your Switch banned.*)
 
 
 **Important Note:**
