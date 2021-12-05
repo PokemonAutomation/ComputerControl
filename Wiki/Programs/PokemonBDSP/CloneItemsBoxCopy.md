@@ -21,7 +21,7 @@ Clone an entire box of items at a time using the method described here: https://
 ### Box Setup
 
 1. The current box is completely filled with 30 Pokémon.
-2. All 30 Pokémon in the current box must releasable.
+2. All 30 Pokémon in the current box must be releasable.
 3. The next box (to the right) is empty.
 
 <img src="images/CloneItemsBoxCopy-1.png">
@@ -36,7 +36,7 @@ Clone an entire box of items at a time using the method described here: https://
 
 <img src="images/CloneItemsBoxCopy-2.png">
 
-The program will trigger the overlap glitch, clone the current box, release the clone (which detaches items to your inventory), and repeat.
+The program will trigger the overlap glitch, clone the current box, release the clones (which detaches items to your inventory), and repeat.
 
 
 ## Options
