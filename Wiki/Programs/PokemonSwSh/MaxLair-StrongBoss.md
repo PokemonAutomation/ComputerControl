@@ -18,6 +18,9 @@ This program hunts for a shiny boss. It will strategically reset the host to kee
 2. Video Resolution: 1920 x 1080 or higher in program settings.
 3. Text Speed: Fast
 4. Casual mode: Off
+5. The "Send to Boxes" option must be set to "Automatic".
+6. Nicknaming needs to be off.
+7. System time: Un-synced
 
 This must be done to all participating Switches.
 
