@@ -44,6 +44,11 @@ This is the most important and is basically required for any attempt to stay at 
 Staying offline isn't always feasible, but is worth mentioning anyway. And it only works if the Switch doesn't know there is an update for the game.
 Once you start seeing the game update prompt, it is too late. The moment, you click "update" (either intentionally or not), you will be blocked from playing the game until it updates.
 
+**Airplane Mode:**
+
+If the Switch knows there is a new update, run all programs in airplane mode if possible. Should something go wrong and the program accidentally starts the update, airplane mode will block the update until you return. Then you can [recover the old version.](#syncing-game-version-with-another-switch)
+
+
 **Configure Programs to Avoid the Update Window:**
 
 Most of the programs in this project that navigate between the game and the Switch settings will inevitably encounter any game or system update menus.
