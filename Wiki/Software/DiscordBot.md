@@ -92,17 +92,11 @@ If it doesn't, there can literally be a million things wrong. A good place to st
 
 ***
 
-## Advanced Settings
-
-Now that you have a webhook working, here's the guide for the remaining webhook settings.
-
-### Column: "Enabled"
-
-This lets you turn on or off the entire webhook. If unchecked, nothing will be sent to that webhook. Thus you can disable webhooks without deleting them from the program.
+# Expanded Settings Overview
 
 ### Column: "Description"
 
-Enter your own description for this webhook so you can identify them. This doesn't matter if you only have webhook, but is very useful when you have many of them.
+Enter your own description for each channel so you can identify them more easily.
 
 ### Column: "Allow Pings"
 
