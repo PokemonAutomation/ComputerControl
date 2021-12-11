@@ -11,7 +11,7 @@ Discord bot integration can be useful for various things. For example:
 3. Send notifications for live (real-time) hosting.
 4. Use remote control commands to start or stop a program, send controller inputs, take screenshots, etc.
 
-<img src="images/discord-notifications-0.png" height="600">
+<img src="images/discord-notifications-0.png">
 
 
 
@@ -25,11 +25,11 @@ Discord bot integration can be useful for various things. For example:
 
 3. Make sure your bot is set to private, otherwise anyone will be able to invite it to their servers.
 
-<img src="images/discord-bot-private.png" height="60">
+<img src="images/discord-bot-private.png">
 
 4. Under Privileged Gateway Intents enable `Presence Intent`, `Server Members Intent`, and `Message Content Intent`. Save your changes.
 
-<img src="images/discord-bot-intents.png" height="360">
+<img src="images/discord-bot-intents.png">
 
 5. Now head to the OAuth2 tab and click URL Generator; we need to generate an invite URL with the correct permissions. Select `bot` under scopes. You now have two options:
 
@@ -37,7 +37,7 @@ Discord bot integration can be useful for various things. For example:
 
 	b. Do not grant any permissions, copy the generated URL below and invite the bot to a server you have Manage Server permissions in. Bot will not have any permissions, you can configure a role in the server. **This is the preferred option if you are setting up your bot in someone else's server.**
 
-<img src="images/discord-bot-permissions.png" height="360">
+<img src="images/discord-bot-permissions.png">
 
 
 ## Step 2: Open up the Discord settings.
