@@ -20,6 +20,7 @@ Discord bot integration can be useful for various things. For example:
 1. Go to [Discord's Developer Portal](https://discord.com/developers/applications) and create a new application.
 
 2. Navigate to the Bot tab and add a new bot. You can give it a username and an avatar if you wish. This is the tab you will get your bot token from, we'll need it later.
+
 	***Important note: never share or reveal your token to anyone. If you do, other people will be able to access your bot account and abuse it.***
 
 3. Make sure your bot is set to private, otherwise anyone will be able to invite it to their servers.
@@ -31,8 +32,10 @@ Discord bot integration can be useful for various things. For example:
 <img src="images/discord-bot-intents.png" height="360">
 
 5. Now head to the OAuth2 tab and click URL Generator; we need to generate an invite URL with the correct permissions. Select `bot` under scopes. You now have two options:
+
 	a. Grant `Send Messages`, `Embed Links`, `Attach Files`, `Read Message History` permissions. Copy the generated URL below and paste it into your browser of choice. This will allow you to invite the bot to a server you have Manage Server permissions in, and your bot will have a pre-configured role.
-	b. Do not grant any permissions, copy the generated URL below and invite the bot to a server you have Manage Server permissions in. Bot will not have any permissions, you can configure a role in the server. This is the preferred option if you are setting up your bot in someone else's server.
+
+	b. Do not grant any permissions, copy the generated URL below and invite the bot to a server you have Manage Server permissions in. Bot will not have any permissions, you can configure a role in the server. **This is the preferred option if you are setting up your bot in someone else's server.**
 
 <img src="images/discord-bot-permissions.png" height="360">
 
