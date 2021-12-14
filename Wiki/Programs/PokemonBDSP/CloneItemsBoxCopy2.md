@@ -37,7 +37,7 @@ Relevant Videos:
 ### Instructions
 
 1. Setup your party and box like the above image:
-2. You are indoors far away from anything that can be interacted with.
+2. You are indoors and far away from anything that can be interacted with.
 3. Your cursor in the menu is over "Pokémon".
 4. The menu glitch is active with the menu open. (see below picture for the starting position)
 5. Start the program in the game.
