@@ -12,7 +12,7 @@ This program activates the menu glitch using the Pokétch method. It works on ga
 
 The method is described here: https://www.youtube.com/watch?v=OGBPgeSsf-E
 
-This program can be used to setup [item cloning program](CloneItemsBoxCopy2.md).
+This program can be used to setup the [item cloning program](CloneItemsBoxCopy2.md).
 
 <img src="images/ActivateMenuGlitch-Poketch-0.png">
 
