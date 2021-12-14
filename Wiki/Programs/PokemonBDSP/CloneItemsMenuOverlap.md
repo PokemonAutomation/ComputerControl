@@ -5,8 +5,9 @@
 See: [Version Preservation](VersionPreservation.md)
 
 **Related Programs:**
-- [Clone Items (Menu Overlap Method)](CloneItemsMenuOverlap.md) (this program)
+- [Clone Items (Box Copy Method 2)](CloneItemsBoxCopy2.md)
 - [Clone Items (Box Copy Method)](CloneItemsBoxCopy.md)
+- [Clone Items (Menu Overlap Method)](CloneItemsMenuOverlap.md) (this program)
 
 *The "Box Copy Method" is much faster and easier to setup. Thus there is little point in using this cloning program. The only reason this program exists is because it was made before the box copy method was discovered.*
 

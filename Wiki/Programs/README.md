@@ -131,9 +131,12 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Egg Fetcher](PokemonBDSP/EggFetcher.md)                              |          | Yes | Yes |
 | [Egg Hatcher](PokemonBDSP/EggHatcher.md)                              |          | Yes | Yes |
 ||
+| **Glitches (v1.1.2):** |
+| [Clone Items (Box Copy Method 2)](PokemonBDSP/CloneItemsBoxCopy2.md)      | Required | Yes | Yes |
+||
 | **Glitches (v1.1.1):** |
-| [Clone Items (Menu Overlap Method)](PokemonBDSP/CloneItemsMenuOverlap.md) | Required | Yes | Yes |
 | [Clone Items (Box Copy Method)](PokemonBDSP/CloneItemsBoxCopy.md)         | Required | Yes | Yes |
+| [Clone Items (Menu Overlap Method)](PokemonBDSP/CloneItemsMenuOverlap.md) | Required | Yes | Yes |
 
 
 <hr>
