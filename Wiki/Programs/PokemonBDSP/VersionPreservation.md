@@ -1,5 +1,7 @@
 # Version Preservation
 
+(**Update 2021/12/13:** A new method for activating the menu glitch in v1.1.2 has been found. But everything in this page still applies as it's likely it will be quickly patched.)
+
 If you're here, you probably already know that Pokémon BDSP has a number cloning exploits. Two of which have been automated:
 
 - [Clone Items (Menu Overlap Method)](CloneItemsMenuOverlap.md)
