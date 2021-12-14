@@ -1,4 +1,4 @@
-# Clone Items (Box Copy Method)
+# Clone Items (Box Copy Method 2)
 
 ***This glitch works as of version 1.1.2. But will likely be patched out in the near future.***
 
