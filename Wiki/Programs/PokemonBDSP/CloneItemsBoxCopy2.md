@@ -5,6 +5,7 @@
 See: [Version Preservation](VersionPreservation.md)
 
 **Related Programs:**
+- [Activate Menu Glitch (Pokétch)](ActivateMenuGlitch-Poketch.md)
 - [Clone Items (Box Copy Method 2)](CloneItemsBoxCopy2.md) (this program)
 - [Clone Items (Box Copy Method)](CloneItemsBoxCopy.md)
 - [Clone Items (Menu Overlap Method)](CloneItemsMenuOverlap.md)
@@ -15,10 +16,11 @@ This an update version of the [cloning program](CloneItemsBoxCopy.md) that can b
 
 This program requires that the menu overlap glitch be already active. *How* you choose activate is the glitch is up to you (and dependent on the game version).
 
+You can use [this program](ActivateMenuGlitch-Poketch.md) to help you activate the menu glitch on 1.1.2.
+
 Relevant Videos:
 - Original Box Clone Method: https://www.youtube.com/watch?v=naHINKnWu7k
 - Version 1.1.2 Update: https://www.youtube.com/watch?v=OGBPgeSsf-E
-
 
 <img src="images/CloneItemsBoxCopy2-0.png">
 
