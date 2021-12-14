@@ -24,8 +24,9 @@ This program can be used to setup the [item cloning program](CloneItemsBoxCopy2.
 
 1. Stand in front of a Pokémon center.
 2. The Pokémon center you choose cannot have any NPCs blocking the path to the escalator.
-3. Open the Pokétch and move the cursor over Fly.
-4. Start the program in the game.
+3. Your Pokémon is not following you.
+4. Open the Pokétch and move the cursor over Fly.
+5. Start the program in the game.
 
 The program will attempt to enable the menu glitch. Then it will enter the Pokémon center and park in the ideal spot to run the cloning programs.
 
