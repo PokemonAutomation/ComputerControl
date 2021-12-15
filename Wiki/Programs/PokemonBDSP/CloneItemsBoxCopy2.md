@@ -22,6 +22,9 @@ Relevant Videos:
 - Original Box Clone Method: https://www.youtube.com/watch?v=naHINKnWu7k
 - Version 1.1.2 Update: https://www.youtube.com/watch?v=OGBPgeSsf-E
 
+(Note there is a slightly [faster method](https://www.youtube.com/watch?v=ZbNYA9PzCAw) to clone items.
+However, this approach is harder to automate because the sequence breaks when your bag is full.)
+
 <img src="images/CloneItemsBoxCopy2-0.png">
 
 ### Settings
