@@ -23,7 +23,7 @@ _Automates runaway encounters for Shaymin._
 
 1. Stand in front of Shaymin on tile shown in example image below.
 
-<img src="images/ShinyHuntShaymin-Overworld-0.png">
+<img src="images/ShinyhuntShaymin-Overworld-0.png">
 
 2. Start the program in game. Make sure the device is the connected controller.
 
