@@ -28,8 +28,10 @@ This program is used with [EggHatcher](EggHatcher.md) to fetch and hatch eggs. T
 
 1. Your party is full and none are eggs.
 2. You are on your bike and in high gear.
-3. Stand in the following location.
-4. Start the program.
+3. You have the bike registered. (and the Dpad shortcut option correctly selected in the program)
+4. You have at least 2 things registered for shortcuts. (so that pressing + brings up the menu)
+5. Stand in the following location.
+6. Start the program.
 
 <img src="images/EggFetcher-0.png">
 
@@ -39,6 +41,10 @@ This program is used with [EggHatcher](EggHatcher.md) to fetch and hatch eggs. T
 ### Go Home when Done:
 
 After the program finishes, go to the Switch Home to idle.
+
+### Bike Shortcut:
+
+This is the Dpad button that is used to quickly trigger the bike.
 
 ### Fetch Attempts:
 
