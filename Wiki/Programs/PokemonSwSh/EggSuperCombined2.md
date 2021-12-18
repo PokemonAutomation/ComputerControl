@@ -11,7 +11,7 @@ The microcontroller and computer-control versions of this program are functional
 
 Run [MassRelease](MassRelease.md), then run [EggCombined2](EggCombined2.md).
 
-> ***Do not** use this program until you are familiar with EggCombined since this is literally the same thing, but with an extra mass-release step. Therefore it is even more tricky to use correctly and safely.*
+***Do not use this program until you are familiar with EggCombined since this is literally the same thing, but with an extra mass-release step. Therefore it is even more difficult to use correctly and safely.***
 
 EggSuperCombined2 is the most optimized of the egg programs in this package. When used properly, it can allow 24/7 hatching while requiring the user to only touch the Switch twice a day. Thus this program is most suitable for mass production of hatched shinies - especially multiple Switches where you want to minimize the amount of interaction required for each Switch.
 
