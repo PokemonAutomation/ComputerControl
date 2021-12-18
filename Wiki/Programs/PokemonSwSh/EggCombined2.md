@@ -9,6 +9,9 @@ The microcontroller and computer-control versions of this program are functional
 
 ## Program Description
 
+***(Do not use this program until you are experiented with [EggFetcher2](EggFetcher2.md) and [EggHatcher](EggHatcher.md). This program is very difficult to use and will require understanding of those simpler programs to use properly.)***
+
+
 This is the combined egg fetching+hatching program. When used properly, it is nearly as fast as manual hatching.
 
 This program is capable of sustaining upwards of ***1700 eggs/day*** (5120 step) even when including time to perform mass release. Thus this is one of the fastest (if not the fastest) automatic egg hatcher that does not require custom firmware.
