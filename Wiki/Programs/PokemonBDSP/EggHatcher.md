@@ -6,6 +6,8 @@
 
 The microcontroller and computer-control versions of this program are functionally identical.
 
+***Warning: Egg hatching on BDSP is currently unstable. Use at your own risk!***
+
 ## Program Description
 
 Hatch eggs from your boxes. This is the counterpart to [EggFetcher](EggFetcher.md).
