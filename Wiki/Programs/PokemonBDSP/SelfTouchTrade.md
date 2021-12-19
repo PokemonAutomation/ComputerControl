@@ -1,5 +1,9 @@
 # Self Touch Trade
 
+**Related Programs:**
+- [Self Box Trade](SelfBoxTrade.md) (this program)
+- [Self Touch Trade](SelfTouchTrade.md) (this program)
+
 ## Program Description
 
 Touch trade boxes of Pokémon from a host Switch to a receiving Switch. The purpose is Pokédex filling without Pokémon Home connectivity.
