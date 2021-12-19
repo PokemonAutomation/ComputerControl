@@ -18,7 +18,7 @@ Trade boxes of Pokémon between two Switches locally.
 2. All Pokémon in these N boxes on both Switches must be tradable.
 3. No Pokémon in these N boxes on both Switches will evolve on trade.
 
-***Warning: ** Kadabra will evolve into Alakazam even if it is holding an Everstone.*
+***Warning:** Kadabra will evolve into Alakazam even if it is holding an Everstone.*
 
 
 ### Instructions
