@@ -116,6 +116,10 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | **General:** |
 | [Mass Release](PokemonBDSP/MassRelease.md)                            |          | Yes | Yes |
 ||
+| **Trading:** |
+| [Self Box Trade](PokemonBDSP/SelfBoxTrade.md)                         |          | Yes | Yes |
+| [Self Touch Trade](PokemonBDSP/SelfTouchTrade.md)                     |          | Yes | Yes |
+||
 | **Farming:** |
 | [Money Farmer (Route 212)](PokemonBDSP/MoneyFarmerRoute212.md)        | Required | Yes | Yes |
 | [Money Farmer (Route 210)](PokemonBDSP/MoneyFarmerRoute210.md)        | Required | Yes | Yes |
