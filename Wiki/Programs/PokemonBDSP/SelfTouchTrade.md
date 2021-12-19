@@ -47,7 +47,7 @@ This will shift all the boxes on the host Switch to the left by one. Once all bo
 
 **Example:**
 
-Start Position:
+**Startind Position:**
 
 Hosting Switch:
 - Box A
