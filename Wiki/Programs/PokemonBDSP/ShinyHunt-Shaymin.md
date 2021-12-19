@@ -21,11 +21,11 @@ Shiny hunt Shaymin using the runaway method. This program is faster than [Legend
 ### Instructions
 
 1. Stand in front of Shaymin on tile shown in example image below.
+2. You have the bike registered. (and the Dpad shortcut option correctly selected in the program)
+3. You have at least 2 things registered for shortcuts. (so that pressing + brings up the menu)
+4. Start the program in game. Make sure the device is the connected controller.
 
 <img src="images/ShinyhuntShaymin-Overworld-0.png">
-
-2. Start the program in game. Make sure the device is the connected controller.
-
 
 ## Options
 
