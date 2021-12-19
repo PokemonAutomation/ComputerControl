@@ -48,6 +48,8 @@ The receiving Switch is that will receive the touch-trades for dex-filling.
 5. The cursor on both Switches is red. (not blue)
 6. Start the program in the game.
 
+<img src="images/SelfTouchTrade-1.png">
+
 Once started, the program will trade the first box to the receiving Switch, then trade the 2nd box on the host and receive the 1st box back and so on.
 This will shift all the boxes on the host Switch to the left by one. Once all boxes have been touch traded to the receiving Switch, the host to rewind back to the first box and trade it back to the receiving Switch.
 
