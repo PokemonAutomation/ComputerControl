@@ -25,8 +25,8 @@ Touch trade boxes of Pokémon from a host Switch to a receiving Switch. The purp
 The hosting Switch is the Switch with all the Pokémon to be touch-traded.
 
 1. The hosting Switch has N boxes completely filled consecutively in the box system.
-2. All Pokémon in these N boxes on both Switches must be tradable.
-3. No Pokémon in these N boxes on both Switches will evolve on trade.
+2. All Pokémon in these N boxes must be tradable.
+3. No Pokémon in these N boxes will evolve on trade.
 
 ***Warning:** Kadabra will evolve into Alakazam even if it is holding an Everstone.*
 
@@ -36,7 +36,7 @@ The receiving Switch is that will receive the touch-trades for dex-filling.
 
 1. The receiving Switch has one completely filled box.
 2. All Pokémon in this box are tradable.
-3. No Pokémon in these N boxes on both Switches will evolve on trade.
+3. No Pokémon in this box will evolve on trade.
 
 
 ### Instructions
