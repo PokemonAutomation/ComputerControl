@@ -1,5 +1,8 @@
 # Self Box Trade
 
+- [Self Box Trade](SelfBoxTrade.md) (this program)
+- [Self Touch Trade](SelfTouchTrade.md)
+
 ## Program Description
 
 Trade boxes of Pokémon between two Switches locally.
