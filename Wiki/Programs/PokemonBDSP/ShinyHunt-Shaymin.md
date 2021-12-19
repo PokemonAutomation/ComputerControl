@@ -2,13 +2,12 @@
 
 ## Program Description
 
-_Automates runaway encounters for Shaymin._
+Shiny hunt Shaymin using the runaway method. This program is faster than [Legendary Reset](LegendaryReset.md).
 
 ### Setup of Settings
 
 1. Screen size: Must be 100% within the Switch settings
 2. Video Resolution: 1080p or higher in program settings
-   > Shiny detection and text recognition is not reliable at low resolutions.
 3. Text Speed: Fast
 
 ### Setup of Party
@@ -35,10 +34,13 @@ _Automates runaway encounters for Shaymin._
 
 After finding a shiny, go to the Switch Home to idle. Turn this off for unattended streaming so that your viewers can see the shiny.
 
+### Bike Shortcut:
+
+This is the Dpad button that is used to quickly trigger the bike.
+
 
 ## Advanced Settings:
 These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.
-
 
 ### Exit Battle Timeout:
 
