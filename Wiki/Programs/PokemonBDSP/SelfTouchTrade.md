@@ -1,7 +1,7 @@
 # Self Touch Trade
 
 **Related Programs:**
-- [Self Box Trade](SelfBoxTrade.md) (this program)
+- [Self Box Trade](SelfBoxTrade.md)
 - [Self Touch Trade](SelfTouchTrade.md) (this program)
 
 ## Program Description
@@ -51,7 +51,7 @@ The receiving Switch is that will receive the touch-trades for dex-filling.
 Once started, the program will trade the first box to the receiving Switch, then trade the 2nd box on the host and receive the 1st box back and so on.
 This will shift all the boxes on the host Switch to the left by one. Once all boxes have been touch traded to the receiving Switch, the host to rewind back to the first box and trade it back to the receiving Switch.
 
-**Example:**
+## Example:
 
 **Starting Position:**
 
