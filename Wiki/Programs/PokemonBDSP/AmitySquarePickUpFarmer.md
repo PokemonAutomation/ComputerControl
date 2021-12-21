@@ -2,9 +2,7 @@
 
 ## Program Description
 
-AmitySquarePickUpFarmer is used to farm items your walking Pokémon pick up in Amity Square.
-
-<img src="images/AmitySquarePickUpFarmer-0.png">
+AmitySquarePickUpFarmer is used to farm items (rare berries and stickers) your walking Pokémon pick up in Amity Square.
 
 ### Setup of Settings
 
@@ -12,10 +10,12 @@ AmitySquarePickUpFarmer is used to farm items your walking Pokémon pick up in A
 
 ### Instructions
 
-1. Choose a small Pokémon like Clefairy as your walking Pokémon as a larger one will hinder your movement. And don't bring more than one strollable Pokémon into the park for the same reason.
-2. Stand in this location
+1. When entering the park, choose a small Pokémon like Clefairy as your walking Pokémon as a larger one will hinder your movement. And don't bring more than one strollable Pokémon into the park for the same reason.
+2. Stand in the location shown below.
 3. You must not have an egg in the party, or it may break the program.
 4. Start the program in game.
+
+<img src="images/AmitySquarePickUpFarmer-0.png">
 
 Once started, this program will repeatedly move right and left across the park then talk to the walking Pokémon to try getting an item.
 
