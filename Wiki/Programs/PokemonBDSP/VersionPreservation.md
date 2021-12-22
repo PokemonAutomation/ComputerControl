@@ -135,12 +135,11 @@ If you do not have a Switch that you can utilize to synchronize to the earlier v
 
 **Important Note:**
 
-If you have saved a game on version 1.1.2 (or any version that's *later* than the one you want to roll back to), you are most likely stuck.
+If you have saved a game on version 1.1.2 (or any version that's *later* than the one you want to roll back to), you are stuck.
 
-Save files are generally not backwards compatible so you will not be able to load a save file that was last saved using a later version of the game.
+Save files are not backwards compatible so you will not be able to load a save file that was last saved using a later version of the game. This is enforced by the Switch system itself.
 
-Furthermore, (while untested), there is a likelihood that just the act of *transferring* a save with a newer game version to a Switch will force the Switch to require an update before ever running the game again.
-(In other words, it now knows there's a newer version and will refuse to start until it has it.)
+If you transfer a save with with a newer game version to a Switch that only has the older version, that Switch will know of the new game version and will block you from starting the game until it is updated. Again the only way to undo this is to factory reset the Switch.
 
 
 ## Preparation Steps
