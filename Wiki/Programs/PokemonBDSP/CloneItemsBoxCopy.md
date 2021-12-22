@@ -1,6 +1,6 @@
 # Clone Items (Box Copy Method)
 
-***This glitch has been patched out in v1.1.2 of the game. This program will only work on v1.1.1 and earlier.***
+***This glitch only works on v1.1.1 and earlier. It has been patched out in v1.1.2.***
 
 See: [Version Preservation](VersionPreservation.md)
 
