@@ -1,6 +1,8 @@
 # Activate Menu Glitch (Pokétch)
 
-***This glitch works as of version 1.1.2. But will likely be patched out in the near future.***
+***This glitch only works on v1.1.2 and earlier. It has been patched out in v1.1.3.***
+
+See: [Version Preservation](VersionPreservation.md)
 
 **Related Programs:**
 - [Activate Menu Glitch (Pokétch)](ActivateMenuGlitch-Poketch.md) (this program)
