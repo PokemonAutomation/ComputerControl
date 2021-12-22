@@ -92,7 +92,7 @@ Thus you need at least 2 Switches. If your goal is to synchronize BDSP v1.1.1, y
 2. Go into `Software Update` -> `Match Version with Local Users`.
 3. Select the host to be the Switch with the v1.1.1 (or whatever version you wish to sync to).
 
-This will update the Switch that is behind to the Switch that has the latest version. ***Do not do this is either Switch is already on 1.1.2 as it will update the other one to 1.1.2 instead.***
+This will update the Switch that is behind to the Switch that has the latest version. ***Do not do this if either Switch is already on 1.1.2 as it will update the other one to 1.1.2 instead.***
 
 **(Note: This will also update the Switch firmware if that is behind.)**
 
