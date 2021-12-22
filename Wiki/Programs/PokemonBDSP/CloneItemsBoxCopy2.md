@@ -1,6 +1,6 @@
 # Clone Items (Box Copy Method 2)
 
-***This glitch worked as of version 1.1.2. It has been patched out in 1.1.3***
+***This glitch worked as of version 1.1.2. It has been patched out in 1.1.3.***
 
 See: [Version Preservation](VersionPreservation.md)
 
