@@ -1,4 +1,4 @@
-# Egg Fetcher
+# Egg Autonomous
 
 ## Program Description
 
@@ -6,7 +6,7 @@ A fully autonomous bot that will fetch and hatch eggs and keep all the shinies t
 
 Unlike [Egg Fetcher](EggFetcher.md) and [Egg Hatcher](EggHatcher.md), this program can run completely unattended for many days without intervention.
 
-(insert image when available)
+**(insert image when available)**
 
 ### Setup of Settings
 
@@ -27,11 +27,15 @@ Unlike [Egg Fetcher](EggFetcher.md) and [Egg Hatcher](EggHatcher.md), this progr
 1. Your lead Pokémon is not an egg.
 2. The rest of your party consists of 5 eggs.
 
+**(insert image when available)**
+
 ### Pokémon Box Setup
 
 1. Box 1 is full except for an empty 1st column.
 2. The last box (bottom-right corner in the box view) has plenty of free spaces. This is where the kept babies will be deposited.
 3. You are on Box 1.
+
+**(insert image when available)**
 
 ### Required Parameters:
 
@@ -43,7 +47,7 @@ Unlike [Egg Fetcher](EggFetcher.md) and [Egg Hatcher](EggHatcher.md), this progr
 2. Stand in the following location.
 3. Start the program.
 
-(update image when available)
+**(update image when available)**
 <img src="images/EggHatcher-0.png">
 
 
