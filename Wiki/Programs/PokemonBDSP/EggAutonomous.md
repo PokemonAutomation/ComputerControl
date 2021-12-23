@@ -4,7 +4,7 @@
 
 A fully autonomous bot that will fetch and hatch eggs and keep all the shinies that are hatched. It can also be configured to breed for IV spreads.
 
-Unlike [Egg Fetcher](EggFetcher.md) and [Egg Hatcher](EggHatcher.md), this program can run completely unattended for many days without intervention.
+Unlike [Egg Fetcher](EggFetcher.md) and [Egg Hatcher](EggHatcher.md), this program can run completely unattended for many days without intervention. Furthermore, this program doesn't care about step counts, egg-warming, or early hatching eggs. It can adapt to all of these variables since it uses visual feedback.
 
 **(insert image when available)**
 
