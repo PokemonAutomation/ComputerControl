@@ -15,9 +15,8 @@ Hatch eggs from your boxes. This is the counterpart to [EggFetcher](EggFetcher.m
 ### Setup of Settings
 
 1. Text Speed: Fast
-2. Casual mode: Off
-3. Nicknaming: Off
-4. The menu cursor is over the Pokémon option.
+2. Nicknaming: Off
+3. The menu cursor is over the Pokémon option.
 
 ### Party Setup
 
