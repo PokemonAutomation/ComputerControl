@@ -12,11 +12,13 @@ Furthermore, this program doesn't care about step counts, egg-warming, or early 
 
 ### Setup of Settings
 
-1. Text Speed: Fast
-2. The "Send to Boxes" option must be set to "Automatic".
-3. Nicknaming: Off
-4. The menu cursor is over the Pokémon option.
-5. The parents are already deposited at the daycare center.
+1. Screen size: Must be 100% within the Switch settings
+2. Video Resolution: 1080p or higher in program settings
+3. Text Speed: Fast
+4. The "Send to Boxes" option must be set to "Automatic".
+5. Nicknaming: Off
+6. The menu cursor is over the Pokémon option.
+7. The parents are already deposited at the daycare center.
 
 **Strongly Recommended:**
 - Masuda Method: The Pokémon in the daycare are of different languages.
