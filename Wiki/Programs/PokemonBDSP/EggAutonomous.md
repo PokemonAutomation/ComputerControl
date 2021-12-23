@@ -8,7 +8,7 @@ Unlike [Egg Fetcher](EggFetcher.md) and [Egg Hatcher](EggHatcher.md), this progr
 
 Furthermore, this program doesn't care about step counts, egg-warming, or early hatching eggs. Visual feedback allows it to adapt to all of these variables as well game crashes and misc. program errors.
 
-**(insert image when available)**
+<img src="images/EggAutonomous-0.png">
 
 ### Setup of Settings
 
@@ -31,8 +31,6 @@ Furthermore, this program doesn't care about step counts, egg-warming, or early 
 1. Your lead Pokémon is not an egg.
 2. The rest of your party consists of 5 eggs.
 
-**(insert image when available)**
-
 ### Pokémon Box Setup
 
 1. Box 1 is full except for an empty 1st column.
@@ -40,7 +38,7 @@ Furthermore, this program doesn't care about step counts, egg-warming, or early 
 3. You are on Box 1.
 4. The right panel is set to the IV Judge Panel. (you can also set it to the stats panel if you are not doing IV filtering)
 
-**(insert image when available)**
+<img src="images/EggAutonomous-1.png">
 
 ### Required Parameters:
 
@@ -52,8 +50,7 @@ Furthermore, this program doesn't care about step counts, egg-warming, or early 
 2. Stand in the following location.
 3. Start the program.
 
-**(update image when available)**
-<img src="images/EggHatcher-0.png">
+<img src="images/EggAutonomous-2.png">
 
 Once the program starts, it will immediately save the game (if [Error Recovery](#error-recovery) is enabled) and start spinning. It will periodically fetch eggs and hatch your entire party.
 
@@ -99,6 +96,8 @@ By default, there is one action which is to keep all shinies. (deposit them into
 But you can add more actions to keep babies of certain IV spreads. This is useful if you are still selectively breeding for perfect parents.
 
 ***If you are using any IV filters, the right panel in the box system must be set to the IV Judge.***
+
+<img src="images/EggAutonomous-3.png">
 
 <hr>
 
