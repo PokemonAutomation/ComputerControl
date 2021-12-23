@@ -94,7 +94,7 @@ This tables lets you specify the actions to perform on babies that meet a certai
 By default, there is one action which is to keep all shinies. (deposit them into the last box)
 But you can add more actions to keep babies of certain IV spreads. This is useful if you are still selectively breeding for perfect parents.
 
-***If you are using any IV filters, the right panel in the box must be set to the IV Judge.***
+***If you are using any IV filters, the right panel in the box system must be set to the IV Judge.***
 
 <hr>
 
