@@ -52,7 +52,7 @@ Unlike [Egg Fetcher](EggFetcher.md) and [Egg Hatcher](EggHatcher.md), this progr
 
 Once the program starts, it will immediately save the game (if [Error Recovery](#error-recovery) is enabled) and start spinning. It will periodically fetch eggs and hatch your entire party.
 
-Once it has fetched 5 eggs and hatched all 5 eggs in your party, it will enter the box system and check each of the 5 babies in your party. Each baby is run through the [Actions Table](#actions-table). Depending on whether and what condition is matched, the baby will be either released, deposited into the last box, or the program will stop.
+Once it has fetched 5 eggs and hatched all 5 eggs in your party, it will enter the box system and check each of the 5 babies in your party. Each baby is run through the [Actions Table](#actions-table). Depending on what conditions are matched, the baby will be either released, deposited into the last box, or the program will stop.
 
 Once it has finished processing your party, it will withdraw the 5 eggs in the first column of Box 1 and continue.
 
@@ -86,7 +86,7 @@ That way if the game crashes or the program encounters some error, you won't los
 
 This tables lets you specify the actions to perform on babies that meet a certain criteria.
 
-By default, there is one action which is to keep all shiny babies. (deposit them into the last box)
+By default, there is one action which is to keep all shinies. (deposit them into the last box)
 But you can add more actions to keep babies of certain IV spreads. This is useful if you are still selectively breeding for perfect parents.
 
 
