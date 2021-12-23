@@ -82,7 +82,7 @@ Pokémon BDSP is very prone to crashing.
 When enabled, this option, will save the game at the start of the program and after baby that is kept.
 That way if the game crashes or the program encounters some error, you won't lose too much progress.
 
-### Action Table:
+### Actions Table:
 
 This tables lets you specify the actions to perform on babies that meet a certain criteria.
 
