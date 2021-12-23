@@ -34,6 +34,7 @@ Unlike [Egg Fetcher](EggFetcher.md) and [Egg Hatcher](EggHatcher.md), this progr
 1. Box 1 is full except for an empty 1st column.
 2. The last box (bottom-right corner in the box view) has plenty of free spaces. This is where the kept babies will be deposited.
 3. You are on Box 1.
+4. The right panel is set to the IV Judge Panel. (you can also set it to the stats panel if you are not doing IV filtering)
 
 **(insert image when available)**
 
@@ -63,6 +64,10 @@ Once it has finished processing your party, it will withdraw the 5 eggs in the f
 
 After the program finishes, go to the Switch Home to idle.
 
+### Game Language:
+
+The language you are playing in. This is required only if you are doing IV filtering via the [Actions Table](#actions-table).
+
 ### Bike Shortcut:
 
 This is the Dpad button that is used to quickly trigger the bike.
@@ -89,6 +94,7 @@ This tables lets you specify the actions to perform on babies that meet a certai
 By default, there is one action which is to keep all shinies. (deposit them into the last box)
 But you can add more actions to keep babies of certain IV spreads. This is useful if you are still selectively breeding for perfect parents.
 
+***If you are using any IV filters, the right panel in the box must be set to the IV Judge.***
 
 <hr>
 
