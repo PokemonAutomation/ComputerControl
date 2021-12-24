@@ -42,7 +42,7 @@ Make only small changes at a time, no more than +/- 50 ticks at a time. Most Swi
 1. Text Speed: Fast
 2. Casual mode: Off
 3. System time: Un-synced
-4. You must have 7 or more badges or you cannot catch the Regi.
+6. You must have all 8 badges or you cannot catch the Regi.
 5. You must be offline.
 6. You must turn off your lead Pokémon following you. Following will cause happiness to increase enough to shake in battle. You can do this by talking to the boy in Freezington.
 
