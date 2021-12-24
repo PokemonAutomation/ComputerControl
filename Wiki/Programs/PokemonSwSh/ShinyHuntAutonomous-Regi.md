@@ -35,7 +35,7 @@ This program will automatically hunt for a shiny Regi golem and automatically st
 3. Text Speed: Fast
 4. Casual mode: Off
 5. System time: Un-synced
-6. In-Game Badges: Must have 7 or more or you cannot catch the Regi
+6. In-Game Badges: Must have all 8 badges cannot catch the Regi
 
 ### Setup of Party
 1. Your lead Pokémon must be able to run away. (Faster or holding Smoke Ball)
