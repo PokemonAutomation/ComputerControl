@@ -9,6 +9,11 @@ Many of the programs here are direct ports of the microcontroller versions and w
 
 Therefore, computer-control programs completely supercede the microcontroller programs if you have the hardware for it.
 
+**Jump To:**
+- [Nintendo Switch](#nintendo-switch)
+- [Pokémon Sword/Shield](#pokémon-swordshield)
+- [Pokémon Brilliant Diamond/Shining Pearl](#pokémon-brilliant-diamondshining-pearl)
+
 ## Nintendo Switch
 
 | **Program** | **Video Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
@@ -135,6 +140,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | **Eggs:** |
 | [Egg Fetcher](PokemonBDSP/EggFetcher.md)                              |          | Yes | Yes |
 | [Egg Hatcher](PokemonBDSP/EggHatcher.md)                              |          | Yes | Yes |
+| [Egg Autonomous](PokemonBDSP/EggAutonomous.md)                        | Required | Yes | Yes |
 ||
 | **Glitches (v1.1.2):** |
 | [Activate Menu Glitch (Pokétch)](PokemonBDSP/ActivateMenuGlitch-Poketch.md)   | Required | Yes | Yes |
