@@ -1,7 +1,3 @@
-Y-Com glitch must be active
-Player must be standing in front of PC or whatever it is called these days
-Boxes before the current boxes must be full or the current box must be box #1
-
 # Date Spam - Poke Jobs
 ## Program Description
 
