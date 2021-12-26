@@ -20,9 +20,7 @@ Setting up serial connection and video capture is the same regardless of what de
 
 **If you answered NO to any of these questions, *STOP RIGHT NOW***. Disconnect everything from your device and go back to the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md) and start over.
 
-We know you are very impatient and it is very tempting to skip over things you think are irrelevant. But unless you have a degree in electrical engineering, this is not the place to try to outsmart the instructions.
-
-Over 50% of the help requests we get are from people who skipped the Microcontroller tutorial because they were impatient and thought it was unnecsssary.
+Most people who get stuck do so because they skipped the Microcontroller tutorial.
 
 ## Step 1: Acquire the Hardware
 
