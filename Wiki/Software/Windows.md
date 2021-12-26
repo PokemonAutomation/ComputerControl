@@ -2,19 +2,32 @@
 
 This the guide for setting up serial programs on Windows. If you are here, your basic hardware setup should be fully working. So now you are ready to move up to serial connectivity and video capture!
 
+Setting up serial connection and video capture is the same regardless of what device you have. Therefore all the device-specific tutorials will merge here.
+
 ***Do not continue if you have not completed the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md).***
 
 ***Do NOT skip the Microcontroller tutorial even if you have no intention to run Microcontroller programs. The Microcontroller tutorial provides basic information needed for both Microcontroller and Computer-Control programs.***
 
-Setting up serial connection and video capture is the same regardless of what device you have. Therefore all the device-specific tutorials will merge here.
+## Step 0: Make sure you are ready.
 
-***Note that Switch Lite cannot output video. Therefore it cannot run any programs that require video capture. If you wish to pursue this level of automation, it might be worth considering investing in a full Switch.***
+1. Have you completed the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md)?
+2. Do you have TurboA working via the Microcontroller programs?
+3. Do you know what a .hex file is?
+4. Do you know how to flash your device?
+5. Do you know what WinAVR is?
+6. Have you ever heard of one of these programs: QMK, TeensyLoader, or FLIP?
+7. Do you know what the 5-second flash looks like on your device?
+
+**If you answered NO to any of these questions, *STOP RIGHT NOW***. Disconnect everything from your device and go back to the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md) and start over.
+
+We know you are very impatient and it is very tempting to skip over things you think are irrelevant. But unless you have a degree in electrical engineering, this is not the place to try to outsmart the instructions.
+
+Over 50% of the help requests we get are from people who skipped the Microcontroller tutorial because they were impatient and thought it was unnecsssary.
 
 ## Step 1: Acquire the Hardware
 
-Make sure you have all the hardware:
-1. [Microcontroller Hardware](https://github.com/Mysticial/PA-Microcontroller/blob/master/Wiki/Hardware/README.md)
-2. [Serial Hardware](https://github.com/Mysticial/PA-ComputerControl/blob/master/Wiki/Hardware/README.md)
+Make sure you have the serial hardware:
+- [Serial Hardware](https://github.com/Mysticial/PA-ComputerControl/blob/master/Wiki/Hardware/README.md)
 
 ## Step 2: Download the SerialPrograms package.
 
