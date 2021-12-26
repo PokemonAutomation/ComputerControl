@@ -53,6 +53,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)                      |          | Yes | Yes |
 | [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)        |          | Yes | Yes |
 | [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md) |          | Yes | Yes |
+| [Date Spam: Poké Jobs Farmer](PokemonSwSh/DateSpam-PokeJobsFarmer.md)             |          | Yes | Yes |
 ||
 | **Den Hunting:** |
 | [Beam Reset](PokemonSwSh/BeamReset.md)                        |          | Yes | Yes |
