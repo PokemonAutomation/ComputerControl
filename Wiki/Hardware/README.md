@@ -10,7 +10,7 @@ If you already have the hardware, skip ahead to the software tutorial.
 
 Before you begin, make sure you meet all of the following requirements:
 
-1. You have a working [microcontroller setup](https://github.com/PokemonAutomation/Microcontroller) and you know how to run microcontroller programs.
+1. You have a working [microcontroller setup](https://github.com/PokemonAutomation/Microcontroller) and you know how to run microcontroller programs. **DO NOT SKIP the Microncontroller tutorial. It provides the necessary background to run Computer-Control.**
 2. You have computer running 64-bit Windows. As of this writing, no platforms other than 64-bit Windows are supported.
 3. ***Windows 11 has problems that are out of our control. Do not use Windows 11. Downgrade to Windows 10 if possible.***
 4. You have a regular Switch (not a Switch Lite) if you want to use programs requiring video feedback.

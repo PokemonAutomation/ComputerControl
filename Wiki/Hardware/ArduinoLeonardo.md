@@ -1,6 +1,6 @@
 # Hardware - Arduino Leonardo
 
-This section covers the required hardware for users who have the rduino Leonardo.
+This section covers the required hardware for users who have the Arduino Leonardo.
 
 <img src="images/leonardo.jpg" height="600"> 
 
