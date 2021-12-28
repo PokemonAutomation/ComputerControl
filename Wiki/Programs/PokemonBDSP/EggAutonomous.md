@@ -46,9 +46,11 @@ Furthermore, this program doesn't care about step counts, egg-warming, or early 
 
 ### Run Instructions
 
-1. You are on your bike and in high gear.
-2. Stand in the following location.
-3. Start the program.
+1. You already have the Pokédex entry for the Pokémon you are hatching.
+2. You do not have any active Repels.
+3. You are on your bike and in high gear.
+4. Stand in the following location.
+5. Start the program.
 
 <img src="images/EggAutonomous-2.png">
 
