@@ -4,6 +4,8 @@
 
 Order boxes of Pokémon, based on their national dex index.
 
+<img src="images/BoxReorderNationalDex.png">
+
 ## Preparation Instructions
 
 1. Screen size: Must be 100% within the Switch settings
