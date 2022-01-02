@@ -20,11 +20,11 @@ Unlike the other egg fetcher, it will fetch a chosen number of eggs before switc
 6. The other parents are in the current box, without any gap.
 7. A random pokemon is deposited at the Route 5 daycare center (second slot).
 
-   > Strongly Recommended:
-   > - Masuda Method: The Pokémon in the daycare are of different languages.
-   > - Have the Oval Charm.
-   > - Have the Shiny Charm.
-   > - Have only one kind of egg cycle (or the fetched eggs will be harder to hatch)
+> Strongly Recommended:
+> - Masuda Method: The Pokémon in the daycare are of different languages.
+> - Have the Oval Charm.
+> - Have the Shiny Charm.
+> - Have only one kind of egg cycle (or the fetched eggs will be harder to hatch)
 
 ### Party Setup
 
