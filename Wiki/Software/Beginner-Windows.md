@@ -31,8 +31,8 @@ Before you begin, make sure you meet all of the following requirements:
 Once you have your hardware, you need to make some connections.
 
 Make the following connections:
-- UART cable green (TX) to Arduino pin1 (TX -> 1)
-- UART cable white (RX) to Arduino pin0 (RX <- 0)
+- UART cable white (TX) to Arduino pin1 (TX -> 1)
+- UART cable green (RX) to Arduino pin0 (RX <- 0)
 - UART cable black (GND) to Arduino GND (any one is fine)
 - UART cable red (VCC) – leave unconnected
 
