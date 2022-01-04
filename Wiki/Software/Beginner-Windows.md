@@ -77,7 +77,7 @@ Afterwards, the 3 LEDs on the Leonardo should flash in unison for 5 seconds befo
 ## Step 4: Setup the serial connection.
 
 1. Turn on your Switch.
-2. Connect your device (Teensy/Pro Micro/Arduino) to the Switch or its dock.
+2. Connect your Arduino Leonardo to the Switch (via USB-C) or its dock (via USB-A)
 3. Connect the UART to your computer.
 
 TROUBLESHOOTING: If your UART isn't being recognized, you may need to install the following drivers for your UART:
