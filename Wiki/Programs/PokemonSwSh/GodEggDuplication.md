@@ -23,9 +23,9 @@ Duplicate Pokémon using the God Egg/MissingNo.
 4. Your bike must be fully upgraded.
 5. You must have the God Egg and a Ditto deposited at the Route 5 daycare center.
 
-   > Strongly Recommended:
-   > - Have the Oval Charm.
-   > - The Ditto and the God Egg should have different OTs.
+> Strongly Recommended:
+> - Have the Oval Charm.
+> - The Ditto and the God Egg should have different OTs.
 
 ### Setup of Party
 
