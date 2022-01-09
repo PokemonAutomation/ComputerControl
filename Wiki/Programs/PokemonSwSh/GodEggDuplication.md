@@ -1,6 +1,6 @@
 # God Egg Duplication
 
-***This program is currently not available to the public since we do not condone mass cloning of Pokémon. It is only available to developers for research purposes.***
+***This program is currently not available to the public since we do not condone mass cloning of Pokémon via methods that require hacking. It is only available to developers for research purposes.***
 
 **Related Programs:**
 - **Microcontroller:** [God Egg Duplication](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/GodEggDuplication.md)
