@@ -131,6 +131,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Money Farmer (Route 210)](PokemonBDSP/MoneyFarmerRoute210.md)        | Required | Yes | Yes |
 | [Double Battle Leveling](PokemonBDSP/DoublesLeveling.md)              | Required | Yes | Yes |
 | [Amity Square Pick Up Farmer](PokemonBDSP/AmitySquarePickUpFarmer.md) |          | Yes | Yes |
+| [Gift Berry Reset](PokemonBDSP/GiftBerryReset.md)                     | Required | Yes | Yes |
 ||
 | **Shiny Hunting:** |
 | [Starter Reset](PokemonBDSP/StarterReset.md)                          | Required | Yes | Yes |
