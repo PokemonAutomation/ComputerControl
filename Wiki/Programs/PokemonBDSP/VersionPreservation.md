@@ -6,6 +6,8 @@ This page was originally written when v1.1.2 was released patching out the origi
 
 This cat-and-mouse game of increasing version numbers doesn't change the validity of anything on this page.
 
+This article will assume that v1.1.1 is the desired game version and v1.1.2 is the bad game version.
+
 -----
 
 If you're here, you probably already know that Pokémon BDSP has a number cloning exploits. Two of which have been automated:
@@ -13,12 +15,12 @@ If you're here, you probably already know that Pokémon BDSP has a number clonin
 - [Clone Items (Menu Overlap Method)](CloneItemsMenuOverlap.md)
 - [Clone Items (Box Copy Method)](CloneItemsBoxCopy.md)
 
-These exploits have been patched in v1.1.3 - thus making it one of the "bad" game updates because it removes the *useful* bugs, while leaving behind all the *bad* ones.
-(Namely, v1.1.3 patched all the cloning glitches, while leaving behind all the broken PokeRadar and shiny charm mechanics.)
+These exploits have been patched in v1.1.2 - thus making it one of the "bad" game updates because it removes the *useful* bugs, while leaving behind all the *bad* ones.
+(Namely, v1.1.2 patched all the cloning glitches, while leaving behind all the broken PokeRadar and shiny charm mechanics.)
 
-Thus it is better to stay on v1.1.2 unless you need to go online.
+Thus it is better to stay on v1.1.1 unless you need to go online.
 
-This page will give a summary on the different ways to keep v1.1.2 or downgrading the game version in general.
+This page will give a summary on the different ways to keep v1.1.1 or downgrading the game version in general.
 All methods here can be done with normal Switches and do not require CFW or homebrew. But they will require:
 
 1. A physical game cart (not digital)
@@ -77,20 +79,20 @@ However, it will not be able to dodge a game update menu if starting the game re
 ## Syncing Game Version with another Switch
 
 It's impossible to update to something that isn't the latest version online. But fortunately, the Switch allows you to synchronize game versions across 2 (or more) Switches locally without an internet connection.
-This can be utilized to update another Switch to a version that isn't the latest. However, it cannot be used to *downgrade* a version (*claim needs to be verified*).
+This can be utilized to update another Switch to a version that isn't the latest. However, it cannot be used to *downgrade* a version.
 
 To upgrade a Switch locally, you need:
 
 - A Switch with the desired game version.
 - The Switch you wish to *update* to the desired game version. If it has a newer game version, you will first need to [downgrade](#downgrading) it.
 
-Thus you need at least 2 Switches. If your goal is to synchronize BDSP v1.1.2, you need to have at least one Switch that is currently on v1.1.2 and has not been updated past that where the exploits are patched.
+Thus you need at least 2 Switches. If your goal is to synchronize BDSP v1.1.1, you need to have at least one Switch that is currently on v1.1.1 and has not been updated past that where the exploits are patched.
 
 **Instructions:**
 
 1. On both Switches select the game you with to synchronize in the Switch home and press `+`.
 2. Go into `Software Update` -> `Match Version with Local Users`.
-3. Select the host to be the Switch with the v1.1.2 (or whatever version you wish to sync to).
+3. Select the host to be the Switch with the v1.1.1 (or whatever version you wish to sync to).
 
 This will update the Switch that is behind to the Switch that has the latest version. ***Do not do this if either Switch is already on 1.1.2 as it will update the other one to 1.1.2 instead.***
 
@@ -148,7 +150,7 @@ All the information above may be too much to digest. But here are some general p
 
 ### Preserving an older Game Version:
 
-1. Do not update the game on all your Switches. Keep at least one Switch at the game version you want (v1.1.2).
+1. Do not update the game on all your Switches. Keep at least one Switch at the game version you want (v1.1.1).
 2. Designate an (ideally offline) Switch to storing the older game version as a backup.
 
 If you have both game version (Brilliant Diamond and Shining Pearl), you will want to do this for both. But of course they can share the same backup Switch.
@@ -157,15 +159,15 @@ If you have both game version (Brilliant Diamond and Shining Pearl), you will wa
 
 Since downgrading is difficult and save files are backwards incompatible, there really is only one way to mass clone and still reap the benefits in the latest game versions that can go online. Namely - one way transfer.
 
-The idea here is to build yourself a collection of valuable items/Pokémon in an unpatched version (v1.1.2 or earlier). Transfer a clone of them into a throwaway save file, mass clone them there, then update the save file to the latest where they can be transferred to your main (fully updated) saves.
+The idea here is to build yourself a collection of valuable items/Pokémon in an unpatched version (v1.1.1 or earlier). Transfer a clone of them into a throwaway save file, mass clone them there, then update the save file to the latest where they can be transferred to your main (fully updated) saves.
 
 **Example:**
 
 You have 3 Switches:
 
-- Switch A is on the latest (v1.1.3) and can go online. This has your main save file that you play online.
-- Switch B is on v1.1.2 and has internet access.
-- Switch C is an offline backup that stores v1.1.2.
+- Switch A is on the latest (v1.1.2) and can go online. This has your main save file that you play online.
+- Switch B is on v1.1.1 and has internet access.
+- Switch C is an offline backup that stores v1.1.1.
 
 Then the workflow is:
 
@@ -178,12 +180,12 @@ Then the workflow is:
 7. Upgrade Switch B to the latest game version.
 8. Mass trade the items from the transfer game into the main save. (again, mass trading program is expected in the future)
 9. [Factory reset Switch B to downgrade it.](#downgrading)
-10. [Synchronize game version](#syncing-game-version-with-another-switch) v1.1.2 from Switch C to Switch B.
+10. [Synchronize game version](#syncing-game-version-with-another-switch) v1.1.1 from Switch C to Switch B.
 
 This can be done as many times as you want by repeating steps 2 - 10.
 
 If you have both game versions (BD+SP), you can actually do this with only 2 Switches at the cost of losing fat-finger protection.
-Since both Switches will be online, it will be very easy to accidentally update your only copy of v1.1.2 to the latest.
+Since both Switches will be online, it will be very easy to accidentally update your only copy of v1.1.1 to the latest.
 
 
 <hr>
