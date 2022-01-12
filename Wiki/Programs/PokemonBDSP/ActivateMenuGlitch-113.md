@@ -5,7 +5,7 @@
 See: [Version Preservation](VersionPreservation.md)
 
 **Related Programs:**
-- [Activate Menu Glitch (1.1.3)](ActivateMenuGlitch-Poketch.md) (this program)
+- [Activate Menu Glitch (1.1.3)](ActivateMenuGlitch-113.md) (this program)
 - [Activate Menu Glitch (1.1.2)](ActivateMenuGlitch-Poketch.md)
 - [Clone Items (Box Copy Method 2)](CloneItemsBoxCopy2.md)
 
