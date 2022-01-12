@@ -30,7 +30,8 @@ This program can be used to setup the [item cloning program](CloneItemsBoxCopy2.
 3. Stand to the left side of the bolder on Route 211 as pictured above. (west of Celestic Town)
 4. Face the bolder as pictured above.
 5. Open the Pokétch and move the cursor over Fly.
-6. Start the program in the game.
+6. Minimize the Pokétch, but keep it open (as in the picture above).
+7. Start the program in the game.
 
 The program will attempt to enable the menu glitch and fly to Celestic Town.
 
