@@ -24,6 +24,7 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/9114822822
    > - Your lead Pokémon is not shiny.
    > - Your lead Pokémon does not have high happiness.
    > - Your lead Pokémon does not have an ability that activates upon entry to battle.
+2. See below for additional setup if you want to use Sweet Scent to trigger encounters.
 
 
 ### Instructions
@@ -58,13 +59,27 @@ Pick the one that's most appropriate for your location:
 - Move up/down. (no bias)
 - Move up/down. (bias up)
 - Move up/down. (bias down)
+- Sweet Scent.
 
-The "bias" will make it travel in that direction a little bit more. So if you're standing against a wall that's unbounded on the other wide, you'll want to bias in the direction of the wall to avoid drifting away from it.
+The "bias" will make it travel in that direction a little bit more. So if you're standing against a wall that's unbounded on the other wide, you'll want to bias in the direction of the wall to avoid drifting away from it. Lead your party with a Pokémon of the ability like Illuminate to increase the encounter rate.
+
+Sweet Scent method will select one of your Pokémon in the party and use Sweet Scent to start the encounter. Sweet Scent method has the benefit of adding no friendship to your party, while the other trigger methods increase friendship to your party because of constant walking. It can also be used in the Great Marsh without the limitation on the number of steps. The encounter rate of Sweet Scent is slightly below or if not about the same as the best encounter rate achieved by the other walking methods.
+
+To use Sweet Scent:
+
+1. The menu cursor should be over the Pokémon option.
+2. There must be a Pokémon in your party knowing the move Sweet Scent.
+3. The move must be callable as the second menu item when you select the Pokémon in the Pokémon view, directly after "Check summary". In other words, to avoid any trouble, don't let the Sweet Scent Pokémon know other overworld-usable moves like Dig.
+4. The Sweet Scent Pokémon can be put in any location of the party. But for best performance place it as the party lead.
 
 
 ### Move Duration:
 
 Travel for this long before changing directions.
+
+### Sweet Scent Pokemon Location:
+
+In case Sweet Scent is selected as the trigger method, the location of the Pokemon in the party to use Sweet Scent.
 
 
 ## Advanced Settings:

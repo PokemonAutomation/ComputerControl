@@ -31,13 +31,13 @@ With the Amulet Coin, this program can max out your money at 999,999 in a couple
 7. Make sure nobody in your party is at risk of leveling up and learning a move or evolving.
 8. You are on foot. (not on your bike)
 9. Your Pokémon is not following you.
-10. Start the program in front of the Hearthome City Pokémon Center.
+10. Start the program in front of the Hearthome City Pokémon Center or in the row above the old couple, according to your Start Location option.
 
 **Recommended:** Have the Amulet Coin on your leading Pokémon for double the pay out.
 
 <img src="images/MoneyFarmerRoute212-0.png">
 
-Once started, the program will walk down to the following location in Route 212 and repeatedly battle the old woman.
+Once started, the program will walk down to the following location in Route 212 if starting at the Pokémon Center and repeatedly battle the old couple.
 
 <img src="images/MoneyFarmerRoute212-1.png">
 
@@ -48,6 +48,10 @@ Once started, the program will walk down to the following location in Route 212 
 ### VS Seeker Shortcut:
 
 This is the Dpad button that is used to quickly trigger the VS Seeker.
+
+### Start Location:
+
+The start location of your character. It is either in front of the Hearthome City Pokémon Center or in the row above the old couple.
 
 ### Move 1/2/3/4 PP:
 
