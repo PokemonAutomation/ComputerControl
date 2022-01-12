@@ -1,11 +1,12 @@
-# Activate Menu Glitch (Pokétch)
+# Activate Menu Glitch (1.1.2)
 
-***This glitch only works on v1.1.2 and earlier. It has been patched out in v1.1.3.***
+***This glitch only works on versions 1.1.0 - 1.1.2 and earlier. It has been patched out in v1.1.3.***
 
 See: [Version Preservation](VersionPreservation.md)
 
 **Related Programs:**
-- [Activate Menu Glitch (Pokétch)](ActivateMenuGlitch-Poketch.md) (this program)
+- [Activate Menu Glitch (1.1.3)](ActivateMenuGlitch-Poketch.md)
+- [Activate Menu Glitch (1.1.2)](ActivateMenuGlitch-Poketch.md) (this program)
 - [Clone Items (Box Copy Method 2)](CloneItemsBoxCopy2.md)
 
 ## Program Description
@@ -37,7 +38,9 @@ The program will attempt to enable the menu glitch. Then it will enter the Poké
 
 ## Options
 
-There are no options for this program.
+### Fly Menu A-to-X Delay
+
+This is the delay from pressing A to open the fly dialog to pressing X to open the menu.
 
 <hr>
 

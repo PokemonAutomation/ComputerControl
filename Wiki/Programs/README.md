@@ -145,8 +145,11 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Egg Autonomous](PokemonBDSP/EggAutonomous.md)                        | Required | Yes | Yes |
 ||
 | **Glitches (v1.1.2):** |
-| [Activate Menu Glitch (Pokétch)](PokemonBDSP/ActivateMenuGlitch-Poketch.md)   | Required | Yes | Yes |
-| [Clone Items (Box Copy Method 2)](PokemonBDSP/CloneItemsBoxCopy2.md)          | Required | Yes | Yes |
+| [Activate Menu Glitch (1.1.3)](PokemonBDSP/ActivateMenuGlitch-113.md)     | Required | Yes | Yes |
+| [Clone Items (Box Copy Method 2)](PokemonBDSP/CloneItemsBoxCopy2.md)      | Required | Yes | Yes |
+||
+| **Glitches (v1.1.2):** |
+| [Activate Menu Glitch (1.1.2)](PokemonBDSP/ActivateMenuGlitch-Poketch.md) | Required | Yes | Yes |
 ||
 | **Glitches (v1.1.1):** |
 | [Clone Items (Box Copy Method)](PokemonBDSP/CloneItemsBoxCopy.md)         | Required | Yes | Yes |
