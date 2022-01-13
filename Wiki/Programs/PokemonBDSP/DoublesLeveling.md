@@ -23,11 +23,11 @@ This program will also detect any shiny Pokémon along the way, thus it can be u
 1. You currently have a [battle partner](https://www.serebii.net/brilliantdiamondshiningpearl/battlepartners.shtml).
 2. Your lead Pokémon must reliably win all battles by spamming its first move. (a good spread move that OHKO's both wild Pokémon)
 
-   > **Recommended for Performance**
-   > - Battle animations are off.
-   > - Your lead Pokémon is not shiny.
-   > - Your lead Pokémon does not have high happiness.
-   > - Your lead Pokémon does not have an ability that activates upon entry to battle.
+> **Recommended for Performance**
+> - Battle animations are off.
+> - Your lead Pokémon is not shiny.
+> - Your lead Pokémon does not have high happiness.
+> - Your lead Pokémon does not have an ability that activates upon entry to battle.
 
 
 ### Instructions
