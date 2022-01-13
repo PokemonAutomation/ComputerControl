@@ -61,7 +61,7 @@ Pick the one that's most appropriate for your location:
 - Move up/down. (bias down)
 - Sweet Scent.
 
-The "bias" will make it travel in that direction a little bit more. So if you're standing against a wall that's unbounded on the other wide, you'll want to bias in the direction of the wall to avoid drifting away from it. Lead your party with a Pokémon of the ability like Illuminate to increase the encounter rate.
+The "bias" will make it travel in that direction a little bit more. So if you're standing against a wall that's unbounded on the other side, you'll want to bias in the direction of the wall to avoid drifting away from it. Lead your party with a Pokémon of the ability like Illuminate to increase the encounter rate.
 
 Sweet Scent method will select one of your Pokémon in the party and use Sweet Scent to start the encounter. Sweet Scent method has the benefit of adding no friendship to your party, while the other trigger methods increase friendship to your party because of constant walking. It can also be used in the Great Marsh without the limitation on the number of steps. The encounter rate of Sweet Scent is slightly below or if not about the same as the best encounter rate achieved by the other walking methods.
 
