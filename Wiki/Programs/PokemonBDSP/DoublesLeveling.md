@@ -4,7 +4,7 @@
 
 This program will level up your team using one of the partner battles.
 It relies on the fact that your battle partner will keep you healed thus giving you infinite PP to keep battling forever.
-Thus you will want to preserve one of the late-game battle battle partners for the purpose of using this program.
+Thus you will want to preserve one of the late-game battle partners for the purpose of using this program.
 
 This program will also detect any shiny Pokémon along the way, thus it can be used to simultaneously level up your team and shiny-hunt double encounters.
 
