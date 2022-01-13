@@ -68,7 +68,7 @@ Pick the one that's most appropriate for your location:
 - Move up/down. (bias up)
 - Move up/down. (bias down)
 
-The "bias" will make it travel in that direction a little bit more. So if you're standing against a wall that's unbounded on the other wide, you'll want to bias in the direction of the wall to avoid drifting away from it.
+The "bias" will make it travel in that direction a little bit more. So if you're standing against a wall that's unbounded on the other side, you'll want to bias in the direction of the wall to avoid drifting away from it.
 
 
 ### Move Duration:
