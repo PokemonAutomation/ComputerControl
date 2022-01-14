@@ -4,6 +4,8 @@
 
 Shiny hunt Shaymin using the runaway method. This program is faster than [Legendary Reset](LegendaryReset.md).
 
+<img src="images/ShinyHunt-Shaymin-0.png">
+
 ### Setup of Settings
 
 1. Screen size: Must be 100% within the Switch settings
@@ -25,7 +27,7 @@ Shiny hunt Shaymin using the runaway method. This program is faster than [Legend
 3. You have at least 2 things registered for shortcuts. (so that pressing + brings up the menu)
 4. Start the program in game. Make sure the device is the connected controller.
 
-<img src="images/ShinyhuntShaymin-Overworld-0.png">
+<img src="images/ShinyHunt-Shaymin-1.png">
 
 ## Options
 
