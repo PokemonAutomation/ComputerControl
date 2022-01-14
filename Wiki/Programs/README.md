@@ -135,9 +135,10 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 ||
 | **Shiny Hunting:** |
 | [Starter Reset](PokemonBDSP/StarterReset.md)                          | Required | Yes | Yes |
+| [Legendary Reset](PokemonBDSP/LegendaryReset.md)                      | Required | Yes | Yes |
 | [Shiny Hunt - Overworld](PokemonBDSP/ShinyHunt-Overworld.md)          | Required | Yes | Yes |
 | [Shiny Hunt - Fishing](PokemonBDSP/ShinyHunt-Fishing.md)              | Required | Yes | Yes |
-| [Legendary Reset](PokemonBDSP/LegendaryReset.md)                      | Required | Yes | Yes |
+| [Shiny Hunt - Shaymin](PokemonBDSP/ShinyHunt-Shaymin.md)              | Required | Yes | Yes |
 ||
 | **Eggs:** |
 | [Egg Fetcher](PokemonBDSP/EggFetcher.md)                              |          | Yes | Yes |
