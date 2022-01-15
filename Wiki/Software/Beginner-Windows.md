@@ -31,11 +31,15 @@ Before you begin, make sure you meet all of the following requirements:
 Once you have your hardware, you need to make some connections.
 
 Make the following connections:
-- UART cable white (TX) to Arduino pin1 (TX -> 1)
-- UART cable green (RX) to Arduino pin0 (RX <- 0)
-- UART cable black (GND) to Arduino GND (any one is fine)
-- UART cable red (VCC) – leave unconnected
+| **UART pin** | **Adafruit UART Wire Color** | **Arduino Leonardo pin** |
+| --- | --- | --- |
+| TX | White | TX -> 1 (pin1) |
+| RX | Green | RX <- 0 (pin0) |
+| GND | Black | GND (any one is fine) |
+| VCC | Red | Leave unconnected |
+> **If you _did not buy_ the Adafruit UART, your colors will be different! Refer to your UART's manual or board for the correct pins.**
 
+> **NOTE: Follow text above for correct connections for Arduino Leonardo. Image to be replaced in near future**
 <img src="/Wiki/Hardware/images/leonardo-0.jpg" height="600">
 
 
