@@ -121,6 +121,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 ||
 | **General:** |
 | [Mass Release](PokemonBDSP/MassRelease.md)                            |          | Yes | Yes |
+| [Autonomous Ball Thrower](PokemonBDSP/AutonomousBallThrower.md)       | Required | Yes | Yes |
 ||
 | **Trading:** |
 | [Self Box Trade](PokemonBDSP/SelfBoxTrade.md)                         | Required | Yes | Yes |
