@@ -19,7 +19,7 @@ Make sure you have all the [microcontroller hardware](https://github.com/Pokemon
        > Easiest option, but item is hard to find
    2. Solderless Hammer Headers ([example](https://www.adafruit.com/product/3662))
        > Fairly easy to install. Ensure you are getting _hammer headers_, they will have a bulge on the short side to hold the pins in place
-   3. Hammer Headers ([example](https://www.adafruit.com/product/2822))
+   3. Headers ([example](https://www.adafruit.com/product/2822))
        > Most difficult option! You will **need** to solder with this option. Please only pick it if you are comfortable soldering.
 3. Video capture card ([example](https://www.amazon.com/gp/product/B088HBRM7T))
 4. HDMI cable(s)
