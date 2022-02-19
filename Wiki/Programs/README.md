@@ -158,6 +158,17 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Clone Items (Menu Overlap Method)](PokemonBDSP/CloneItemsMenuOverlap.md) | Required | Yes | Yes |
 
 
+## Pokémon Legends Arceus (in development)
+
+| **Program** | **Video Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
+| --- | --- | --- | --- |
+| [Pokémon Setttings](PokemonLA/PokemonSettings.md)                     | --- | --- | --- |
+||
+| **General:** |
+| [Distortion Waiter](PokemonLA/DistortionWaiter.md)                    | Required | Yes | Yes |
+| [Braviary Height Glitch](PokemonLA/BraviaryHeightGlitch.md)           |          | Yes | Yes |
+
+
 <hr>
 
 **Discord Server:** 
