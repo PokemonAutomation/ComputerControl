@@ -25,7 +25,7 @@ Most people who get stuck do so because they skipped the Microcontroller tutoria
 ## Step 1: Acquire the Hardware
 
 Make sure you have the serial hardware:
-- [Serial Hardware](https://github.com/Mysticial/PA-ComputerControl/blob/master/Wiki/Hardware/README.md)
+- [Serial Hardware](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Hardware/README.md)
 
 ## Step 2: Download the SerialPrograms package.
 
