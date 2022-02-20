@@ -17,8 +17,9 @@ This program repeatedly changes maps until an outbreak for the desired Pokémon 
 
 1. You have unlocked at least one region. (Obsidian Fieldlands)
 2. For all the regions that have been unlocked, entering them will not trigger any plot events.
-3. You are in Jubilife city standing in the position pictured below.
-4. Start the program in the game.
+3. You have no unreported research.
+4. You are in Jubilife city standing in the position pictured below.
+5. Start the program in the game.
 
 <img src="images/OutbreakFinder-1.png">
 
