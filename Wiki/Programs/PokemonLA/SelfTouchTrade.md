@@ -12,7 +12,7 @@ Touch-trading will allow you to achieve research level 10 for every Pokémon exc
 2. Unown. (you need to get all the forms)
 3. Gen 1 trade evolutions: Kadabra, Haunter, Graveler, and Machoke.
 
-So while you touch-trading will not let you *complete* your dex for the purpose of getting the Shiny Charm, it will get you 95% of the way there along with a free ride to 9-star rank.
+While touch-trading will not let you *complete* your dex for the purpose of getting the Shiny Charm, it will get you 95% of the way there along with a free ride to 9-star rank.
 
 <img src="images/SelfTouchTrade-0.png">
 
