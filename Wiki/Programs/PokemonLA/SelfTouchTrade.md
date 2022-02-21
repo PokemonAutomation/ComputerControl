@@ -14,7 +14,7 @@ Touch-trading will allow you to achieve research level 10 for every Pokémon exc
 
 While touch-trading will not let you *complete* your dex for the purpose of getting the Shiny Charm, it will get you 95% of the way there along with a free ride to 9-star rank.
 
-It takes roughly 40 hours to touch-trade a complete Hisui living dex the full number of times needed to max out the "Number caught" research for everything.
+It takes roughly 40 hours to touch-trade a complete Hisui living dex the number of times needed to max out the "Number caught" research for everything.
 
 <img src="images/SelfTouchTrade-0.png">
 
