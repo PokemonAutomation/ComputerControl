@@ -39,7 +39,7 @@ Note that the program will automatically skip trade evolutions. (Kadabra, Haunte
 
 **Receiving Switch:**
 
-The receiving Switch is that will receive the touch-trades for dex-filling.
+The receiving Switch is the one that will receive the touch-trades for dex-filling.
 
 1. There is at least one tradable Pokémon in the current box.
 
