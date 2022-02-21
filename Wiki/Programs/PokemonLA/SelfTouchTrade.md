@@ -32,7 +32,7 @@ While touch-trading will not let you *complete* your dex for the purpose of gett
 
 The hosting Switch is the Switch with all the Pokémon to be touch-traded.
 
-1. The hosting Switch has N boxes consecutively in the box system. The do not need to be full.
+1. The hosting Switch has N boxes consecutively in the box system. They do not need to be full.
 2. All Pokémon in these N boxes must be tradable.
 
 Note that the program will automatically skip trade evolutions. (Kadabra, Haunter, Graveler, and Machoke)
