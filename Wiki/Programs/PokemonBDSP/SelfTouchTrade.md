@@ -32,7 +32,7 @@ The hosting Switch is the Switch with all the Pokémon to be touch-traded.
 
 **Receiving Switch:**
 
-The receiving Switch is that will receive the touch-trades for dex-filling.
+The receiving Switch is the one that will receive the touch-trades for dex-filling.
 
 1. The receiving Switch has one completely filled box.
 2. All Pokémon in this box are tradable.
