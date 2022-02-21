@@ -1,5 +1,6 @@
 # Version History
 
+This is no longer updated. Just see the release notes instead.
 
 ### 2021-11-07:
 - Added serial AutoDA.

@@ -168,6 +168,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Braviary Height Glitch](PokemonLA/BraviaryHeightGlitch.md)           |          | Yes | Yes |
 | [Distortion Waiter](PokemonLA/DistortionWaiter.md)                    | Required | Yes | Yes |
 | [Outbreak Finder](PokemonLA/OutbreakFinder.md)                        | Required | Yes | Yes |
+| [Self Touch Trade](PokemonLA/SelfTouchTrade.md)                       | Required | Yes | Yes |
 
 
 <hr>
