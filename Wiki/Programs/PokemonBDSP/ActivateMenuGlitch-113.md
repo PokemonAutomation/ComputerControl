@@ -1,6 +1,6 @@
 # Activate Menu Glitch (1.1.3)
 
-***This glitch works on v1.1.1 - v1.1.3. It will likely be patched in the future.***
+***This glitch works on v1.1.1 - v1.1.3. It has been patched out in v1.2.0.***
 
 See: [Version Preservation](VersionPreservation.md)
 

@@ -1,5 +1,9 @@
 # Self Touch Trade
 
+**Related Programs:**
+- [Self Box Trade](SelfBoxTrade.md)
+- [Self Touch Trade](SelfTouchTrade.md) (this program)
+
 ## Program Description
 
 This is a hard-to-use program that will repeatedly touch-trade Pokémon for the purpose of maxing out the "Number caught" research task.
