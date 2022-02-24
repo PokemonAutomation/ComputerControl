@@ -18,7 +18,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 | **Program** | **Video Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
 | --- | --- | --- | --- |
-| [Framework Setttings](NintendoSwitch/FrameworkSettings.md)        | --- | --- | --- |
+| [Framework Settings](NintendoSwitch/FrameworkSettings.md)        | --- | --- | --- |
 | [Virtual Console](NintendoSwitch/VirtualConsole.md)               | ---      | Yes | Yes |
 | [Switch Viewer](NintendoSwitch/SwitchViewer.md)                   | ---      | Yes | Yes |
 | [TurboA](NintendoSwitch/TurboA.md)                                |          | Yes | Yes |
@@ -32,7 +32,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 | **Program** | **Video Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
 | --- | --- | --- | --- |
-| [Pokémon Setttings](PokemonSwSh/PokemonSettings.md)        | --- | --- | --- |
+| [Pokémon Settings](PokemonSwSh/PokemonSettings.md)        | --- | --- | --- |
 ||
 | **QoL Macros:** |
 | [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md)             |          | Yes | Yes |
@@ -117,7 +117,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 | **Program** | **Video Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
 | --- | --- | --- | --- |
-| [Pokémon Setttings](PokemonBDSP/PokemonSettings.md)                   | --- | --- | --- |
+| Pokémon Settings (Under Development)                  | --- | --- | --- |
 ||
 | **General:** |
 | [Mass Release](PokemonBDSP/MassRelease.md)                            |          | Yes | Yes |
@@ -162,7 +162,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 | **Program** | **Video Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
 | --- | --- | --- | --- |
-| [Pokémon Setttings](PokemonLA/PokemonSettings.md)                     | --- | --- | --- |
+| Pokémon Settings   (Under Development)                  | --- | --- | --- |
 ||
 | **General:** |
 | [Braviary Height Glitch](PokemonLA/BraviaryHeightGlitch.md)           |          | Yes | Yes |
