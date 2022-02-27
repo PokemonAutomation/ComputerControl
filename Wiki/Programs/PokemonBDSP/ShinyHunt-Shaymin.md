@@ -23,9 +23,7 @@ Shiny hunt Shaymin using the runaway method. This program is faster than [Legend
 ### Instructions
 
 1. Stand in front of Shaymin on tile shown in example image below.
-2. You have the bike registered. (and the Dpad shortcut option correctly selected in the program)
-3. You have at least 2 things registered for shortcuts. (so that pressing + brings up the menu)
-4. Start the program in game. Make sure the device is the connected controller.
+2. Start the program in game. Make sure the device is the connected controller.
 
 <img src="images/ShinyHunt-Shaymin-1.png">
 
@@ -35,10 +33,6 @@ Shiny hunt Shaymin using the runaway method. This program is faster than [Legend
 ### Go Home when Done:
 
 After finding a shiny, go to the Switch Home to idle. Turn this off for unattended streaming so that your viewers can see the shiny.
-
-### Bike Shortcut:
-
-This is the Dpad button that is used to quickly trigger the bike.
 
 
 ## Advanced Settings:
