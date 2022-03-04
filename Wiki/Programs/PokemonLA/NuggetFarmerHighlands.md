@@ -6,6 +6,8 @@ Farm nuggets (and therefore money) from the Miss Fortune sisters.
 
 This program will repeatedly seek out and battle Charm in the Coronet Highlands.
 
+Although this program is not intended to be a shiny hunting program, it nevertheless will listen for shinies and stop for them if the user chooses so.
+
 <img src="images/NuggetFarmerHighlands-0.png">
 
 
