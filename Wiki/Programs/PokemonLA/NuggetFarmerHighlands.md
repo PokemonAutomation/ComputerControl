@@ -2,7 +2,9 @@
 
 ## Program Description
 
-Farm nuggets (and therefore money) from the Miss Fortune sisters. This program will repeatedly seek out and battle Charm in the Coronet Highlands.
+Farm nuggets (and therefore money) from the Miss Fortune sisters.
+
+This program will repeatedly seek out and battle Charm in the Coronet Highlands.
 
 <img src="images/NuggetFarmerHighlands-0.png">
 
@@ -27,9 +29,7 @@ Farm nuggets (and therefore money) from the Miss Fortune sisters. This program w
 
 <img src="images/NuggetFarmerHighlands-1.png">
 
-The program will repeatedly warp to Coronet Highlands and try to find and battle Charm.
-
-The chance of finding her on each trip to Coronet Highlands is 1-in-5. In the post game, defeating her will reward you with 4 or 5 nuggets.
+The program will repeatedly warp to Coronet Highlands and try to find and battle Charm. It will also pick up an Iron Chunk that lies along the path. The chance of finding Charm on each trip is 1-in-5. In the post game, defeating her will reward you with 4 or 5 nuggets.
 
 If the program finds a shiny, it still stop and go to the Switch home to freeze the game. You can change this behavior in the options.
 
