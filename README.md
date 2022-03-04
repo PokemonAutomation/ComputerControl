@@ -25,7 +25,7 @@ If you came here intending to run [AutoMaxLair](https://github.com/PokemonAutoma
   - [Nintendo Switch](Wiki/Programs/README.md#nintendo-switch)
   - [Pokémon Sword/Shield](Wiki/Programs/README.md#pokémon-swordshield)
   - [Pokémon Brilliant Diamond/Shining Pearl](Wiki/Programs/README.md#pokémon-brilliant-diamondshining-pearl)
-  - [Pokémon Legends Arceus](Wiki/Programs/README.md#pokémon-legends-arceus-in-development)
+  - [Pokémon Legends Arceus](Wiki/Programs/README.md#pokémon-legends-arceus)
 - [Version History](Wiki/VersionHistory.md)
 
 ## Computer-Control Automation
