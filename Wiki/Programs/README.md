@@ -117,7 +117,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 | **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
 | --- | --- | --- | --- |
-| Pokémon Settings (Under Development)                  | --- | --- | --- |
+| Pokémon Settings | --- | --- | --- |
 ||
 | **General:** |
 | [Mass Release](PokemonBDSP/MassRelease.md)                            |                  | Yes | Yes |
@@ -158,20 +158,21 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Clone Items (Menu Overlap Method)](PokemonBDSP/CloneItemsMenuOverlap.md) | Video | Yes | Yes |
 
 
-## Pokémon Legends Arceus (in development)
+## Pokémon Legends Arceus
 
 | **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
 | --- | --- | --- | --- |
-| Pokémon Settings   (Under Development)                  | --- | --- | --- |
+| Pokémon Settings | --- | --- | --- |
 ||
 | **General:** |
-| [Braviary Height Glitch](PokemonLA/BraviaryHeightGlitch.md)           |       | Yes | Yes |
-| [Distortion Waiter](PokemonLA/DistortionWaiter.md)                    | Video | Yes | Yes |
-| [Outbreak Finder](PokemonLA/OutbreakFinder.md)                        | Video | Yes | Yes |
+| [Braviary Height Glitch](PokemonLA/BraviaryHeightGlitch.md)           |               | Yes | Yes |
+| [Distortion Waiter](PokemonLA/DistortionWaiter.md)                    | Video         | Yes | Yes |
+| [Outbreak Finder](PokemonLA/OutbreakFinder.md)                        | Video         | Yes | Yes |
+| [Nugget Farmer (Highlands)](PokemonLA/NuggetFarmerHighlands.md)       | Video + Audio | Yes | Yes |
 ||
 | **Trading:** |
-| [Self Box Trade](PokemonLA/SelfBoxTrade.md)                           | Video | Yes | Yes |
-| [Self Touch Trade](PokemonLA/SelfTouchTrade.md)                       | Video | Yes | Yes |
+| [Self Box Trade](PokemonLA/SelfBoxTrade.md)                           | Video         | Yes | Yes |
+| [Self Touch Trade](PokemonLA/SelfTouchTrade.md)                       | Video         | Yes | Yes |
 
 
 <hr>
