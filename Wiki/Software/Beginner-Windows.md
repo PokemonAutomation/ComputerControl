@@ -105,7 +105,6 @@ Here is an example of a setup after steps 4 and 5.
 2. Under the "Serial Port" dropdown, select Arduino Leonardo.
 3. Under the "Camera" dropdown, select your video capture device.
 
-If everything worked correctly, it should look like this. Note that you will not hear any sound. (see next section)
 
 <img src="/Wiki/Software/images/serial-programs-setup.png">
 
@@ -127,10 +126,25 @@ Output Window (Log):
 
 If nothing shows up for Serial Port or Camera, then there is something wrong with your setup.
 
-Common serial connection errors are:
-- If the device isn't connecting; Switching the TX and RX connections.
-- The serial port is in use by another program.
-- The device is not running a compatible program. Meaning, you need to double check you correctly flashed `PABotBase-Switch-20211025-ArduinoLeonardo.hex` to the Leonardo board.
+Trouble shooting serial conncections:
+
+Step 1: Plug in the device to the Switch without connecting the UART to the computer.
+| Error | Solution |
+| --- | --- |
+| Device flashes rapidly for 5 seconds, then stops | Proceed to "Step 2" below. |
+| Device doesn't turn on the LED at all | The .hex isn't properly flashed. Return to the Microcontroller instructions. |
+| LED turns on and stays on | Usually means it's not properly connecting to the Switch. Try redocking your Switch. |
+
+
+**Step 2:** Plug the UART side into the computer and select it in the dropdown.
+| Error | Solution |
+| --- | --- |
+| Blue status text that says, "Program: PABotBase..." | No error. You're done! |
+| "Incompatible version..." | Please flash the PABotBase .hex that came with that version of the program. |
+| "PABotBase level not met" | You have the wrong program flashed to the device. Flash the PABotBase in the included folder. |
+| "Not connected" | You either chose the wrong COM port or your drivers are messed up. |
+| Stuck on "Connecting..." | If the device is not flashing the LEDs and either stays off or on, it means the line from computer -> device is broken. Make sure you chose the correct COM port and double check your wiring. Try swapping TX and RX since they are commonly mixed up. |
+| Stuck on "Connecting..." | If the device is alternating two of the LEDs (Leonardo models), it means the device is receiving the commands from the computer, but the computer isn't hearing back from the device. IOW, the line from device -> computer is broken. Double check your wiring is snug and connected. |
 
 Common video capture errors are:
 - The capture card is in use by another program. Close OBS or any other program potentially using the card.
