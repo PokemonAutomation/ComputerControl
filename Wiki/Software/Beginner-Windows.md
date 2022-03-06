@@ -151,7 +151,30 @@ Common video capture errors are:
 - The capture card is not receiving enough power over the USB connection.
 - There are multiple capture cards connected to the same physical USB port on the computer (by means of a hub). (see [multiple capture cards](#multiple-switch-considerations))
 
-## Step 7: Play around with the keyboard controls.
+
+## Step 7: Setup sound.
+
+In the past, the program didn't support sound at all. So you needed to play it using Windows itself.
+This has since changed. Not only do we support audio, some programs *require* sound to work correctly.
+
+The sound options are below the Camera options. Most of these options are self-explanatory.
+1. Select the Audio Input that comes from your capture card. If you don't know which one it is, try all of them.
+2. Select the Audio Output for your speakers.
+3. The slider is for playback volume. It has no effect on sound recognition. You can even mute it.
+
+Audio output is completely optional. It is only for playback. Audio input is optional for programs that don't use sound recognition.
+
+<img src="images/serial-programs-audio-0.png" height="200">
+
+**Notes:**
+
+- Some high-end capture cards (such as AVerMedia) do not have audio inputs. They use a proprietary system that fuses the audio channel with the video. Since we do not support this, you will need to run an audio cable from your Switch's headphone jack into your computer's line-in or microphone jacks.
+- Due a quirk* with many cheap capture cards (including the ones we recommend), the left and right audio channels may be reversed. If this is the case for you, try the other "Interleaved Stereo" format.
+
+*This "quirk" causes both Windows and OBS to treat these capture cards as mono-channel audio. While we are able to recover the stereo output by separating the left/right audio channels, we can't always determine which is which - hence the reversed left/right channels.
+
+
+## Step 8: Play around with the keyboard controls.
 
 If you make it here, then both your serial connection and your video is working. Congrats! Now it's time to play with the program.
 
@@ -168,7 +191,7 @@ The playability of this will depend drastically on the quality of your capture c
 
 **Note:** Since `Shift` is mapped to the B button, you will need to disable Sticky Keys in the system. Alternatively, you can press `CTRL` for B. Some buttons have multiple keyboard keys that can be used to invoke it, but they are undocumented at this time.
 
-## Step 8: Run a program.
+## Step 9: Run a program.
 
 Now that you know how to use the Virtual Console, you can try running some programs on the left panel. The first thing that you will notice is that every program is a virtual console!
 
