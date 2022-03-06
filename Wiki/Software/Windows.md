@@ -74,7 +74,7 @@ Here is an example of a setup after steps 4 and 5.
 2. Under the "Serial Port" dropdown, select your serial device.
 3. Under the "Camera" dropdown, select your video capture device.
 
-If everything worked correctly, it should look like this. Note that you will not hear any sound. (see next section)
+If everything worked correctly, it should look like this.
 
 <img src="images/serial-programs-setup.png">
 
@@ -107,31 +107,26 @@ Common video capture errors are:
 - There are multiple capture cards connected to the same physical USB port on the computer (by means of a hub). (see [multiple capture cards](#multiple-switch-considerations))
 
 
-
 ## Step 7: Setup sound.
 
-As mentioned in the previous section, the program does not support sound playback nor does it need it.
-If you want to hear sound on your computer, you need to do it through Windows.
+In the past, the program didn't support sound at all. So you needed to play it using Windows itself.
+This has since changed. Not only do we support audio, some programs *require* sound to work correctly.
 
-1. Right-click on your sound icon and select "Open sound settings".
+The sound options are below the Camera options. Most of these options are self-explanatory.
+1. Select the Audio Input that comes from your capture card. If you don't know which one it is, try all of them.
+2. Select the Audio Output for your speakers.
+3. The slider is for playback volume. It has no effect on sound recognition. You can even mute it.
 
-<img src="images/serial-programs-sound-0.png" height="200">
+Audio output is completely optional. It is only for playback. Audio input is optional for programs that don't use sound recognition.
 
-2. Click on "Sound Control Panel".
+<img src="images/serial-programs-audio-0.png" height="200">
 
-<img src="images/serial-programs-sound-1.png" height="400">
+**Notes:**
 
-3. Click on the "Recording" tab and find your capture card. Then go into its properties.
+- Some high-end capture cards (such as AVerMedia) do not have audio inputs. They use a proprietary system that fuses the audio channel with the video. Since we do not support this, you will need to run an audio cable from your Switch's headphone jack into your computer's line-in or microphone jacks.
+- Due a quirk* with many cheap capture cards (including the ones we recommend), the left and right audio channels may be reversed. If this is the case for you, try the other "Interleaved Stereo" format.
 
-<img src="images/serial-programs-sound-2.png" height="400">
-
-4. Click on the "Listen" tab and check the box for "Listen to this device".
-
-<img src="images/serial-programs-sound-3.png" height="400">
-
-5. Press OK to confirm changes and close all the windows.
-
-You should now be able to hear the sound of your Switch from your computer. It not then there can be many issues causing it. If you need help resolving this, please ask in our Discord server.
+*This "quirk" causes both Windows and OBS to treat these capture cards as mono-channel audio. While we are able to recover the stereo output by separating the left/right audio channels, we can't always determine which is which - hence the reversed left/right channels.
 
 
 ## Step 8: Play around with the keyboard controls.
@@ -150,6 +145,7 @@ As of this writing, there is no support for changing the key mapping.
 The playability of this will depend drastically on the quality of your capture card. Some capture cards have very low video latency. Other cards may be too slow to play on the computer in real time. Regardless, even if it is slow, you can use the program for remote access to setup and run programs while you are away.
 
 **Note:** Since `Shift` is mapped to the B button, you will need to disable Sticky Keys in the system. Alternatively, you can press `CTRL` for B. Some buttons have multiple keyboard keys that can be used to invoke it, but they are undocumented at this time.
+
 
 ## Step 9: Run a program.
 
