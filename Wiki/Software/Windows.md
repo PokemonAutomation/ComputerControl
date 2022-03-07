@@ -119,7 +119,7 @@ The sound options are below the Camera options. Most of these options are self-e
 
 Audio output is completely optional. It is only for playback. Audio input is optional for programs that don't use sound recognition.
 
-<img src="images/serial-programs-audio-0.png" height="200">
+<img src="images/serial-programs-audio-1.png">
 
 **Notes:**
 
