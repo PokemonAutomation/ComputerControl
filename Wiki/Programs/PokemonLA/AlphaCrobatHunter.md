@@ -45,6 +45,8 @@ If you run this program after having already entered the cave during this visit 
 The program will repeatedly enter the cave, navigate to the alpha Crobat, and reset.
 If the program finds a shiny, it still stop and go to the Switch home to freeze the game.
 
+This program will stop on *any* shiny, not just the Crobat.
+
 
 ## Options
 
