@@ -8,7 +8,15 @@
 
 Shiny hunt the alpha Crobat in the Wayward Cave using the method described here: https://www.youtube.com/watch?v=tz0b62pkKTk
 
-This program uses audio recognition to detect shinies. It can also be used to shiny hunt, Ralts, Kirlia, Zubat, Golbat, and Bronzong as they are either on or near the path taken to reach the alpha Gallade.
+This program uses audio recognition to detect shinies. And as such, it will also pick up shinies of anything on or near the path to the Gallade.
+
+This list of Pokémon this program can shiny hunt are:
+- Alpha Gallade
+- Ralts
+- Kirlia
+- Zubat
+- Golbat
+- Bronzong
 
 <img src="images/AlphaGalladeHunter-0.jpg">
 
