@@ -31,10 +31,10 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/9501258122
 4. Face the entrance and save the game.
 5. Start the program in the game.
 
-*Make sure you have not entered the Snowpoint Temple during this visit to the Coronet Highlands.
+Make sure you have not entered the Snowpoint Temple during this visit to the Coronet Highlands.
 The stats for everything in the cave are generated upon first entry to the cave.
-If you run this program after having already visited the cave during this visit to the region, everything in the cave will be identical each time you reset!
-Therefore you are **required** to use the Braviary height program to reach the roof entrance without going through the temple!*
+
+If you run this program after having already entered the cave during this visit to the region, everything in the cave will be identical on each reset! Therefore you are ***required*** to use the Braviary height program to reach the roof entrance without going through the temple!
 
 <img src="images/AlphaGalladeHunter-1.png" width="500"> <img src="images/AlphaGalladeHunter-2.png" width="500">
 
