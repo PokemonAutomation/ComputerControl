@@ -8,6 +8,18 @@ This program will repeatedly seek out and battle Charm in the Coronet Highlands.
 
 Although this program is not intended to be a shiny hunting program, it nevertheless will listen for shinies and stop for them if the user chooses so.
 
+The following Pokémon lie on or near the path taken by this program and can therefore be shiny hunted by this program:
+- Carnivine
+- Bronzor
+- Bronzong
+- Teddiursa
+- Ursaring
+- Shinx
+- Luxio
+- Luxray
+
+There may be other spawns not on this list that the program may (but rarely) come near.
+
 <img src="images/NuggetFarmerHighlands-0.png">
 
 
