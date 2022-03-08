@@ -26,25 +26,24 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/9501258122
 ### Instructions
 
 1. You have unlocked Braviary.
-2. Stand at the north entrance of the Wayward Cave.
-3. Face the cave and save the game.
-4. Start the program in the game.
+2. Use the [Braviary Height Glitch](BraviaryHeightGlitch.md) program to reach the roof of the Snowpoint Temple on the outside.
+3. Stand at the roof entrance of the Snowpoint Temple.
+4. Face the entrance and save the game.
+5. Start the program in the game.
 
-*Make sure you have not entered the Wayward Cave during this visit to the Coronet Highlands.
+*Make sure you have not entered the Snowpoint Temple during this visit to the Coronet Highlands.
 The stats for everything in the cave are generated upon first entry to the cave.
-If you run this program after having already visited the cave during this visit to the region, everything in the cave will be identical each time you reset!*
+If you run this program after having already visited the cave during this visit to the region, everything in the cave will be identical each time you reset!
+Therefore you are **required** to use the Braviary height program to reach the roof entrance without going through the temple!*
 
-<img src="images/AlphaCrobatHunter-1.png" width="400"><img src="images/AlphaCrobatHunter-2.png" width="400">
+<img src="images/AlphaGalladeHunter-1.png" width="500"> <img src="images/AlphaGalladeHunter-2.png" width="500">
 
-The program will repeatedly enter the cave and navigate to the alpha Crobat and reset. If it hears a shiny, it stops the program.
+The program will repeatedly enter the temple, navigate to the alpha Gallade, and reset. If it hears a shiny, it stops the program.
 
 
 ## Options
 
 None specific to this program.
-
-
-
 
 ### Shiny Detected Actions
 
