@@ -12,7 +12,7 @@ This program uses audio recognition to detect shinies.
 
 <img src="images/AlphaGalladeHunter-0.jpg">
 
-Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/949882362257375292/2022-03-05_22-10-08.mp4
+Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/950125812273782844/2022-03-06_06-42-37.mp4
 
 
 ### Settings
