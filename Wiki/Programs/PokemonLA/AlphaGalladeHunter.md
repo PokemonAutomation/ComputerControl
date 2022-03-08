@@ -8,7 +8,7 @@
 
 Shiny hunt the alpha Crobat in the Wayward Cave using the method described here: https://www.youtube.com/watch?v=tz0b62pkKTk
 
-This program uses audio recognition to detect shinies.
+This program uses audio recognition to detect shinies. It can also be used to shiny hunt, Ralts, Kirlia, Zubat, Golbat, and Bronzong as they are either on or near the path taken to reach the alpha Gallade.
 
 <img src="images/AlphaGalladeHunter-0.jpg">
 
@@ -39,6 +39,12 @@ If you run this program after having already entered the cave during this visit 
 <img src="images/AlphaGalladeHunter-1.png" width="500"> <img src="images/AlphaGalladeHunter-2.png" width="500">
 
 The program will repeatedly enter the temple, navigate to the alpha Gallade, and reset. If it hears a shiny, it stops the program.
+It will stop on *any* shiny, not just the Gallade.
+
+**Notes:**
+
+- The program will hear shinies from a different floor of the temple. So if you can't find it, go deeper into the temple to find it. This applies to Zubat, Crobat, and Bronzong.
+- The Ralts/Kirlia that spawns next to the alpha Gallade really like to run away. Recommend saving the game immediately after re-entering the game if it has detected a shiny in that spot.
 
 
 ## Options
