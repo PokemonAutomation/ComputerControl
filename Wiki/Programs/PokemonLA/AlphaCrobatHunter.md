@@ -32,7 +32,7 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/9498823622
 The stats for everything in the cave are generated upon first entry to the cave.
 If you run this program after having already visited the cave during this visit to the region, everything in the cave will be identical each time you reset!*
 
-<img src="images/AlphaCrobatHunter-1.png" width="400"><img src="images/AlphaCrobatHunter-2.png" width="400">
+<img src="images/AlphaCrobatHunter-1.png" width="500"> <img src="images/AlphaCrobatHunter-2.png" width="500">
 
 The program will repeatedly enter the cave and navigate to the alpha Crobat and reset. If it hears a shiny, it stops the program.
 
