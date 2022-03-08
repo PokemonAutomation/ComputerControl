@@ -34,15 +34,12 @@ If you run this program after having already visited the cave during this visit 
 
 <img src="images/AlphaCrobatHunter-1.png" width="500"> <img src="images/AlphaCrobatHunter-2.png" width="500">
 
-The program will repeatedly enter the cave and navigate to the alpha Crobat and reset. If it hears a shiny, it stops the program.
+The program will repeatedly enter the cave, navigate to the alpha Crobat, and reset. If it hears a shiny, it stops the program.
 
 
 ## Options
 
 None specific to this program.
-
-
-
 
 ### Shiny Detected Actions
 
