@@ -168,7 +168,13 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Braviary Height Glitch](PokemonLA/BraviaryHeightGlitch.md)           |               | Yes | Yes |
 | [Distortion Waiter](PokemonLA/DistortionWaiter.md)                    | Video         | Yes | Yes |
 | [Outbreak Finder](PokemonLA/OutbreakFinder.md)                        | Video         | Yes | Yes |
+||
+| **Farming:** |
 | [Nugget Farmer (Highlands)](PokemonLA/NuggetFarmerHighlands.md)       | Video + Audio | Yes | Yes |
+||
+| **Shiny Hunting:** |
+| [Alpha Crobat Hunter](PokemonLA/AlphaCrobatHunter.md)                 | Video + Audio | Yes | Yes |
+| [Alpha Gallade Hunter](PokemonLA/AlphaGalladeHunter.md)               | Video + Audio | Yes | Yes |
 ||
 | **Trading:** |
 | [Self Box Trade](PokemonLA/SelfBoxTrade.md)                           | Video         | Yes | Yes |
