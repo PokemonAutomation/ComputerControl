@@ -46,8 +46,10 @@ If you run this program after having already entered the cave during this visit 
 
 <img src="images/AlphaGalladeHunter-1.png" width="500"> <img src="images/AlphaGalladeHunter-2.png" width="500">
 
-The program will repeatedly enter the temple, navigate to the alpha Gallade, and reset. If it hears a shiny, it stops the program.
-It will stop on *any* shiny, not just the Gallade.
+The program will repeatedly enter the temple, navigate to the alpha Gallade, and reset.
+If the program finds a shiny, it still stop and go to the Switch home to freeze the game.
+
+This program will stop on *any* shiny, not just the Gallade.
 
 **Notes:**
 
