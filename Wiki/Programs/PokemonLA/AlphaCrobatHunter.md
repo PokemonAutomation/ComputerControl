@@ -8,7 +8,12 @@
 
 Shiny hunt the alpha Crobat in the Snowpoint Temple using the method described here: https://www.youtube.com/watch?v=tz0b62pkKTk
 
-This program uses audio recognition to detect shinies. It can be used to shiny hunt Zubat and Golbat as they are either on or near the path taken to reach the alpha Crobat.
+This program uses audio recognition to detect shinies. And as such, it will also pick up shinies of anything on or near the path to the Crobat.
+- Alpha Crobat
+- Zubat
+- Golbat
+
+It is not yet known if the path taken brings it close enough to Barboach or Whiscash.
 
 <img src="images/AlphaCrobatHunter-0.jpg">
 
