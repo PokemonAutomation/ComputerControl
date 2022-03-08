@@ -52,7 +52,7 @@ It will stop on *any* shiny, not just the Gallade.
 **Notes:**
 
 - The program will hear shinies from a different floor of the temple. So if you can't find it, go deeper into the temple to find it. This applies to Zubat, Crobat, and Bronzong.
-- The Ralts/Kirlia that spawns next to the alpha Gallade really like to run away. Recommend saving the game immediately after re-entering the game if it has detected a shiny in that spot.
+- The Ralts/Kirlia that spawns next to the alpha Gallade really likes to run away. Recommend saving the game immediately after re-entering the game.
 
 
 ## Options
@@ -72,6 +72,8 @@ This program detects shinies by listening for the shiny sound. You can configure
 
 If the above is set to stop on a shiny, the program will align the camera and wait X time to potentially allow the shiny to come into view of the camera.
 This has no functional affect on the program. Don't set this value too large as some Pokémon will run away from you.
+
+*This program uses a default delay of zero to minimize the chance of the Ralts/Kirlia in the same room as the Gallade from running away.*
 
 
 <hr>
