@@ -12,6 +12,7 @@ This program uses audio recognition to detect shinies. And as such, it will also
 - Alpha Crobat
 - Zubat
 - Golbat
+- Gible
 
 It is not yet known if the path taken brings it close enough to Barboach or Whiscash.
 
