@@ -64,6 +64,9 @@ This program will stop when it hears a shiny anywhere along the path. So if you 
 
 As of this time, there is no option to ignore shinies that are not near the flag. If this is problematic, you may want to prefer paths that take you high in the air where you are too high to hear any shinies on the ground far below.
 
+
+For example, to hunt the alpha Gardevoir, traveling from the Pearl Settlement is slower than the Ice Peak camp (due to the mountain). But it passes by far fewer spawns so it has a higher chance of stopping on the shiny Gardevoir versus any other shiny.
+
 <img src="images/ShinyHunt-FlagPin-2.jpg">
 
 
