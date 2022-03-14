@@ -72,7 +72,12 @@ As of this time, there is no option to ignore shinies that are not near the flag
 
 Pick a start location from which you will begin traveling to the flag.
 
-Note that the Colbalt Coastlands arena location has an alternate version where it moves to the northwest of the volcano. This allows you to reach the northern area of the map without getting stuck behind the lava.
+Options include:
+- All camps.
+- All arenas.
+- The Diamond and Pearl settlements.
+
+Note that the Colbalt Coastlands arena has an alternate version where it moves to the northwest of the volcano. This allows you to reach the northern area of the map without getting stuck behind the lava.
 
 
 ### Stop Distance
