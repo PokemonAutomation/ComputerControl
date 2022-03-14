@@ -60,7 +60,7 @@ You should also check that the path the program is traveling does not cross path
 
 **Recommendations:**
 
-This program will stop when it hears a shiny anywhere along the path. So if you are hunting something specific where the flag is placed, you will likely get a lot of "unwanted" shinies before the one you want actually shines.
+This program will stop when it hears a shiny *anywhere* along the path. So if you are hunting something specific where the flag is placed, you will likely get a lot of "unwanted" shinies before the one you want actually shines.
 
 As of this time, there is no option to ignore shinies that are not near the flag. If this is problematic, you may want to prefer paths that take you high in the air where you are too high to hear any shinies on the ground far below.
 
