@@ -1,4 +1,4 @@
-# Nugget Farmer (Coronet Highlands)
+﻿# Nugget Farmer (Coronet Highlands)
 
 ## Program Description
 
@@ -27,8 +27,9 @@ There may be other spawns not on this list that the program may (but rarely) com
 
 1. Screen size: Must be 100% within the Switch settings
 2. Video Resolution: 1080p or higher in program settings
-3. Text speed is fast.
-4. Auto-save is off.
+3. Audio input is properly setup.
+4. Text speed is fast.
+5. Auto-save is off.
 
 
 ### Instructions
