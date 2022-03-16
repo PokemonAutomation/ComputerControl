@@ -2,7 +2,30 @@
 
 ## Program Description
 
-Reset for a shiny legendary.
+Reset for a battleable shiny legendary.
+
+This program works for:
+- Dialga
+- Palkia
+- Uxie
+- Azelf
+- Heatran
+- Regigigas
+- Giratina
+- Shaymin (use [the Shaymin Program](ShinyHunt-Shaymin.md) instead since it is faster)
+- Arceus
+- All Ramanas Park Pokémon.
+
+This program cannot be used to shiny hunt:
+- Mesprit
+- Cresselia
+
+It is not known if this program works on:
+- Darkrai
+- Drifloon
+- Spiritomb
+- Rotom
+
 
 <img src="images/LegendaryReset-0.jpg">
 
