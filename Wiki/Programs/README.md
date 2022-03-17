@@ -176,6 +176,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | **Shiny Hunting:** |
 | [Alpha Crobat Hunter](PokemonLA/AlphaCrobatHunter.md)                 | Video + Audio | Yes | Yes |
 | [Alpha Gallade Hunter](PokemonLA/AlphaGalladeHunter.md)               | Video + Audio | Yes | Yes |
+| [Shiny Hunt - Flag Pin](PokemonLA/ShinyHunt-FlagPin.md)               | Video + Audio | Yes | Yes |
 ||
 | **Trading:** |
 | [Self Box Trade](PokemonLA/SelfBoxTrade.md)                           | Video         | Yes | Yes |
