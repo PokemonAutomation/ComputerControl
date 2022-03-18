@@ -34,7 +34,7 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/9523300442
 
 1. You have unlocked Braviary.
 2. You have unlocked all warp spots in the map you are hunting in. (unlocked both camps, the arena, and settlements - if applicable)
-3. Go to you desired location and place the flag pin on the spot.
+3. Go to your desired location and place the flag pin on the spot.
 4. Select the desired start location in the options.
 5. If the spawn you are hunting is dependent on the time of the day, set it now by resting at the tent.
 6. Return to Jubilife Village and save the game in the below position.
@@ -42,7 +42,7 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/9523300442
 
 <img src="images/ShinyHunt-FlagPin-1.png">
 
-When you start the program, it will first travel to the desired start location. Then it will hop on Braviary, look for the flag, and travel to the flag in a straight line.
+When you start the program, it will first travel to the desired start location. Then it will hop on Braviary, look for the flag, and travel to it in a straight line.
 
 The program will climb over walls that get in the way and will dive down when it gets near the flag.
 
