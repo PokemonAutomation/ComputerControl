@@ -55,7 +55,7 @@ The program will loop through going from the village to Solaceon Ruins until a s
 
 **Skip any shinies in the path**
 
-Enable this option if you want to skip any shinies found in the path the Solaceon Ruins.
+Enable this option if you want to skip any shinies found in the path to Solaceon Ruins.
 
 ### Shiny Detected Actions
 
