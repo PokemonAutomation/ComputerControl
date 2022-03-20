@@ -16,6 +16,7 @@ These are the Pokémon this program can shiny hunt:
 - Psyduck
 - Carnivine
 - Kricketot
+- Kricketune
 - Gastly (Night spawn)
 - Bronzor (MMO on Solaceon Ruins)
 - Bronzong (MMO on Solaceon Ruins)
