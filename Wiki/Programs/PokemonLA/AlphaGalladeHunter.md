@@ -6,7 +6,7 @@
 
 ## Program Description
 
-Shiny hunt the alpha Crobat in the Wayward Cave using the method described here: https://www.youtube.com/watch?v=tz0b62pkKTk
+Shiny hunt the alpha Gallade in the Wayward Cave using the method described here: https://www.youtube.com/watch?v=tz0b62pkKTk
 
 This program uses audio recognition to detect shinies. And as such, it will also pick up shinies of anything on or near the path to the Gallade.
 
@@ -47,7 +47,7 @@ If you run this program after having already entered the cave during this visit 
 <img src="images/AlphaGalladeHunter-1.png" width="500"> <img src="images/AlphaGalladeHunter-2.png" width="500">
 
 The program will repeatedly enter the temple, navigate to the alpha Gallade, and reset.
-If the program finds a shiny, it still stop and go to the Switch home to freeze the game.
+If the program finds a shiny, it will stop and go to the Switch home to freeze the game.
 
 This program will stop on *any* shiny, not just the Gallade.
 
