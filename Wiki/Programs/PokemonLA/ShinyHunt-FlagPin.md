@@ -27,7 +27,7 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/9523300442
 2. Video Resolution: 1080p or higher in program settings
 3. Audio input is properly setup.
 4. Text speed is fast.
-5. Vertical and Horizontal camera control are both **Regular**. Do not set either one to inverted.
+5. Vertical and Horizontal camera controls are both **Regular**. Do not set either one to inverted.
 6. Camera sensititivy it at the default value of 3.
 7. Auto-save is off.
 
