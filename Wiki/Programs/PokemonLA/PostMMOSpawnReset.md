@@ -45,9 +45,6 @@ It is strongly recommended to watch the program for a few runs to make sure it c
 spawn location. The spawned pokemon may spawn randomly near the spawn point and move around in different directions in each reset.
 Make sure the path the program goes covers the optimal range of all possible pokemon locations.
 
-
-**Recommendations:**
-
 This program will stop when it hears a shiny *anywhere* along the path. So you will likely get some "unwanted" shinies from another nearby
 spawn point before the one you want actually shines.
 

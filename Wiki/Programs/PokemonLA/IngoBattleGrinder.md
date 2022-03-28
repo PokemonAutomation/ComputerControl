@@ -20,9 +20,10 @@ This program works on game version 1.0 and later.
 
 ### Instructions
 
-1. You have unlocked all Ingo's regular battles.
-2. Stand in front of Ingo.
-3. Start the program in the game.
+1. If your game version is the same or higher than 1.1.0, you have unlocked the battle mode dialogue from Ingo. In this dialogue you can choose between Regular Pokémon battles, Path of Tenacity, Path of Solitude and Select Pokémon.
+2. You have unlocked all Ingo's regular battles. If your game version is the same or higher than 1.1.0, check this Serebii [page](https://www.serebii.net/legendsarceus/ingobattles.shtml) for a complete list of all regular battles.
+3. Stand in front of Ingo.
+4. Start the program in the game.
 
 <img src="images/IngoBattleGrinder-1.png">
 
