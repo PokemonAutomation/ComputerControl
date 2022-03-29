@@ -171,7 +171,8 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 ||
 | **Farming:** |
 | [Nugget Farmer (Highlands)](PokemonLA/NuggetFarmerHighlands.md)       | Video + Audio | Yes | Yes |
-| [Ingo Battle Grinder](PokemonLA/IngoBattleGrinder.md)                 | Video + Audio | Yes | Yes |
+| [Ingo Battle Grinder](PokemonLA/IngoBattleGrinder.md)                 | Video         | Yes | Yes |
+| [Magikarp Move Grinder](PokemonLA/MagikarpMoveGrinder.md)             | Video         | Yes | Yes |
 ||
 | **Shiny Hunting:** |
 | [Alpha Crobat Hunter](PokemonLA/AlphaCrobatHunter.md)                 | Video + Audio | Yes | Yes |
