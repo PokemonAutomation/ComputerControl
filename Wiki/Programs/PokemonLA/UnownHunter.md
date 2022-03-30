@@ -49,12 +49,11 @@ The program will loop through going from the village to Solaceon Ruins until a s
 
 - If you using Discord notifications please bear in mind sometimes the screenshot won't show the shiny.
 - Upon finding a shiny, the program will go back to home screen. Go back to game and save before attempting to catch the shiny, as Unowns can potentially run away after one miss catch. 
-- Upon finding the shiny
 
 
 ## Options
 
-**Skip any shinies in the path**
+### Skip any shinies in the path
 
 Enable this option if you want to skip any shinies found in the path to Solaceon Ruins.
 
