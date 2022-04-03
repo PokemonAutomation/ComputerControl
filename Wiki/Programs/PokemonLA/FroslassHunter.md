@@ -27,7 +27,7 @@ These are the Pokémon this program can shiny hunt:
 
 <img src="images/FroslassHunter-0.png">
 
-Demo Video: something.mp4
+Demo Video: https://cdn.discordapp.com/attachments/722200321916534876/959021096810737684/FroslassHunter.mp4
 
 
 ### Settings
