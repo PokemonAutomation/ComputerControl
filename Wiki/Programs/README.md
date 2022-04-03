@@ -168,6 +168,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Braviary Height Glitch](PokemonLA/BraviaryHeightGlitch.md)           |               | Yes | Yes |
 | [Distortion Waiter](PokemonLA/DistortionWaiter.md)                    | Video         | Yes | Yes |
 | [Outbreak Finder](PokemonLA/OutbreakFinder.md)                        | Video         | Yes | Yes |
+| [Clothing Buyer](PokemonLA/ClothingBuyer.md)                          |               | Yes | Yes |
 ||
 | **Farming:** |
 | [Nugget Farmer (Highlands)](PokemonLA/NuggetFarmerHighlands.md)       | Video + Audio | Yes | Yes |
