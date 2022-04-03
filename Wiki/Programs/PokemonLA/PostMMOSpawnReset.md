@@ -31,9 +31,10 @@ This program can be used to shiny-hunt every Pokémon from the spawn points (inc
 
 ### Instructions
 
-1. Go to your desired spawn point location when MMO is about to finish.
-2. Wait until MMO finishes and make sure no usual spawns around you, then save the game.
-7. Start the program in the game.
+1. Make sure the time of day is set correctly for your desired spawn to appear.
+2. Go to your desired spawn point location when MMO is about to finish, make sure the time of day and the weather permit your desired spawn.
+3. Wait until MMO finishes and make sure no usual spawns around you, then save the game.
+4. Start the program in the game.
 
 <!-- <img src="images/ShinyHunt-FlagPin-1.png"> -->
 
@@ -45,10 +46,15 @@ It is strongly recommended to watch the program for a few runs to make sure it c
 spawn location. The spawned pokemon may spawn randomly near the spawn point and move around in different directions in each reset.
 Make sure the path the program goes covers the optimal range of all possible pokemon locations.
 
-This program will stop when it hears a shiny *anywhere* along the path. So you will likely get some "unwanted" shinies from another nearby
+This program will stop when it hears a shiny *anywhere* around you. So you will likely get some "unwanted" shinies from another nearby
 spawn point before the one you want actually shines.
 
 As of this time, there is no option to ignore shinies that you don't want.
+
+
+### Caution
+
+When you reset after MMO finishes, there is no way to go back to the state where the the usual spawns don't appear. So if you didn't set the correct time of the day or weather, there is no way to fix that except waiting for another MMO.
 
 
 ## Options
