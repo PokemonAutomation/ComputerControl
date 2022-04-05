@@ -14,9 +14,8 @@ Shiny hunt Shaymin using the runaway method. This program is faster than [Legend
 
 ### Setup of Party
 1. Your lead Pokémon must be able to run away. (faster or holding Smoke Ball)
-
+2. Your lead Pokémon must not be shiny. (This may cause false positives if a capture card lags)
    > **Recommended for Performance**
-   > - Your lead Pokémon is not shiny.
    > - Your lead Pokémon does not have high happiness.
    > - Your lead Pokémon does not have an ability that activates upon entry to battle.
 
