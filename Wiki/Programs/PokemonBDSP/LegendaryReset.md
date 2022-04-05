@@ -14,6 +14,7 @@ This program works for:
 - Giratina
 - Shaymin (use [the Shaymin Program](ShinyHunt-Shaymin.md) instead since it is faster)
 - Arceus
+- Darkrai
 - All Ramanas Park Pokémon.
 
 This program cannot be used to shiny hunt:
@@ -21,7 +22,6 @@ This program cannot be used to shiny hunt:
 - Cresselia
 
 It is not known if this program works on:
-- Darkrai
 - Drifloon
 - Spiritomb
 - Rotom
@@ -35,6 +35,10 @@ It is not known if this program works on:
 2. Video Resolution: 1080p or higher in program settings
    > Shiny detection and text recognition is not reliable at low resolutions.
 3. Text Speed: Fast
+
+### Setup of Party
+1. Your lead Pokémon must not be shiny.
+   > This may cause false positives if a capture card lags
 
 ### Instructions
 
