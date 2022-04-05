@@ -15,9 +15,8 @@ This program will shiny hunt fishing encounters.
 
 ### Setup of Party
 1. Your lead Pokémon must be able to run away. (faster or holding Smoke Ball)
-
+2. Your lead Pokémon must not be shiny. (This may cause false positives if a capture card lags)
    > **Recommended for Performance**
-   > - Your lead Pokémon is not shiny.
    > - Your lead Pokémon does not have high happiness.
    > - Your lead Pokémon does not have an ability that activates upon entry to battle.
 
@@ -26,7 +25,8 @@ This program will shiny hunt fishing encounters.
 
 1. Stand facing water that can be fished.
 2. Have the fishing rod registered as one of the Dpad shortcuts.
-3. Start the program in game. Make sure the device is the connected controller.
+3. Set up the `Fishing Shortcut` direction.
+4. Start the program in game. Make sure the device is the connected controller.
 
 
 ## Options
