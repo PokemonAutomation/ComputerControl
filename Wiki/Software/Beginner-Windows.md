@@ -33,14 +33,14 @@ Once you have your hardware, you need to make some connections.
 Make the following connections:
 | **UART pin** | **Adafruit UART Wire Color** | **Arduino Leonardo pin** |
 | --- | --- | --- |
-| TX | White | TX -> 1 (pin1) |
-| RX | Green | RX <- 0 (pin0) |
+| TX | Green | TX -> 1 (pin1) |
+| RX | White | RX <- 0 (pin0) |
 | GND | Black | GND (any one is fine) |
 | VCC | Red | Leave unconnected |
 > **If you _did not buy_ the Adafruit UART, your colors will be different! Refer to your UART's manual or board for the correct pins.**
 
-> **NOTE: Follow text above for correct connections for Arduino Leonardo. Image to be replaced in near future**
-<img src="/Wiki/Hardware/images/leonardo-0.jpg" height="600">
+<img src="/Wiki/Hardware/images/leonardo-1.jpg" height="600">
+(Image from alexk#8946)
 
 
 ## Step 2: Download the SerialPrograms package.
