@@ -34,7 +34,7 @@ The program will always start with using the first move from the four move slots
 The first Pokémon sent to battle is always the Pokémon you selected in the bottom right corner of the screen in the overworld.
 When a Pokémon is switched out either due to fainting or user input, the program will try to send a Pokémon from the party to battle, in the same order as the party list. When a fainted Pokémon is selected to send out, the program will find out it cannot be sent and move to the next Pokémon in the party.
 
-The program will report the number of battles, number of turns, number of move use attempts before any fainting/switching and number of Pokémon switches due to fainting.
+The program will report the number of battles, number of turns, number of lead Pokémon's move use attempts before any fainting/switching and number of Pokémon switches due to fainting.
 
 **Warning:**
 
