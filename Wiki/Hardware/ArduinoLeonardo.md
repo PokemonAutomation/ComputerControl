@@ -2,7 +2,8 @@
 
 This section covers the required hardware for users who have the Arduino Leonardo.
 
-<img src="images/leonardo.jpg" height="600"> 
+<img src="images/leonardo-2.jpg" height="600"> 
+(Image from alexk#8946)
 
 ## Hardware Requirements
 
