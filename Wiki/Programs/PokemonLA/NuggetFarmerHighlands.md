@@ -20,6 +20,8 @@ The following Pokémon lie on or near the path taken by this program and can the
 
 There may be other spawns not on this list that the program may (but rarely) come near.
 
+Note: we have now a more efficient program to earn money and exp: [Tenacity Candy Farmer](TenacityCandyFarmer.md).
+
 <img src="images/NuggetFarmerHighlands-0.png">
 
 

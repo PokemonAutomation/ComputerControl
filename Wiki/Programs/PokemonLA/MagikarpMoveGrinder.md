@@ -32,7 +32,7 @@ You need to specify how many Pokémon you would like to grind with by adding tha
 
 Bring a team of six eeveelutions. Set Baby-Doll Eyes as their first moves. Go to the river in Obsidian Fieldlands where several Magikarp lives. Bring enough Max Ethers. Use the program to grind agile style Baby-Doll Eyes to finish the research tasks of using Baby-Doll Eyes and using agile style moves.
 
-You can use Max Ethers to recover PPs after the program finishes and find another Magikarp in the river to continue grinding. You can earn money fast using our program, [Nugget Farmer (Highlands)](NuggetFarmerHighlands.md) and buy ingredients to craft many Max Ethers.
+You can use Max Ethers to recover PPs after the program finishes and find another Magikarp in the river to continue grinding. You can earn money fast using our program, [Tenacity Candy Farmer](TenacityCandyFarmer.md) and buy ingredients to craft many Max Ethers.
 
 
 ## Options
