@@ -10,7 +10,7 @@ This program only works on game version 1.1 and later, after Path of Tenacity is
 
 Compared with [Nugget Farmer (Highlands)](NuggetFarmerHighlands.md), this program earns money slightly faster (by selling the Exp Candy XL and evolution items) and earns exp (gained both from battles and Exp Candies) much faster.
 
-<img src="images/TenacityCandyFarmer-0.png">
+<img src="images/TenacityCandyFarmer-0.jpg">
 
 
 ### Settings
@@ -26,23 +26,23 @@ Compared with [Nugget Farmer (Highlands)](NuggetFarmerHighlands.md), this progra
 2. You have unlocked Path of Tenacity option from Ingo.
 3. You have unlocked both Diamond Clan and Pearl Clan among Path of Tenacity options.
 4. You have beaten Pearl Clan in Path of Tenacity at least four times to fully upgrade their team.
-3. Have a stats fully upgraded, max level, Modest nature Arceus with Legend Plate applied.
-4. Set the Arceus' moves in the following order as Judgement, Energy Ball, Flash Cannon, and any other move. (You can choose Flamethrower as the last move to grind a research task. See below.) No need for Arceus to master those moves.
-4. Place the Arceus as the first Pokémon to send to battle (selected in the bottom right corner of the screen).
-5. Stand in front of Ingo.
-6. Start the program in the game.
+5. Have a stats fully upgraded, max level, Modest nature Arceus with Legend Plate applied.
+6. Set the Arceus' moves in the following order as Judgement, Energy Ball, Flash Cannon, and any other move. (You can choose Flamethrower as the last move to grind a research task. See below.) No need for Arceus to master those moves.
+7. Place the Arceus as the first Pokémon to send to battle (selected in the bottom right corner of the screen).
+8. Stand in front of Ingo.
+9. Start the program in the game.
 
-<img src="images/TenacityCandyFarmer-1.png">
+<img src="images/TenacityCandyFarmer-1.jpg">
 
-<img src="images/TenacityCandyFarmer-2.png">
+<img src="images/TenacityCandyFarmer-2.jpg">
 
 The program will repeatedly talk to Ingo. It will choose Pearl Clan as the opponent in Path of Tenacity. The program will defeat opponents using the first three moves in a determined order. Each Path of Tenacity win gives you some experience to your party, 3 Exp Candy XL, and a random evolution item. Each battle takes about four minutes.
 
-Evolution items from the battles include Leaf Stones, Ice Stones, Dawn Stones, Razor Claws, Razor Fangs, Black Augurites, Peat Blocks and possibly more. Note it has a decent chance to give Peat Blocks. So it's also an easy way to get Peat Blocks to evolve Ursaring.
+Evolution items from the battles include Leaf Stones, Fire Stones, Ice Stones, Dawn Stones, Razor Claws, Razor Fangs, Black Augurites, Peat Blocks and possibly more. Note it has a decent chance to give Peat Blocks. So it's also an easy way to get Peat Blocks to evolve Ursaring.
 
 The program will keep battling if Arceus runs out of PP on one move or faints in battle. After Arceus faints, it has the same default AI behavior as in the program [Ingo Battle Grinder](IngoBattleGrinder.md).
 
-<img src="images/TenacityCandyFarmer-3.png">
+<img src="images/TenacityCandyFarmer-3.jpg">
 
 **Warning:**
 
