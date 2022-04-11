@@ -60,11 +60,13 @@ The root folder of the SerialPrograms package should have a set of .hex files fo
 <img src="/Wiki/Software/images/serial-programs-root.png" height="300">
 
 1. Run the QMK Toolbox program that you downloaded in PART 3.
-2. Open the .hex named `PABotBase-Switch-20211025-ArduinoLeonardo.hex` located in the roof of the folder you downloaded and unzipped.
+2. Open the .hex named `NintendoSwitch-PABotBase-2021052611-ArduinoLeonardo.hex` located in the roof of the folder you downloaded and unzipped.
 3. Change the MCU to `atmega32u4`.
 4. Check the "Auto-Flash" box.
 
 <img src="https://github.com/Ensamma/Microcontroller/blob/master/Wiki/Software/images/tutorial-windows-leonardo-2.png" height="600">
+
+> Do not install TurboA. Image is an example of what the setup should look like.
 
 5. Plug the Leonardo into your computer.
 6. Press the reset button.
