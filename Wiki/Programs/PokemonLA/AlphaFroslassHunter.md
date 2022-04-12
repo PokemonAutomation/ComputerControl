@@ -1,4 +1,4 @@
-# Unown Hunter
+# Froslass Hunter
 
 **Related Programs:**
 - [Alpha Crobat Hunter](AlphaCrobatHunter.md)
