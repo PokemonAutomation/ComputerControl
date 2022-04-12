@@ -57,6 +57,11 @@ If you don't wish to use a move, set the PP to zero. In all cases any 2 move com
 When the program runs out of PP for a move, it moves to the next move. When, either Pokémon runs out of PP, it flies back to Celestic Town to heal and return.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

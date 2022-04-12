@@ -31,6 +31,12 @@ The program will do nothing and wait until a distortion appears. Then it will go
 
 This is the language you are playing in. This needs to be set correctly or the program will not be able to read the notifications.
 
+
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

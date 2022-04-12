@@ -59,6 +59,12 @@ The Pokémon you are resetting for.
 
 The desired IV spread for each stat.
 
+
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

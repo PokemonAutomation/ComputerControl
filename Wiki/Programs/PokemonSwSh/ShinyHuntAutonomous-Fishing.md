@@ -80,6 +80,11 @@ After running, wait this long to return to the overworld. The program will resum
 Wait this long for the fishing spot to respawn.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

@@ -67,6 +67,12 @@ This feature can be used to avoid losing progress when the program gets stuck on
 **(This is a dangerous feature because saving the game while abusing a glitch can put your save file into a bad state. Do not use unless you have CFW backup to recover.)**
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
+
 <hr>
 
 **Discord Server:** 

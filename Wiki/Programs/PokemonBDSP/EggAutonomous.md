@@ -101,6 +101,13 @@ But you can add more actions to keep babies of certain IV spreads. This is usefu
 
 <img src="images/EggAutonomous-3.png">
 
+
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
+
 <hr>
 
 **Discord Server:** 

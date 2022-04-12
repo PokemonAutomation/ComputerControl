@@ -102,6 +102,11 @@ This program does not support avoiding the system update window.
 This program has no program-specific configuration options.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

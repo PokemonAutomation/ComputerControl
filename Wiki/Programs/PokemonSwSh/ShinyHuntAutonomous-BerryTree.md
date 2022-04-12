@@ -70,6 +70,11 @@ These are advanced settings. You shouldn't need to touch these unless something 
 After running, wait this long to return to the overworld. The program will resume before this time if it detects that that the battle has ended.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

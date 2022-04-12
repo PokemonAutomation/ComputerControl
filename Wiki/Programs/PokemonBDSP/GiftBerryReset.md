@@ -63,6 +63,11 @@ The berries you would like to receive from the NPC. The program will stop if one
 - Roseli Berry
 
 
+## Credits
+
+- **Author:** Gin
+
+
 
 <hr>
 

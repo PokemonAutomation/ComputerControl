@@ -28,6 +28,11 @@ See [Maximizing Switch Stability](https://github.com/PokemonAutomation/Microcont
 Most of the options here are self-explanatory.
 
 
+## Credits
+
+- **Author:** Gin
+
+
 
 <hr>
 

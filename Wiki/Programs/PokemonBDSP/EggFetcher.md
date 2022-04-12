@@ -55,6 +55,11 @@ Make this many attempts to fetch an egg. The only reason to set this option is t
 Spin on your bike for this long before attempting to fetch another egg.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

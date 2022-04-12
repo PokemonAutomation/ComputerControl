@@ -74,6 +74,11 @@ View the Pokédex for this long before moving on to the next day skip.
 Mash B for this long to return to the overworld from the Pokédex.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

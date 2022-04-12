@@ -40,6 +40,11 @@ This program uses [**Tolerate System Update Menu (fast)**](FrameworkSettings.md#
 This program has no program-specific configuration options.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

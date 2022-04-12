@@ -138,6 +138,11 @@ This is how long to move towards the Beartic after landing on Route 10.
 This is how long from when you start the trade to when the trade ends. You shouldn't need to change this.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

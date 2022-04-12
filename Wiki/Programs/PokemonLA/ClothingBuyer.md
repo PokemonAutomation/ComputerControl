@@ -42,6 +42,11 @@ If checked, the program moves to the next category after trying to buy one item.
 If unchecked, the programs only buys the items in the same category.
 
 
+## Credits
+
+- **Author:** Gin
+
+
 
 <hr>
 

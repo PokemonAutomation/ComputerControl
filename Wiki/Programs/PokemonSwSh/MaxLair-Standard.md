@@ -111,6 +111,12 @@ See [Raid Code Entry](https://github.com/PokemonAutomation/Microcontroller/blob/
 A raid code is required when running multiple Switches. This is because a code is needed to ensure that all the Switches will join the same lobby.
 
 
+## Credits
+
+- **AutoMaxLair Prototype:** MrDonders, pifopi, denvoros
+- **CC Rewrite:** Kuroneko/Mysticial
+
+
 
 <hr>
 

@@ -115,6 +115,11 @@ The amount of time from when you attack Regigigas to when you can choose to catc
 The amount of time from when you choose not to catch Regigigas to when you return to the overworld.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

@@ -23,6 +23,11 @@ TurboA does exactly what its name implies - it endlessly presses A. The purpose 
 Most of the options here are self-explanatory.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

@@ -108,6 +108,11 @@ These are advanced settings. You shouldn't need to touch these unless something 
 After starting the game, wait this long before press A to actually enter the game. By default, this is set very high to ensure that the program works. You can try reducing this to make resetting faster.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

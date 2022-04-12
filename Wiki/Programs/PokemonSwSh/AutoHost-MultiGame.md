@@ -160,6 +160,12 @@ There are multiple timings here related to your internet connection. You may nee
 Try with the defaults first. If things don't work, then try increasing these timings. Likewise, if your internet connection is very fast, feel free to reduce some of these delays.
 
 
+## Credits
+
+- **MC Version:** Kuroneko/Mysticial + SakuraKim
+- **Ported From MC:** Kuroneko/Mysticial
+
+
 
 <hr>
 

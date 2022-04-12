@@ -123,6 +123,12 @@ If the above is set to stop on a shiny, the program will align the camera and wa
 This has no functional affect on the program. Don't set this value too large as some Pokémon will run away from you.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
+
 <hr>
 
 **Discord Server:** 

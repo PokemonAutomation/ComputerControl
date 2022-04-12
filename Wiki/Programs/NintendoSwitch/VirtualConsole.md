@@ -33,6 +33,11 @@ None since the Virtual Console isn't a program. But here are the basic setup ins
 If you don't know the keyboard/button mappings, you can view that by clicking on the "Keyboard Layout" button in the bottom-left section of the program.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

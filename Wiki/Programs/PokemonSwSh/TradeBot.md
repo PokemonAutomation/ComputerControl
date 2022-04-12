@@ -75,6 +75,11 @@ Most of the options here are self-explanatory.
 <img src="images/TradeBot-Settings.png">
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

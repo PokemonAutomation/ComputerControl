@@ -56,6 +56,11 @@ Breed this many species.
 Make this many attempts to fetch an egg per species.
 
 
+## Credits
+
+- **Author:** pifopi
+
+
 <hr>
 
 **Discord Server:** 

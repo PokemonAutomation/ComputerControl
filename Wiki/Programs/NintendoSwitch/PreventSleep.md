@@ -17,6 +17,11 @@ The program will press B every 15 seconds.
 > 
 > **Note:** There is an option in the Switch settings to prevent the Switch from sleeping from being idle. That is probably the preferred method if you are running remotely and do not want to risk the Switch sleeping.
 
+
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
 <hr>
 
 **Discord Server:** 

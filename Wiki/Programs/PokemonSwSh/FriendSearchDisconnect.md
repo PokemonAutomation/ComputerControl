@@ -39,6 +39,12 @@ The program will disconnect from the internet and return to the game.
 
 This is the [user profile number](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/UserSlotNumber.md) to use to perform the disconnect.
 
+
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

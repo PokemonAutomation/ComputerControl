@@ -76,6 +76,11 @@ These are advanced settings. You shouldn't need to touch these unless something 
 This is how long from when you start the trade to when the trade ends. You shouldn't need to change this.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

@@ -83,6 +83,13 @@ More specifically, this needs to be the year that the time-sync will change the 
 Perform an auto-recovery every this number of skips. This is the recovery routine that recovers from trapping errors. You shouldn't need to touch this value.
 
 
+## Credits
+
+- **Original:** Kuroneko/Mysticial
+- **Rewritten:** SakuraKim
+- **Ported to CC:** Kuroneko/Mysticial
+
+
 
 <hr>
 

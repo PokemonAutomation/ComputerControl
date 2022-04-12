@@ -38,6 +38,13 @@ Most of the options here are self-explanatory.
 <img src="images/DateSpam-DailyHighlightFarmer-Settings.png">
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+- **Optimized:** SakuraKim
+- **Ported to CC:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

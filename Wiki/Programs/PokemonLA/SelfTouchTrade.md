@@ -90,6 +90,11 @@ This section lets you specify how many times each species should be traded over 
 The hosting Switch does not need to have the Pokémon in any particular order. Furthermore, it doesn't need a complete living dex. If anything is missing, it will be skipped. If there are any duplicates, the later one will be skipped.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

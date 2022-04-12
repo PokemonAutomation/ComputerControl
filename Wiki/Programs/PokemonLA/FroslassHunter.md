@@ -76,6 +76,12 @@ This program detects shinies by listening for the shiny sound. You can configure
 If the above is set to stop on a shiny, the program will align the camera and wait X time to potentially allow the shiny to come into view of the camera.
 This has no functional affect on the program. Don't set this value too large as some Pokémon will run away from you.
 
+
+## Credits
+
+- **Author:** lcaroto
+
+
 <hr>
 
 **Discord Server:** 

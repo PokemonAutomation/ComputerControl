@@ -174,6 +174,12 @@ To configure the program to load backup save instead of the regular save, set **
 > 2. *Manually host one raid online and disconnect. When you return to the overworld, it will establish a backup save.*
 
 
+## Credits
+
+- **MC Version:** Kuroneko/Mysticial + SakuraKim
+- **Ported From MC:** Kuroneko/Mysticial
+
+
 
 <hr>
 

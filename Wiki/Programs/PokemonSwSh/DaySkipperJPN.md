@@ -74,6 +74,13 @@ This can be as large as 4,294,967,295. But it will take 60+ years to skip that m
 Perform an auto-recovery every this number of skips. This is the recovery routine that recovers from trapping errors. You shouldn't need to touch this value.
 
 
+## Credits
+
+- **Original:** Kuroneko/Mysticial
+- **Rewritten:** SakuraKim
+- **Ported to CC:** Kuroneko/Mysticial
+
+
 
 <hr>
 

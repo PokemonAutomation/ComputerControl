@@ -49,6 +49,11 @@ The game language of each Switch.
 Pretty self-explanatory.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 
 <hr>

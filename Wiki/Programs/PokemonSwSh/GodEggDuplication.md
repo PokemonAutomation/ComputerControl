@@ -81,6 +81,12 @@ Examples:
 This option doesn't increase the speed of the cloning. It merely gives you more variety.
 
 
+## Credits
+
+- **Original:** SakuraKim
+- **Ported to CC:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

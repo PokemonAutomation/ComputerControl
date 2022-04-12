@@ -72,6 +72,12 @@ Very rarely, your Pokémon can give you a berry or an ingredient. This can cause
 The program was created based on Glimwood Tangle's encounters. As each Pokémon behave in a different way, this program may or may not work on other locations. Some Pokémon, such as Grubbin, Blipbug, Caterpie, are really slow, and will require to slow down the program. Some others, like Stunfisk, are low on the ground, and even though the program should attract them most of the time, it will not get them 100% of the time. Different implementations will soon be released to allow the program to adapt to the location.
 
 
+## Credits
+
+- **Original:** baboul
+- **Ported to CC:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

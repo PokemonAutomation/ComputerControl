@@ -81,6 +81,11 @@ This program does not touch the date, but requires that the host stay on the cur
 Set this value to zero to disable the feature.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

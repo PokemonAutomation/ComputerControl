@@ -110,6 +110,11 @@ If Check Horse stats is set to true, the required Sp. Def's IVs.
 If Check Horse stats is set to true, the required Speed's IVs.
 
 
+## Credits
+
+- **Author:** pifopi
+
+
 
 <hr>
 

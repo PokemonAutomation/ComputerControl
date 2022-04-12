@@ -45,6 +45,11 @@ The order of the table rows is the order your Pokémon in the Party, where the f
 Note: start the battle with wrong Pokémon order will result in wrong moves being ground.
 
 
+## Credits
+
+- **Author:** Gin
+
+
 
 <hr>
 

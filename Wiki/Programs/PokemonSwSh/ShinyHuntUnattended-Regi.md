@@ -108,6 +108,11 @@ The light puzzle is not 100% reliable. Sometimes it will miss lights. To counter
 The time needed to enter and exit the building during a correction.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

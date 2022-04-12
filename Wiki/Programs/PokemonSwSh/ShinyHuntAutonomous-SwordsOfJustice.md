@@ -88,6 +88,11 @@ After running, wait this long to return to the overworld. The program will resum
 Wait this long after entering camp before you leave.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

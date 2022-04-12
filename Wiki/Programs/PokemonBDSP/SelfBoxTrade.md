@@ -44,6 +44,11 @@ Once started, the program will swap all the Pokémon in the N boxes on the two S
 Pretty self-explanatory.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

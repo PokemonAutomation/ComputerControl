@@ -75,6 +75,11 @@ If you start the program and the target Pokémon does not pop-up below you:
 3. Redo the steps in "Run Program Instructions".
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

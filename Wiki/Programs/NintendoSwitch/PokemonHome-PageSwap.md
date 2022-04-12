@@ -21,6 +21,11 @@ This program can also be used on the last (incomplete) page of Pokémon Home as 
 When set to true, the program will dodge the system update window. Do not set this option if the system update window is not present. Unlike other programs, this program will not be able to tolerate the extra button presses if they land in the box system.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

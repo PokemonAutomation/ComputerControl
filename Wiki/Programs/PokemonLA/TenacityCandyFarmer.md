@@ -57,6 +57,11 @@ Let program use Arceus' fourth move on Mamoswine. If you set the fourth move to 
 Note, there is a small chance for the Goodra before the Mamoswine to survive one Judgement. In this case, ignorant of Goodra's survival, the program will use the fourth move on Goodra. It will still very likely to win the battle. So no need to worry about it.
 
 
+## Credits
+
+- **Author:** Gin
+
+
 
 <hr>
 

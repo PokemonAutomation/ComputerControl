@@ -87,6 +87,12 @@ If you don't want to start on January 1st 2000, you can set your start date here
 Perform an auto-recovery every this number of skips. This is the recovery routine that recovers from trapping errors. You shouldn't need to touch this value.
 
 
+## Credits
+
+- **Original:** SakuraKim
+- **Ported to CC:** Kuroneko/Mysticial
+
+
 
 <hr>
 

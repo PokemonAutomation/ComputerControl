@@ -97,6 +97,11 @@ Receiving Switch:
 Pretty self-explanatory.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

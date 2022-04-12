@@ -72,6 +72,11 @@ You can set the styles of all four moves and whether to switch the Pokémon afte
 The order of the table rows is the order your Pokémon are sent to battle as explained in **Instructions**.
 
 
+## Credits
+
+- **Author:** Gin
+
+
 
 <hr>
 

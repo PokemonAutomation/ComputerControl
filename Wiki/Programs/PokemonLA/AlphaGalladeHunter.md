@@ -78,6 +78,11 @@ This has no functional affect on the program. Don't set this value too large as 
 *This program uses a default delay of zero to minimize the chance of the Ralts/Kirlia in the same room as the Gallade from running away.*
 
 
+## Credits
+
+- **Author:** denvoros
+
+
 <hr>
 
 **Discord Server:** 

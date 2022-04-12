@@ -69,6 +69,11 @@ Most of the options here are self-explanatory.
 <img src="images/SurpriseTrade-Settings.png">
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

@@ -70,6 +70,11 @@ If you are playing in an Asian language (Japanese, Korean, Chinese), set your vi
 Walk up while mashing A to trigger the encounter.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

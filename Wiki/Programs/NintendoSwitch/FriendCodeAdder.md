@@ -32,6 +32,11 @@ After each friend code, the program will back out to the Switch Home before re-e
 This program runs slightly slower on the Arduino Uno R3. Due to the memory constraints of the Arduino, it uses a smaller (but slower) version of the fast code entry subroutine.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

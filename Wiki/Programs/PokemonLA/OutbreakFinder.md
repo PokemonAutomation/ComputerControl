@@ -40,6 +40,12 @@ This is the language you are playing in. This needs to be set correctly or the p
 
 List all the Pokémon you are looking for. The program stop when it finds an outbreak for any of them.
 
+
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

@@ -26,6 +26,12 @@ Note if you gain so much height that you go above the map, you will be teleporte
 
 None needed.
 
+
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

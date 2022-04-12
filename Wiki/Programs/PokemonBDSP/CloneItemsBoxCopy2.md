@@ -64,6 +64,12 @@ After the program finishes, go to the Switch Home to idle.
 
 Clone the box of items this many times.
 
+
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

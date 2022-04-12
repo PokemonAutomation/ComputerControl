@@ -109,6 +109,11 @@ These are advanced settings. You shouldn't need to touch these unless something 
 The amount of time from when you choose not to catch Regigigas to when you return to the overworld.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

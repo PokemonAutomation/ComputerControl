@@ -107,6 +107,11 @@ After running, wait this long to return to the overworld. The program will resum
 The time needed to enter and exit the building during a correction.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

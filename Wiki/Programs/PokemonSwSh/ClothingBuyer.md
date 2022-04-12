@@ -41,6 +41,11 @@ This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/Ninten
 Most of the options here are self-explanatory.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 
 

@@ -33,6 +33,11 @@ The ball you want to catch the Pokémon in.
 Pick the language you're playing in.
 
 
+## Credits
+
+- **Author:** pifopi
+
+
 <hr>
 
 **Discord Server:** 

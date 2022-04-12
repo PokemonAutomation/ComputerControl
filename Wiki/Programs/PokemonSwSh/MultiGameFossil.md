@@ -93,6 +93,11 @@ The idea here is to hard-save in front of the professor before running the progr
 Hard-saving can be done either by trading, or saving the game through Pokémon Home.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

@@ -130,6 +130,11 @@ These are advanced settings. You shouldn't need to touch these unless something 
 Wait this long after entering camp before you leave.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

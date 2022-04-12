@@ -38,6 +38,11 @@ The program will automatically save your settings when you close it. So you don'
 You can refresh the list of serial ports and camera either by changing programs on the left panel, or by changing a serial port of camera selection. This lets you configure your hardware on-the-fly without the need to close and reopen SerialPrograms.exe.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

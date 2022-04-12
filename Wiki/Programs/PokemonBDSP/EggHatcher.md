@@ -76,6 +76,11 @@ If you see that the program is going into Y-COMM or there is less than 5 seconds
 Total animation time for hatching 5 eggs when there are no shinies.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

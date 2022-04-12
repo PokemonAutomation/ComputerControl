@@ -47,6 +47,12 @@ Options are self-explanatory.
 
 Increasing this to 9 seconds or more might fix the program in case it is behaving erratically.
 
+
+## Credits
+
+- **Author:** Ptamalion
+
+
 <hr>
 
 **Discord Server:** 

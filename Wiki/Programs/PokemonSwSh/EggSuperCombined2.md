@@ -166,6 +166,11 @@ Eggs will not hatch early by more than this period.
 Total animation time for hatching 5 eggs when there are no shinies.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

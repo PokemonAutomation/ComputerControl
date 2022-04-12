@@ -61,6 +61,11 @@ If you don't wish to use a move, set the PP to zero. If you do wish to use a mov
 When the program runs out of PP for a move, it moves to the next move. Once there is no PP left for all available moves, it flies back to Hearthome City to heal and return.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

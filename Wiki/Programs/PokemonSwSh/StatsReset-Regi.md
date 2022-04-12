@@ -76,6 +76,11 @@ The required Sp. Def's IVs.
 The required Speed's IVs.
 
 
+## Credits
+
+- **Author:** pifopi
+
+
 
 <hr>
 

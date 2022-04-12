@@ -42,6 +42,12 @@ The program will attempt to enable the menu glitch and fly to Celestic Town.
 
 This is the delay from pressing A to open the fly dialog to pressing X to open the menu.
 
+
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

@@ -37,6 +37,11 @@ After finding a shiny, go to the Switch Home to idle. Turn this off for unattend
 The starter you are picking.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 
