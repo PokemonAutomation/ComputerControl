@@ -34,6 +34,7 @@ Bring a team of six eeveelutions. Set Baby-Doll Eyes as their first moves. Go to
 
 You can use Max Ethers to recover PPs after the program finishes and find another Magikarp in the river to continue grinding. You can earn money fast using our program, [Tenacity Candy Farmer](TenacityCandyFarmer.md) and buy ingredients to craft many Max Ethers.
 
+We also add an option to grind move Mimic, which is the research task of Mime Jr., Mr. Mime, Bonsly and Sudowoodo. See below.
 
 ## Options
 
@@ -45,10 +46,18 @@ The order of the table rows is the order your Pokémon in the Party, where the f
 Note: start the battle with wrong Pokémon order will result in wrong moves being ground.
 
 
+### Special Case, Mimic
+Grind Mimic move usages by switching between first two Pokémon.
+
+Set the first move as Mimic on the first two Pokémon (can be Mime Jr., Mr. Mime, Bonsly or Sudowoodo).
+After switching, the retreated Pokémon will forget the move learned by Mimic, allowing efficient Mimic grinding.
+Choosing this will ignore the content in Pokémon Action Table.
+
+
 ## Credits
 
+- Idea from [Johnstone's perfect Pokédex video](https://www.youtube.com/watch?v=MOVtMfpESz8)
 - **Author:** Gin
-
 
 
 <hr>

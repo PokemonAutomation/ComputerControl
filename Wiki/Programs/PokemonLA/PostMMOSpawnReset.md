@@ -94,8 +94,8 @@ If the above is set to stop on a shiny, the program will align the camera and wa
 This has no functional affect on the program. Don't set this value too large as some Pokémon will run away from you.
 
 
-## Credits
-
+## Credits 
+- So far the earliest source of the method is from [光之烙铁](https://tiebac.baidu.com/p/7759990346?pn=1)
 - **Author:** Gin
 
 
