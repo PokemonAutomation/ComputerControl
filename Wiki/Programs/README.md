@@ -170,6 +170,10 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Outbreak Finder](PokemonLA/OutbreakFinder.md)                        | Video         | Yes | Yes |
 | [Clothing Buyer](PokemonLA/ClothingBuyer.md)                          |               | Yes | Yes |
 ||
+| **Trading:** |
+| [Self Box Trade](PokemonLA/SelfBoxTrade.md)                           | Video         | Yes | Yes |
+| [Self Touch Trade](PokemonLA/SelfTouchTrade.md)                       | Video         | Yes | Yes |
+||
 | **Farming:** |
 | [Nugget Farmer (Highlands)](PokemonLA/NuggetFarmerHighlands.md)       | Video + Audio | Yes | Yes |
 | [Ingo Battle Grinder](PokemonLA/IngoBattleGrinder.md)                 | Video         | Yes | Yes |
@@ -179,13 +183,10 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | **Shiny Hunting:** |
 | [Alpha Crobat Hunter](PokemonLA/AlphaCrobatHunter.md)                 | Video + Audio | Yes | Yes |
 | [Alpha Gallade Hunter](PokemonLA/AlphaGalladeHunter.md)               | Video + Audio | Yes | Yes |
+| [Alpha Froslass Hunter](PokemonLA/AlphaFroslassHunter.md)             | Video + Audio | Yes | Yes |
 | [Unown Hunter](PokemonLA/UnownHunter.md)                              | Video + Audio | Yes | Yes |
-| [Post-MMO Spawn Reset](PokemonLA/PostMMOSpawnReset.md)                | Video + Audio | Yes | Yes |
 | [Shiny Hunt - Flag Pin](PokemonLA/ShinyHunt-FlagPin.md)               | Video + Audio | Yes | Yes |
-||
-| **Trading:** |
-| [Self Box Trade](PokemonLA/SelfBoxTrade.md)                           | Video         | Yes | Yes |
-| [Self Touch Trade](PokemonLA/SelfTouchTrade.md)                       | Video         | Yes | Yes |
+| [Post-MMO Spawn Reset](PokemonLA/PostMMOSpawnReset.md)                | Video + Audio | Yes | Yes |
 
 
 <hr>
