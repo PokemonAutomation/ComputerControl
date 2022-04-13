@@ -33,14 +33,13 @@ Once you have your hardware, you need to make some connections.
 Make the following connections:
 | **UART pin** | **Adafruit UART Wire Color** | **Arduino Leonardo pin** |
 | --- | --- | --- |
-| TX | Green | TX -> 1 (pin1) |
-| RX | White | RX <- 0 (pin0) |
+| TX | Green | RX <- 0 (pin0) |
+| RX | White | TX -> 1 (pin1) |
 | GND | Black | GND (any one is fine) |
 | VCC | Red | Leave unconnected |
 > **If you _did not buy_ the Adafruit UART, your colors will be different! Refer to your UART's manual or board for the correct pins.**
 
-<img src="/Wiki/Hardware/images/leonardo-1.jpg" height="600">
-(Image from alexk#8946)
+<img src="/Wiki/Hardware/images/leonardo-0.jpg" height="600">
 
 
 ## Step 2: Download the SerialPrograms package.
@@ -104,7 +103,7 @@ Here is an example of a setup after steps 4 and 5.
 1. Run the `SerialPrograms-Windows.cmd` script.
 <img src="/Wiki/Software/images/serial-programs-main.png" height="600">
 
-2. Under the "Serial Port" dropdown, select Arduino Leonardo.
+2. Under the "Serial Port" dropdown, select `COM# - Silicon Labs CP210x USB to UART Bridge`.
 3. Under the "Camera" dropdown, select your video capture device.
 
 
@@ -124,7 +123,7 @@ Output Window (Log):
    2. Make sure you don't have a PLxxx UART Controller (If you do, you need to buy a CP21xx UART)
 
 
-**Troubleshooting:**
+### **Troubleshooting:**
 
 If nothing shows up for Serial Port or Camera, then there is something wrong with your setup.
 
@@ -147,6 +146,12 @@ Step 1: Plug in the device to the Switch without connecting the UART to the comp
 | "Not connected" | You either chose the wrong COM port or your drivers are messed up. |
 | Stuck on "Connecting..." | If the device is not flashing the LEDs and either stays off or on, it means the line from computer -> device is broken. Make sure you chose the correct COM port and double check your wiring. Try swapping TX and RX since they are commonly mixed up. |
 | Stuck on "Connecting..." | If the device is alternating two of the LEDs (Leonardo models), it means the device is receiving the commands from the computer, but the computer isn't hearing back from the device. IOW, the line from device -> computer is broken. Double check your wiring is snug and connected. |
+
+**Correct output window:** 
+<img src="/Wiki/Software/images/output-window-correct.png">
+
+**Incorrect output window:** 
+<img src="/Wiki/Software/images/output-window-incorrect.png">
 
 Common video capture errors are:
 - The capture card is in use by another program. Close OBS or any other program potentially using the card.
