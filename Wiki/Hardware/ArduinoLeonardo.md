@@ -2,8 +2,7 @@
 
 This section covers the required hardware for users who have the Arduino Leonardo.
 
-<img src="images/leonardo-2.jpg" height="600"> 
-(Image from alexk#8946)
+<img src="images/leonardo.jpg" height="600"> 
 
 ## Hardware Requirements
 
@@ -29,13 +28,12 @@ Once you have your hardware, you need to make some connections.
 Make the following connections:
 | **UART pin** | **Adafruit UART Wire Color** | **Arduino Leonardo pin** |
 | --- | --- | --- |
-| TX | Green | TX -> 1 (pin1) |
-| RX | White | RX <- 0 (pin0) |
+| TX | Green | RX <- 0 (pin0) |
+| RX | White | TX -> 1 (pin1) |
 | GND | Black | GND (any one is fine) |
 | VCC | Red | Leave unconnected |
 
-<img src="images/leonardo-1.jpg" height="600">
-(Image from alexk#8946)
+<img src="images/leonardo-0.jpg" height="600">
 
 
 
