@@ -34,7 +34,7 @@ This program can be used to shiny-hunt every Pokémon from the spawn points (inc
 1. Enter a map with MMO.
 2. Make sure the time of day is set correctly for your desired spawn to appear.
 3. Go to your desired spawn point location.
-4. Clear out the MMO spawns there. Make sure the time of day and weather permit your desired spawn after you finish.
+4. Clear out the MMO spawns there. You can clear them either by despawning them (via catching, KOing, or scaring) or waiting for MMO to finish (rain or snow stops). Make sure the time of day and weather permit your desired spawn after you finish.
 5. Stay at the location of the spawn point. Make sure your desired spawn is still suppressed. Save the game.
 6. Start the program in the game.
 
@@ -44,7 +44,7 @@ When you start the program, it will start the cycle of resetting the game and li
 the program can be set to move around according to the program options to correct your location if you save the game far from the desired spawn point.
 
 It is strongly recommended to watch the program for a few runs to make sure it can move into the shiny sound range of the intended
-spawn location. The spawned pokemon may spawn randomly near the spawn point and move around in different directions in each reset.
+spawn location. The spawned pokemon may appear randomly near the spawn point and move around in different directions in each reset.
 Make sure the path the program goes on covers the optimal range of all possible pokemon locations.
 
 This program will stop when it hears a shiny *anywhere* around you. So you will likely get some "unwanted" shinies from another nearby
@@ -55,7 +55,14 @@ As of this time, there is no option to ignore shinies that you don't want.
 
 ### Caution
 
-When you reset after the MMO is cleared, you can not use this save to go back to the state where the usual spawns don't appear. So if you didn't set the correct time of the day or weather, you will not be able to hunt them on this save. Fortunately, you can use the hidden backup save to revert the game back to when you haven't gone to the MMO spawn point. Press DPAD UP, X and B at the same time at the game title screen to load the backup save. This backup save is created whenever you enter a camp.
+When you reset after the MMO is cleared, you can not use this save to go back to the state where the usual spawns don't appear.
+So if you didn't set the correct time of the day or weather, you will not be able to hunt them on this save.
+
+Fortunately, you can use the hidden backup save to revert the game back to a prior state.
+Press DPAD UP, X and B at the same time at the game title screen to load the backup save.
+This backup save is created whenever you enter a camp.
+If your last visit to the camp is before the MMO spawns are cleared, then you can use this backup save to revert back the game in case your desired spawn does not appear after resetting the game due to wrong time of day or weather.
+If your last visit is after the MMO spawns are cleared, then the backup save can not help you and you have to wait for another MMO to hunt what you want.
 
 
 ## Options
