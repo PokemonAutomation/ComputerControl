@@ -49,6 +49,8 @@ If you aim to grind move and style usages, make sure your Pokémon are fast or b
   
   Beat an easy opponent like Wenton, Bren or Ress repeatedly with required move styles. Put the move to grind as the first move and select the proper style. If the move has few PPs, you can grind the research tasks of the second move after the program uses all PPs of the first move. You can also collect small amount of exp for the rest of your party.
 
+  You can set the program to stop battling after trying a certain number of moves. Enable this by checking the cell **Limit Move Attempts** and fill in a proper number in the cell **Max Move Attempts**.
+
 - Grind exp on Ingo - but tougher:
   
   Tougher Ingo uses six level 75+ Pokémon which provide lots of exp. Use level 95+ Arceus with the legend plate to finish five of his six Pokémon most of the time. Use two of your strong Pokémon to finish Ingo's remaining ones. The rest three Pokémon in your party will receive lots of exp each battle.
@@ -70,6 +72,13 @@ The name of the opponent you choose to battle against. You need to have the full
 A table where each row sets the move styles and switch conditions for each Pokémon.
 You can set the styles of all four moves and whether to switch the Pokémon after some turns.
 The order of the table rows is the order your Pokémon are sent to battle as explained in **Instructions**.
+You can also set a target number of move attempts for each Pokémon. After any target is reached the program will no longer enter any new battle.
+
+Note: if your second last Pokémon faints, the game will send your last Pokémon automatically for you.
+The program cannot detect this switch as the program looks for the switch selection screen.
+Therefore the program will treat it as the same Pokémon.
+In other words, if your opponent knocks out five of your six Pokémon and you are left with the sixth Pokémon on the field,
+the program will still think you are using the fifth Pokémon.
 
 
 ## Credits
