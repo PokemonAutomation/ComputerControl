@@ -1,4 +1,4 @@
-# Froslass Hunter
+# Tree Shiny Hunter
 
 **Related Programs:**
 - [Alpha Crobat Hunter](AlphaCrobatHunter.md)
