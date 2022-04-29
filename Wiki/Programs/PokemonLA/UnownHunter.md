@@ -3,8 +3,8 @@
 **Related Programs:**
 - [Alpha Crobat Hunter](AlphaCrobatHunter.md)
 - [Alpha Gallade Hunter](AlphaGalladeHunter.md)
+- [Alpha Froslass Hunter](AlphaFroslassHunter.md)
 - [Unown Hunter](UnownHunter.md) (this program)
-- [Froslass Hunter](AlphaFroslassHunter.md)
 - [Tree Shiny Hunter](TreeShinyHunter.md)
 
 ## Program Description

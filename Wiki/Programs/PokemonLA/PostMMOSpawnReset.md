@@ -1,5 +1,9 @@
 ﻿# Post-MMO Spawn Reset
 
+**Related Programs:**
+- [Shiny Hunt - Flag Pin](ShinyHunt-FlagPin.md)
+- [Post MMO Spawn Reset](PostMMOSpawnReset.md) (this program)
+
 ## Program Description
 
 Shiny hunt Pokémon by resetting suppressed spawns after clearing a Massive Mass Outbreak (MMO).

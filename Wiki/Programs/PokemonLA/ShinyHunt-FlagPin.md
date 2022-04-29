@@ -1,5 +1,9 @@
 ﻿# Shiny Hunt - Flag Pin
 
+**Related Programs:**
+- [Shiny Hunt - Flag Pin](ShinyHunt-FlagPin.md) (this program)
+- [Post MMO Spawn Reset](PostMMOSpawnReset.md)
+
 ## Program Description
 
 Shiny hunt Pokémon around a flag pin.
