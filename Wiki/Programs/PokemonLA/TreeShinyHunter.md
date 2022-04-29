@@ -4,7 +4,7 @@
 - [Alpha Crobat Hunter](AlphaCrobatHunter.md)
 - [Alpha Gallade Hunter](AlphaGalladeHunter.md)
 - [Unown Hunter](UnownHunter.md) 
-- [Froslass Hunter](FroslassHunger.md)
+- [Froslass Hunter](FroslassHunter.md)
 - [Tree Shiny Hunter](TreeShinyHunter.md) (this program)
 
 ## Program Description
