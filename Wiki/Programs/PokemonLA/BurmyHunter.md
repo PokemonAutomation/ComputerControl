@@ -1,20 +1,19 @@
-# Tree Shiny Hunter
+# Burmy Hunter
 
 **Related Programs:**
 - [Alpha Crobat Hunter](AlphaCrobatHunter.md)
 - [Alpha Gallade Hunter](AlphaGalladeHunter.md)
 - [Alpha Froslass Hunter](AlphaFroslassHunter.md)
 - [Unown Hunter](UnownHunter.md)
-- [Tree Shiny Hunter](TreeShinyHunter.md) (this program)
+- [Burmy Hunter](BurmyHunter.md) (this program)
 
 ## Program Description
 
 Starting from Jubilife Village, travels to Fieldlands Heights and check 2 nearby tress for a Burmy. 
 
 The program will stop when a shiny, alpha and/or alpha shiny is found. According to what is specified in the configuration.
-_(This program to do listen to shinies in the path currently)._
 
-<img src="images/ShinyTreeHunter-0.png">
+<img src="images/BurmyHunter-0.png">
 
 Demo Video: https://cdn.discordapp.com/attachments/722200321916534876/965545237164462170/ShinyTreeHunt.mp4
 
@@ -34,7 +33,7 @@ Demo Video: https://cdn.discordapp.com/attachments/722200321916534876/9655452371
 4. **You have Pokemon selected and NOT items on the right bottom side**
 5. Start the program in the game.
 
-<img src="images/ShinyTreeHunter-1.png">
+<img src="images/BurmyHunter-1.png">
 
 
 **Notes:**
@@ -44,6 +43,18 @@ Demo Video: https://cdn.discordapp.com/attachments/722200321916534876/9655452371
 - Upon matching the expectation on what to look for, the program will go back to home screen. Going back to the game, you should be in the battle's Status Info Screen.
 
 ## Options
+
+### Language
+
+Game Language to help detect Pokemon name
+
+### Stop On
+
+When should the program stop and act on the **Match Action**. Current options:
+- Shiny
+- Alpha
+- Shiny Alpha
+- Any non regular
 
 ### Match Action
 
@@ -60,13 +71,21 @@ If the above is set to stop on a shiny, the program will align the camera and wa
 This has no functional affect on the program. Don't set this value too large as some Pokémon will run away from you.
 
 
-### Stop On
+### Enroute Shiny Action
 
-When should the program stop and act on the **Match Action**. Current options:
-- Shiny
-- Alpha
-- Shiny Alpha
-- Any non regular
+What to do when finding a shiny enroute to destination
+
+**Shiny Detected Action:**
+- Ignore the shiny. Do not stop the program.
+- Stop program. Align camera for a screenshot. Then go Home.
+- Stop program. Align camera for a screenshot + video. Then go Home.
+
+**Screenshot Delay:**
+
+If the above is set to stop on a shiny, the program will align the camera and wait X time to potentially allow the shiny to come into view of the camera.
+This has no functional affect on the program. Don't set this value too large as some Pokémon will run away from you.
+
+
 
 ## Credits
 
