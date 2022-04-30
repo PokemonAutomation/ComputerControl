@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 **Important**
+- Add your title after **[REQ] - **
 - Replace the text inside "()" with what is required
 - Bear in mind requests are subject to dev availability and/or interest
 
