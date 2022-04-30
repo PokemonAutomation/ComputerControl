@@ -11,7 +11,7 @@ assignees: ''
 - Add your title after **[REQ] - **
 - **Replace** the space inside the **[ ]** with a **x** to mark one of the options
 - Replace the text inside "()" with what is required
-- Bear in mind requests are subject to dev availability and/or interest
+- _**Bear in mind requests are subject to dev availability and/or interest**_
 
 **Game**
 - [ ] Sword/Shield
@@ -21,7 +21,8 @@ assignees: ''
 
 **Type**
 - [ ] New Program
-- [ ] Improvement
+- [ ] Improvement to **_(Program Name)_**
+
 
 **Description**
 _(Describe in a few words what is your program suggestion)_
