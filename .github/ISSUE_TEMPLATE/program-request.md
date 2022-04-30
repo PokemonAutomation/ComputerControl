@@ -28,6 +28,4 @@ assignees: ''
 _(Describe in a few words what is your program suggestion)_
 
 **Additional context**
-_(Give more details (if required) on how the program would work, use case, relevance etc)._
-
-
+_(Give more details (if required) on how the program would work, use case, relevance, graphs, images, etc)._
