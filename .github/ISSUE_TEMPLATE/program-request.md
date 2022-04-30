@@ -1,14 +1,15 @@
 ---
 name: Program Request
 about: Suggest a new Program or Improvement!
-title: "[REQ]"
+title: "[REQ] - "
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Important**
+- Replace the text inside "()" with what is required
+- Bear in mind requests are subject to dev availability and/or interest
 
 **Game**
 - [ ] Sword/Shield
@@ -21,9 +22,9 @@ A clear and concise description of what the problem is. Ex. I'm always frustrate
 - [ ] Improvement
 
 **Description**
-Describe in a few words what is your program suggestion
+_(Describe in a few words what is your program suggestion)_
 
 **Additional context**
-Give more details (if required) on how the program would work, use case, relevance.
+_(Give more details (if required) on how the program would work, use case, relevance etc)._
 
-_(Bear in mind requests are subject to dev availability and/or interest)_
+
