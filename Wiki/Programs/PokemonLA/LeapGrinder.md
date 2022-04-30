@@ -1,4 +1,4 @@
-# Burmy Hunter
+# Leap Grinder
 
 **Related Programs:**
 - [Nugget Farmer Highlands](NuggetFarmerHighlands.md)
