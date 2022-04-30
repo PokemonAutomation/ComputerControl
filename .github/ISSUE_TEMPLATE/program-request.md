@@ -9,6 +9,7 @@ assignees: ''
 
 **Important**
 - Add your title after **[REQ] - **
+- Add a x inside [] to mark one of the options
 - Replace the text inside "()" with what is required
 - Bear in mind requests are subject to dev availability and/or interest
 
