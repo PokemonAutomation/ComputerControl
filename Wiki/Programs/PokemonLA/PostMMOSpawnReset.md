@@ -15,9 +15,9 @@ This program will repeatedly reset the game and stop when it hears a shiny.
 This program can be used to shiny hunt every Pokémon from spawn points (including alpha spawn points) that overlap with MMO spawners.
 
 
-<!-- <img src="images/ShinyHunt-FlagPin-0.png"> -->
+<img src="images/PostMMO-0.jpg">
 
-<!-- Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/952330044246749224/2022-03-12_16-14-49.mp4 -->
+Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/970164546276851763/2022-04-30_22-25-15.mp4
 
 
 ### Settings
