@@ -50,11 +50,15 @@ There is a small chance the Arceus may lose to Pearl Clan. To ensure victory, yo
 
 ## Options
 
-### Fourth Move on Mamoswine
+### Fourth Move on
 
-Let program use Arceus' fourth move on Mamoswine. If you set the fourth move to be Flamethrower, you can grind Mamoswine's research task.
+Let the program use Arceus' fourth move on one of the opponenent's Pokémon to grind their research tasks:
+- Set the fourth move to be Flamethrower to grind Mamoswine's research task.
+- Set the fourth move to be Rock Smash to grind Avalugg's research task.
 
-Note, there is a small chance for the Goodra before the Mamoswine to survive one Judgement. In this case, ignorant of Goodra's survival, the program will use the fourth move on Goodra. It will still very likely to win the battle. So no need to worry about it.
+Note, there is a small chance for the Goodra before the Mamoswine to survive one Judgement.
+In this case, ignorant of Goodra's survival, the program may use the fourth move on Goodra.
+It will still very likely to win the battle. So no need to worry about it.
 
 
 ## Credits
