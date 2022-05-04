@@ -3,6 +3,7 @@
 **Related Programs:**
 - [Shiny Hunt - Flag Pin](ShinyHunt-FlagPin.md)
 - [Post MMO Spawn Reset](PostMMOSpawnReset.md) (this program)
+- [Shiny Hunt - Custom Path](ShinyHunt-CustomPath.md)
 
 ## Program Description
 

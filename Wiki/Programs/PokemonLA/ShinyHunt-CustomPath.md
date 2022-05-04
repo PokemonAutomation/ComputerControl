@@ -3,7 +3,7 @@
 **Related Programs:**
 - [Shiny Hunt - Flag Pin](ShinyHunt-FlagPin.md)
 - [Post MMO Spawn Reset](PostMMOSpawnReset.md)
-- [Shiny Hunt - Flag Pin](ShinyHunt-CustomPath.md) (this program)
+- [Shiny Hunt - Custom Path](ShinyHunt-CustomPath.md) (this program)
 
 ## Program Description
 
@@ -79,7 +79,7 @@ Move forward for the specified number of ticks using one of several methods.
 
 Move the left joystick in the specified direction for the specified number of ticks.
 
-This is the only way to make turns. Camera motion isn't supported since it's too unreliable and various based on the user's camera sensitivity.
+This is the only way to make turns. Camera motion isn't supported since it's too unreliable and varies based on the user's camera sensitivity.
 
 **Center Camera**
 
