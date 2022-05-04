@@ -58,14 +58,12 @@ The program will loop through going from the village to Froslass's cave until a 
 
 ## Options
 
-### Skip any shinies in the path
 
-Enable this option if you want to skip any shinies found in the path to the cave. 
-_**(PLEASE NOTE: This option doesn't avoid Misdreavus and/or Glalie as they are too close to Froslass to be skipped.)**_
-
-### Shiny Detected Actions
+### Enroute/Destination Shiny Action
 
 This program detects shinies by listening for the shiny sound. You can configure what the program should do if it hears a shiny.
+
+There are two of these options - once if enroute, and once at the destination. Thus you can customize the behavior - such as ignoring shinies while enroute.
 
 **Shiny Detected Action:**
 - Ignore the shiny. Do not stop the program.

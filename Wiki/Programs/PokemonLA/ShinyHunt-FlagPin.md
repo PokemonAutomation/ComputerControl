@@ -94,6 +94,37 @@ Options include:
 Note that the Colbalt Coastlands arena has an alternate version where it moves to the northwest of the volcano. This allows you to reach the northern area of the map without getting stuck behind the lava.
 
 
+### Enroute Distance
+
+This determines which shiny detected action to use.
+
+There are two shiny detected actions, "enroute" and "destination".
+- If your current distance from the flag exceeds the enroute distance, the program will use the "Enroute Shiny Action". 
+- If your current distance from the flag is less than the enroute distance, the program will use the "Destination Shiny Action".
+
+Thus you can configure the program to ignore enroute shinies.
+
+
+### Enroute/Destination Shiny Action
+
+This program detects shinies by listening for the shiny sound. You can configure what the program should do if it hears a shiny.
+
+There are two of these options - once if enroute, and once at the destination. Thus you can customize the behavior - such as ignoring shinies while enroute.
+
+**Shiny Detected Action:**
+- Ignore the shiny. Do not stop the program.
+- Stop program. Align camera for a screenshot. Then go Home.
+- Stop program. Align camera for a screenshot + video. Then go Home.
+
+**Screenshot Delay:**
+
+If the above is set to stop on a shiny, the program will align the camera and wait X time to potentially allow the shiny to come into view of the camera.
+This has no functional affect on the program. Don't set this value too large as some Pokémon will run away from you.
+
+
+## Advanced Options
+
+
 ### Stop Distance
 
 Stop when you have reached within this distance of the flag. (the units is the number on the flag - which we presume is meters)
@@ -111,20 +142,6 @@ Once you have reached the flag (by coming within the "Stop Distance" above), wai
 
 If you don't reach the flag after this long, give up and reset.
 
-
-### Shiny Detected Actions
-
-This program detects shinies by listening for the shiny sound. You can configure what the program should do if it hears a shiny.
-
-**Shiny Detected Action:**
-- Ignore the shiny. Do not stop the program.
-- Stop program. Align camera for a screenshot. Then go Home.
-- Stop program. Align camera for a screenshot + video. Then go Home.
-
-**Screenshot Delay:**
-
-If the above is set to stop on a shiny, the program will align the camera and wait X time to potentially allow the shiny to come into view of the camera.
-This has no functional affect on the program. Don't set this value too large as some Pokémon will run away from you.
 
 
 ## Credits
