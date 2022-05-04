@@ -9,7 +9,7 @@
 
 This is a harder to use program that will shiny hunt Pokémon along a set path.
 
-([Flag Pin](ShinyHunt-FlagPin.md) and [Post-MMO]()PostMMOSpawnReset.md) cover nearly everything. But there are still a few holes left.
+([Flag Pin](ShinyHunt-FlagPin.md) and [Post-MMO](PostMMOSpawnReset.md) cover nearly everything. But there are still a few holes left.
 
 Some of the exceptions are covered by the specialized programs ([Crobat](AlphaCrobatHunter.md), [Froslass](AlphaFroslassHunter.md), [Gallade](AlphaGalladeHunter.md), etc...). But those are not exhaustive.
 
