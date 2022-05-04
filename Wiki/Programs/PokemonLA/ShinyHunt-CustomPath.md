@@ -20,6 +20,8 @@ For example, Zorua:
 
 Thus the purpose of this program is cover some of the things that cannot be hunted with the existing programs.
 
+[A collection of paths can be found here.](CustomPaths/]
+
 
 ### Settings
 
