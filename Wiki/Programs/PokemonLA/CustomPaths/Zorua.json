@@ -1,0 +1,57 @@
+﻿{
+    "CUSTOM_PATH_TABLE": {
+        "PATH": [
+            {
+                "Action": "Change Mount",
+                "Mount": "Braviary"
+            },
+            {
+                "Action": "Move in Direction",
+                "MoveDirectionX": 1,
+                "MoveDirectionY": 0.4,
+                "MoveForwardTicks": 375,
+                "Speed": "Normal Speed"
+            },
+            {
+                "Action": "Move Forward",
+                "MoveForwardTicks": 675,
+                "Speed": "Dash on Ride"
+            },
+            {
+                "Action": "Move Forward",
+                "MoveForwardTicks": 1000,
+                "Speed": "Dive on Braviary"
+            },
+            {
+                "Action": "Change Mount",
+                "Mount": "Wrydeer"
+            },
+            {
+                "Action": "Start Listen"
+            },
+            {
+                "Action": "Move in Direction",
+                "MoveDirectionX": -0.8,
+                "MoveDirectionY": -1,
+                "MoveForwardTicks": 250,
+                "Speed": "Normal Speed"
+            },
+            {
+                "Action": "Move in Direction",
+                "MoveDirectionX": -0.75,
+                "MoveDirectionY": 1,
+                "MoveForwardTicks": 125,
+                "Speed": "Normal Speed"
+            },
+            {
+                "Action": "Center Camera"
+            },
+            {
+                "Action": "Move Forward",
+                "MoveForwardTicks": 250,
+                "Speed": "Dash on Ride"
+            }
+        ],
+        "TRAVEL_LOCATION": "Alabaster Icelands - Icepeak Arena"
+    }
+}

@@ -62,11 +62,12 @@ This program will stop on *any* shiny, not just the Gallade.
 
 ## Options
 
-None specific to this program.
 
-### Shiny Detected Actions
+### Enroute/Destination Shiny Action
 
 This program detects shinies by listening for the shiny sound. You can configure what the program should do if it hears a shiny.
+
+There are two of these options - once if enroute, and once at the destination. Thus you can customize the behavior - such as ignoring shinies while enroute.
 
 **Shiny Detected Action:**
 - Ignore the shiny. Do not stop the program.

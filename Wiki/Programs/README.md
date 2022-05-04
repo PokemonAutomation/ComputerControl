@@ -185,9 +185,11 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Alpha Crobat Hunter](PokemonLA/AlphaCrobatHunter.md)                 | Video + Audio | Yes | Yes |
 | [Alpha Gallade Hunter](PokemonLA/AlphaGalladeHunter.md)               | Video + Audio | Yes | Yes |
 | [Alpha Froslass Hunter](PokemonLA/AlphaFroslassHunter.md)             | Video + Audio | Yes | Yes |
+| [Burmy Hunter](PokemonLA/BurmyHunter.md)                              | Video + Audio | Yes | Yes |
 | [Unown Hunter](PokemonLA/UnownHunter.md)                              | Video + Audio | Yes | Yes |
 | [Shiny Hunt - Flag Pin](PokemonLA/ShinyHunt-FlagPin.md)               | Video + Audio | Yes | Yes |
 | [Post-MMO Spawn Reset](PokemonLA/PostMMOSpawnReset.md)                | Video + Audio | Yes | Yes |
+| [Shiny Hunt - Custom Path](PokemonLA/ShinyHunt-CustomPath.md)         | Video + Audio | Yes | Yes |
 
 
 <hr>
