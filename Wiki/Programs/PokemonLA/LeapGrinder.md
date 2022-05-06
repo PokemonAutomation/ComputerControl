@@ -29,7 +29,7 @@ Alternatively, the program also can stop if:
 ### Instructions
 
 1. You have unlocked Braviary.
-2. YOu have unlocked all map and waypoints.
+2. You have unlocked all map and waypoints.
 3. You are in Jubilife city standing in the position pictured below.
 4. **You have Pokemon selected and NOT items on the right bottom side**
 5. Start the program in the game.
