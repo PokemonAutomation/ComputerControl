@@ -28,7 +28,7 @@ If set to start in game, you must disconnect all other controllers.
 
 Pick the language you're playing in.
 
-### Pokemon count:
+### Pokémon count:
 
 Number of Pokémon to order.
 

@@ -17,7 +17,7 @@ A full list of leap Pokémon tasks can be found here: [tress](https://www.serebi
 Alternatively, the program also can stop if:
 
 - A shiny is heard during the route to the tree/ore
-- The pokemon leaping from tree is Shiny, Alpha or Shiny Alpha
+- The Pokémon leaping from tree is Shiny, Alpha or Shiny Alpha
 
 ### Settings
 
@@ -31,7 +31,7 @@ Alternatively, the program also can stop if:
 1. You have unlocked Braviary.
 2. You have unlocked all map and waypoints.
 3. You are in Jubilife city standing in the position pictured below.
-4. **You have Pokemon selected and NOT items on the right bottom side**
+4. **You have Pokémon selected and NOT items on the right bottom side**
 5. Start the program in the game.
 
 <img src="images/BurmyHunter-1.png">
@@ -41,11 +41,11 @@ Alternatively, the program also can stop if:
 
 ### Language
 
-Game Language to help detect Pokemon name
+Game Language to help detect Pokémon name
 
-### Pokemon Species
+### Pokémon Species
 
-Which Pokemon to grind the leap
+Which Pokémon to grind the leap
 
 ### Leaps
 

@@ -76,9 +76,9 @@ To use Sweet Scent:
 
 Travel for this long before changing directions.
 
-### Sweet Scent Pokemon Location:
+### Sweet Scent Pokémon Location:
 
-In case Sweet Scent is selected as the trigger method, the location of the Pokemon in the party to use Sweet Scent.
+In case Sweet Scent is selected as the trigger method, the location of the Pokémon in the party to use Sweet Scent.
 
 
 ## Advanced Settings:

@@ -18,7 +18,7 @@ Unlike the other egg fetcher, it will fetch a chosen number of eggs before switc
 4. Your bike must be fully upgraded.
 5. The first parent (breedable with ALL other parents so probably a ditto) is already deposited at the Route 5 daycare center (first slot).
 6. The other parents are in the current box, without any gap.
-7. A random pokemon is deposited at the Route 5 daycare center (second slot).
+7. A random Pokémon is deposited at the Route 5 daycare center (second slot).
 
 > Strongly Recommended:
 > - Masuda Method: The Pokémon in the daycare are of different languages.
@@ -47,7 +47,7 @@ This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/Ninten
 
 In addition to the main options below, there are more [global options](PokemonSettings.md) that can be configured if you encounter problems.
 
-### Pokemon species count:
+### Pokémon species count:
 
 Breed this many species.
 

@@ -30,7 +30,7 @@ Demo Video: https://cdn.discordapp.com/attachments/722200321916534876/9655452371
 1. You have unlocked Braviary.
 2. You have unlocked the Fieldlands Heights waypoint.
 3. You are in Jubilife city standing in the position pictured below.
-4. **You have Pokemon selected and NOT items on the right bottom side**
+4. **You have Pokémon selected and NOT items on the right bottom side**
 5. Start the program in the game.
 
 <img src="images/BurmyHunter-1.png">
@@ -39,14 +39,14 @@ Demo Video: https://cdn.discordapp.com/attachments/722200321916534876/9655452371
 **Notes:**
 
 - Currently, the trees been checked only spawn Plant Cloak Burmy but the game allow you to change it's form.
-- In the rare occassion of the program resetting, there's a chance of Pokemon not being selected (defaulting back to items), keep an eye on. 
+- In the rare occassion of the program resetting, there's a chance of Pokémon not being selected (defaulting back to items), keep an eye on. 
 - Upon matching the expectation on what to look for, the program will go back to home screen. Going back to the game, you should be in the battle's Status Info Screen.
 
 ## Options
 
 ### Language
 
-Game Language to help detect Pokemon name
+Game Language to help detect Pokémon name
 
 ### Stop On
 

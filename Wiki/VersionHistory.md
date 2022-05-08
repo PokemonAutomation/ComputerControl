@@ -37,7 +37,7 @@ Everything from here on down is from the old combined repo that includes both na
 
 ### 2021-08-26:
 - Fixed an issue in the SurpriseTrade config that made it disappear from the HexGenerator.
-- Den Roller can now recognize silhouettes and automatically stop on a specific Pokemon. So now you can easily roll for g-maxes and other 1% rolls.
+- Den Roller can now recognize silhouettes and automatically stop on a specific Pokémon. So now you can easily roll for g-maxes and other 1% rolls.
 - Overworld, fishing, whistling, and berry tree encounter bots now support auto-catching.
 - Added Autonomous Ball Thrower.
 - Added Regi auto-catch and Stats Reset.
@@ -61,13 +61,13 @@ Everything from here on down is from the old combined repo that includes both na
 - Native Programs: New directory structure and HexGenerator layout to make room for BDSP and future games.
 - Native Programs: Mac build scripts no longer use its own FZF binary to avoid permission errors.
 - Serial Programs: Lots of changes to prepare for BDSP and future games.
-- New Program: Stats Reset. Reset gift Pokemon for the desired stats. (Type: Null, Cosmog, Poipole)
+- New Program: Stats Reset. Reset gift Pokémon for the desired stats. (Type: Null, Cosmog, Poipole)
 - New Program: Turbo Button. It is a more generalized version of Turbo A for any button.
-- The Dex Rec Finder now supports feedback. You can specify what Pokemon you're looking for and it will stop when it finds it.
+- The Dex Rec Finder now supports feedback. You can specify what Pokémon you're looking for and it will stop when it finds it.
 - The Dex Rec Finder can now run on the Uno R3.
 - Purple Beam Finder is more accurate at detecting beam types.
 - Day skippers now show stats.
-- Berry tree, whistling, fishing, and overworld encounter bots will read the Pokemon that you encounter, log it, and show encounter statistics.
+- Berry tree, whistling, fishing, and overworld encounter bots will read the Pokémon that you encounter, log it, and show encounter statistics.
 - Overworld encounter bot has new settings that will work in Glimwood Tangle.
 
 ### 2021-05-24:
@@ -78,7 +78,7 @@ Everything from here on down is from the old combined repo that includes both na
 
 ### 2021-05-14:
 - Added Overworld Encounter Bot.
-- Added Pokemon Home page swap.
+- Added Pokémon Home page swap.
 - Fix an issue in the HexGenerator that may prevent it from working on file paths with spaces.
 - Fixed a bug AutoHost-MultiGame where it may improperly save the number of day skips.
 
@@ -247,7 +247,7 @@ Everything from here on down is from the old combined repo that includes both na
 -  Fixed another issue in the BallThrower program.
 -  Egg fetch and egg combined programs are more tolerant to eggs that take longer to fetch.
 -  Egg fetch timing can now be configured.
--  For den rolling when TOLERATE_SYSTEM_UPDATE_MENU_SLOW is enabled, the timings for entering and exiting the Switch Pokemon menu can now be configured.
+-  For den rolling when TOLERATE_SYSTEM_UPDATE_MENU_SLOW is enabled, the timings for entering and exiting the Switch Pokémon menu can now be configured.
 
 ### 2020-12-06a:
 -  Added ShinyHuntUnattended-Regigigas2 for beta testing.
