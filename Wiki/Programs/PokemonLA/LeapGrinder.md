@@ -9,9 +9,9 @@
 
 ## Program Description
 
-Starting from Jubilife Village, travels to a specific tree or ore and try to find a specific pokemon until the number of leaps is met. 
+Starting from Jubilife Village, travels to a specific tree or ore and try to find a specific Pokémon until the number of leaps is met. 
 
-A full list of leap Pokemon tasks can be found here: [tress](https://www.serebii.net/legendsarceus/researchtasks/leapoutoftrees.shtml) and [ores](https://www.serebii.net/legendsarceus/researchtasks/leapoutofore.shtml)
+A full list of leap Pokémon tasks can be found here: [tress](https://www.serebii.net/legendsarceus/researchtasks/leapoutoftrees.shtml) and [ores](https://www.serebii.net/legendsarceus/researchtasks/leapoutofore.shtml)
 
 
 Alternatively, the program also can stop if:
