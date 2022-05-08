@@ -170,6 +170,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Outbreak Finder](PokemonLA/OutbreakFinder.md)                        | Video         | Yes | Yes |
 | [Clothing Buyer](PokemonLA/ClothingBuyer.md)                          |               | Yes | Yes |
 | [Skip To Full Moon](PokemonLA/SkipToFullMoon.md)                      | Video         | Yes | Yes |
+| [Pokédex Task Reader](PokemonLA/PokedexTasksReader.md)                | Video         | Yes | Yes |
 ||
 | **Trading:** |
 | [Self Box Trade](PokemonLA/SelfBoxTrade.md)                           | Video         | Yes | Yes |
