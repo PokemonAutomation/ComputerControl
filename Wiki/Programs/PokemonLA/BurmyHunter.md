@@ -42,6 +42,7 @@ Demo Video: https://cdn.discordapp.com/attachments/722200321916534876/9655452371
 - In the rare occassion of the program resetting, there's a chance of Pokémon not being selected (defaulting back to items), keep an eye on. 
 - Upon matching the expectation on what to look for, the program will go back to home screen. Going back to the game, you should be in the battle's Status Info Screen.
 
+
 ## Options
 
 ### Language
@@ -56,24 +57,11 @@ When should the program stop and act on the **Match Action**. Current options:
 - Shiny Alpha
 - Any non regular
 
-### Match Action
+### Enroute/Burmy Shiny Action
 
-What to do when matching with the **Stop On** option
+Configure what the program should do if it hears a shiny.
 
-**Shiny Detected Action:**
-- Ignore the shiny. Do not stop the program.
-- Stop program. Align camera for a screenshot. Then go Home.
-- Stop program. Align camera for a screenshot + video. Then go Home.
-
-**Screenshot Delay:**
-
-If the above is set to stop on a shiny, the program will align the camera and wait X time to potentially allow the shiny to come into view of the camera.
-This has no functional affect on the program. Don't set this value too large as some Pokémon will run away from you.
-
-
-### Enroute Shiny Action
-
-What to do when finding a shiny enroute to destination
+There are two of these options - one for enroute, and one for the Burmy. Thus you can customize the behavior - such as ignoring shinies while enroute.
 
 **Shiny Detected Action:**
 - Ignore the shiny. Do not stop the program.
@@ -84,7 +72,6 @@ What to do when finding a shiny enroute to destination
 
 If the above is set to stop on a shiny, the program will align the camera and wait X time to potentially allow the shiny to come into view of the camera.
 This has no functional affect on the program. Don't set this value too large as some Pokémon will run away from you.
-
 
 
 ## Credits
