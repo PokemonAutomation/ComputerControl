@@ -55,13 +55,9 @@ The program will loop through going from the village to Solaceon Ruins until a s
 
 ## Options
 
-### Skip any shinies in the path
-
-Enable this option if you want to skip any shinies found in the path to Solaceon Ruins.
-
 ### Shiny Detected Actions
 
-This program detects shinies by listening for the shiny sound. You can configure what the program should do if it hears a shiny.
+There are two of these options - one for enroute, and one for the destination. Thus you can customize the behavior - such as ignoring shinies while enroute.
 
 **Shiny Detected Action:**
 - Ignore the shiny. Do not stop the program.
