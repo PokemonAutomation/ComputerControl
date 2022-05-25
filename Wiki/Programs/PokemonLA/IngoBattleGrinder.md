@@ -4,7 +4,7 @@
 
 Grind exp, Pokédex research tasks and Pokémon evolve requirements from Ingo's regular battles.
 
-This program will repeatedly attend Ingo's regular battles, send Pokémon to battle with specified move styles and switches.
+This program will repeatedly attend Ingo's regular battles, send Pokémon to battle with specified move styles and switches. The difference with Ingo Move Grinder is that it will be very inneficient at farming Pokédex research tasks BUT it will allow you to focus more on getting experience, money, evolving Pokémon, etc.
 
 This program works on game version 1.0 and later.
 

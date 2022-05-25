@@ -4,11 +4,11 @@
 
 Grind Pokédex research tasks from Ingo's regular battles.
 
-This program will repeatedly attend Ingo's regular battles, send Pokémon to battle with specified move styles.
+This program will repeatedly attend Ingo's regular battles, send Pokémon to battle with specified move styles. The difference with Ingo Battle Grinder is that it will be very inneficient at farming experience, evolving Pokémon, etc BUT it will focus only on grinding the Pokédex research tasks.
 
 This program works on game version 1.0 and later.
 
-<img src="images/IngoBattleGrinder-0.png">
+<img src="images/IngoMoveGrinder-0.png">
 
 
 ### Settings
@@ -27,8 +27,6 @@ This program works on game version 1.0 and later.
 5. The first Pokémon to be sent in battle need to be the first in your party.
 6. The fifth Pokémon need to be Arceus with judgement as its first move.
 7. The sixth Pokémon doesn't matter but you need to have six.
-
-<img src="images/IngoBattleGrinder-1.png">
 
 The program will repeatedly talk to Ingo. It will choose an battle opponent according to the option. You can specify what styles you want to use on each move.
 
