@@ -19,8 +19,12 @@ Before you begin, make sure you meet all of the following requirements:
 2. You have a working microcontroller setup[(2)](Beginner-Windows.md#1serial-connection) and you know how to run microcontroller programs. (See STEP 3)
 3. You have computer running 64-bit Windows.
       * As of this writing, no platforms other than 64-bit Windows are supported.
-4. ***Windows 11 has problems that are out of our control. Do not use Windows 11. Downgrade to Windows 10 if possible.***
-5. Your computer must be sufficiently powerful:
+4. ***Windows 11 has problems that are out of our control. Downgrade to Windows 10 if possible. If you cannot downgrade, follow the below steps!***
+   1. Download virtualcam tool for OBS https://obsproject.com/forum/resources/obs-virtualcam.949/
+   2. Point to your capture card in OBS so that your switch feed is visible in OBS. Then click tools (menu on the top left) -->  virtual cam and start the virtual cam
+   3. In your Computer Control program under the camera dropdown select OBS camera. Do not select the capture card directly (this is what is causing the issue)
+   4. Observe memory (RAM) usage in task manager - should be stable and below 300MB
+6. Your computer must be sufficiently powerful:
       - If you intend to control **1** Switch: A dual-core processor @ 3 GHz no older than 2015 should be sufficient.
       - If you intend to control **2** Switches: A quad-core processor @ 3 GHz no older than 2015 should be sufficient.
       - If you intend to control **4** Switches: 6-8 cores minimum.
