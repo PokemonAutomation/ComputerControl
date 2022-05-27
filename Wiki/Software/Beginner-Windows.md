@@ -24,7 +24,7 @@ Before you begin, make sure you meet all of the following requirements:
    2. Point to your capture card in OBS so that your switch feed is visible in OBS. Then click tools (menu on the top left) -->  virtual cam and start the virtual cam
    3. In your Computer Control program under the camera dropdown select OBS camera. Do not select the capture card directly (this is what is causing the issue)
    4. Observe memory (RAM) usage in task manager - should be stable and below 300MB
-6. Your computer must be sufficiently powerful:
+5. Your computer must be sufficiently powerful:
       - If you intend to control **1** Switch: A dual-core processor @ 3 GHz no older than 2015 should be sufficient.
       - If you intend to control **2** Switches: A quad-core processor @ 3 GHz no older than 2015 should be sufficient.
       - If you intend to control **4** Switches: 6-8 cores minimum.
