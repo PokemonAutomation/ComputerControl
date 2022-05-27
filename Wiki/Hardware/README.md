@@ -12,7 +12,11 @@ Before you begin, make sure you meet all of the following requirements:
 
 1. You have a working [microcontroller setup](https://github.com/PokemonAutomation/Microcontroller) and you know how to run microcontroller programs. **(DO NOT SKIP the Microcontroller tutorial. It provides the necessary background to run Computer-Control.)**
 2. You have computer running 64-bit Windows. As of this writing, no platforms other than 64-bit Windows are supported.
-3. ***Windows 11 has problems that are out of our control. Do not use Windows 11. Downgrade to Windows 10 if possible.***
+3. ***Windows 11 has problems that are out of our control. Downgrade to Windows 10 if possible. If you cannot downgrade, follow the below steps!***
+   1. Download virtualcam tool for OBS https://obsproject.com/forum/resources/obs-virtualcam.949/
+   2. Point to your capture card in OBS so that your switch feed is visible in OBS. Then click tools (menu on the top left) -->  virtual cam and start the virtual cam
+   3. In your Computer Control program under the camera dropdown select OBS camera. Do not select the capture card directly (this is what is causing the issue)
+   4. Observe memory (RAM) usage in task manager - should be stable and below 300MB
 4. You have a regular Switch (not a Switch Lite) if you want to use programs requiring video feedback.
 5. Be willing to spend an additional $20 - $50 USD for the new hardware.
 
