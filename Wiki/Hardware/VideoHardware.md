@@ -5,7 +5,7 @@ The video capture hardware is separate from the device controller emulation. The
 **Required Hardware:**
 
 1. A video capture card. (**Choose one based on your needs**) 
-   1. Capture Card w/o TV output (Budget buy) ([example](https://www.amazon.com/dp/B08YXJ9HSK))
+   1. Capture Card w/o TV output (Budget buy) ([example](https://www.amazon.com/dp/B097R3PB36))
    > The cheapest ones can be less than $10. However, they have no TV output, are limited to USB 2.0 bandwidth, and may have video quality issues.
    2. Loop-Out Card (Good middle ground, but expensive) 
    > if you want a tolerable video quality you'll want one that uses USB 3.0.
