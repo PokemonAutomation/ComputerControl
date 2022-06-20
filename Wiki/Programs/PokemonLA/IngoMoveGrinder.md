@@ -9,7 +9,7 @@
 
 Grind Pokédex research tasks from Ingo's regular battles.
 
-This program will repeatedly attend Ingo's regular battles, send Pokémon to battle with specified move styles. The difference with Ingo Battle Grinder is that it will be very inneficient at farming experience, evolving Pokémon, etc BUT it will focus only on grinding the Pokédex research tasks.
+This program will repeatedly attend Ingo's regular battles, send Pokémon to battle with specified move styles. The difference with Ingo Battle Grinder is that it will be very inefficient at farming experience, evolving Pokémon, etc BUT it will focus only on grinding the Pokédex research tasks.
 
 This program works on game version 1.0 and later.
 
