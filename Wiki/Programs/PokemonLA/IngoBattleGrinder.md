@@ -1,5 +1,10 @@
 # Ingo Battle Grinder
 
+
+**Related Programs:**
+- [Ingo Battle Grinder](IngoBattleGrinder.md) (this program)
+- [Ingo Move Grinder](IngoMoveGrinder.md)
+- 
 ## Program Description
 
 Grind exp, Pokédex research tasks and Pokémon evolve requirements from Ingo's regular battles.
