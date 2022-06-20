@@ -1,5 +1,10 @@
 # Ingo Move Grinder
 
+**Related Programs:**
+- [Ingo Battle Grinder](IngoBattleGrinder.md)
+- [Ingo Move Grinder](IngoMoveGrinder.md) (this program)
+
+
 ## Program Description
 
 Grind Pokédex research tasks from Ingo's regular battles.
