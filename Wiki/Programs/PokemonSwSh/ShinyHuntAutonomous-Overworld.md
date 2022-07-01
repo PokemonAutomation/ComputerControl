@@ -40,7 +40,7 @@ This program will randomly seek out and encounter overworld Pokémon until it fi
    * You must be zoomed out to maximize the view. (Needed for accurate trajectory calculation)
    * You are not on your bike. (Needed for correct trajectory movement)
 2. Save.
-3. Return to overworld (not inside the menu).
+3. Close the menu (if not already closed).
 4. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Default Program Settings
