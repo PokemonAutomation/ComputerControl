@@ -62,7 +62,7 @@ Here is an example of a lead Pokémon that is properly setup to guarantee a OHKO
 1. Stand in front of the Regigigas den.
 2. The `REVERSAL_PP` parameter must be set to no more than the amount of PP of your second move.
 3. Save. 
-4. You must be in the overworld. (not inside the menu)
+4. Close the menu (if not already closed).
 5. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Default Program Settings
