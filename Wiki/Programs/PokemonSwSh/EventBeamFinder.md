@@ -31,7 +31,7 @@ Drop wishing pieces between two dens until you find an event den.
 3. Get on your bike.
 4. Enter the menu and place the cursor over the Town Map.
 5. Exit the menu with "B"
-6. Confirm you are in the overworld (not in the menu).
+6. Close the menu (if not already closed).
 7. Check that there is nothing in front of you that can be interacted with.
 8. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
