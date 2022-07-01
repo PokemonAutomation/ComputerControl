@@ -33,7 +33,7 @@ Unlike the Shiny Hunt (Unattended) programs, the Autonomous programs require *no
 
 1. Stand in front of a berry tree.
 2. Save.
-3. Return to overworld (not inside the menu).
+3. Close the menu (if not already closed).
 4. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Default Program Settings

@@ -51,7 +51,7 @@ This program will automatically hunt for a shiny Regi golem and automatically st
 1. Check there are no lights activated.
 2. Stand in front of the statue.
 3. Save.
-4. Return to overworld (not inside the menu).
+4. Close the menu (if not already closed).
 5. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
    > **If hunting for Regieleki or Regidrago, you must be locked into your choice.**

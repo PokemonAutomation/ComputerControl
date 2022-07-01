@@ -30,7 +30,7 @@ A smart version of [Beam Reset](BeamReset.md) that automatically stops on a purp
    > If there are, it may detect the background beam instead
 3. The weather is not snow or snowstorm. Intensive weather can interfere with the detection.
 4. Save in the position listed in #1
-5. Return to the overworld
+5. Close the menu (if not already closed).
 6. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
    > When the program finds a purple beam, it will make a lot of noise to get your attention.
