@@ -42,7 +42,7 @@ This program will automatically hunt for a shiny Regina trade and stop on a shin
 3. Close the menu by pressing "B".
 4. Save by pressing "R".
    > This ensures your cursor stays over the "Pokédex" button.
-5. Return to overworld (not inside the menu).
+5. Close the menu (if not already closed).
 6. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Default Program Settings
