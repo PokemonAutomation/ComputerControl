@@ -104,7 +104,13 @@ Change the shiny detected action to the "Destination Shiny Action". Use this whe
 Change the shiny detected action to the "Enroute Shiny Action". Use this if you want to transition back to enroute.
 
 
+### Reset Method
 
+This option allows you to select how the program should reset once it reaches the flag.
+
+Options:
+- Soft Reset. (Safer option)
+- Go back to village. (Faster option)
 
 ### Enroute/Destination Shiny Action
 

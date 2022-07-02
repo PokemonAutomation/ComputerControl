@@ -105,6 +105,13 @@ There are two shiny detected actions, "enroute" and "destination".
 
 Thus you can configure the program to ignore enroute shinies.
 
+### Reset Method
+
+This option allows you to select how the program should reset once it reaches the flag.
+
+Options:
+- Soft Reset. (Safer option)
+- Go back to village. (Faster option)
 
 ### Enroute/Destination Shiny Action
 
