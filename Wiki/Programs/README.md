@@ -152,10 +152,6 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 ||
 | **Glitches (v1.1.2):** |
 | [Activate Menu Glitch (1.1.2)](PokemonBDSP/ActivateMenuGlitch-Poketch.md) | Video | Yes | Yes |
-||
-| **Glitches (v1.1.1):** |
-| [Clone Items (Box Copy Method)](PokemonBDSP/CloneItemsBoxCopy.md)         | Video | Yes | Yes |
-| [Clone Items (Menu Overlap Method)](PokemonBDSP/CloneItemsMenuOverlap.md) | Video | Yes | Yes |
 
 
 ## Pokémon Legends Arceus
