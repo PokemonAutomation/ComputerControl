@@ -15,7 +15,8 @@ This programs scroll through your Pokédex to check how many tasks you did. It t
 ### Instructions
 
 1. Have registered every Pokémon in the pokedex (242 entries)
-2. Open the Pokédex and look at the first entry (Rowlet)
+2. Make sure you at least started all the "investigated (...)" quests or the output will be shifted and unusable in the spreadsheet
+3. Open the Pokédex and look at the first entry (Rowlet)
 
 ## Credits
 
