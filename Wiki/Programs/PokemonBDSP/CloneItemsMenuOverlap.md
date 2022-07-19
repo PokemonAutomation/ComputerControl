@@ -1,5 +1,7 @@
 # Clone Items (Menu Overlap Method)
 
+***This program has been removed as of v0.16.***
+
 ***This glitch only works on v1.1.1 and earlier. It has been patched out in v1.1.2.***
 
 See: [Version Preservation](VersionPreservation.md)
