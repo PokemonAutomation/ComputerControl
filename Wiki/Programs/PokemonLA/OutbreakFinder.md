@@ -6,7 +6,9 @@ Find an outbreak for specific Pokémon.
 
 This program repeatedly refresh maps to search for desired Massive Outbreak (MO) or Massive Massive Outbreak (MMO) Pokémon.
 
-It can also search for MMO Pokémon with star symbols which are gauranteed to have a second wave.
+It can also search for MMO Pokémon with star symbols which are guaranteed to have a second wave.
+
+Note: MMO related functionalities are only present in upcoming Program v0.16.
 
 <img src="images/OutbreakFinder-0.jpg">
 
