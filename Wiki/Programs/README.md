@@ -13,6 +13,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 - [Nintendo Switch](#nintendo-switch)
 - [Pokémon Sword/Shield](#pokémon-swordshield)
 - [Pokémon Brilliant Diamond/Shining Pearl](#pokémon-brilliant-diamondshining-pearl)
+- [Pokémon Legends Arceus](#pokémon-legends-arceus)
 
 ## Nintendo Switch
 
