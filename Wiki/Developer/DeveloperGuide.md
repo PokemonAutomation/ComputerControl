@@ -49,7 +49,7 @@ When reading info on the screen, you can use `extract_box_reference(screen, box)
 
 - Test the program. Try first debugging on a few Pokémon in the same box, then expand tests for more than one box.
 
-- Congratulations! You now have a Home box sorter program.
+- Congratulations! You now have a working Home box sorter program!
 
 Bonus task:
 - Read more info from the summary screen so that you can sort genders and forms too. You can use the color of the gender label to detect genders. See [**PokémonLA_SkipToFullMoon**](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonLA/Programs/General/PokemonLA_SkipToFullMoon.cpp) for how to read colors. 
