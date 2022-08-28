@@ -22,6 +22,8 @@
 		- Don't use goto.
 		- Always use {} for if, for and while statements.
 
+If you are not familiar with several items in the requirement list, you can still develop programs, as long as you can learn them if needed. There are many online resources that help you learn C++.
+
 ## Step-By-Step Guide to Build a Home Box Sorter Program
 
 - Build the source code of computer controlled programs https://github.com/PokemonAutomation/Arduino-Source/tree/main/SerialPrograms. If successful, you can run the built program **SerialPrograms** to do automation.
