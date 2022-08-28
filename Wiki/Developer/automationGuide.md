@@ -1,6 +1,9 @@
 # Beginner Guide for Contributing to Pokémon Automation
 
 ## Requirement of development knowledge
+
+If you are not familiar with several items in the requirement list, you can still develop programs, as long as you can learn them if needed. There are many online resources that help you learn C++.
+
 - Know how to use a build tool (e.g. CMake, Visual Studio, VS Code, Qt Creator) to build and run a C++ program.
 - Know basic usage of source control tool git.
 - Know basic computer science concepts:
@@ -22,9 +25,9 @@
 		- Don't use goto.
 		- Always use {} for if, for and while statements.
 
-If you are not familiar with several items in the requirement list, you can still develop programs, as long as you can learn them if needed. There are many online resources that help you learn C++.
-
 ## Step-By-Step Guide to Build a Home Box Sorter Program
+
+If you have any questions following the guide, feel free to ask us in the Discord server.
 
 - Build the source code of computer controlled programs https://github.com/PokemonAutomation/Arduino-Source/tree/main/SerialPrograms. If successful, you can run the built program **SerialPrograms** to do automation.
 
