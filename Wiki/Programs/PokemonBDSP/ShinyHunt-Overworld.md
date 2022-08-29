@@ -50,6 +50,11 @@ If you are playing in an Asian language (Japanese, Korean, Chinese), set your vi
 
 ### Trigger Method:
 
+Set how to trigger a wild Pokémon encounter.
+
+#### Maneuver:
+
+How to move around overworld to trigger an encounter.
 Pick the one that's most appropriate for your location:
 
 - Move left/right. (no bias)
@@ -58,11 +63,11 @@ Pick the one that's most appropriate for your location:
 - Move up/down. (no bias)
 - Move up/down. (bias up)
 - Move up/down. (bias down)
-- Sweet Scent.
+- Use Sweet Scent.
 
 The "bias" will make it travel in that direction a little bit more. So if you're standing against a wall that's unbounded on the other side, you'll want to bias in the direction of the wall to avoid drifting away from it. Lead your party with a Pokémon of the ability like Illuminate to increase the encounter rate.
 
-Sweet Scent method will select one of your Pokémon in the party and use Sweet Scent to start the encounter. Sweet Scent method has the benefit of adding no friendship to your party, while the other trigger methods increase friendship to your party because of constant walking. It can also be used in the Great Marsh without the limitation on the number of steps. The encounter rate of Sweet Scent is slightly below or if not about the same as the best encounter rate achieved by the other walking methods.
+Sweet Scent method does not move the player character. It will select one of your Pokémon in the party and use Sweet Scent to start the encounter. Sweet Scent method has the benefit of adding no friendship to your party, while the other trigger methods increase friendship to your party because of constant walking. It can also be used in the Great Marsh without the limitation on the number of steps. The encounter rate of Sweet Scent is slightly below or if not about the same as the best encounter rate achieved by the other walking methods.
 
 To use Sweet Scent:
 
@@ -72,13 +77,39 @@ To use Sweet Scent:
 4. The Sweet Scent Pokémon can be put in any location of the party. But for best performance place it as the party lead.
 
 
-### Move Duration:
+#### Move Duration:
 
-Travel for this long before changing directions.
+Travel for this long before changing directions. This option is ignored if **Maneuver** is set as Sweet Scent.
 
-### Sweet Scent Pokémon Location:
+#### Sweet Scent Pokémon Location:
 
-In case Sweet Scent is selected as the trigger method, the location of the Pokémon in the party to use Sweet Scent.
+When Sweet Scent is selected in **Maneuver**, the location of the Pokémon in the party to use Sweet Scent.
+
+
+### Use Sound Detection:
+
+Whether to use sound detection to improve shiny detection robustness. Make sure you have proper audio input set.
+
+
+### Stop On:
+
+Choose when to stop the program. You can set Shiny, NonShiny, Anything or Nothing.
+
+
+### Overrides:
+
+Set more complex program action that overrides the default behavior.
+
+
+### Video Capture:
+
+Whether to take a video of the encounter if it is a shiny.
+
+
+### Reset Game in Case of Error:
+
+When the program encounters an error, whether to reset the game to fix it.
+
 
 
 ## Advanced Settings:

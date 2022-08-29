@@ -70,6 +70,11 @@ If you are playing in an Asian language (Japanese, Korean, Chinese), set your vi
 Walk up while mashing A to trigger the encounter.
 
 
+### Use Sound Detection:
+
+Whether to use sound detection to improve shiny detection robustness. Make sure you have proper audio input set.
+
+
 ## Credits
 
 - **Author:** Kuroneko/Mysticial
