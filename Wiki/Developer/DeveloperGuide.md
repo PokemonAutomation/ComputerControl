@@ -13,8 +13,9 @@ If you are not familiar with several items in the requirement list, you can stil
 	- Variables, functions, pointers, if-statement, for-loop, while-loop.
 	- Variable reference, function pass-by-value vs. pass-by-reference.
 	- Source files, header files, namespaces.
-	- Basic knowledge of templates.
 	- Basic C++ STL classes like std::string, std::vector, std::map.
+	- Classes, objects, inheritance, abstract classes.
+	- Basic knowledge of templates.
 	- Exception handling.
 	- Lambda functions.
 - Know basic programming practices:
