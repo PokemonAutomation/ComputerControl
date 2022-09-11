@@ -1,6 +1,6 @@
 # Beginner Guide for Using Github to Contribute
 
-We use Github to host our codebase and allow open-source development.
+We use Github to host our codebase and allow open-source development. This guide is for developers that know a little bit of Git but don't know how to use it and Github to contribute to an opensource Github project.
 
 To complete a feature, we use the standard Github development cycle:
 - Fork the [Arduino-Source](https://github.com/PokemonAutomation/Arduino-Source/tree/main/SerialPrograms/Source) repository (repo for short) so that you have a complete copy of the codebase repo under your own Github account.

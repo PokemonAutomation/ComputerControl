@@ -5,7 +5,7 @@
 If you are not familiar with several items in the requirement list, you can still develop programs, as long as you can learn them if needed. There are many online resources that help you learn C++.
 
 - Know how to use a build tool (e.g. CMake, Visual Studio, VS Code, Qt Creator) to build and run a C++ program.
-- Know basic usage of source control tool git.
+- Know basic usage of source control tool git and Github.
 - Know basic computer science concepts:
 	- Programming concepts like compiling, linking and libraries.
 	- Algorithm concepts like sorting, recursion, time complexity and parallelism.
@@ -25,6 +25,8 @@ If you are not familiar with several items in the requirement list, you can stil
 	- Other basic coding styles and guildlines like:
 		- Don't use goto.
 		- Always use {} for if, for and while statements.
+
+If you are not familiar with contributing opensource code on Github, we have a brief [guide](Git.md).
 
 ## Step-By-Step Guide to Build a Home Box Sorter Program
 
