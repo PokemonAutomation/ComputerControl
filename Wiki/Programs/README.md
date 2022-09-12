@@ -104,6 +104,9 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [God Egg Item Duplication](PokemonSwSh/GodEggItemDuplication.md)         || Yes |     |
 | [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md) || Yes |     |
 ||
+| **RNG:** |
+| [Cram-o-matic RNG](PokemonSwSh/CramomaticRNG.md)                         | Video | Yes | Yes |
+||
 | **Multi-Switch Programs:** |
 | Synchronized Spinning                                                    || Yes | Yes |
 | [Raid Item Farmer (OHKO)](PokemonSwSh/RaidItemFarmerOHKO.md)             || Yes | Yes |
