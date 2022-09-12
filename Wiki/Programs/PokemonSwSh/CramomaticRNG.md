@@ -1,5 +1,7 @@
 # Cram-o-matic RNG
 
+*This program is currently in development and is not yet available.*
+
 ## Program Description
 
 This program will perform RNG manipulation to get rare balls from the Cram-o-matic.
