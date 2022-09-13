@@ -13,6 +13,7 @@ If you are not familiar with several items in the requirement list, you can stil
 	- Variables, functions, pointers, if-statement, for-loop, while-loop.
 	- Variable reference, function pass-by-value vs. pass-by-reference.
 	- Source files, header files, namespaces.
+	- Structs, enums, enum classes.
 	- Basic C++ STL classes like std::string, std::vector, std::map.
 	- Classes, objects, inheritance, abstract classes.
 	- Basic knowledge of templates.
@@ -25,6 +26,7 @@ If you are not familiar with several items in the requirement list, you can stil
 	- Other basic coding styles and guildlines like:
 		- Don't use goto.
 		- Always use {} for if, for and while statements.
+- Know JSON format.
 
 If you are not familiar with contributing opensource code on Github, we have a brief [guide](Git.md).
 
@@ -60,13 +62,13 @@ Bonus task:
 - Read more info from the summary screen so that you can sort genders and forms too. You can use the color of the gender label to detect genders. See [**PokémonLA_SkipToFullMoon**](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonLA/Programs/General/PokemonLA_SkipToFullMoon.cpp) for how to read colors. 
 
 
-## Introduction to Program Components
+# Introduction to Program Components
 
 **Writing of this chapter is work in progress.**
 
 Intoducing various components like color detection, image matching, sound detection and parallel execution to help you develop an advanced automation program!
 
-### Access Regions of Interest on Images
+## Access Regions of Interest on Images
 
 To detect sth. from the video stream, we first need to know where it will appear on the screen. We usually first use `extract_box_reference()` to extract a sub-image as the region of interest from the Switch console video stream. An example is in the program
 [**PokemonSwSh_BoxReorderNationalDex**](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonSwSh/Programs/General/PokemonSwSh_BoxReorderNationalDex.cpp).
@@ -75,7 +77,7 @@ The function name has `reference` because it actually returns a view based on th
 
 If necessary, see Section **Wait for Some Time** to wait for the video stream to be ready for detection first.
 
-#### Design Box Crops
+### Design Box Crops
 
 To specify the location of the sub-image, we use [`ImageFloatBox`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/ImageTools/ImageBoxes.h). If you know a bit about Python, we have Python helper scripts for you to generate those boxes. Use [image_viewer.py](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Scripts/image_viewer.py) to draw initial locations of boxes:
 ```
@@ -89,7 +91,7 @@ python3 Arduino-Source/SerialPrograms/Scripts/check_detector_regions.py <path_to
 ```
 by hardcoding the box values in this script and let it render those boxes for you to inspect.
 
-#### Render Boxes as Overlays
+### Render Boxes as Overlays
 
 When automation programs are running, sometimes you can see boxes of various colors rendered on top of the video stream. Those boxes are the inference boxes used by the program to get sub-image views for visual detection. They are rendered as video overlay for developers to debug and for users to have a sense of what the program is trying to detect at the time.
 
@@ -105,7 +107,7 @@ When you call `VideoOverlaySet::add()` to add a box to it, it will automatically
 In order to have enough time to see the boxes rendered on the overlay, make sure this `VideoOverlaySet` object gets enough life time during program execution. You don't want this box to appear for only one frame on the overlay UI.
 
 
-### Wait for Some Time
+## Wait Some Time
 
 Before issuing a next button command, or doing any visual or audio detection you would want to make sure the game is advanced to the desired stage. For example, you don't want to start reading Pokémon information before the game opens the Pokémon summary screen.
 
@@ -116,7 +118,7 @@ There is also a function in the `pbf` button command family, `pbf_wait()`, that 
 But remember to call `context.wait_for_all_requests()` after that to make sure the computer program also waits for the `pbf_wait()` command to finish.
 
 
-#### Design wait time
+### Design wait time
 
 For example, you need to design a sequence of button commands to talk to an NPC and select an item from the dialogue menu. Starting the program in front of the NPC, you need to press A, then wait several ticks for the dialogue box to appear, and press D-pad down to move the cursor to the desired item in the menu. How many waiting ticks is enough to connect the two button presses? You can test different ticks until the automation program runs stably on your Switch. To make sure that other users who have a slower Switch than you can also run the program, it would be better to relax the wait time by a few more ticks.
 
@@ -129,3 +131,27 @@ But a longer wait time may make the program slower. And you don't know if the wa
 - Send the button press first without visual feedback, but also monitor the video stream and detect if there is deviation (overshoot or undershoot) of the menu cursor from what the program expects it to be based on the button presses. If a deviation is found, using a correction procedure to fix it. This is the most complicated to implement among all the approaches, but it is robust to different Switch speed and generally fast to run.
 
 You can mix and match all the approaches. Use the approach that is suitable for the task. For simple and short automation tasks like mass releasing Pokémon in the storage, you can hardcode the wait times between button presses. For performance sensitive tasks like selecting Pokéballs in Dynamax Adventure, to pursue best shiny hunting performance, use the overshoot-correction mechanism.
+
+## Use JSON
+
+Hardcoding all Pokémon names in a C++ source file is not fun. A better software development practice is to store those lengthy data as external files. At runtime, the executable loads the file to use the data.
+We use [JSON](https://en.wikipedia.org/wiki/JSON) as the file format to store our text-based data like Pokémon lists and Pokédex contents.
+An example is [Pokedex-National.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/Pokemon/Pokedex/Pokedex-National.json), in our `Resources` folder. As the name says, the folder stores all those external data that the program may need to load.
+
+### Slugs
+
+A slug is defined as a unique name in a computer program to give to a particular object. Think of a Pokémon slug as a nickname we give to this type of Pokémon to be used in the code.
+Why not use the Pokémon's real name? Because it is a good software development practice to separate what is shown on the UI and what is used in the code.
+For example, a displayed name may need to have several versions according to the language setting (Japanese, English and so on), but in the code when sorting those Pokémon, we want a consistent name to refer to them.
+
+We follow the style of using lowercase letters and "-" to form Pokémon name slugs. For example, The slug of Mime Jr. is "mime-jr". Most of the Pokémon JSON files use slugs. For example, [Pokedex-National.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/Pokemon/Pokedex/Pokedex-National.json).
+
+Note as Game Freak and The Pokémon Company recycle more and more Pokémon designs by creating different forms (e.g. regional forms) of the same Pokémon species, each form can have its own unique slug. The slugs in [Pokedex-National.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/Pokemon/Pokedex/Pokedex-National.json) are all form-less slugs, while those in [MMOFirstWaveSpriteList](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOFirstWaveSpriteList.json) are form-aware slugs.
+We follow the style of the first form slug of a Pokémon is just the slug of the Pokémon species name, while the second form is the slug of the Pokémon species name plus "-" and some description of the form. For example, in [MMOFirstWaveSpriteList](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOFirstWaveSpriteList.json) we have a slug "shellos" for [Shellos West Sea](https://www.serebii.net/swordshield/pokemon/422.png) form and "shellos-east-sea" for [Shellos East Sea](https://www.serebii.net/swordshield/pokemon/422-e.png) form.
+
+
+### JSON for Sprites
+
+For better user experience we also have Pokémon sprite images in `Resources` folder. Those sprites are used as part of Pokémon selection UI in for example [**Outbreak Finder**](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonLA/OutbreakFinder.md).
+To save file transfer and loading time, we usually put all sprites of the entire Pokédex into a single image, like [MMOSprites.png](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOSprites.png).
+To know which part of the image belongs to which slug, we need to have an accompanied JSON file to specify this, like what's in [MMOSprites.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOSprites.json).
