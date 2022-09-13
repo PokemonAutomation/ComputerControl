@@ -138,20 +138,25 @@ Hardcoding all Pokémon names in a C++ source file is not fun. A better software
 We use [JSON](https://en.wikipedia.org/wiki/JSON) as the file format to store our text-based data like Pokémon lists and Pokédex contents.
 An example is [Pokedex-National.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/Pokemon/Pokedex/Pokedex-National.json), in our `Resources` folder. As the name says, the folder stores all those external data that the program may need to load.
 
-### Slugs
-
-A slug is defined as a unique name in a computer program to give to a particular object. Think of a Pokémon slug as a nickname we give to this type of Pokémon to be used in the code.
-Why not use the Pokémon's real name? Because it is a good software development practice to separate what is shown on the UI and what is used in the code.
-For example, a displayed name may need to have several versions according to the language setting (Japanese, English and so on), but in the code when sorting those Pokémon, we want a consistent name to refer to them.
-
-We follow the style of using lowercase letters and "-" to form Pokémon name slugs. For example, The slug of Mime Jr. is "mime-jr". Most of the Pokémon JSON files use slugs. For example, [Pokedex-National.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/Pokemon/Pokedex/Pokedex-National.json).
-
-Note as Game Freak and The Pokémon Company recycle more and more Pokémon designs by creating different forms (e.g. regional forms) of the same Pokémon species, each form can have its own unique slug. The slugs in [Pokedex-National.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/Pokemon/Pokedex/Pokedex-National.json) are all form-less slugs, while those in [MMOFirstWaveSpriteList](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOFirstWaveSpriteList.json) are form-aware slugs.
-We follow the style of the first form slug of a Pokémon is just the slug of the Pokémon species name, while the second form is the slug of the Pokémon species name plus "-" and some description of the form. For example, in [MMOFirstWaveSpriteList](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOFirstWaveSpriteList.json) we have a slug "shellos" for [Shellos West Sea](https://www.serebii.net/swordshield/pokemon/422.png) form and "shellos-east-sea" for [Shellos East Sea](https://www.serebii.net/swordshield/pokemon/422-e.png) form.
-
+See code in [Pokemon_PokemonSlugs](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/Pokemon/Resources/Pokemon_PokemonSlugs.cpp) on how to load JSON to get the national Pokédex. 
 
 ### JSON for Sprites
 
 For better user experience we also have Pokémon sprite images in `Resources` folder. Those sprites are used as part of Pokémon selection UI in for example [**Outbreak Finder**](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonLA/OutbreakFinder.md).
 To save file transfer and loading time, we usually put all sprites of the entire Pokédex into a single image, like [MMOSprites.png](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOSprites.png).
-To know which part of the image belongs to which slug, we need to have an accompanied JSON file to specify this, like what's in [MMOSprites.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOSprites.json).
+To know which part of the image belongs to which slug (see **Pokémon Slugs** for what a slug is), we need to have an accompanied JSON file to specify this, like what's in [MMOSprites.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOSprites.json).
+
+
+## Pokémon Slugs
+
+A slug is defined as a unique name in a computer program to give to a particular object. Think of a Pokémon slug as a nickname we give to this type of Pokémon to be used in the code.
+Why not use the Pokémon's real name? Because it is a good software development practice to separate what is shown on the UI and what is used in the code.
+For example, a displayed name may need to have several versions according to the language setting (Japanese, English and so on), but in the code when sorting those Pokémon, we want a consistent name to refer to them.
+
+We follow the style of using lowercase letters and "-" to form Pokémon name slugs. For example, The slug of Mime Jr. is "mime-jr". Most of the Pokémon JSON files use slugs. For example, [Pokedex-National.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/Pokemon/Pokedex/Pokedex-National.json). We also have a JSON for listing Pokémon's names under all languages [PokemonNameDisplay](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/Pokemon/PokemonNameDisplay.json).
+
+Note as Game Freak and The Pokémon Company recycle more and more Pokémon designs by creating different forms (e.g. regional forms) of the same Pokémon species, each form can have its own unique slug. The slugs in [Pokedex-National.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/Pokemon/Pokedex/Pokedex-National.json) are all form-less slugs, while those in [MMOFirstWaveSpriteList](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOFirstWaveSpriteList.json) are form-aware slugs.
+We follow the style of the first form slug of a Pokémon is just the slug of the Pokémon species name, while the second form is the slug of the Pokémon species name plus "-" and some description of the form. For example, in [MMOFirstWaveSpriteList](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOFirstWaveSpriteList.json) we have a slug "shellos" for [Shellos West Sea](https://www.serebii.net/swordshield/pokemon/422.png) form and "shellos-east-sea" for [Shellos East Sea](https://www.serebii.net/swordshield/pokemon/422-e.png) form.
+
+To load the national Pokédex, use [`NATIONAL_DEX_SLUGS()`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/Pokemon/Resources/Pokemon_PokemonSlugs.h).
+To access Pokémon name for any language from a slug, use [`get_pokemon_name()`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/Pokemon/Resources/Pokemon_PokemonNames.h).
