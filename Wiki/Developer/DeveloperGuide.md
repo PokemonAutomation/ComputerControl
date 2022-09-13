@@ -146,6 +146,8 @@ For better user experience we also have Pokémon sprite images in `Resources` fo
 To save file transfer and loading time, we usually put all sprites of the entire Pokédex into a single image, like [MMOSprites.png](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOSprites.png).
 To know which part of the image belongs to which slug (see Section **Pokémon Slugs** for what a slug is), we need to have an accompanied JSON file to specify this, like what's in [MMOSprites.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOSprites.json).
 
+Since this kind of JSON files is more complex than a JSON for a simple list of Pokémon slugs, you can learn how to use our JSON loading and parsing functions by studying the code that loads image sprites in [SpriteDatabase](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/Resources/SpriteDatabase.cpp) class.
+
 
 ## Pokémon Slugs
 
