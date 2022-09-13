@@ -1,5 +1,7 @@
 # Pokémon Home - National Dex Sorter
 
+<img src="images/NationalDexSorter-2.png">
+
 ## Program Description
 
 Find and store Pokémon in you Pokémon Home according to their Pokédex number.
@@ -13,7 +15,10 @@ This only works with languages that have the same Pokémon names as the English 
 ## Instructions
 
 1. Open Pokémon Home and reach the select game tab.
-2. Select the Pokémon Home icon and enter a random box.
+2. Select the Pokémon Home icon.
+
+<img src="images/NationalDexSorter-2.png">
+
 3. Run the program
 
 ## Options
