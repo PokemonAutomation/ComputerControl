@@ -32,7 +32,7 @@ If you are not familiar with contributing opensource code on Github, we have a b
 
 If you have any questions following the guide, feel free to ask us in the Discord server.
 
-- Build the source code of computer controlled programs https://github.com/PokemonAutomation/Arduino-Source/tree/main/SerialPrograms. If successful, you can run the built program **SerialPrograms** to do automation.
+- Build the source code of computer controlled programs https://github.com/PokemonAutomation/Arduino-Source/tree/main/SerialPrograms. See the [Git guide](Git.md) for how to download and prepare for source code version control. If successful, you can run the built program **SerialPrograms** to do automation. 
 
 - To write a Home box sorter program, the easiest way is to study the existing SwSh box sorter program
 [**PokemonSwSh_BoxReorderNationalDex**](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonSwSh/Programs/General/PokemonSwSh_BoxReorderNationalDex.cpp).
@@ -53,6 +53,8 @@ When reading info on the screen, you can use `extract_box_reference(screen, box)
 - Test the program. Try first debugging on a few Pokémon in the same box, then expand tests for more than one box.
 
 - Congratulations! You now have a working Home box sorter program!
+
+- If you would like to publish the program to our users, there is also a need to write a wiki for the program so that users know how to use it! Our program wiki is actually a Github repo [**ComputerControl**](https://github.com/PokemonAutomation/ComputerControl). Each wiki page is written as a .md file in the repo. It should be fairly easy to learn the .md writing format. You can use the similiar [Github development cycle](Git.md) to submit your new wiki page.
 
 Bonus task:
 - Read more info from the summary screen so that you can sort genders and forms too. You can use the color of the gender label to detect genders. See [**PokémonLA_SkipToFullMoon**](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonLA/Programs/General/PokemonLA_SkipToFullMoon.cpp) for how to read colors. 
