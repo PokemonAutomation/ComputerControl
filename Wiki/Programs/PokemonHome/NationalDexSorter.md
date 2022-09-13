@@ -16,8 +16,6 @@ This only works with languages that have the same Pokémon names as the English 
 2. Select the Pokémon Home icon and enter a random box.
 3. Run the program
 
-If the catch rate is low, you may need to follow the setup described in [Ball Thrower](BallThrower.md).
-
 ## Options
 
 ### Pokédex # of first Pokémon to sort:
