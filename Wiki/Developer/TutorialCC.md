@@ -6,10 +6,10 @@ If you have any questions following the tutorial, feel free to ask us in [our Di
 
 **Tutorial to Build a Home Box Sorter Program:**
 
-- Build the source code of computer controlled programs https://github.com/PokemonAutomation/Arduino-Source/tree/main/SerialPrograms. See the [Git guide](Git.md) for how to download and prepare for source code version control. If successful, you can run the built program **SerialPrograms** to do automation. 
+- Build the source code of our [codebase](https://github.com/PokemonAutomation/Arduino-Source/tree/main/SerialPrograms). See the [Git guide](Git.md) for how to download and prepare for source code version control. If successful, you can run the built program **SerialPrograms(.exe)** to run existing automation programs.
 
 - To write a Home box sorter program, the easiest way is to study the existing SwSh box sorter program
-[**PokemonSwSh_BoxReorderNationalDex**](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonSwSh/Programs/General/PokemonSwSh_BoxReorderNationalDex.cpp).
+[**PokemonSwSh_BoxReorderNationalDex**](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonSwSh/Programs/General/PokemonSwSh_BoxReorderNationalDex.h).
 The program first goes through each Pokémon in the boxes to read their names, then uses the loaded national dex order to sort the read Pokémon. Finally it swaps Pokémon locations in a loop until the box order matches the dex order.
 
 - Copy the code in **PokemonSwSh_BoxReorderNationalDex** to create a new program listed in SerialPrograms/Source/PokemonHome/Programs/ and compile it. If successful, you can run **SerialPrograms** and notice a new program appears under the *Home* panel.
@@ -28,9 +28,9 @@ When reading info on the screen, you can use `extract_box_reference(screen, box)
 
 - Congratulations! You now have a working Home box sorter program!
 
-- If you would like to publish the program to our users, there is also a need to write a wiki for the program so that users know how to use it! Our program wiki is actually a Github repo [**ComputerControl**](https://github.com/PokemonAutomation/ComputerControl). Each wiki page is written as a .md file in the repo. It should be fairly easy to learn the .md writing format. You can use the similiar [Github development cycle](Git.md) to submit your new wiki page.
+- If you would like to publish the program to our users, there is also a need to write a wiki for the program so that users know how to use it! Our program wiki is actually a Github repo [**ComputerControl**](https://github.com/PokemonAutomation/ComputerControl). Each wiki page is written as a .md file in the repo. It should be fairly easy to learn the .md writing format. You can use the same Github development cycle in the [Git guide](Git.md) to submit your new wiki page.
 
-- This is probably not needed by a Home box sorter program, but if you want to add a new resource file (like a JSON file or an image file) to the project, you also need to upload the resource file to our [Resources Github repo](https://github.com/PokemonAutomation/Packages/tree/master/SerialPrograms/Resources). You can use the similiar [Github development cycle](Git.md) to submit your new wiki page.
+- This is probably not needed by a Home box sorter program, but if you want to add a new resource file (like a JSON file or an image file) to the project, you also need to upload the resource file to our [Resources Github repo](https://github.com/PokemonAutomation/Packages/tree/master/SerialPrograms/Resources). You can use the same Github development cycle in the [Git guide](Git.md) to submit your new wiki page.
 
 Bonus task:
 - Read more info from the summary screen so that you can sort genders and forms too. You can use the color of the gender label to detect genders. See [**PokémonLA_SkipToFullMoon**](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonLA/Programs/General/PokemonLA_SkipToFullMoon.cpp) for how to read colors. 

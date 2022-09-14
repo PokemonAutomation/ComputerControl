@@ -10,8 +10,8 @@ If you have any questions regarding the documentation or find any errors in the 
 
 - [Requirement of Development Knowledge](Knowledge.md)
 - [Develop Using Github](Git.md)
-- [Example Tutorial: Microcontroller Programs] to-be written
-- [Example Tutorial: Computer-Control Programs](TutorialCC.md)
+- [Example Tutorial: Button Script](TutorialMC.md)
+- [Example Tutorial: Pokémon Home Sorter](TutorialCC.md)
 - Development Topics
 	- [Access Regions of Interest on Images](SubImage.md)
 	- [Wait Some Time](Wait.md)
