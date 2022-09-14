@@ -2,7 +2,7 @@
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
 
-We use Github to host our codebase and allow open-source development. This guide is for developers who know a little bit of Git but don't know how to use it and Github to contribute to an open-source Github project, or for developers who want to refresh the knowledge of Github development.
+We use Github to host our codebase and allow open-source development. This guide is for developers who know a little bit of Git but don't know how to use it and Github to contribute to an open-source Github project, or for developers who want to refresh the knowledge of Github development. It also contains some tips about building and developing the code.
 
 To add a new feature to the code, we use the standard Github development cycle:
 
