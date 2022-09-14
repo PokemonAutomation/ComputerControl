@@ -10,7 +10,7 @@ An example is [Pokedex-National.json](https://github.com/PokemonAutomation/Packa
 
 For better user experience we also have Pokémon sprite images in `Resources` folder. Those sprites are used as part of Pokémon selection UI in for example [**Outbreak Finder**](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonLA/OutbreakFinder.md).
 To save file transfer and loading time, we usually put all sprites of the entire Pokédex into a single image, like [MMOSprites.png](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOSprites.png).
-To know which part of the image belongs to which slug (see Section **Pokémon Slugs** for what a slug is), we need to have an accompanied JSON file to specify this, like what's in [MMOSprites.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOSprites.json).
+To know which part of the image belongs to which slug (see the [slug topic page](Slug.md) for what a slug is), we need to have an accompanied JSON file to specify this, like what's in [MMOSprites.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/PokemonLA/MMOSprites.json).
 
 ## Code to Load JSON 
 

@@ -8,6 +8,8 @@ Those functions are defined in [NintendoSwitch_Commands_PushButtons.h](https://g
 Example button commands are `pbf_press_button()` and `pbf_press_dpad()`.
 You can read the comments of those functions to understand how to use them.
 
+Note we use ticks to measure the amount of time a button action is executed. Inside the micro-controller 125 ticks is one second. Access this number via [`TICKS_PER_SECOND`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/Common/NintendoSwitch/NintendoSwitch_ControllerDefs.h).
+
 An example automation program that uses those functions is [**PokemonLA_BraviaryHeightGlitch**](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonLA/Programs/General/PokemonLA_BraviaryHeightGlitch.cpp).
 
 ## Button Command Buffer on Micro-Controller
@@ -17,9 +19,11 @@ It may just send the command to the micro-controller and continue executing foll
 Our software that runs on the micro-controller uses a buffer to hold incoming button commands.
 The `pbf` function has to wait only when the buffer on the micro-controller is full. It will wait until the micro-controller finishes executing the oldest command in the buffer so that the buffer has space to receive the new command.
 
-For example, if the micro-controller buffer is empty and a program sends a command of holding button A for two seconds and releasing it for one second,
-the program will not wait for three full seconds during exeuction of `pbf_press_button()`.
-The function quickly returns and the program begins executing the next line of code. At the same time, the micro-controller will spend three full seconds to execute the button command. It will send button A pressing to the Switch for two seconds, then release it and wait for one second.
+For example, if the micro-controller buffer is empty and a program sends a command of holding button A for 200 ticks and releasing it for 100 ticks,
+the program will not wait for 300 ticks during exeuction of `pbf_press_button()`.
+The function quickly returns and the program begins executing the next line of code.
+At the same time, the micro-controller will start spending 300 ticks to execute the button command.
+It will keep pressing button A to the Switch for 200 ticks, then release it and wait for 100 ticks.
 
 This is like the case of asynchronous IO processing in some software systems.
 

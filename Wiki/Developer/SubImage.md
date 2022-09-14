@@ -7,11 +7,13 @@ To detect something from the video stream, we first need to know where it will a
 
 The function name has `reference` because it actually returns a view based on the original image: no pixels are copied in memory. It is the same "view"-like mechanism used for matrices in OpenCV and numpy.
 
-If necessary, see Section **Wait Some Time** to wait for the video stream to be ready for detection first.
+If necessary, see this [topic page](Wait.md) on how to wait for the video stream to be ready for detection first.
 
 ## Design Box Crops
 
-To specify the location of the sub-image, we use [`ImageFloatBox`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/ImageTools/ImageBoxes.h). If you know a bit about Python, we have Python helper scripts for you to generate those boxes. Use [image_viewer.py](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Scripts/image_viewer.py) to draw initial locations of boxes:
+To specify the location of the sub-image, we use [`ImageFloatBox`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/ImageTools/ImageBoxes.h).
+If you know a bit about Python, we have Python helper scripts for you to generate those boxes.
+Use [image_viewer.py](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Scripts/image_viewer.py) to draw initial locations of boxes:
 ```
 python3 Arduino-Source/SerialPrograms/Scripts/image_viewer.py <path_to_an_image>
 ```

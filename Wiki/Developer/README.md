@@ -18,3 +18,6 @@ If you have any questions regarding the documentation or find any errors in the 
 	- [Wait Some Time](Wait.md)
 	- [Use JSON](JSON.md)
 	- [Pokémon Slugs](Slug.md)
+	- [Parallel Routines](Parallel.md)
+	- [OCR](OCR.md)
+	- [Check Color](Color.md)

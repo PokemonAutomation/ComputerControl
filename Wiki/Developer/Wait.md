@@ -2,9 +2,9 @@
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
 
-Before issuing a next button command, or doing any visual or audio detection you would want to make sure the game is advanced to the desired stage. For example, you don't want to start reading Pokémon information before the game opens the Pokémon summary screen.
+Before issuing a button command or doing any visual or audio detection, you would want to make sure the game is advanced to the desired stage. For example, you don't want to start reading Pokémon information before the game opens the Pokémon summary screen.
 
-To let the program wait for the button commands issued by the program to finish, use `context.wait_for_all_requests()`.
+To let the program wait for the button commands issued by the program to finish, use `context.wait_for_all_requests()`. See the [button topic page](Button.md) for more details about this function.
 
 You can also use `context.wait_for(std::chrono::milliseconds())` to let the program wait for a set amount of time.
 There is also a function in the `pbf` button command family, `pbf_wait()`, that you can use to tell the micro-controller to wait for a specified number of ticks (Inside the micro-controller 125 ticks is one second. Access this number via [`TICKS_PER_SECOND`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/Common/NintendoSwitch/NintendoSwitch_ControllerDefs.h)).
@@ -19,7 +19,7 @@ But a longer wait time may make the program slower. And you don't know if the wa
 
 - Make this wait time tunable by users. Expose this wait time as a program option. This has the benefit of those with a slower Switch can set a long wait time to have robust runs while those with a faster Switch can set a short wait time to get better performance. But this adds more things for the users to do and the users may also be annoyed by tuning the wait time themselves.
 
-- Use visual feedback (or called visual inference): use `wait_until()` and other functions to let the program wait until a visual indication is detected, signaling the dialogue menu is fully displayed. Then press the next button. This has the benefit of the program adapting to the dialogue display speed. The drawback is that it is more coding work to write visual detection code, and the program is generally slower than a fine-tuned feedback-less button sequence. It is because the program has to wait for the video frames to be parsed through the capture card and needs the visual detection code to finish running.
+- Use visual feedback (or called visual inference): use `wait_until()` (see the [parallel routine topic page](Parallel.md) for more details) and other functions to let the program wait until a visual indication is detected, signaling the dialogue menu is fully displayed. Then press the next button. This has the benefit of the program adapting to the dialogue display speed. The drawback is that it is more coding work to write visual detection code, and the program is generally slower than a fine-tuned feedback-less button sequence. It is because the program has to wait for the video frames to be parsed through the capture card and needs the visual detection code to finish running.
 
 - Send the button press first without visual feedback, but also monitor the video stream and detect if there is deviation (overshoot or undershoot) of the menu cursor from what the program expects it to be based on the button presses. If a deviation is found, using a correction procedure to fix it. This is the most complicated to implement among all the approaches, but it is robust to different Switch speed and generally fast to run.
 
