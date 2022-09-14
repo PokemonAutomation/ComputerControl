@@ -24,6 +24,11 @@ To add a new feature to the code, we use the standard Github development cycle:
 	```
 	This adds the path of Pokemon_NewFile.h to both CMakeLists.txt and SerialPrograms.pro.
 - Test the code of this branch to make sure it works and it won't cause problems when merged to the Git trunk (aka main branch) of the codebase.
+- Clean the code:
+	- Remove commented code that no longer used.
+	- Remove unecessary debugging code.
+	- Organize and simplify code, like converting duplicate code blocks into reusable functions.
+	- Add enough comments so that it is easy for you and others to maintain the code in future, and our repo maintainers can understand your code.
 - Push (aka upload) this branch from your local machine to your online Github repo.
 - On Github, send a pull request (PR for short) to notify our repo maintainers that a feature development is ready for review.
 - The repo maintainers review the new code in the PR, comment on it and give some suggestions if needed.
