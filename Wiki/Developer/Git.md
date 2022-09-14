@@ -1,22 +1,31 @@
-# Beginner Guide for Using Github to Contribute
+# Develop Using Github
 
-We use Github to host our codebase and allow open-source development. This guide is for developers who know a little bit of Git but don't know how to use it and Github to contribute to an opensource Github project, or for developers who want to refresh the knowledge of Github development.
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
 
-To complete a feature, we use the standard Github development cycle:
+We use Github to host our codebase and allow open-source development. This guide is for developers who know a little bit of Git but don't know how to use it and Github to contribute to an open-source Github project, or for developers who want to refresh the knowledge of Github development.
+
+To add a new feature to the code, we use the standard Github development cycle:
+
 - Fork the [Arduino-Source](https://github.com/PokemonAutomation/Arduino-Source/tree/main/SerialPrograms/Source) repository (repo for short) so that you have a complete copy of the codebase repo under your own Github account.
 - Clone your copied repo to your local machine. Make sure your downloaded local repo is linked to your online Github repo.
 - Build the **SerialPrograms** executable using CMake, Visual Studio, VS Code, QCreator or other tools.
-- Some of the automation programs listed in the **SerialPrograms** require additional resources in the form of files in a folder named `Resources`. You can download the folder from our latest [program releases](https://github.com/PokemonAutomation/ComputerControl/releases) or from the Github repo [Packages](https://github.com/PokemonAutomation/Packages).
-Place the `Resources`folder at the same folder hierarchy as the folder of the built **SerialPrograms** executable, so that when launching the executable it can find the resource folder correctly. For example, if the path of **SerialPrograms** is `C:\git\Arduino-Source\build\SerialPrograms.exe` then the resource folder should be `C:\git\Arduino-Source\Resources`.
+- Some of the automation programs listed in the **SerialPrograms** require additional resources in the form of files in a folder named `Resources`.
+	- You can download the folder from our latest [program releases](https://github.com/PokemonAutomation/ComputerControl/releases) or from the Github repo [Packages](https://github.com/PokemonAutomation/Packages).
+	- Place the `Resources`folder at the same folder hierarchy as the folder of the built **SerialPrograms** executable, so that when launching the executable it can correctly find the resource folder.
+	For example, if the path of **SerialPrograms** is `C:\git\Arduino-Source\build\SerialPrograms.exe` then the resource folder should be `C:\git\Arduino-Source\Resources`.
 - Make a new Git branch on your local machine. You can name the branch by the name of the new feature you would like to implement.
-- Before adding commits to the branch, make sure you set correct author name and email info in the Git config file. If you want to maintain anonymous, double check you don't set a global author and email info across all Git repos.
-- Add commits of new code change to the branch.
+- Before adding commits to the branch, set correct author name and email info in the Git config file. If you want to maintain anonymous, make sure you don't expose your personal info in your Github account and commit messages. Double check you don't set a global author and email info across that could add your personal info on a new Git repo.
+- Write the feature code. Add commits of the new code change to the branch.
 - Test the code of this branch to make sure it works and it won't cause problems when merged to the Git trunk (aka main branch) of the codebase.
-- Push (aka upload) this branch from your local machine to your Github repo.
+- Push (aka upload) this branch from your local machine to your online Github repo.
 - On Github, send a pull request (PR for short) to notify our repo maintainers that a feature development is ready for review.
-- The repo maintainers review the new code in the branch, comment on it and give some suggestions if needed.
+- The repo maintainers review the new code in the PR, comment on it and give some suggestions if needed.
 - Discuss and take those suggestions if needed by improving the code on your local machine. Then push them to update the PR. This may take several rounds of back and forth.
-- The repo maintainers approve the feature branch, adding the code into the original repo.
+- The repo maintainers approve the PR about the feature branch, adding the code into the original repo.
+- Prepare for developing next feature:
+	- After the new code has been added to the original repo as new commits, update the main branch of your online Github repo so receive the new commits as well. 
+	- Pull (aka download) those commits into the main branch of your local repo.
+	- You can then delete the feature branch.
 
 There are many online resources on how to use Git and Github. Feel free to study them if you are not familiar with them.
 
