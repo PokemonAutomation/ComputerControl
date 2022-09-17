@@ -68,3 +68,11 @@ Both two matcher classes are based on [`DictionaryMatcher`](https://github.com/P
 See its comments for how to use it.
 
 You can find out how `BerryNameReader` reads berry names in [**PokemonBDSP_GiftBerryReset**](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonBDSP/Programs/Farming/PokemonBDSP_GiftBerryReset.cpp).
+
+## Read Number from Image
+
+We have a special function, [`OCR::read_number()`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/OCR/OCR_NumberReader.h)
+to read only numbers on an image.
+See [**PokemonBDSP_BattleBallReader**](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonBDSP/Inference/Battles/PokemonBDSP_BattleBallReader.cpp) as an example.
+
+Note: same as our general text OCR functions, `OCR::read_number()` is not the most robust. It may occasionally fail to read the correct number. For most robust programs, we suggest using other inferences (color, timing, sound) to supplement OCR.
