@@ -4,10 +4,11 @@
 
 OCR is for optical character recognition, technique to read texts from images.
 We use [Tesseract library](https://github.com/tesseract-ocr/tesseract) to do OCR.
+Given a video screen image, we first create a crop to get the region of the image where text is. See [this topic](SubImage.md) on how to get a region of the image. Then we apply our OCR functions on this sub-image.
 
 We mostly use [`SmallDictionaryMatcher`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/OCR/OCR_SmallDictionaryMatcher.h)
 and [`LargeDictionaryMatcher`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/OCR/OCR_LargeDictionaryMatcher.h)
-to find a text match from a pre-difined set of candidates.
+to find a text match from a pre-difined set of candidate texts.
 
 ## SmallDictionaryMatcher
 

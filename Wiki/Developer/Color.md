@@ -2,7 +2,7 @@
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
 
-A simple visual detection method is to check the color of a region of the image. See [this topic](SubImage.md) on how to get a region of the iamge.
+A simple visual detection method is to check the color of a region of the image. See [this topic](SubImage.md) on how to get a region of the image.
 
 We use [`image_stats()`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/ImageTools/ImageStats.h) to extract color stats from an image.
 An example usage is in [PokemonBDSP_MenuDetector.cpp](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonBDSP/Inference/PokemonBDSP_MenuDetector.cpp).
