@@ -28,15 +28,16 @@ This program will perform RNG manipulation to get rare balls from the Cram-o-mat
 
 ## Options
 
-### Iterations:
+### Primary Apricorns:
 
-The amount of times the Cram-o-matic is used.
+The amount of Apricorns you have in the selected bag slot.
 
-This should be less than the amount of your selected Apricorns divided by 4. 
-If you want Sport Balls this should be less than the lower amount of the two used Apricorns divided by 2.
+### Secondary Apricorns:
 
-  > If this is not set correctly the program might start to use other items from your bag, destroying them in the process. 
-  > It is recommended to only use one type of Apricorn at a time to avoid problems if you run out of the chosen color of Apricorns.
+The amount of Apricorns you have in the bag slot directly below the selected slot.
+This number is used for Sport Balls.
+
+  > If either Primary or Secondary Apricorns is not set correctly the program might start to use other items from your bag, destroying them in the process! 
 
 
 ### NPCs:
@@ -47,28 +48,37 @@ This number includes Pokémon.
 It does **NOT** include the Cram-o-matic, Rotom terminal, vending machines or the TV.
 
 
-### Wanted Ball:
+### Wanted Balls:
 
-The type of Ball you want. 
+The selection of balls you want the program to get. 
 
-The exact type for each Color can be found [here](https://www.serebii.net/swordshield/cram-o-matic.shtml).
+**Ball**
+The type of ball you want.
+The exact type for each Apricorn color can be found [here](https://www.serebii.net/swordshield/cram-o-matic.shtml).
+
+**Only Bonus**
+The program only uses this selection if the Cram-o-matic produces five items instead of one. 
+It is not recommended to only have rows Apricorn, Safari or Sport Balls and "Only Bonus" checked.
+
+**Priority** 
+The program tries not to skip selections with high priority. A higher number means a higher priority. 
+Each iteration has the potential to skip wanted rng states. This program will skip lower priority selections if they have the potential to skip higher priority ones.
 
 
 ## Advanced Settings:
 
 These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.
 
+### Max priority advances:
+
+How many rng states after a found selection will be checked so no selection with higher priority will be skipped.
+If this value is zero priority will be ignored.
+
 
 ### Max unknown advances:
 
 After one iteration this many states will be checked to find the current rng state.
 
-
-### Only bonus:
-
-Only target rng states which lead to getting five balls instead of one.
-
-This will significantly increase the average time needed per iteration and is not recommended for Apricorn, Safari or Sport Balls.
 
 
 ## Credits
