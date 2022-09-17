@@ -39,7 +39,7 @@ PokemonOCR-fra.json:
     "abomasnow": [
         "Blizzaroi"
     ],
-    ... (other Pokémon's dictionary entries)
+    ... (other Pokémon's dictionary entries in French)
 }
 
 PokemonOCR-chi_tra.json:
@@ -49,7 +49,7 @@ PokemonOCR-chi_tra.json:
         "繁霎王",
         "鬘粘王"
     ],
-    ... (other Pokémon's dictionary entries)
+    ... (other Pokémon's dictionary entries in traditional Chinese)
 }
 
 ... (other language JSON files)
@@ -57,7 +57,7 @@ PokemonOCR-chi_tra.json:
 [PokemonNameReader](https://github.com/PokemonAutomation/Packages/tree/master/SerialPrograms/Source/Pokemon/Inference/Pokemon_NameReader.h) loads this Pokémon name JSON folder to read Pokémon names.
 
 ## Multiple Text Values for One Slug
-Note for traditional Chinese, Abomasnow corresponds to three text values "暴雪王", "繁霎王" and "鬘粘王".
+Note in the traditional Chinese JSON file, Abomasnow corresponds to three text values "暴雪王", "繁霎王" and "鬘粘王".
 This is because Tesseract has a hard time detecting Asian language characters (Korean, traditional Chinese and simplified Chinese).
 So we put those commonly misread results of Abomasnow ("繁霎王" and "鬘粘王") along with the correct text ("暴雪王") into the dictionary. When Tesseract reads it wrongly, we can still know it's Abomasnow.
 
