@@ -2,7 +2,7 @@
 
 ## Program Description
 
-Order boxes of Pokémon Home based on their national dex number.
+Order boxes of Pokémon based on their national dex number.
 
 ## Preparation Instructions
 
