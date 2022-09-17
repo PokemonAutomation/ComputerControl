@@ -4,7 +4,7 @@
 
 Hardcoding all Pokémon names in a C++ source file is not fun. A better software development practice is to store those lengthy data as external files. At runtime, the executable loads the file to use the data.
 We use [JSON](https://en.wikipedia.org/wiki/JSON) as the file format to store our text-based data like Pokémon lists and Pokédex contents.
-An example is [Pokedex-National.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/Pokemon/Pokedex/Pokedex-National.json), in our `Resources` folder. As the name says, the folder stores all those external data that the program may need to load.
+An example is [Pokedex-National.json](https://github.com/PokemonAutomation/Packages/blob/master/SerialPrograms/Resources/Pokemon/Pokedex/Pokedex-National.json), in our `Resources` folder. See [its topic](Resources.md) for more details about the folder.
 
 ## JSON for Sprites
 

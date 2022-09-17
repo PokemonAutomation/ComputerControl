@@ -11,7 +11,7 @@ To add a new feature to the code, we use the standard Github development cycle:
 - Build the **SerialPrograms** executable using CMake, Visual Studio, VS Code, QCreator or other tools.
 - Some of the automation programs listed in the **SerialPrograms** require additional resources in the form of files in a folder named `Resources`.
 	- You can download the folder from our latest [program releases](https://github.com/PokemonAutomation/ComputerControl/releases) or from the Github repo [Packages](https://github.com/PokemonAutomation/Packages).
-	- Place the `Resources`folder at the same folder hierarchy as the folder of the built **SerialPrograms** executable, so that when launching the executable it can correctly find the resource folder.
+	- Place the `Resources` folder at the same folder hierarchy as the folder of the built **SerialPrograms** executable, so that when launching the executable it can correctly find the resource folder.
 	For example, if the path of **SerialPrograms** is `C:\git\Arduino-Source\build\SerialPrograms.exe` then the resource folder should be `C:\git\Arduino-Source\Resources`.
 - Make a new Git branch on your local machine. You can name the branch by the name of the new feature you would like to implement.
 - Before adding commits to the branch, set correct author name and email info in the Git config file. If you want to maintain anonymous, make sure you don't expose your personal info in your Github account and commit messages. Double check you don't set a global author and email info across that could add your personal info on a new Git repo.

@@ -17,4 +17,12 @@ When doing color check, you need to set thresholds in `is_solid()` and other fun
 like what is the maximum color deviation that can still pass the check.
 You can first collect a few test images by taking screenshots using the screenshot button on the **SerialPrograms** executable.
 Pick some thresholds to pass all your test images.
+You can add command line tests (See [its topic](Tests.md)) to run color detection on images directly without temporarily hardcoding tests.
+
 Finally, keep the thresholds a little higher than needed on your test images so that users with different capture card color distortions than yours can still pass the check.
+
+
+## Color Values
+
+We have a `Color` class in [Color.h](https://github.com/PokemonAutomation/Arduino-Source/blob/main/Common/Cpp/Color.h) to represent a 32-bit-precision ARGB pixel color. Each color channel precision is 8-bit `uint8`. The data in `Color` is stored as a `uint32_t`. Some of our color-related functions also take `uint32_t` as color inputs. See `combine_argb()` and `combine_rgb()` in Color.h to know how individual A, R, G, B values form a `uint32_t`.
+

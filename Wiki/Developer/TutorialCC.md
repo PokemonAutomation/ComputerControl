@@ -30,7 +30,7 @@ The program first goes through each Pokémon in the boxes to read their names, t
 
 - If you would like to publish the program to our users, there is also a need to write a wiki for the program so that users know how to use it! Our program wiki is actually a Github repo [**ComputerControl**](https://github.com/PokemonAutomation/ComputerControl). Each wiki page is written as a .md file in the repo. It should be fairly easy to learn the .md writing format. You can use the same Github development cycle in the [Git guide](Git.md) to submit your new wiki page.
 
-- This is probably not needed by a Home box sorter program, but if you want to add a new resource file (like a JSON file or an image file) to the project, you also need to upload the resource file to our [Resources Github repo](https://github.com/PokemonAutomation/Packages/tree/master/SerialPrograms/Resources). You can use the same Github development cycle in the [Git guide](Git.md) to submit your new wiki page.
+- This is probably not needed by a Home box sorter program, but if you want to add a new resource file (like a JSON file or an image file) to the project, you also need to upload the resource file to our [Resources Github repo](https://github.com/PokemonAutomation/Packages/tree/master/SerialPrograms/Resources). You can use the same Github development cycle in the [Git guide](Git.md) to submit your new data file.
 
 Bonus task:
 - Read more info from the summary screen so that you can sort genders and forms too. You can use the color of the gender label to detect genders. See [**PokémonLA_SkipToFullMoon**](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonLA/Programs/General/PokemonLA_SkipToFullMoon.cpp) for how to read colors. 
