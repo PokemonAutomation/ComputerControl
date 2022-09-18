@@ -2,9 +2,8 @@
 
 ## Program Description
 
-Order boxes of Pokémon based on their national dex number.
-
-This program will go through each pokemon summary page to check for their national dex number, it will avoid empty slots and go through empty boxes succesfuly if needed. Keep in mind that this program only rely on dex number recognition for now, if the program read the wrong number as it could happens sometimes, you will have to sort thoses remaining pokemons manually. The program will go through the number of boxes you have chosen by navigating to the right.
+This program goes through each Pokémon summary page in HOME. It will check for the National Dex number to sort Pokémon starting at the current box and ending after a set number of boxes chosen by the user.
+It will skip empty slots and empty boxes. Please note that the program may sometimes incorrectly read the National Dex number. In such cases, the user will need to sort incorrectly placed Pokémon manually.
 
 <img src="images/BoxSorter.png">
 
