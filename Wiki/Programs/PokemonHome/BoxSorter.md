@@ -4,6 +4,16 @@
 
 Order boxes of Pokémon based on their national dex number.
 
+This program will go through each pokemon summary page to check for their national dex number, it will avoid empty slots and go through empty boxes succesfuly if needed. Keep in mind that this program only rely on dex number recognition for now, if the program read the wrong number as it could happens sometimes, you will have to sort thoses remaining pokemons manually. The program will go through the number of boxes you have chosen by navigating to the right.
+
+<img src="images/BoxSorter.png">
+
+## Stats
+
+This program is able to read one box in 20 seconds and able to sort one box in less than 1 minutes.
+
+I successfuly sorted 18 boxes in 54 minutes with default settings.
+
 ## Preparation Instructions
 
 1. Screen size: Must be 100% within the Switch settings
