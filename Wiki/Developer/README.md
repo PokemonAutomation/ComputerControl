@@ -22,5 +22,5 @@ If you have any questions regarding the documentation or find any errors in the 
 	- [Check Color](Color.md)
 	- [OCR](OCR.md)
 	- [Parallel Routines](Parallel.md)
-	- Exception (To be written)
+	- [Exception](Exception.md)
 	- [Command Line Tests](Tests.md)
