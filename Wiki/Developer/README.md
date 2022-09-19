@@ -23,4 +23,5 @@ If you have any questions regarding the documentation or find any errors in the 
 	- [OCR](OCR.md)
 	- [Parallel Routines](Parallel.md)
 	- [Exception](Exception.md)
+	- Image Template Matching (To be written)
 	- [Command Line Tests](Tests.md)
