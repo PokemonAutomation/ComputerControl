@@ -39,3 +39,8 @@ VideoOverlaySet mmo_overlay_set(env.console);
 When you call `VideoOverlaySet::add()` to add a box to it, it will automatically add the box to the video overlay so it can be rendered on the video stream. When this object is destroyed or `VideoOverlaySet::clear()` is called, all the boxes added by this object are removed from the overlay.
 
 In order to have enough time to see the boxes rendered on the overlay, make sure this `VideoOverlaySet` object gets enough life time during program execution. You don't want this box to appear for only one frame on the overlay UI.
+
+## Debug Boxes
+
+If the data of the box is known during compile time, you can just use the Python script image_viewer.py to visualize it.
+If the box is generated at runtime, you can use `draw_box()` defined in [ImageBoxes.h](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/ImageTools/ImageBoxes.h) to draw the box onto an image. You can then save the image to disk to debug it.
