@@ -97,12 +97,13 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Shiny Hunt Autonomous - Overworld](PokemonSwSh/ShinyHuntAutonomous-Overworld.md)               | Video | Yes | Yes |
 ||
 | **Eggs:** |
-| [Egg Fetcher 2](PokemonSwSh/EggFetcher2.md)                              || Yes |     |
-| [Egg Hatcher](PokemonSwSh/EggHatcher.md)                                 || Yes |     |
-| [Egg Combined 2](PokemonSwSh/EggCombined2.md)                            || Yes |     |
-| [Egg Super-Combined 2](PokemonSwSh/EggSuperCombined2.md)                 || Yes |     |
-| [God Egg Item Duplication](PokemonSwSh/GodEggItemDuplication.md)         || Yes |     |
-| [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md) || Yes |     |
+| [Egg Fetcher 2](PokemonSwSh/EggFetcher2.md)                              |       | Yes |     |
+| [Egg Hatcher](PokemonSwSh/EggHatcher.md)                                 |       | Yes |     |
+| [Egg Combined 2](PokemonSwSh/EggCombined2.md)                            |       | Yes |     |
+| [Egg Super-Combined 2](PokemonSwSh/EggSuperCombined2.md)                 |       | Yes |     |
+| [Egg Autonomous](PokemonSwSh/EggAutonomous.md)                           | Video | Yes | Yes |
+| [God Egg Item Duplication](PokemonSwSh/GodEggItemDuplication.md)         |       | Yes |     |
+| [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md) |       | Yes |     |
 ||
 | **RNG:** |
 | [Cram-o-matic RNG](PokemonSwSh/CramomaticRNG.md)                         | Video | Yes | Yes |

@@ -36,9 +36,9 @@ Be aware that the complexity of this program makes it inherently less reliable t
 4. Nicknaming needs to be off.
 5. Your bike must be fully upgraded.
 6. The parents are already deposited at the Route 5 daycare center.
-7. The menu icons are in their default locations.
-   1. The Town Map must be in the 2nd row on the far left.
-   2. The Pokémon option must be in the 1st row, 2nd from the left.
+7. The Rotom Phone apps on the menu are in their default locations.
+   1. The Town Map app must be in the 2nd row on the far left.
+   2. The Pokémon app must be in the 1st row, 2nd from the left.
 
 > *If you are playing in Japanese or Italian, you need to [**"Egg Fetch Extra Line"**](PokemonSettings.md#egg-fetch-extra-line) or this program will not work.*
 

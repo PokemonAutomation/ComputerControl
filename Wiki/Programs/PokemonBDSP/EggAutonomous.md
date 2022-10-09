@@ -2,7 +2,7 @@
 
 ## Program Description
 
-A fully autonomous bot that uses visual feedback to fetch and hatch eggs. It will automatically detect and keep shinies and can also be configured to keep specific IV spreads.
+A fully autonomous bot that uses visual feedback to fetch and hatch eggs. It will automatically detect and keep shinies and can also be configured to keep specific gender and IV spreads.
 
 Unlike [Egg Fetcher](EggFetcher.md) and [Egg Hatcher](EggHatcher.md), this program can run completely unattended for many days without intervention.
 
@@ -36,13 +36,13 @@ Furthermore, this program doesn't care about step counts, egg-warming, or early 
 1. Box 1 is full except for an empty 1st column.
 2. The last box (bottom-right corner in the box view) has plenty of free spaces. This is where the kept babies will be deposited.
 3. You are on Box 1.
-4. The right panel is set to the IV Judge Panel. (you can also set it to the stats panel if you are not doing IV filtering)
+4. The right panel is set to the IV Judge Panel. (You can also set it to the stats panel if you are not doing IV filtering.)
 
 <img src="images/EggAutonomous-1.png">
 
 ### Required Parameters:
 
-- The value of **Max Keepers** must be no greater than the number of free spaces in the last box. If the box fills up, the program will break!
+- The value of **Max Keepers** must be no greater than the number of free spaces in the last box. If the box becomes full, the program will break!
 
 ### Run Instructions
 
@@ -54,7 +54,7 @@ Furthermore, this program doesn't care about step counts, egg-warming, or early 
 
 <img src="images/EggAutonomous-2.png">
 
-Once the program starts, it will immediately save the game (if [Error Recovery](#error-recovery) is enabled) and start spinning. It will periodically fetch eggs and hatch your entire party.
+Once the program starts, it will immediately save the game (if [Auto-Saving](#auto-saving) is enabled) and start spinning. It will periodically fetch eggs and hatch your entire party.
 
 Once it has fetched 5 eggs and hatched all 5 eggs in your party, it will enter the box system and check each of the 5 babies in your party. Each baby is run through the [Actions Table](#actions-table). Depending on what conditions are matched, the baby will be either released, deposited into the last box, or the program will stop.
 
@@ -83,21 +83,27 @@ Stop the program once it has kept this many babies. This value should be no grea
 
 Spin on your bike for this long before attempting to fetch another egg.
 
-### Error Recovery:
+### Num Eggs in Column:
+
+How many eggs already deposited in the first column in Box 1.
+This option is useful if you interrupt the program and wish to resume it with some eggs already deposited in the box.
+
+### Auto-Saving:
 
 Pokémon BDSP is very prone to crashing.
 
-When enabled, this option, will save the game at the start of the program and after baby that is kept.
+You can set it to save the game at the start of the program and after keeping a hatched Pokémon, or save before hatching every batch.
 That way if the game crashes or the program encounters some error, you won't lose too much progress.
+If set to saving before hatching every batch, you can also unhatch eggs. (Unhatching eggs can be useful for obtaining breeding parents by rehatching a perfect egg in a game with a different language.)
 
 ### Actions Table:
 
 This tables lets you specify the actions to perform on babies that meet a certain criteria.
 
 By default, there is one action which is to keep all shinies. (deposit them into the last box)
-But you can add more actions to keep babies of certain IV spreads. This is useful if you are still selectively breeding for perfect parents.
+But you can add more actions to keep babies of certain gender and IV spreads. This is useful if you are still selectively breeding for perfect parents.
 
-***If you are using any IV filters, the right panel in the box system must be set to the IV Judge.***
+***If you are using any IV filters, the right panel in the box system must be set to the IV Judge. Similar if you are using any gender filter.***
 
 <img src="images/EggAutonomous-3.png">
 
