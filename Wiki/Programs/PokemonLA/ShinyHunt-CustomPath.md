@@ -112,6 +112,14 @@ Options:
 - Soft Reset. (Safer option)
 - Go back to village. (Faster option)
 
+### Time of Day
+
+Reset time of day if **Reset Method** is Soft Reset. Use this to only hunt Pokémon
+at day or night, or to avoid visual inference errors on white snow at daytime.
+
+### How Many Runs Before Resetting Time of Day
+To avoid too much time spent on resetting time of day, reset only every several runs.
+
 ### Enroute/Destination Shiny Action
 
 This program detects shinies by listening for the shiny sound. You can configure what the program should do if it hears a shiny.
