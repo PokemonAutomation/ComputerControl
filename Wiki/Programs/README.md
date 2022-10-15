@@ -113,7 +113,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md) |       | Yes |     |
 ||
 | **RNG:** |
-| [Cram-o-matic RNG](PokemonSwSh/CramomaticRNG.md)                         | Video | Yes | Yes |
+| [Cram-o-matic RNG (ETA: v0.18)](PokemonSwSh/CramomaticRNG.md)                         | Video | Yes | Yes |
 ||
 | **Multi-Switch Programs:** |
 | Synchronized Spinning                                                    || Yes | Yes |
