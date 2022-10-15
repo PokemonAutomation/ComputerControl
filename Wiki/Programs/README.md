@@ -27,7 +27,13 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Prevent Sleep](NintendoSwitch/PreventSleep.md)                   |     | Yes | Yes |
 | [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)            |     | Yes | Yes |
 | [Friend Delete](NintendoSwitch/FriendDelete.md)                   |     | Yes | Yes |
-| [Pokémon Home: Page Swap](NintendoSwitch/PokemonHome-PageSwap.md) |     | Yes | Yes |
+
+## Pokémon Home
+
+| **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
+| --- | --- | --- | --- |
+| [Page Swap](NintendoSwitch/PageSwap.md)        |       | Yes | Yes |
+| [Box Sorter (ETA: v0.18)](NintendoSwitch/BoxSorter.md) | Video | Yes | Yes |
 
 ## Pokémon Sword/Shield
 
@@ -51,6 +57,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | **Date-Spam Farmers:** |
 | [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)                      || Yes | Yes |
 | [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md)                    || Yes | Yes |
+| Date Spam: Berry Farmer (ETA: v0.18)                                              || Yes | Yes |
 | [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)                      || Yes | Yes |
 | [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)        || Yes | Yes |
 | [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md) || Yes | Yes |
@@ -101,7 +108,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Egg Hatcher](PokemonSwSh/EggHatcher.md)                                 |       | Yes |     |
 | [Egg Combined 2](PokemonSwSh/EggCombined2.md)                            |       | Yes |     |
 | [Egg Super-Combined 2](PokemonSwSh/EggSuperCombined2.md)                 |       | Yes |     |
-| [Egg Autonomous](PokemonSwSh/EggAutonomous.md)                           | Video | Yes | Yes |
+| [Egg Autonomous (ETA: v0.18)](PokemonSwSh/EggAutonomous.md)              | Video | Yes | Yes |
 | [God Egg Item Duplication](PokemonSwSh/GodEggItemDuplication.md)         |       | Yes |     |
 | [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md) |       | Yes |     |
 ||
