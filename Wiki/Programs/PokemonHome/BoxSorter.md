@@ -1,6 +1,6 @@
 # Pokemon Home Box Sorter
 
-(This program is new to version 0.17.x.)
+*This program is currently in development and is not yet available.*
 
 ## Program Description
 
