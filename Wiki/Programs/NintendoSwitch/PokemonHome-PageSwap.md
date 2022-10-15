@@ -1,6 +1,6 @@
 # Pokémon Home - Page Swap
 
-This page has moved here: /Wiki/Programs/PokemonHome/PageSwap.md
+[This page has moved here.](/Wiki/Programs/PokemonHome/PageSwap.md)
 
 
 <hr>
