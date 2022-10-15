@@ -50,4 +50,4 @@ For the usage of an audio inference callback, see [**PokemonLA_UnownFinder**](ht
 
 ## Race Condition
 
-Becaue it involves multithreading, you need to be careful not to create race condition. For example, don't let the inference thread and the button command thread in `run_until()` access the same variable without a lock.
+Because it involves multithreading, you need to be careful not to create race conditions. For example, don't let the inference thread and the button command thread in `run_until()` access the same variable without a lock.
