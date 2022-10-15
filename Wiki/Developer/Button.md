@@ -15,9 +15,9 @@ An example automation program that uses those functions is [**PokemonLA_Braviary
 ## Button Command Buffer on Micro-Controller
 
 When a `pbf` function is called, the program may not wait for the micro-controller to finish executing the button command.
-It may just send the command to the micro-controller and continue executing following lines of code. In this way the program can do some other calculation while the micro-controller executes the button command.
+It may just send the command to the micro-controller and continue executing following lines of code.
 Our software that runs on the micro-controller uses a buffer to hold incoming button commands.
-The `pbf` function has to wait only when the buffer on the micro-controller is full. It will wait until the micro-controller finishes executing the oldest command in the buffer so that the buffer has space to receive the new command.
+The `pbf` function has to wait only when the buffer on the micro-controller is full. It will wait until the micro-controller finishes executing the oldest command in the buffer so that the buffer has space to receive the new command.*
 
 For example, if the micro-controller buffer is empty and a program sends a command of holding button A for 200 ticks and releasing it for 100 ticks,
 the program will not wait for 300 ticks during exeuction of `pbf_press_button()`.
@@ -26,6 +26,8 @@ At the same time, the micro-controller will start spending 300 ticks to execute 
 It will keep pressing button A to the Switch for 200 ticks, then release it and wait for 100 ticks.
 
 This is like the case of asynchronous IO processing in some software systems.
+
+**Important:** You should not *rely* this asynchronous behavior to perform parallelization. The internal buffer sizes are undocumented and may change at any time. And some functions may break into a sequence of instructions that occupy multiple buffer slots. The purpose of the asynchronous buffering is to preserve the exact timing of button sequences across an otherwise high-latency serial bus.
 
 ## Wait for Commands to Finish
 
