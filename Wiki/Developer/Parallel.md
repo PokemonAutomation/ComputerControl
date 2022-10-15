@@ -10,7 +10,7 @@ To wait for a visual or audio event, we use `wait_until()`.
 To send some button commands until a visual or audio event happens, we use `run_until()`.
 Both functions are declared in [InferenceRoutines.h](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/InferenceInfra/InferenceRoutines.h). An example usage of both functions is in [`mash_A_to_change_region()`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonLA/Programs/PokemonLA_RegionNavigation.cpp).
 
-## Wait_until()
+## wait_until()
 
 When `wait_until()` is called, the main thread that executes this function call is suspended.
 Another inference thread is used to periodically execute some visual or audio inference code.
