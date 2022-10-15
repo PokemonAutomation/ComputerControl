@@ -10,6 +10,18 @@ You can also use `context.wait_for(std::chrono::milliseconds())` to let the prog
 There is also a function in the `pbf` button command family, `pbf_wait()`, that you can use to tell the micro-controller to wait for a specified number of ticks (Inside the micro-controller 125 ticks is one second. Access this number via [`TICKS_PER_SECOND`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/Common/NintendoSwitch/NintendoSwitch_ControllerDefs.h)).
 But remember to call `context.wait_for_all_requests()` after that to make sure the computer program also waits for the `pbf_wait()` command to finish.
 
+## Important:
+
+Do not use any of the usual C++ or OS wait functions. These include:
+- `std::condition_variable::wait_xx()`
+- Windows: `Sleep()`
+- Linux: `usleep()`
+- (any many more)
+
+These wait functions will not wake from an external signal such as the user clicking "Stop Program" or the program detecting a shiny and needing to stop immediately before the shiny runs away.
+
+The *only* safe way to perform a wait is to call it on a context object: `context.wait_for(...)`
+This has been carefully designed to properly respond to such external signals.
 
 # Design wait time
 
