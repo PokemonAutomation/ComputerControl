@@ -1,6 +1,6 @@
 # Seedfinder
 
-*This program is currently in development and is not yet available.*
+(This program is still under development and is not yet available.)
 
 ## Program Description
 
@@ -30,7 +30,7 @@ If 'Update state' is selected these are also used as the last known state.
 
 ### Update state:
 
-Instead of performing 128 attack animations only check the neccessary amount to find the rng state.
+Instead of performing 128 attack animations only check the necessary amount to find the rng state.
 Make sure to set min and max advances accordingly and enter the last known rng state in state[0] and state[1]. 
 
 ### Min/Max advances:
