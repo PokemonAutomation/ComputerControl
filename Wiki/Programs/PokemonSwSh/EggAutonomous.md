@@ -1,6 +1,6 @@
 # Egg Autonomous
 
-*This program is currently in development and is not yet available.*
+(This program is still under development and is not yet available. Track its progress here: https://github.com/PokemonAutomation/ComputerControl/issues/28)
 
 ## Program Description
 
