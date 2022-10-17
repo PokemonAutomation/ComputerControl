@@ -32,8 +32,8 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 | **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
 | --- | --- | --- | --- |
-| [Page Swap](NintendoSwitch/PageSwap.md)        |       | Yes | Yes |
-| [Box Sorter (ETA: v0.18)](NintendoSwitch/BoxSorter.md) | Video | Yes | Yes |
+| [Page Swap](PokemonHome/PageSwap.md)        |       | Yes | Yes |
+| [Box Sorter (ETA: v0.18)](PokemonHome/BoxSorter.md) | Video | Yes | Yes |
 
 ## Pokémon Sword/Shield
 
