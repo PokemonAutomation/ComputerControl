@@ -147,9 +147,9 @@ The downloaded data will be inside a folder called "Packages". Inside it there i
 
 Execute the command in Terminal:
 ```
-mkdir SerialPrograms_build; cd SerialPrograms_build
+mkdir build_mac; cd build_mac
 ```
-This makes a new folder called "SerialPrograms_build" in "Arduino-Source" and move the Terminal's current active folder to the new folder.
+This makes a new folder called "build_mac" in "Arduino-Source" and move the Terminal's current active folder to the new folder.
 
 Execute the command in Terminal:
 ```
@@ -160,7 +160,7 @@ This command uses CMake to configure our code to prepare for compilation. If suc
 ...
 -- Configuring done
 -- Generating done
--- Build files have been written to: <YOUR_PATH_TO_ARDUINO-SOURCE_FOLDER>/SerialPrograms_build
+-- Build files have been written to: <YOUR_PATH_TO_ARDUINO-SOURCE_FOLDER>/build_mac
 ```
 
 ### Compile Program
@@ -169,7 +169,7 @@ Execute the command in Terminal:
 ```
 cmake --build . -j 10
 ```
-to compile and build the program in "SerialPrograms_build" folder. If successful, it will print 
+to compile and build the program in "build_mac" folder. If successful, it will print 
 ```
 [100%] Built target SerialPrograms
 ```
