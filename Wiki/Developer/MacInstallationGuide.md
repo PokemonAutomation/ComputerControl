@@ -1,8 +1,8 @@
-# Guide for Installing SerialPrograms on Mac (only with Intel CPU)
+# Guide for Installing SerialPrograms on Mac
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
 
-Guide for how to install our open-source Pokémon automation software, **SerialPrograms** on Mac with Intel CPU. Note it ONLY works with Intel CPU. Apple M1, M2 or future Apple's own CPUs do not currently work with our programs.
+Guide for how to install our open-source Pokémon automation software, **SerialPrograms** on Mac. This works for both Intel CPU and M1. Note we don't have optimization for M1 yet. So running on M1 macbook could be much slower.
 
 The guide involves some program development processes.
 But the guide is aimed for any Mac user. You don't need to know programming to follow the guide.
