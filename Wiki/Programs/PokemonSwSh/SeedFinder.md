@@ -1,4 +1,4 @@
-# Seedfinder
+# Seed Finder
 
 (This program is still under development and is not yet available.)
 
