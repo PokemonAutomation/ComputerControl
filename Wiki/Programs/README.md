@@ -113,6 +113,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md) |       | Yes |     |
 ||
 | **RNG:** |
+| [RNG Seed Finder (under development)](PokemonSwSh/Seedfinder.md)         | Video | Yes | Yes |
 | [Cram-o-matic RNG (under development)](PokemonSwSh/CramomaticRNG.md)     | Video | Yes | Yes |
 ||
 | **Multi-Switch Programs:** |
