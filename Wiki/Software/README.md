@@ -54,7 +54,18 @@ Flash the appropriate one to your device.
 3. Connect the UART to your computer.
 
 You may need to install the drivers for your UART:
-- For Windows, SiLabs CP210x: https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip
+- SiLabs CP210x:
+   - For Windows: https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip
+   - For macOS: https://www.silabs.com/documents/public/software/Mac_OSX_VCP_Driver.zip
+
+**Install SiLabs CP210x on macOS:**
+After unzip the downloaded .zip folder, run SiLabsUSBDriverDisk.dmg inside.
+It will launch an installation GUI. Click through it to start the installation progress bar.
+If you feel the progress bar is stuck, it may be macOS is preventing it from modifying the OS.
+Go to System Preferences App and choose Security & Privacy.
+You will see some text saying things like "macOS is preventing SiLabs CP210x drivers".
+Click the lock icon in the lower left of the window, enter your password. Then click the button to allow the driver to modify the system.
+After that, you will see the driver GUI shows installation success.
 
 
 ## Step 5: Setup the video capture.
