@@ -9,7 +9,7 @@
 
 ## Program Description
 
-Shiny hunt the alpha Crobat in the Snowpoint Temple using the method described here: https://www.youtube.com/watch?v=tz0b62pkKTk
+Shiny hunt the alpha Crobat in the Wayward Cave using the method described here: https://www.youtube.com/watch?v=tz0b62pkKTk
 
 This program uses audio recognition to detect shinies. And as such, it will also pick up shinies of anything on or near the path to the Crobat.
 - Alpha Crobat
