@@ -55,13 +55,13 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Dex Rec Finder](PokemonSwSh/DexRecFinder.md)                   | Video (Optional) | Yes | Yes |
 ||
 | **Date-Spam Farmers:** |
-| [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)                      || Yes | Yes |
-| [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md)                    || Yes | Yes |
-| Date Spam: Berry Farmer (under development)                                       || Yes | Yes |
-| [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)                      || Yes | Yes |
-| [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)        || Yes | Yes |
-| [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md) || Yes | Yes |
-| [Date Spam: Poké Jobs Farmer](PokemonSwSh/DateSpam-PokeJobsFarmer.md)             || Yes | Yes |
+| [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)                         || Yes | Yes |
+| [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md)                       || Yes | Yes |
+| [Date Spam: Berry Farmer 2 (under development)](PokemonSwSh/DateSpam-BerryFarmer.md) | Video | Yes | Yes |
+| [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)                         || Yes | Yes |
+| [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)           || Yes | Yes |
+| [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)    || Yes | Yes |
+| [Date Spam: Poké Jobs Farmer](PokemonSwSh/DateSpam-PokeJobsFarmer.md)                || Yes | Yes |
 ||
 | **Den Hunting:** |
 | [Beam Reset](PokemonSwSh/BeamReset.md)                        |                  | Yes | Yes |
