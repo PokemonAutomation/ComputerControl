@@ -177,7 +177,7 @@ Audio output is completely optional. It is only for playback. Audio input is opt
 - Some high-end capture cards (such as AVerMedia) do not have audio inputs. They use a proprietary system that fuses the audio channel with the video. Since we do not support this, you will need to run an audio cable from your Switch's headphone jack into your computer's line-in or microphone jacks.
 - Due a quirk* with many cheap capture cards (including the ones we recommend), the left and right audio channels may be reversed. If this is the case for you, try the other "Interleaved Stereo" format.
 
-*This "quirk" causes both Windows and OBS to treat these capture cards as mono-channel audio. While we are able to recover the stereo output by separating the left/right audio channels, we can't always determine which is which - hence the reversed left/right channels.
+\*This "quirk" causes both Windows and OBS to treat these capture cards as mono-channel audio. While we are able to recover the stereo output by separating the left/right audio channels, we can't always determine which is which - hence the reversed left/right channels.
 
 
 ## Step 8: Play around with the keyboard controls.
@@ -239,7 +239,9 @@ However, we have found that setting up the hardware to handle multiple serial po
 
 **Serial ports and Cameras can only be used at one place at a time.**
 
-Both serial ports and cameras (capture cards) can only be used by one application at a time. Therefore you cannot view the same video capture from both OBS and SerialPrograms simultaneously. If you want to do this, use the OBS Virtual Camera.
+Both serial ports and cameras (capture cards) can only be used by one application at a time. Therefore you cannot view the same video capture from both OBS and SerialPrograms simultaneously.
+If you would like to use OBS to stream Pokémon automation, you need to let OBS stream the video window of our program.
+Double clicking on the stream view of our program will pop up the stream view as an independent window. You can then use OBS to capture this window.
 
 The single-use limitation also applies within the same application. When viewing multiple Switch setups simultaneously, both the serial ports and cameras can only be used at one place at a time. If you try to use the same serial port on a second setup, it won't connect. If you try to use the same camera on a second setup, it won't display.
 

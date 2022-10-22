@@ -52,7 +52,7 @@ This guide will not go into detail on how to use OBS. There should be plenty of 
 
 Note: our program used to be able to load video stream from a virtual camera created by OBS, so the video stream went: Switch -> OBS -> our program.
 But as of now (2022) our program no longer supports virtual camera.
-If you would like to use OBS to stream Pokémon automation, you need to let OBS stream on the video window of our program.
-Double clicking on the stream view of our program will pop up the stream view as an independent window. You can use OBS to capture this window.
+If you would like to use OBS to stream Pokémon automation, you need to let OBS stream the video window of our program.
+Double clicking on the stream view of our program will pop up the stream view as an independent window. You can then use OBS to capture this window.
 
 <img src="https://raw.githubusercontent.com/PokemonAutomation/SwSh-Arduino/master/Documentation/Tutorials/images/obs.png" height="600">
