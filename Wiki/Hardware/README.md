@@ -11,7 +11,7 @@ If you already have the hardware, skip ahead to the software tutorial.
 Before you begin, make sure you meet all of the following requirements:
 
 1. You have a working [microcontroller setup](https://github.com/PokemonAutomation/Microcontroller) and you know how to run microcontroller programs. **(DO NOT SKIP the Microcontroller tutorial. It provides the necessary background to run Computer-Control.)**
-2. You have computer running 64-bit Windows. As of this writing, no platforms other than 64-bit Windows are supported.
+2. You have computer running 64-bit Windows or macOS. As of this writing, no other platforms are supported. But if you use Linux, then you may be knowledgeable to adapt our macOS guide to work for your Linux. 
 3. You have a regular Switch (not a Switch Lite) if you want to use programs requiring video feedback.
 4. Be willing to spend an additional $20 - $50 USD for the new hardware.
 
@@ -28,7 +28,7 @@ In order to use computer-control programs, your computer needs to be able to con
 
 The way we do it is by using a [serial connection](https://en.wikipedia.org/wiki/Serial_port) to connect the microcontroller to the computer. This allows the computer to take control of your game console. But some programs also need to see the screen! So a [video capture card](VideoHardware.md) is also needed.
 
-<img src="/Wiki/Hardware/images/serial-setup.jpg">
+<img src="images/serial-setup.jpg">
 
 
 The serial hardware setup will depend on what microcontroller you have.
