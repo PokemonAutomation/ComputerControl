@@ -15,7 +15,7 @@ Setting up serial connection and video capture is the same regardless of what de
 3. Do you know what a .hex file is?
 4. Do you know how to flash your device?
 5. For Windows users, do you know what WinAVR is?
-6. For Windows users, have you ever heard of one of these programs: QMK, TeensyLoader, or FLIP?
+6. Have you ever heard of one of these programs: QMK, TeensyLoader, FLIP or script 00-FlashUnix.sh?
 7. Do you know what the 5-second flash looks like on your device?
 
 **If you answered NO to any of these questions, *STOP RIGHT NOW***. Disconnect everything from your device and go back to the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md) and start over.
