@@ -27,7 +27,7 @@ Before you begin, make sure you meet all of the following requirements:
 
 ## Step 1: HARDWARE ASSEMBLY
 
-Once you have your hardware, you need to make some connections.
+Once you have your hardware, you need to make some connections between your UART cables and the Leonardo. Use the jumper wires you bought to connect the two.
 
 Make the following connections:
 | **UART pin** | **Adafruit UART Wire Color** | **Arduino Leonardo pin** |
