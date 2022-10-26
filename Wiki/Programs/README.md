@@ -108,7 +108,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Egg Hatcher](PokemonSwSh/EggHatcher.md)                                 |       | Yes |     |
 | [Egg Combined 2](PokemonSwSh/EggCombined2.md)                            |       | Yes |     |
 | [Egg Super-Combined 2](PokemonSwSh/EggSuperCombined2.md)                 |       | Yes |     |
-| [Egg Autonomous (under development)](PokemonSwSh/EggAutonomous.md)       | Video | Yes | Yes |
+| [Egg Autonomous (under development)](PokemonSwSh/EggAutonomous.md)       | Video | Yes |     |
 | [God Egg Item Duplication](PokemonSwSh/GodEggItemDuplication.md)         |       | Yes |     |
 | [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md) |       | Yes |     |
 ||
