@@ -33,6 +33,17 @@ Shiny hunt Shaymin using the runaway method. This program is faster than [Legend
 
 After finding a shiny, go to the Switch Home to idle. Turn this off for unattended streaming so that your viewers can see the shiny.
 
+### Use Sound Detection:
+
+Whether to use sound detection to improve shiny detection robustness. Make sure you have proper audio input set.
+
+### Stop On:
+
+Choose when to stop the program. You can set Shiny, NonShiny, Anything or Nothing.
+
+### Video Capture:
+
+Whether to take a video of the encounter if it is a shiny.
 
 ## Advanced Settings:
 These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.

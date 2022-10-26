@@ -48,6 +48,21 @@ If you are playing in an Asian language (Japanese, Korean, Chinese), set your vi
 
 This is the Dpad button that is used to quickly trigger the fishing rod.
 
+### Use Sound Detection:
+
+Whether to use sound detection to improve shiny detection robustness. Make sure you have proper audio input set.
+
+### Stop On:
+
+Choose when to stop the program. You can set Shiny, NonShiny, Anything or Nothing.
+
+### Overrides:
+
+Set more complex program action that overrides the default behavior.
+
+### Video Capture:
+
+Whether to take a video of the encounter if it is a shiny.
 
 ## Advanced Settings:
 These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.

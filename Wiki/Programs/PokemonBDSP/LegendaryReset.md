@@ -74,6 +74,13 @@ Walk up while mashing A to trigger the encounter.
 
 Whether to use sound detection to improve shiny detection robustness. Make sure you have proper audio input set.
 
+### Stop On:
+
+Choose when to stop the program. You can set Shiny, NonShiny, Anything or Nothing.
+
+### Video Capture:
+
+Whether to take a video of the encounter if it is a shiny.
 
 ## Credits
 
