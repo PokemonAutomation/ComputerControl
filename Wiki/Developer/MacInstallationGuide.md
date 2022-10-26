@@ -169,11 +169,21 @@ Execute the command in Terminal:
 ```
 cmake --build . -j 10
 ```
-to compile and build the program in "build_mac" folder. If successful, it will print 
+to compile and build the program in "build_mac" folder.
+It will take a while to build dependent on your computer speed.
+
+If successful, it will print 
 ```
 [100%] Built target SerialPrograms
 ```
 in the end in Terminal.
+
+We have built the program on our mac computers, so in most cases you won't see any error during building.
+But in case your machine has very different hardware or software environment as ours,
+and as a result it prints out error messages about the code,
+please reach out to us in [our Discord server](https://discord.gg/cQ4gWxN) for help.
+
+### Run Program
 
 Now **SerialPrograms** is built! Run the program in Terminal by the command
 ```
