@@ -159,7 +159,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Egg Hatcher](PokemonBDSP/EggHatcher.md)                              |       | Yes | Yes |
 | [Egg Autonomous](PokemonBDSP/EggAutonomous.md)                        | Video | Yes | Yes |
 ||
-| **Glitches (v1.1.2):** |
+| **Glitches (v1.1.3):** |
 | [Activate Menu Glitch (1.1.3)](PokemonBDSP/ActivateMenuGlitch-113.md)     | Video | Yes | Yes |
 | [Clone Items (Box Copy Method 2)](PokemonBDSP/CloneItemsBoxCopy2.md)      | Video | Yes | Yes |
 ||
