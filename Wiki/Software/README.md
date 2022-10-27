@@ -75,7 +75,7 @@ After that, you will see the driver GUI shows installation success.
 
 Here is an example of a setup after steps 4 and 5.
 
-<img src="/Wiki/Hardware/images/serial-setup.jpg" height="600">
+<img src="../Hardware/images/serial-setup.jpg" height="600">
 
 ## Step 6: Use SerialPrograms.
 
@@ -117,10 +117,15 @@ Common serial connection errors are:
 - The device is not running a compatible program.
 
 Common video capture errors are:
-- The capture card is in use by another program.
-- The capture card is not receiving enough power over the USB connection.
+- The capture card is in use by another software program. Try closing them.
 - There are multiple capture cards connected to the same physical USB port on the computer (by means of a hub). (see [multiple capture cards](#multiple-switch-considerations))
+- The USB port is broken or does not provide enough power to the capture card. Try other USB ports.
+- Check your connection is secure for cables and capure card.
+- The HDMI cable may be broken. Try a new cable.
 
+To rule out possible video capture errors:
+- Check if the PC sees the capture card via Windows Device Manager (or other device management software).
+- Check if the vide stream is available on OBS (or other streaming software).
 
 ## Step 8: Setup sound.
 
