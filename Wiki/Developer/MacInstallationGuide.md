@@ -53,7 +53,7 @@ Note: if the prompted text after installation finishes has a different set of co
 If you don't know how to do that, contact [us]((https://discord.gg/cQ4gWxN).
 
 You can verify Homebrew installation is successful by executing `brew help` in Terminal.
-You should see a screen of `Homebrew` instruction shows up like
+You should see a screen of Homebrew instruction shows up like
 ```
 Example usage:
   brew search TEXT|/REGEX/
@@ -142,6 +142,24 @@ in Terminal. It will list the files and folders in "Arduino-Source" folder.
 Go to our [Packages Github webpage](https://github.com/PokemonAutomation/Packages) and download the data same as before.
 
 The downloaded data will be inside a folder called "Packages". Inside it there is a sub-folder called "SerialPrograms". Further inside is a sub-sub-folder "Resources". Move this "Resources" folder into the "Arduino-Source" folder you downloaded before. Make sure it is placed directly inside "Arduino-Source", not deeper into the folder hierarchy.
+
+### Verify Clang Version
+
+Before building the code of the automation program, make sure the software that builds the code into program is up-to-date. This software is called compilers by programmers. Apple provides a compiler called Clang on macOS. Verify its version by executing the command in Terminal:
+```
+g++ --version
+```
+You should see the output like
+```
+Apple clang version 14.0.0 (clang-1400.0.29.102)
+Target: arm64-apple-darwin21.6.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools
+```
+The exact version, target and installed directory may be different on your machine.
+But as long as your Clang version is higher than 13.0.0, you should be fine to proceed.
+
+If you find your Clang version is too low, check this [tutorial](UpdateClang.md) to address it.
 
 ### Configure Program
 

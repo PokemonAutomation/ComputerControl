@@ -46,11 +46,13 @@ If you intend to do any serious gameplay from your computer, it is highly recomm
 
 This step is optional since it isn't needed for Pokémon automation, but recommended anyway for everyone who has a video capture device.
 
-Once you have your video hardware, download and install [OBS](https://obsproject.com/download). Learn how to use OBS, as it's the standard for streaming recording and will be useful for troubleshooting your hardware setup. Aside from streaming their gameplay, many users use OBS to record their shiny hunts to determine if a shiny is star or square before deciding whether to catch it or pass it up.
+Once you have your video hardware, download and install [OBS](https://obsproject.com/download). Learn how to use OBS, as it's the standard for streaming recording and will be useful for troubleshooting your hardware setup. If you can get OBS to access your Switch video stream, then your capture card is properly recognized by your computer and is ready to use.
+
+Aside from streaming their gameplay, many users use OBS to record their shiny hunts to determine if a shiny is star or square before deciding whether to catch it or pass it up.
 
 This guide will not go into detail on how to use OBS. There should be plenty of other online resources for that.
 
-Note: our program used to be able to load video stream from a virtual camera created by OBS, so the video stream went: Switch -> OBS -> our program.
+Note: our program used to be able to load video stream from a virtual camera created by OBS, so the video stream went: Switch -> OBS virtual camera -> our program.
 But as of now (2022) our program no longer supports virtual camera.
 If you would like to use OBS to stream Pokémon automation, you need to let OBS stream the video window of our program.
 Double clicking on the stream view of our program will pop up the stream view as an independent window. You can then use OBS to capture this window.
