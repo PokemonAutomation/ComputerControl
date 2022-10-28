@@ -211,6 +211,20 @@ Now **SerialPrograms** is built! Run the program in Terminal by the command
 Enjoy shiny hunting!
 
 
+---
+
+
+### Additional Notes
+
+**macOS Security Policy**
+
+On newer macOS, external programs that Apple do not trust are prevented from running by the default security policy. This in most cases is not an issue for our Pokémon automation program because it is built from source on your own. However, if you would like to copy the program into a new name, under the strict security policy the copied program cannot be run. On Terminal it will output sth. like
+```
+zsh: killed     ./<New Name of SerialPrograms>
+```
+If you would like to run the automation program under a new name, you can disable the security policy following the [guide from Sony](https://support.d-imaging.sony.co.jp/mac/security/11/en/index.html) (yes, the corporation that produces PS5).
+
+
 
 
 
