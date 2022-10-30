@@ -64,7 +64,7 @@ We set the text filename to start with "\_" so the test framework only finds the
 run the test function with the image file path as the input argument.
 Inside the function we can then use the input image file path to find the text file path and load the target Pokémon slugs.
 
-### Selet Tests
+### Select Tests
 
 You can also selectively run a subset of the tests by setting
 ```
