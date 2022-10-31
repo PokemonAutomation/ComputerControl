@@ -6,6 +6,8 @@
 
 This program will perform RNG manipulation to get rare balls from the Cram-o-matic.
 
+Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/1036457871480729620/Cram-o-matic.mp4
+
 <img src="images/CramomaticRNG-0.png">
 
 ### Setup of Settings
