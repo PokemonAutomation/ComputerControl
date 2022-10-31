@@ -14,7 +14,8 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/1036457871
 
 1. Screen size: Must be 100% within the Switch settings
 2. Video Resolution: 1280 x 720 or higher in program settings
-3. Text Speed: Fast
+3. System time: Un-synced (the program touches the date to prevent date-skips which will affect RNG seeds)
+4. Text Speed: Fast
 
 ### Instructions
 
