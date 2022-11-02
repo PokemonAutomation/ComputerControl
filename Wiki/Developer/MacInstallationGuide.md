@@ -159,8 +159,8 @@ The downloaded code should be in a folder called "Arduino-Source".
 
 ### Download Program Data
 
-**SerialPrograms** need some extra data to run.
-Go to our [Packages Github webpage](https://github.com/PokemonAutomation/Packages) and download the data same as before.
+**SerialPrograms** need some extra data (images, audio files and Pokémon data text files) to run.
+Go to our [Packages Github webpage](https://github.com/PokemonAutomation/Packages) and download the data same as before but you don't need to pick the versions.
 
 The downloaded data will be inside a folder called "Packages". Inside it there is a sub-folder called "SerialPrograms". Further inside is a sub-sub-folder "Resources". Move this "Resources" folder into the "Arduino-Source" folder you downloaded before. Make sure it is placed directly inside "Arduino-Source", not deeper into the folder hierarchy.
 
