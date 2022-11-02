@@ -150,7 +150,7 @@ As the time of updating this guide (Nov 1, 2022), the newest version is "v0.18".
 Once you select a version, the text of the dropdown menu will be changed from "main" to that version,
 and the code you download from the "Code" button will be from that version.
 Pick "Download ZIP" when clicking the "Code" button to download the code as a ZIP file.
-The default ZIP filename will be "Arduino-Source-<VERSION_NUMBER>.zip"
+The default ZIP filename will be "Arduino-Source-\<VERSION_NUMBER\>.zip"
 
 Place the code into a suitable folder you like. But avoid placing it in a "remote/cloud" folder like in OneDrive. Cloud folders may give some trouble for programs running on those folders.
 If you download as a ZIP, unzip it to a suitable folder.
