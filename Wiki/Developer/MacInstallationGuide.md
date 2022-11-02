@@ -113,36 +113,6 @@ OpenCV is a software package for various computer vision algorithms. We need it 
 brew install opencv
 ```
 
-### Download Codebase
-
-Go to **SerialPrograms** Github [webpage](https://github.com/PokemonAutomation/Arduino-Source).
-There's a green button "Code". Click it to show download options.
-
-If you know how to use Git to download it, you can use Git. Otherwise, download it as a ZIP file.
-Place the code into a suitable folder you like. But avoid placing it in a "remote/cloud" folder like in OneDrive. Cloud folders may give some trouble for programs running on those folders.
-If you download as a ZIP, unzip it to a suitable folder.
-
-The downloaded code should be in a folder called "Arduino-Source".
-
-Click the folder to select it in Finder App. Command-C to copy the folder, then go to Terminal, type `cd`, followed by a Space key, then Command-V to paste the folder. It actually paste the folder path in macOS file system to the Terminal. So you would have
-```
-cd <YOUR_PATH_TO_ARDUINO-SOURCE_FOLDER>
-```
-in your Terminal. Press Enter to execute it. 
-
-`cd` command moves the current active folder in Terminal to a new folder. Now your Terminal are running on "Arduino-Source" folder. Verify this by executing
-```
-ls
-```
-in Terminal. It will list the files and folders in "Arduino-Source" folder.
-
-### Download Program data
-
-**SerialPrograms** need some extra data to run.
-Go to our [Packages Github webpage](https://github.com/PokemonAutomation/Packages) and download the data same as before.
-
-The downloaded data will be inside a folder called "Packages". Inside it there is a sub-folder called "SerialPrograms". Further inside is a sub-sub-folder "Resources". Move this "Resources" folder into the "Arduino-Source" folder you downloaded before. Make sure it is placed directly inside "Arduino-Source", not deeper into the folder hierarchy.
-
 ### Verify Clang Version
 
 Before building the code of the automation program, make sure the software that builds the code into program is up-to-date. This software is called compilers by programmers. Apple provides a compiler called Clang on macOS. Verify its version by executing the command in Terminal:
@@ -161,13 +131,64 @@ But as long as your Clang version is higher than 13.0.0, you should be fine to p
 
 If you find your Clang version is too low, check this [tutorial](UpdateClang.md) to address it.
 
+### Download Codebase
+
+Go to **SerialPrograms** Github [webpage](https://github.com/PokemonAutomation/Arduino-Source).
+There's a green button "Code". Click it to show download options.
+
+#### Use Git:
+If you know how to use Git to download code from Github, you can use Git and pick a release version based on Git branch names.
+
+#### Download directly as a zip file:
+Otherwise, download code directly as follows.
+By default, when you visit this webpage, it lets you download the newest under-development version.
+The version may contain automation programs that are not fully developed or have major bugs.
+To use one of our stable release versions, first check the version numbers by pressing the dropdown menu currently shown as "main" on the webpage,
+on the same row as the green "Code" button.
+The dropdown menu shows recent version numbers.
+As the time of updating this guide (Nov 1, 2022), the newest version is "v0.18". You can pick the latest version you find.
+Once you select a version, the text of the dropdown menu will be changed from "main" to that version,
+and the code you download from the "Code" button will be from that version.
+Pick "Download ZIP" when clicking the "Code" button to download the code as a ZIP file.
+The default ZIP filename will be "Arduino-Source-<VERSION_NUMBER>.zip"
+
+Place the code into a suitable folder you like. But avoid placing it in a "remote/cloud" folder like in OneDrive. Cloud folders may give some trouble for programs running on those folders.
+If you download as a ZIP, unzip it to a suitable folder.
+
+The downloaded code should be in a folder called "Arduino-Source".
+
+### Download Program Data
+
+**SerialPrograms** need some extra data to run.
+Go to our [Packages Github webpage](https://github.com/PokemonAutomation/Packages) and download the data same as before.
+
+The downloaded data will be inside a folder called "Packages". Inside it there is a sub-folder called "SerialPrograms". Further inside is a sub-sub-folder "Resources". Move this "Resources" folder into the "Arduino-Source" folder you downloaded before. Make sure it is placed directly inside "Arduino-Source", not deeper into the folder hierarchy.
+
 ### Configure Program
 
-Execute the command in Terminal:
+#### Enter source-code folder:
+
+Click the "Arduino-Source" folder to select it in Finder App. Command-C to copy the folder, then go to Terminal, type `cd`, followed by a Space key, then Command-V to paste the folder. It actually paste the folder path in macOS file system to the Terminal. So you would have
 ```
-mkdir build_mac; cd build_mac
+cd <YOUR_PATH_TO_ARDUINO-SOURCE_FOLDER>
+```
+in your Terminal. Press Enter to execute it. 
+
+`cd` command moves the current active folder in Terminal to a new folder. Now your Terminal are running on "Arduino-Source" folder. Verify this by executing
+```
+ls
+```
+in Terminal. It will list the files and folders in "Arduino-Source" folder.
+
+#### Create a folder to host compiled program:
+
+Make sure the current active folder in Terminal is the "Arduino-Source" folder, then execute the command in Terminal:
+```
+mkdir -p build_mac; cd build_mac
 ```
 This makes a new folder called "build_mac" in "Arduino-Source" and move the Terminal's current active folder to the new folder.
+
+#### Use CMake to Configure Program:
 
 Execute the command in Terminal:
 ```
@@ -183,7 +204,7 @@ This command uses CMake to configure our code to prepare for compilation. If suc
 
 ### Compile Program
 
-Execute the command in Terminal:
+Make sure the current active folder in Terminal is "build_mac", then execute the command in Terminal:
 ```
 cmake --build . -j 10
 ```
@@ -209,3 +230,19 @@ Now **SerialPrograms** is built! Run the program in Terminal by the command
 ```
 
 Enjoy shiny hunting!
+
+---------------------
+
+### Upgrade to Newest Version
+
+To upgrade, in most cases you just need to repeat the process starting at [Download Codebase](#download-codebase).
+
+In rare cases when we add new software library dependencies, just follow the guide to install those new libraries.
+If we upgrade our Qt dependency to a higher Qt version, use Homebrew to upgrade it by running
+```
+brew upgrade qt6
+```
+in Terminal.
+
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
