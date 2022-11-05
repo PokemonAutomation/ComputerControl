@@ -1,7 +1,5 @@
 # Seed Finder
 
-(This program is still under development and is not yet available.)
-
 ## Program Description
 
 Find the current rng state based on Orbeetle's attack animations. 
