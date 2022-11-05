@@ -1,7 +1,5 @@
 # Date Spam - Berry Farmer 2
 
-(This program is still under development and is not yet available.)
-
 **Related Programs:**
 - **Microcontroller:** [Date Spam - Berry Farmer](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-BerryFarmer.md)
 - **Computer Control:** [Date Spam - Berry Farmer](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-BerryFarmer.md)
