@@ -1,7 +1,5 @@
 # Pokemon Home Box Sorter
 
-(This program is still under development and is not yet available. Track its progress here: https://github.com/PokemonAutomation/ComputerControl/issues/84)
-
 ## Program Description
 
 This program goes through each Pokémon summary page in HOME. It will check for the National Dex number to sort Pokémon starting at the current box and ending after a set number of boxes chosen by the user.
