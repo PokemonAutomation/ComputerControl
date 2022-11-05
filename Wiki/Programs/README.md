@@ -33,7 +33,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
 | --- | --- | --- | --- |
 | [Page Swap](PokemonHome/PageSwap.md)                       |       | Yes | Yes |
-| [Box Sorter (under development)](PokemonHome/BoxSorter.md) | Video | Yes | Yes |
+| [Box Sorter](PokemonHome/BoxSorter.md)                     | Video | Yes | Yes |
 
 ## Pokémon Sword/Shield
 
@@ -57,7 +57,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | **Date-Spam Farmers:** |
 | [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)                          || Yes | Yes |
 | [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md)                        || Yes | Yes |
-| [Date Spam: Berry Farmer 2 (under development)](PokemonSwSh/DateSpam-BerryFarmer2.md) | Video | Yes | Yes |
+| [Date Spam: Berry Farmer 2](PokemonSwSh/DateSpam-BerryFarmer2.md)              | Video | Yes | Yes |
 | [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)                          || Yes | Yes |
 | [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)            || Yes | Yes |
 | [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)     || Yes | Yes |
@@ -108,13 +108,13 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Egg Hatcher](PokemonSwSh/EggHatcher.md)                                 |       | Yes |     |
 | [Egg Combined 2](PokemonSwSh/EggCombined2.md)                            |       | Yes |     |
 | [Egg Super-Combined 2](PokemonSwSh/EggSuperCombined2.md)                 |       | Yes |     |
-| [Egg Autonomous (under development)](PokemonSwSh/EggAutonomous.md)       | Video | Yes |     |
+| [Egg Autonomous](PokemonSwSh/EggAutonomous.md)                           | Video | Yes |     |
 | [God Egg Item Duplication](PokemonSwSh/GodEggItemDuplication.md)         |       | Yes |     |
 | [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md) |       | Yes |     |
 ||
 | **RNG:** |
-| [RNG Seed Finder (under development)](PokemonSwSh/SeedFinder.md)         | Video | Yes | Yes |
-| [Cram-o-matic RNG (under development)](PokemonSwSh/CramomaticRNG.md)     | Video | Yes | Yes |
+| [RNG Seed Finder](PokemonSwSh/SeedFinder.md)                             | Video | Yes | Yes |
+| [Cram-o-matic RNG](PokemonSwSh/CramomaticRNG.md)                         | Video | Yes | Yes |
 ||
 | **Multi-Switch Programs:** |
 | Synchronized Spinning                                                    || Yes | Yes |
