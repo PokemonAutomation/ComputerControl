@@ -52,7 +52,7 @@ This program will detect shiny Pokémon, however, a better alternative for this 
 
 ### Number of Fetch Attempts:
 
-How many times the Tree will be shaken.
+How many times the program will attempt to fetch berries.
 
 
 ### Save Every this many Fetches:
