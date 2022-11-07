@@ -1,7 +1,5 @@
 # Egg Autonomous
 
-(This program is still under development and is not yet available. Track its progress here: https://github.com/PokemonAutomation/ComputerControl/issues/28)
-
 ## Program Description
 
 A fully autonomous bot that uses visual feedback to fetch and hatch eggs. It will automatically detect and keep shinies and can also be configured to keep specific gender and IV spreads.
