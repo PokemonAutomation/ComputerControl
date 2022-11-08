@@ -9,7 +9,7 @@ The microcontroller and computer-control versions of this program are functional
 
 ## Program Description
 
-Farm the daily highlight watt trader in Crown Tundra. It requires activating the VS glitch.
+Farm the daily highlight watt trader in Crown Tundra. It requires activating the Y-Comm glitch.
 
 This program runs at 15.8 seconds per purchase.
 
