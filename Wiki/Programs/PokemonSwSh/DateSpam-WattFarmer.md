@@ -9,7 +9,7 @@ The microcontroller and computer-control versions of this program are functional
 
 ## Program Description
 
-WattFarmer will farm watts from a wishing piece beam. It requires activating the VS glitch.
+WattFarmer will farm watts from a wishing piece beam. It requires activating the Y-Comm glitch.
 
 This program runs at 7.2 seconds per fetch. This is about 1 million watts/hour at 2000/fetch.
 
