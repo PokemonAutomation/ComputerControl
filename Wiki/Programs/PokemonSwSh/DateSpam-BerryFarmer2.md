@@ -11,7 +11,7 @@ This version of the program uses sound feedback to be more efficient.
 
 ## Program Description
 
-BerryFarmer2 will farm berries from a tree. It requires activating the Y-Comm.
+BerryFarmer2 will farm berries from a tree. It requires activating the Y-Comm glitch.
 
 Under optimal conditions, this program runs at an average of around 9 seconds per fetch.
 
