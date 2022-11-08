@@ -10,7 +10,7 @@ The microcontroller and computer-control versions of this program are functional
 
 ## Program Description
 
-BerryFarmer will farm berries from a tree. It requires activating the Y-Comm.
+BerryFarmer will farm berries from a tree. It requires activating the Y-Comm glitch.
 
 This program runs at 13.4 seconds per fetch.
 
