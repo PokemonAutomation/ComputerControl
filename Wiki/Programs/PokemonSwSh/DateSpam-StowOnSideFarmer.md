@@ -9,7 +9,7 @@ The microcontroller and computer-control versions of this program are functional
 
 ## Program Description
 
-Farm the Stow-on-Side bargains dealer. It requires activating the VS glitch.
+Farm the Stow-on-Side bargains dealer. It requires activating the Y-Comm glitch.
 
 This program runs at 14.2 seconds per purchase.
 
