@@ -9,7 +9,7 @@ The microcontroller and computer-control versions of this program are functional
 
 ## Program Description
 
-LotoFarmer will farm the loto. It requires activating the VS glitch.
+LotoFarmer will farm the loto. It requires activating the Y-Comm glitch.
 
 This program runs at 18.7 seconds per attempt.
 
