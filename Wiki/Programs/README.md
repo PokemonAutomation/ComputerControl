@@ -212,7 +212,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | Pokémon Settings | --- | --- | --- |
 ||
 | **Farming:** |
-| [Tera Self Farmer (in development)](PokemonLA/TeraSelfFarmer.md)      | Video         | Yes | Yes |
+| [Tera Self Farmer (in development)](PokemonSV/TeraSelfFarmer.md)      | Video         | Yes | Yes |
 
 
 <hr>
