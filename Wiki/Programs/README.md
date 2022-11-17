@@ -205,6 +205,16 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Shiny Hunt - Custom Path](PokemonLA/ShinyHunt-CustomPath.md)         | Video + Audio | Yes | Yes |
 
 
+## Pokémon Scarlet and Violet
+
+| **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
+| --- | --- | --- | --- |
+| Pokémon Settings | --- | --- | --- |
+||
+| **Farming:** |
+| [Tera Self Farmer (in development)](PokemonLA/TeraSelfFarmer.md)      | Video         | Yes | Yes |
+
+
 <hr>
 
 **Discord Server:** 
