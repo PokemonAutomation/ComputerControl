@@ -8,6 +8,8 @@ This program will date-spam for tera raids and battle them by mashing A (the fir
 
 This program is useful for farming items from easier raids. It cannot be used to beat hard raids.
 
+This program cannot detect shinies. So it will kill them unless you manually stop the program.
+
 <img src="images/TeraSelfFarmer-0.png">
 
 ### Setup of Settings
