@@ -1,4 +1,4 @@
-# TeraSelfFarmer
+# Tera Self Farmer
 
 This program is currently in development and is not yet available.
 
