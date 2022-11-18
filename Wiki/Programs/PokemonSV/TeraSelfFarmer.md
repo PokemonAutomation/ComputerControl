@@ -19,10 +19,12 @@ This program cannot detect shinies. So it will kill them unless you manually sto
 
 ### Instructions
 
-1. You must be standing and facing an active Tera raid crystal in the overworld.
+1. You must be facing an active Tera raid crystal on the *opposite side* of the black entrance.*
 2. Your location should be safe from getting attacked by wild Pokémon.
 3. Your lead Pokémon should be able to reliably beat raids by spamming its first move. Pick a move that is strong and has few types resistant to it.
 4. Start the program in game.
+
+*After completing a raid, your character will rotate in a direction as if you were exiting the crystal through the entrance. Thus you must be facing the other side or you will be rotated away from the crystal such that you won't be able to interact with it anymore.
 
 
 ## Options
