@@ -16,6 +16,8 @@ This program cannot detect shinies. So it will kill them unless you manually sto
 
 1. Text Speed: Fast
 2. System time: Un-synced
+3. Nicknaming must be off.
+4. Auto-deposit must be set to manual.
 
 ### Instructions
 
