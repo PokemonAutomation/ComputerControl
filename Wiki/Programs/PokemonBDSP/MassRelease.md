@@ -15,7 +15,6 @@ MassRelease will release entire boxes of Pokémon. The main use case is getting 
 ### Setup of Settings
 
 1. Text Speed: Fast
-2. The "Send to Boxes" option must be set to "Automatic".
 
 ### Box Setup
 
