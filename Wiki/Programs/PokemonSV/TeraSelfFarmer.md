@@ -6,7 +6,7 @@ This program will date-spam for tera raids and battle them by mashing A (the fir
 
 This program is useful for farming items from easier raids. It cannot be used to beat hard raids.
 
-This program cannot detect shinies. So it will kill them unless you manually stop the program.
+This program can only detect shinies if it is set to catch the Pokémon. Thus it will skip all shinies in item-only mode.
 
 <img src="images/TeraSelfFarmer-0.png">
 
@@ -17,6 +17,7 @@ This program cannot detect shinies. So it will kill them unless you manually sto
 3. Nicknaming must be off.
 4. Auto-deposit must be set to manual.
 5. Your party must be full.
+6. The language in the option must match your in-game language. The program needs to read the ball names.
 
 ### Instructions
 
@@ -36,6 +37,16 @@ This program cannot detect shinies. So it will kill them unless you manually sto
 - Mode 2: Catch everything using default ball.
 
 Mode 2 will look to see if what you caught is shiny and will send notifications.
+
+
+### Game Language:
+
+The language of your game. This is needed to read the ball names to select the correct ball.
+
+
+### Ball Select:
+
+What ball to use to catch each raid Pokémon. The program will automatically stop if it cannot find this ball. (which will happen if you run out)
 
 
 ### Fix Clock on Catch:
