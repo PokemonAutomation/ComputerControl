@@ -13,7 +13,7 @@ Mass release boxes of Pokémon.
 ### Box Setup
 
 1. Place boxes of Pokémon to be released consecutively.
-2. All boxes marked for deletion do not need to be full. This program will automatically skip empty slots.
+2. Boxes marked for deletion do not need to be full. This program will automatically skip empty slots.
 
 ### Instructions
 
