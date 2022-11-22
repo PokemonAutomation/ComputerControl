@@ -212,10 +212,13 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | Pokémon Settings | --- | --- | --- |
 ||
 | **General:** |
-| [Mass Release](PokemonSV/MassRelease.md)             | Video         | Yes | Yes |
+| [Mass Release](PokemonSV/MassRelease.md)                              | Video         | Yes | Yes |
+||
+| **Trading:** |
+| [Self Box Trade](PokemonSV/SelfBoxTrade.md)                           | Video         | Yes | Yes |
 ||
 | **Farming:** |
-| [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)      | Video         | Yes | Yes |
+| [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Yes |
 
 
 <hr>
