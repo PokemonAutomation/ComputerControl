@@ -21,7 +21,7 @@ This program can only detect shinies if it is set to catch the Pokémon. Thus it
 
 ### Instructions
 
-1. You must be facing an active Tera raid crystal facing south, or standing directly on a crystal spawn spot.
+1. You must be facing an active Tera raid crystal facing south, or standing directly on a crystal spawn spot.*
 2. Your location should be safe from getting attacked by wild Pokémon.
 3. Your lead Pokémon should be able to reliably beat raids by spamming its first move. Pick a move that is strong and has few types resistant to it.
 4. Start the program in game.
@@ -34,7 +34,7 @@ This program can only detect shinies if it is set to catch the Pokémon. Thus it
 ### Mode:
 
 - Mode 1: Items only. Don't catch anything.
-- Mode 2: Catch everything using default ball.
+- Mode 2: Catch everything using the specified ball.
 
 Mode 2 will look to see if what you caught is shiny and will send notifications.
 
