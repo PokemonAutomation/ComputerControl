@@ -20,7 +20,6 @@ This program supports multiple Switches. So if you want to be an even bigger ass
 - The code entry pad must be up.
 - The cursor must be over the "1" digit.
 - No digits or characters have been entered yet.
-- Plug in the Arduino/Teensy and it will enter the code.
 - Start the program.
 
 
