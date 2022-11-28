@@ -220,7 +220,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | **Farming:** |
 | [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Yes |
 ||
-| **Mulltiplayer:** |
+| **Multiplayer:** |
 | [Fast Code Entry (FCE) (in development)](PokemonSV/FastCodeEntry.md)  | Video         | Yes | Yes |
 | [Auto-Host (in development)](PokemonSV/AutoHost.md)                   | Video         | Yes | Yes |
 
