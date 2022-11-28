@@ -38,10 +38,12 @@ Once you find a shiny raid, you need to save in front of the crystal. Note the c
 
 To host your shiny raid, make sure your raid is still there. If it isn't, close the game, set the date back to what it was when you first found it, then reload the game.
 
-When you host online with a link-code, the code is always randomized. For the purpose of auto-hosting, you will need to either stream the live-host or use the Discord notifications to communicate the raid code to your audience. For speed and convenience for [Fast Code Entry (FCE)](FastCodeEntry.md) users, the notifications will include the code as copy-pastable text. (The program will read the code from the video feed using optical character recognition.)
+When you host online with a link-code, the code is always randomized. For the purpose of auto-hosting, you will need to either stream the auto-host or use the Discord notifications to communicate the raid code to your audience.
+
+For speed and convenience for [Fast Code Entry (FCE)](FastCodeEntry.md) users, the notifications will include the code as copy-pastable text. (The program will read the code from the video feed using optical character recognition.)
 
 
-Notes about Tera raid retention:
+**Notes about Tera raid retention:**
 
 1. Raids always rollover when the date changes forward in-game.
 2. To set your date back, always do it with the game closed.
