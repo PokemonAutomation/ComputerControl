@@ -63,7 +63,7 @@ For speed and convenience for [Fast Code Entry (FCE)](FastCodeEntry.md) users, t
 
 ### Instructions
 
-1. You are standing in front and facing a Tera crystal.
+1. You are standing in front of and facing a Tera crystal.
 2. You are saved in this position.
 3. You are safe from being attacked by wild Pokémon.
 4. You are in the overworld. (not in the menus)
