@@ -35,8 +35,11 @@ This program can only detect shinies if it is set to catch the Pokémon. Thus it
 
 - Mode 1: Items only. Don't catch anything.
 - Mode 2: Catch everything using the specified ball.
+- Mode 3: Shiny hunt.
 
 Mode 2 will look to see if what you caught is shiny and will send notifications.
+
+Mode 3 will save the game before each raid. The it will catch everything and check for shiny. If it sees a shiny, it immediately stops the program. Because it saved the game prior to the raid, you can reset to recover the shiny raid which can then be re-hosted. (see [Auto-Hosting](AutoHost.md))
 
 
 ### Game Language:
