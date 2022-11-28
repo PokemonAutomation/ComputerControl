@@ -43,7 +43,7 @@ When you host online with a link-code, the code is always randomized. For the pu
 For speed and convenience for [Fast Code Entry (FCE)](FastCodeEntry.md) users, the notifications will include the code as copy-pastable text. (The program will read the code from the video feed using optical character recognition.)
 
 
-**Notes about Tera raid retention:**
+**Notes about Tera Raid Retention:**
 
 1. Raids always rollover when the date changes forward in-game.
 2. To set your date back, always do it with the game closed.
