@@ -15,7 +15,7 @@ This is one of the most evil programs. FastCodeEntry can enter any 8-digit raid 
 
 So in all cases, this is fast enough to muscle your way into people's coded raids at superhuman speeds.
 
-> *By using this program, you agree that you are an asshole. Furthermore, you will be required to embrace your asshole status by flaunting it in front of all the people you've blocked out of raids.*
+***By using this program, you agree that you are an asshole. Furthermore, you will be required to embrace your asshole status by flaunting it in front of all the people you've blocked out of raids.***
 
 This is the same code entry routine that's used by the auto-hosts. But as a standalone program, it is much more dangerous and morally reprehensible.
 
