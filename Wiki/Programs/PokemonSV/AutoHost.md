@@ -32,7 +32,7 @@ There are currently three main ways to do it without hacking:
 
 1. Manual checking, i.e. brute-force. (slow)
 2. Use [Tera Farmer](TeraSelfFarmer.md) or [Ride Cloner](RideCloner-101.md) and set them to stop when shiny raid is found. (slowest, but automated)
-3. Use CFW scanning. (very fast, but required hacked Switch to read memory)
+3. Use CFW scanning. (very fast, but requires a hacked Switch to read memory)
 
 Once you find a shiny raid, you need to save in front of the crystal. Note the current date as you will need to keep the date on this day to retain the raid.
 
