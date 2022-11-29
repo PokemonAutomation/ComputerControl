@@ -225,7 +225,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Auto-Host (in development)](PokemonSV/AutoHost.md)                   | Video         | Yes | Yes |
 ||
 | **Glitches:** |
-| [Ride Cloner (in development)](PokemonSV/RideCloner.md)               | Video         | Yes | Yes |
+| [Ride Cloner (in development)](PokemonSV/RideCloner-101.md)           | Video         | Yes | Yes |
 
 
 <hr>
