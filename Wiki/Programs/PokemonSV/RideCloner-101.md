@@ -71,7 +71,7 @@ What ball to use to catch each raid Pokémon. The program will automatically sto
 Fix the time when catching so the caught date will be correct.
 
 
-### Fix Clock on Catch:
+### A-to-B Delay:
 
 This is the delay between the A and B presses that activate the glitch.
 
