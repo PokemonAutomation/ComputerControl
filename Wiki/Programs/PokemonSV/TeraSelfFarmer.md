@@ -35,16 +35,18 @@ This program can only detect shinies if it is set to catch the Pokémon. Thus it
 
 - Mode 1: Items only. Don't catch anything.
 - Mode 2: Catch everything using the specified ball.
-- Mode 3: Shiny hunt.
 
 Mode 2 will look to see if what you caught is shiny and will send notifications.
-
-Mode 3 will save the game before each raid. The it will catch everything and check for shiny. If it sees a shiny, it immediately stops the program. Because it saved the game prior to the raid, you can reset to recover the shiny raid which can then be re-hosted. (see [Auto-Hosting](AutoHost.md))
 
 
 ### Game Language:
 
 The language of your game. This is needed to read the ball names to select the correct ball.
+
+
+### Max Stars:
+
+Skip raids with more than this many stars to save time since you're likely to lose. 4 star raids seem to be the limit of what can be beaten with this program.
 
 
 ### Ball Select:
@@ -55,11 +57,6 @@ What ball to use to catch each raid Pokémon. The program will automatically sto
 ### Fix Clock on Catch:
 
 Fix the time when catching so the caught date will be correct.
-
-
-### Max Stars:
-
-Skip raids with more than this many stars to save time since you're likely to lose. 4 star raids seem to be the limit of what can be beaten with this program.
 
 
 ## Credits
