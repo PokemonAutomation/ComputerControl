@@ -6,7 +6,7 @@
 
 ## Program Description
 
-(Tes, there is a newer and faster method. But we have not automated that yet.)
+(Yes, there is a newer and faster method. But we have not automated that yet.)
 
 This program automates the legendary cloning part of this video: https://www.youtube.com/watch?v=3XHD_Cqw9Rk
 
