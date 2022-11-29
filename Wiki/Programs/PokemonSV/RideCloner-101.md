@@ -14,6 +14,8 @@ So this program will clone your ride legendary into your boxes. You will need to
 
 This program catches Pokémon the same way as the [Tera Farmer](TeraSelfFarmer.md). It day skips in front of the Tera crystal until one spawns, then it beats the raid, catches the Pokémon and inserts it in your party replaying your ride legendary. This program will also check shininess of the raid Pokémon and thus can be used to simultaneously shiny-hunt for hostable shiny raids.
 
+**Note that this glitch is very likely to be patched in a future update. Thus it is versioned as 1.0.1.**
+
 
 ---
 
