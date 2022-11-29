@@ -1,4 +1,4 @@
-# Ride Cloner
+# Ride Cloner (v1.0.1)
 
 *This program is still in development. It is not yet available to the public.*
 
