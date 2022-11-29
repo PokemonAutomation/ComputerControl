@@ -30,7 +30,7 @@ This program catches Pokémon the same way as the [Tera Farmer](TeraSelfFarmer.m
 4. Your lead Pokémon should be able to reliably beat raids by spamming its first move. Pick a move that is strong and has few types resistant to it.
 5. Your ride legendary is already holding the item you wish to clone.
 6. Your ride legendary** is not in the party.
-7. Your party 5 or 6 Pokémon.
+7. Your party has 5 or 6 Pokémon.
 8. Start the program in game.
 
 *This is a more extreme case of the Tera Farmer. After completing a raid, your character will rotate to face south. Thus if you aren't already facing south, the crystal spawns may no longer be in front of you. As an extra complication of the Ride Cloner, each time you mount and dismount your ride legendary, you move forward slightly. After about a dozen raids, you will have moved "through" the entire crystal such that you are no longer facing the crystal. To counter-act that, the program will periodically move backwards and forward to keep you on the north end of the crystal. But for this to work correctly, you need to be well aligned to the north end of the crystal.
