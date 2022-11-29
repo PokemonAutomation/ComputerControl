@@ -223,6 +223,9 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | **Multiplayer:** |
 | [Fast Code Entry (FCE) (in development)](PokemonSV/FastCodeEntry.md)  | Video         | Yes | Yes |
 | [Auto-Host (in development)](PokemonSV/AutoHost.md)                   | Video         | Yes | Yes |
+||
+| **Glitches:** |
+| [Ride Cloner (in development)](PokemonSV/RideCloner.md)               | Video         | Yes | Yes |
 
 
 <hr>

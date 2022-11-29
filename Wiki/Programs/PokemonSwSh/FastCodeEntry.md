@@ -28,7 +28,7 @@ This is the same code entry routine that's used by the auto-hosts. But as a stan
 - The code entry pad must be up.
 - The cursor must be over the "1" digit.
 - No digits have been entered yet.
-- Plug in the Arduino/Teensy and it will enter the code.
+- Start the program.
 
 ### Default Program Settings
 
