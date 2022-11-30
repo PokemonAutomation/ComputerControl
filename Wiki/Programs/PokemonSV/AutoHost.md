@@ -62,6 +62,7 @@ For speed and convenience for [Fast Code Entry (FCE)](FastCodeEntry.md) users, t
 
 1. System Time: Unsynced
 2. Text Speed: Fast
+3. Auto-Save: Off
 
 ### Instructions
 
