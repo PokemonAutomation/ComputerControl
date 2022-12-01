@@ -14,8 +14,8 @@ This program can only detect shinies if it is set to catch the Pokémon. Thus it
 
 1. Text Speed: Fast
 2. System time: Un-synced
-3. Nicknaming must be off.
-4. Auto-deposit must be set to manual.
+3. Give Nicknames: Off
+4. Send to Boxes: Manual
 5. Your party must be full.
 6. The language in the option must match your in-game language. The program needs to read the ball names.
 
