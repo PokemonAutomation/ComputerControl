@@ -22,11 +22,17 @@ To set this program up, you will need to have activated the glitch and have clon
 ### Instructions
 
 1. Your ride legendary is in its ride form.
-2. You have a clone of your ride legendary in the 6th slot of your party.
+2. You have a clone of your ride legendary in either the 2nd slot or the 6th slot of your party. (depends on your version, see below)
 3. The clone of your ride legendary is holding the item you wish to clone.
 4. In your box system, you must be on Box 1.
-5. Start the program in the menu. (your start setup should be exactly like the image above)
+5. Start the program in the menu. (your start setup should be exactly like one of the images below)
 
+
+Version 0.21.8:
+
+| **Version 0.21.8** | **Version 0.21.9 and later** |
+| --- | --- |
+| <img src="images/CloneItems-0.png"> | <img src="images/CloneItems-1.png"> |
 
 
 ## Options
