@@ -42,7 +42,7 @@ When you host online with a link-code, the code is always randomized. For the pu
 
 <img src="images/AutoHost-1.png">
 
-For speed and convenience for [Fast Code Entry (FCE)](FastCodeEntry.md) users, the notifications will include the code as copy-pastable text. (The program will read the code from the video feed using optical character recognition.)
+For speed and convenience of [Fast Code Entry (FCE)](FastCodeEntry.md) users, the notifications will include the code as copy-pastable text. (The program will read the code from the video feed using optical character recognition.)
 
 
 **Notes about Tera Raid Retention:**
