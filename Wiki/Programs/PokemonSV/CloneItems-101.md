@@ -27,7 +27,7 @@ To set this program up, you will need to have activated the glitch and have clon
 4. In your box system, you must be on Box 1.
 5. Start the program in the menu. (your start setup should be exactly like one of the images below)
 
-| **Version 0.21.8** | **Version 0.21.9 and later** |
+| **Version 0.21.8**<br>(6th slot in your party) | **Version 0.21.9 and later**<br>(2nd slot in your party) |
 | --- | --- |
 | <img src="images/CloneItems-0.png"> | <img src="images/CloneItems-1.png"> |
 
