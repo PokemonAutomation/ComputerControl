@@ -35,8 +35,11 @@ This program can only detect shinies if it is set to catch the Pokémon. Thus it
 
 - Mode 1: Items only. Don't catch anything.
 - Mode 2: Catch everything using the specified ball.
+- Mode 3: Shiny Hunt: Save before each raid and catch. Stop if shiny.
 
 Mode 2 will look to see if what you caught is shiny and will send notifications.
+
+Mode 3 will shiny hunt for a shiny Tera raid. If found, the program will stop. When you reset the game, you will be in front of the shiny raid. (assuming your date has not rolled over)
 
 
 ### Game Language:
