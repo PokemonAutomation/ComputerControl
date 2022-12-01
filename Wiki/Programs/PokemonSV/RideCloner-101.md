@@ -23,6 +23,7 @@ This program catches Pokémon the same way as the [Tera Farmer](TeraSelfFarmer.m
 
 1. System Time: Unsynced
 2. Text Speed: Fast
+3. Send to Boxes: Manual
 
 ### Instructions
 
