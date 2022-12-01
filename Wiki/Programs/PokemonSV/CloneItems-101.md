@@ -17,8 +17,7 @@ To set this program up, you will need to have activated the glitch and have clon
 
 ### Setup of Settings
 
-1. System Time: Unsynced
-2. Text Speed: Fast
+1. Text Speed: Fast
 
 ### Instructions
 
