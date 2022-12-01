@@ -8,7 +8,7 @@
 
 This program automates the cloning method described in this video: https://www.youtube.com/watch?v=staa9Fv0Rwo
 
-To set this program up, you will need to have activated the glitch and have cloned your ride legendary. If you don't want to do it manually, the you can run the [Ride Cloner](RideCloner-101.md) for an iteration and it will have cloned your ride legendary into your boxes. From there you can move it into your party to complete the setup.
+To set this program up, you will need to have activated the glitch and have cloned your ride legendary. If you don't want to do it manually, the you can run the [Ride Cloner](RideCloner-101.md) for one or more iterations and it will have cloned your ride legendary into your boxes. From there you can move it into your party to complete the setup.
 
 **Note that this glitch is very likely to be patched in a future update. Thus it is versioned as 1.0.1.**
 
