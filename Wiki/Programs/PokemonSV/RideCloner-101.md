@@ -6,7 +6,7 @@
 
 ## Program Description
 
-(Yes, there is a newer and faster method. But we have not automated that yet.)
+If you're just cloning items, you can use this program to set it up. But there is a [faster program](CloneItems-101.md) for that.
 
 This program automates the legendary cloning part of this video: https://www.youtube.com/watch?v=3XHD_Cqw9Rk
 
@@ -21,8 +21,8 @@ This program catches Pokémon the same way as the [Tera Farmer](TeraSelfFarmer.m
 
 ### Setup of Settings
 
-1. System Time: Unsynced
-2. Text Speed: Fast
+1. Text Speed: Fast
+2. Give Nicknames: Off
 3. Send to Boxes: Manual
 
 ### Instructions
