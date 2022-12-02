@@ -2,6 +2,8 @@
 
 *This program is still in development. It is not yet available to the public.*
 
+**This program relies on a glitch that was patched out in 1.1.0. It can only be used on versions 1.0.1 abd earlier.**
+
 <img src="images/RideCloner-0.png">
 
 ## Program Description
@@ -13,8 +15,6 @@ This program automates the legendary cloning part of this video: https://www.you
 So this program will clone your ride legendary into your boxes. You will need to run [Mass Release](MassRelease.md) to clean them up (which also automatically detaches the items from them).
 
 This program catches Pokémon the same way as the [Tera Farmer](TeraSelfFarmer.md). It day skips in front of the Tera crystal until one spawns, then it beats the raid, catches the Pokémon and inserts it in your party replaying your ride legendary. This program will also check shininess of the raid Pokémon and thus can be used to simultaneously shiny-hunt for hostable shiny raids.
-
-**Note that this glitch is very likely to be patched in a future update. Thus it is versioned as 1.0.1.**
 
 
 ---
