@@ -2,6 +2,8 @@
 
 *This program is still in development. It is not yet available to the public.*
 
+**This program requires a setup that can only be performed on version 1.0.1 and earlier. But it will work on version 1.1.0 if setup prior to upgrading.**
+
 <img src="images/CloneItems-0.png">
 
 ## Program Description
@@ -10,7 +12,27 @@ This program automates the cloning method described in this video: https://www.y
 
 To set this program up, you will need to have activated the glitch and have cloned your ride legendary. If you don't want to do it manually, the you can run the [Ride Cloner](RideCloner-101.md) for one or more iterations and it will have cloned your ride legendary into your boxes. From there you can move it into your party to complete the setup.
 
-**Note that this glitch is very likely to be patched in a future update. Thus it is versioned as 1.0.1.**
+This activation glitch (by press A + B) only works in versions 1.0.1 and earlier as it was patched out on 1.1.0. So if you did not already perform this prior to updating to 1.1.0, you will not be able to use this program.
+
+
+## Item Cloning in v1.1.0:
+
+As covered in the videos, this fast cloning method consists of two parts:
+
+1. Clone your ride legendary using the A+B glitch (race condition).
+2. Once cloned, have your ride legendary in ride form and place the clone in your party. Then exploit the box system.
+
+Furthermore, your ride legendary (including clones)
+1. Cannot be moved from party to box. (unless you exploit the A+B glitch again)
+2. Cannot be released from your party, but can be released from the box system.
+3. Cannot be traded.
+4. Can be deleted from your party if you are mounted.
+
+What this means is that once you update to v1.1.0, you cannot make any more clones. However, you can continue using the clones you have to duplicate items. Once a clone is move from box to party, it cannot be moved back and can only be kept in the party or deleted permenantly.
+
+So if you haven't updated yet, and you wish to clone in 1.1.0, just make a bunch of ride clones and keep them in your boxes. Each time you move one to your party and delete it, you'll consume one. So make as many as needed.
+
+Most people can keep their ride legendary in their party all the time since it's a pretty good Pokémon. So this shouldn't too much of an issue.
 
 
 ---
