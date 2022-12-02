@@ -20,7 +20,7 @@ This activation glitch (by press A + B) only works in versions 1.0.1 and earlier
 As covered in the videos, this fast cloning method consists of two parts:
 
 1. Clone your ride legendary using the A+B glitch (race condition).
-2. Once cloned, have your ride legendary in ride form and place the clone in your party. Then exploit the box system.
+2. Once cloned, have your ride legendary in ride form, then place a clone in your party. Then exploit the box system.
 
 Furthermore, your ride legendary (including clones)
 1. Cannot be moved from party to box. (unless you exploit the A+B glitch again)
