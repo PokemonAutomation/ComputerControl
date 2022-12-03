@@ -28,7 +28,7 @@ Furthermore, your ride legendary (including clones)
 3. Cannot be traded.
 4. Can be deleted from your party if you are mounted.
 
-What this means is that once you update to v1.1.0, you cannot make any more clones. However, you can continue using the clones you have to duplicate items. Once a clone is move from box to party, it cannot be moved back and can only be kept in the party or deleted permenantly.
+What this means is that once you update to v1.1.0, you cannot make any more clones. However, you can continue using the clones you have to duplicate items. Once a clone is moved from box to party, it cannot be moved back and can only be kept in the party or deleted permenantly.
 
 So if you haven't updated yet, and you wish to clone in 1.1.0, just make a bunch of ride clones and keep them in your boxes. Each time you move one to your party and delete it, you'll consume one. So make as many as needed.
 
