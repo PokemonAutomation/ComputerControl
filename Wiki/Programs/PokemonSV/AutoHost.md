@@ -90,7 +90,7 @@ If not everyone is ready, the program will wait until everyone is ready even if 
 
 ### Start Players:
 
-Start the raid when this many players are joined. Again, it will wait until everyone who has joined is ready.
+Start the raid when this many players have joined. Again, it will wait until everyone who has joined is ready.
 
 
 ### Rollover Prevention:
