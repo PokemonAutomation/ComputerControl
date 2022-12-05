@@ -16,8 +16,6 @@ Keep throwing ball until you catch the Pokémon you're fighting. In case of fail
 1. Save before being attacked by the Pokémon (or in front of the altar for Pokémon from ramanas park).
 2. Run the program
 
-If the catch rate is low, you may need to follow the setup described in [Ball Thrower](BallThrower.md).
-
 ## Options
 
 ### Go Home when Done:
