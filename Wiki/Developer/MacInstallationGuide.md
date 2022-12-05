@@ -23,7 +23,7 @@ To install it, the instruction on Homebrew [home page](https://brew.sh/) is to u
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-Note: if the current Homebrew home page has a different instruction than the one above, follow that from the home page. If you don't know how to do that, contact [us]((https://discord.gg/cQ4gWxN).
+Note: if the current Homebrew home page has a different instruction than the one above, follow that from the home page. If you don't know how to do that, contact [us](https://discord.gg/cQ4gWxN).
 
 The command above is to be executed in the Terminal App. macOS comes with Terminal App.
 Launch Terminal App, paste the command inside, press Enter on the keyboard to execute the command.
@@ -50,7 +50,7 @@ You need to copy one line, press Enter to execute it, then move on to the next l
 These commands make the installed Homebrew and future packages it will install, accessible in Terminal.
 
 Note: if the prompted text after installation finishes has a different set of commands than the one above, follow that from your Terminal.
-If you don't know how to do that, contact [us]((https://discord.gg/cQ4gWxN).
+If you don't know how to do that, contact [us](https://discord.gg/cQ4gWxN).
 
 You can verify Homebrew installation is successful by executing `brew help` in Terminal.
 You should see a screen of Homebrew instruction shows up like
@@ -104,7 +104,7 @@ run in Terminal
 brew install tesseract-lang
 ```
 to install other languages.
-Contact [us]((https://discord.gg/cQ4gWxN) if you have questions when installing other languages.
+Contact [us](https://discord.gg/cQ4gWxN) if you have questions when installing other languages.
 
 ### Install OpenCV
 
