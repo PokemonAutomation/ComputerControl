@@ -221,12 +221,12 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Yes |
 ||
 | **Multiplayer:** |
-| [Fast Code Entry (FCE) (in development)](PokemonSV/FastCodeEntry.md)  | Video         | Yes | Yes |
-| [Auto-Host (in development)](PokemonSV/AutoHost.md)                   | Video         | Yes | Yes |
+| [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md)                   | Video         | Yes | Yes |
+| [Auto-Host](PokemonSV/AutoHost.md)                                    | Video         | Yes | Yes |
 ||
 | **Glitches:** |
-| [Ride Cloner (1.0.1) (in development)](PokemonSV/RideCloner-101.md)           | Video         | Yes | Yes |
-| [Clone Items (1.0.1) (in development)](PokemonSV/CloneItems-101.md)           | Video         | Yes | Yes |
+| [Ride Cloner (1.0.1)](PokemonSV/RideCloner-101.md)                    | Video         | Yes | Yes |
+| [Clone Items (1.0.1)](PokemonSV/CloneItems-101.md)                    | Video         | Yes | Yes |
 
 
 <hr>
