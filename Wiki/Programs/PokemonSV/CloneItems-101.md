@@ -1,7 +1,5 @@
 # Clone Items (v1.0.1)
 
-*This program is still in development. It is not yet available to the public.*
-
 **This program requires a setup that can only be performed on version 1.0.1 and earlier. But it will work on version 1.1.0 if setup prior to upgrading.**
 
 <img src="images/CloneItems-0.png">
