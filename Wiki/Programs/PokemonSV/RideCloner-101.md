@@ -1,7 +1,5 @@
 # Ride Cloner (v1.0.1)
 
-*This program is still in development. It is not yet available to the public.*
-
 ***This program relies on a glitch that was patched out in 1.1.0. It can only be used on versions 1.0.0 and 1.0.1.***
 
 <img src="images/RideCloner-0.png">
