@@ -1,7 +1,5 @@
 # Fast Code Entry
 
-*This program is still in development. It is not yet available to the public.*
-
 <img src="images/FastCodeEntry-0.png">
 
 ## Program Description
