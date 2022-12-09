@@ -1,7 +1,5 @@
 # Tera Auto-Host
 
-*This program is still in development. It is not yet available to the public.*
-
 <img src="images/AutoHost-0.png">
 
 ## Program Description
