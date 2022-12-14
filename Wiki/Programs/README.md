@@ -217,9 +217,12 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | **Trading:** |
 | [Self Box Trade](PokemonSV/SelfBoxTrade.md)                           | Video         | Yes | Yes |
 ||
+| **Eggs:** |
+| [Egg Hatcher (in development)](PokemonSV/EggHatcher.md)               | Video         | Yes | Yes |
+||
 | **Farming:** |
 | [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Yes |
-| [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Yes |
+| [Gimmighoul Roaming Farmer (in development)](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Yes |
 ||
 | **Multiplayer:** |
 | [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md)                   | Video         | Yes | Yes |
