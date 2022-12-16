@@ -26,9 +26,14 @@ Make sandwiches and collect eggs.
 <img src="images/ZeroGate.png">
 
 
-### Note on Egg Efficiency
+### Notes on Egg mechanism
 
-There are two findings regarding egg mechanism:
+- If there is only one Pokémon in your party holding an item and that item is a Destiny Knot, all the item-free Pokémon can only pair with that Destiny Knot holder to generate eggs. So you can bring multiple native Pokémon to all pair with a single foreign 6IV Ditto that holds a Destiny Knot to generate Masuda-method eggs with good IVs.
+
+- If more than one Pokémon holds Destiny Knot and the rest holds nothing, only the Pokémon with Destiny Knots will pair among themselves. So if you bring two Ditto with Destiny Knots and some other Pokémon without items, you will never get eggs as Ditto won't produce eggs with another Ditto.
+
+
+<!-- There are two findings regarding egg mechanism:
 
 - Bring Pokémon from same species and from different OTs will increase egg production rate.
 
@@ -37,7 +42,7 @@ There are two findings regarding egg mechanism:
 Since there is no way to control which two Pokémon in your party will produce an egg together, you will need a special party setting to maximize shiny hunting efficiency.
 Use shiny hunting pikachu as an example, you can bring three foreign language Ditto and three native pikachu with same gender.
 The same gender requirement is to prevent them from breeding among themselves, producing eggs without the Masuda method.
-Alternatively, you can bring three foreign language male pikachu and three native female pikachu as a party.
+Alternatively, you can bring three foreign language male pikachu and three native female pikachu as a party. -->
 
 
 ## Options
@@ -48,6 +53,7 @@ The options here are self-explanatory.
 ## Credits
 
 - **Author:** Gin
+- Wakaraina (for experimenting egg efficiency)
 
 <hr>
 
