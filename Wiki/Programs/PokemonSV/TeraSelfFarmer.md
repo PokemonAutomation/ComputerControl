@@ -18,6 +18,7 @@ This program can only detect shinies if it is set to catch the Pokémon. Thus it
 4. Send to Boxes: Manual
 5. Your party must be full.
 6. The language in the option must match your in-game language. The program needs to read the ball names.
+7. Auto save off if Shiny Hunt mode is active
 
 ### Instructions
 
@@ -33,13 +34,14 @@ This program can only detect shinies if it is set to catch the Pokémon. Thus it
 
 ### Mode:
 
-- Mode 1: Items only. Don't catch anything.
-- Mode 2: Catch everything using the specified ball.
-- Mode 3: Shiny Hunt: Save before each raid and catch. Stop if shiny.
+- Mode 1: LP only. Open the raid menu to get LP, but don't enter it.
+- Mode 2: Items only. Don't catch anything.
+- Mode 3: Catch everything using the specified ball.
+- Mode 4: Shiny Hunt: Save before each raid and catch. Stop if shiny.
 
-Mode 2 will look to see if what you caught is shiny and will send notifications.
+Mode 3 will look to see if what you caught is shiny and will send notifications.
 
-Mode 3 will shiny hunt for a shiny Tera raid. If found, the program will stop. When you reset the game, you will be in front of the shiny raid. (assuming your date has not rolled over)
+Mode 4 will shiny hunt for a shiny Tera raid. If found, the program will stop. When you reset the game, you will be in front of the shiny raid. (assuming your date has not rolled over)
 
 
 ### Game Language:
@@ -49,7 +51,22 @@ The language of your game. This is needed to read the ball names to select the c
 
 ### Max Stars:
 
-Skip raids with more than this many stars to save time since you're likely to lose. 4 star raids seem to be the limit of what can be beaten with this program.
+Skip raids with less than this many stars.
+
+
+### Max Stars:
+
+Skip raids with more than this many stars to save time since you're likely to lose. 5 star raids seem to be the limit of what can be beaten with this program.
+
+
+### Try to Terastillize
+
+Try to terastillize if available. Add 4s per try but greatly increase win rate.
+
+
+### Max Catches
+
+Stop program after catching this many Pokémon.
 
 
 ### Ball Select:
