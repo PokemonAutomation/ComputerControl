@@ -53,7 +53,7 @@ The options here are self-explanatory.
 ## Credits
 
 - **Author:** Gin
-- Wakaraina (for experimenting egg efficiency)
+- Wakaraina (for experimenting with egg mechanism)
 
 <hr>
 
