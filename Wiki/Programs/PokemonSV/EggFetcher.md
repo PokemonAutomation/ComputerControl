@@ -23,6 +23,8 @@ Make sandwiches and collect eggs.
 5. Fly to Zero Gate flying spot (see image below).
 6. Start the program in game.
 
+<img src="images/ZeroGate.png">
+
 
 ### Note on Egg Efficiency
 
@@ -36,8 +38,6 @@ Since there is no way to control which two Pokémon in your party will produce a
 Use shiny hunting pikachu as an example, you can bring three foreign language Ditto and three native pikachu with same gender.
 The same gender requirement is to prevent them from breeding among themselves, producing eggs without the Masuda method.
 Alternatively, you can bring three foreign language male pikachu and three native female pikachu as a party.
-
-<img src="images/ZeroGate.png">
 
 
 ## Options
