@@ -218,6 +218,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Self Box Trade](PokemonSV/SelfBoxTrade.md)                           | Video         | Yes | Yes |
 ||
 | **Eggs:** |
+| [Egg Fetcher (in development)](PokemonSV/EggFetcher.md)               | Video         | Yes | Yes |
 | [Egg Hatcher (in development)](PokemonSV/EggHatcher.md)               | Video         | Yes | Yes |
 ||
 | **Farming:** |
