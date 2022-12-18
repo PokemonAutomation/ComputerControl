@@ -9,6 +9,7 @@ Hatch boxes of Pokémon.
 ### Setup of Settings
 
 1. Text Speed: Fast
+2. Give Nicknames: Off
 
 ### Box Setup
 
