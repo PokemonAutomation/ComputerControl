@@ -50,7 +50,7 @@ For speed and convenience of [Fast Code Entry (FCE)](FastCodeEntry.md) users, th
 3. Every time you go online, your game will be hard-saved. This cannot be reversed by loading the backup save.
 4. If you go online and the event differs from what you currently are on, all raids will be rolled over.*
 
-*This means that you will not be able to preserve a raid beyond the current event (or lack of event). Though further research is needed to confirm this.
+\*This means that you will not be able to preserve a raid beyond the current event (or lack of event). Though further research is needed to confirm this.
 
 
 

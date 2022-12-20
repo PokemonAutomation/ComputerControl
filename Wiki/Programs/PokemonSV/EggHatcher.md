@@ -6,6 +6,8 @@
 
 Hatch boxes of Pokémon.
 
+<img src="images/EggHatcher-0.png">
+
 ### Setup of Settings
 
 1. Text Speed: Fast
