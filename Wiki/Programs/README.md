@@ -213,6 +213,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 ||
 | **General:** |
 | [Mass Release](PokemonSV/MassRelease.md)                              | Video         | Yes | Yes |
+| [Autonomous Ball Thrower](PokemonSV/AutonomousBallThrower.md)         | Video         | Yes | Yes |
 ||
 | **Trading:** |
 | [Self Box Trade](PokemonSV/SelfBoxTrade.md)                           | Video         | Yes | Yes |
@@ -223,7 +224,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 ||
 | **Farming:** |
 | [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Yes |
-| [Gimmighoul Roaming Farmer (in development)](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Yes |
+| [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Yes |
 | [Gimmighoul Chest Farmer (in development)](PokemonSV/GimmighoulChestFarmer.md)     | Video         | Yes | Yes |
 ||
 | **Multiplayer:** |
