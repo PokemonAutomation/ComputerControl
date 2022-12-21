@@ -1,7 +1,5 @@
 # Gimmighoul Roaming Farmer
 
-*This program is still in development. It is not yet available to the public.*
-
 ## Program Description
 
 Farm roaming Gimmighoul for coins by date skipping.
