@@ -20,8 +20,11 @@ Farm Gimmighoul chests by advancing the in-game day with date skipping.
 
 ## Instructions
 
-1. Stand directly in front of the spawn location of a chest Gimmighoul.
-2. Start the program in-game.
+1. Fly to the East Province (Area One) Watchtower fast-travel point.
+2. (Optional) Clear out any wild pokemon between your character and the watchtower.
+	> Only the first walk up to the watchtower needs to be clear. Be sure not to move off the fly point.
+3. Start the program in-game.
+	> After defeating a chest, the program will reset your position by flying and climbing the tower. Very rarely, a wild Pokemon will run into you. If this happens, the program will attempt to defeat it and then reset position again. It will not check if it is shiny.
 
 Note that any extra coins obtained past 999 can be picked up from a NPC in Medali.
 
