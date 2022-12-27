@@ -22,7 +22,7 @@ Hatch boxes of Pokémon.
 ### Instructions
 
 1. You have only one Pokémon in the party. Preferrably one with Flame Body ability.
-2. Fly to Zero Gate flying spot (see image below).
+2. Go to a place with no wild Pokémon or NPCs. You can choose Zero Gate flying spot if you have unlocked the flying spot on map (see image below). Otherwise you can still use the Zero Gate area if you can climb over the mountain to reach there.
 3. Start the program in game.
 
 <img src="images/ZeroGate.png">
