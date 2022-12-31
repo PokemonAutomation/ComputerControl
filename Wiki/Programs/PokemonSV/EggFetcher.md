@@ -9,6 +9,7 @@ Make sandwiches and collect eggs.
 ### Setup of Settings
 
 1. Text Speed: Fast
+2. Skip Move Learning: On
 
 ### Box Setup
 

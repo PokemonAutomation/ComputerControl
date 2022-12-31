@@ -16,8 +16,9 @@ At every iteration, this program collects 30 eggs and then hatch them. It keeps 
 ### Setup of Settings
 
 1. Text Speed: Fast
-2. Give Nicknames: Off
-3. The program offers an [**Auto-Saving** option](#auto-saving) to allow error recovery and egg unhatching by saving the game automatically. Obviously, the game's built-in Auto Save feature will mess up with the program's **Auto-Saving** functionality. You must only enable one Auto saving. You need to either turn off in-game Auto Save or turn off the program's **Auto-Saving** by setting its option to be **No auto-saving**.
+2. Skip Move Learning: On
+3. Give Nicknames: Off
+4. The program offers an [**Auto-Saving** option](#auto-saving) to allow error recovery and egg unhatching by saving the game automatically. Obviously, the game's built-in Auto Save feature will mess up with the program's **Auto-Saving** functionality. You must only enable one Auto saving. You need to either turn off in-game Auto Save or turn off the program's **Auto-Saving** by setting its option to be **No auto-saving**.
 
 ### Box Setup
 
@@ -92,7 +93,7 @@ Unhatching eggs can be useful for obtaining breeding parents by rehatching a per
 To collect (unhatched) eggs with the desired stats, set this option to "Save before every batch" and **Action Table** below to "Stop Program" on the desired stats.
 Once the program stops on the baby with the desired stats, you can manually reset the game and it will revert to an egg in your party.
 
-NOTE: The game's built-in Auto Save must be turned off in game Settings if you select **Save before picnic and after keeping a baby** or **Save before every batch**.
+NOTE: The game's built-in Auto Save must be turned off in-game Options if you select **Save before picnic and after keeping a baby** or **Save before every batch**.
 
 ### Actions Table:
 
