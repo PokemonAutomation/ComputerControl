@@ -21,7 +21,8 @@ Mass release boxes of Pokémon.
 2. The cursor must be over the 1st Pokémon in the box. (top-left corner)
 3. The selection mode must be "Party and Boxes".
 4. If you selected "Skip Shinies", you need to be on the view displaying the shininess (with a star) on the top right corner.
-5. Start the program in game.
+5. If you have eggs inside your boxes, you will need to have the default background.
+6. Start the program in game.
 
 
 ## Options
