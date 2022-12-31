@@ -1,7 +1,5 @@
 # Egg Hatcher
 
-*This program is still in development. It is not yet available to the public.*
-
 ## Program Description
 
 Hatch boxes of Pokémon.
