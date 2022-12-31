@@ -1,7 +1,5 @@
 # Gimmighoul Chest Farmer
 
-*This program is still in development. It is not yet available to the public.*
-
 ## Program Description
 
 Farm Gimmighoul chests by advancing the in-game day with date skipping.
