@@ -17,7 +17,7 @@ At every iteration, this program collects 30 eggs and then hatch them. It keeps 
 
 1. Text Speed: Fast
 2. Give Nicknames: Off
-3. The program offers an [Auto-Saving option](#auto-saving) to allow error recovery and egg unhatching. Obviously, the game's built-in Auto Save feature will mess up with the program's Auto-Saving option. You need to turn in-game Auto Save off unless you set the program's Auto-Saving option to be **No auto-saving**.
+3. The program offers an [**Auto-Saving** option](#auto-saving) to allow error recovery and egg unhatching by saving the game automatically. Obviously, the game's built-in Auto Save feature will mess up with the program's **Auto-Saving** functionality. You must only enable one Auto saving. You need to either turn off in-game Auto Save or turn off the program's **Auto-Saving** by setting its option to be **No auto-saving**.
 
 ### Box Setup
 
