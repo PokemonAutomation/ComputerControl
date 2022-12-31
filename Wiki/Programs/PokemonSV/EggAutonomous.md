@@ -17,7 +17,7 @@ At every iteration, this program collects 30 eggs and then hatch them. It keeps 
 
 1. Text Speed: Fast
 2. Give Nicknames: Off
-3. In-game Auto Save: Off, if you want the program to reset the game to save sandwich ingredients.
+3. The program offers an [Auto-Saving option](#auto-saving) to allow error recovery and egg unhatching. Obviously, the game's built-in Auto Save feature will mess up with the program's Auto-Saving option. You need to turn in-game Auto Save off unless you set the program's Auto-Saving option to be **No auto-saving**.
 
 ### Box Setup
 
@@ -83,14 +83,16 @@ Stop the program once it has kept this many babies. The program will also stop i
 
 You can set it to automatically save the game to recover from crashes, save ingredients or allow eggs to be unhatched.
 
-**No auto-saving**: No error/crash recovery. If you find no kept Pokémon after end of the program, you can reset the game to recover sandwich ingredients. But if you want to keep any Pokémon, you will need to save the game afterwards and all the used ingredients are not recoverable. The value of **Num Sandwiches** limits the number of fetching-hatching iterations the program can run.
+- **No auto-saving**: No error/crash recovery. If you find no kept Pokémon after end of the program, you can reset the game to recover sandwich ingredients. But if you want to keep any Pokémon, you will need to save the game afterwards and all the used ingredients are not recoverable. The value of **Num Sandwiches** limits the number of fetching-hatching iterations the program can run.
 
-**Save before picnic and after keeping a baby**: Allows for error/crash recovery. The program also resets the game if no kept Pokémon after one fetching-hatching iteration to recover the sandwich ingredients. Ingredients are only permanently spent when the program saves the game after a baby is kept. So the program can do more iterations than the value of **Num Sandwiches**.
+- **Save before picnic and after keeping a baby**: Allows for error/crash recovery. The program also resets the game if no kept Pokémon after one fetching-hatching iteration to recover the sandwich ingredients. Ingredients are only permanently spent when the program saves the game after a baby is kept. So the program can do more iterations than the value of **Num Sandwiches**.
 
-**Save before every batch**: Allows you to unhatch eggs. Ingredients permanently spent after every picnic as the program will save before hatching each batch of five eggs. The value of **Num Sandwiches** limits the number of fetching-hatching iterations the program can run.
+- **Save before every batch**: Allows you to unhatch eggs. Ingredients permanently spent after every picnic as the program will save before hatching each batch of five eggs. The value of **Num Sandwiches** limits the number of fetching-hatching iterations the program can run.
 Unhatching eggs can be useful for obtaining breeding parents by rehatching a perfect egg in a game with a different language.
 To collect (unhatched) eggs with the desired stats, set this option to "Save before every batch" and **Action Table** below to "Stop Program" on the desired stats.
 Once the program stops on the baby with the desired stats, you can manually reset the game and it will revert to an egg in your party.
+
+NOTE: The game's built-in Auto Save must be turned off in game Settings if you select **Save before picnic and after keeping a baby** or **Save before every batch**.
 
 ### Actions Table:
 
