@@ -2,7 +2,7 @@
 
 *This program is currently developer-only. It is not yet available to the public.*
 
-<img src="images/FastCodeEntry-0.png">
+<img src="images/ClipboardFastCodeEntry-0.png">
 
 ## Program Description
 
