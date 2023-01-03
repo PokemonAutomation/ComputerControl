@@ -1,4 +1,4 @@
-# Fast Code Entry
+# Fast Code Entry (FCE)
 
 <img src="images/FastCodeEntry-0.png">
 
