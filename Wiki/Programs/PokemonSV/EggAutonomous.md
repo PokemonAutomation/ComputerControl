@@ -27,7 +27,7 @@ At every iteration, this program collects 30 eggs and then hatch them. It keeps 
 - 1.2. Middle box: leave it empty.
 - 1.3. Right box: this is the box to hold Pokémon you would like to keep. Give it enough space.
 2. Set the current box as the middle box.
-3. All three boxes need to use the defaul wallpaper, Wallpaper 1.
+3. All three boxes need to use the default wallpaper, Wallpaper 1.
 4. If you want to select keep Pokémon with certain IV spreads, you need to unlock IV judge functionality and set the current box view to be judge view.
 
 ### Instructions
