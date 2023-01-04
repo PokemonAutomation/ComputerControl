@@ -14,6 +14,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 - [Pokémon Sword/Shield](#pokémon-swordshield)
 - [Pokémon Brilliant Diamond/Shining Pearl](#pokémon-brilliant-diamondshining-pearl)
 - [Pokémon Legends Arceus](#pokémon-legends-arceus)
+- [Pokémon Scarlet/Violet](#pokémon-scarlet-and-violet)
 
 ## Nintendo Switch
 
@@ -229,7 +230,8 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md)         | Video         | Yes | Yes |
 ||
 | **Multiplayer:** |
-| [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md)                   | Video         | Yes | Yes |
+| [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md)                   |               | Yes | Yes |
+| [Clipboard Fast Code Entry (C-FCE) (in development)](PokemonSV/ClipboardFastCodeEntry.md)| | Yes | Yes |
 | [Auto-Host](PokemonSV/AutoHost.md)                                    | Video         | Yes | Yes |
 ||
 | **Glitches:** |
