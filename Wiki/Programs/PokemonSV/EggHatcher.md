@@ -15,7 +15,7 @@ Hatch boxes of Pokémon.
 
 1. Place eggs you would like to hatch in consecutive boxes. Set the current box as the first of those boxes.
 2. Boxes don't need to be full and don't need to have only eggs. This program will automatically skip empty slots and non-egg Pokémon.
-3. Boxes need to use the defaul wallpaper, Wallpaper 1.
+3. Boxes need to use the default wallpaper, Wallpaper 1.
 
 ### Instructions
 
