@@ -12,7 +12,10 @@ If you think the bug is related to some program options, e.g. you set one progra
 
 ## General Information
 
-Report the automation program version (like v0.24.8), your OS platform (like Win11) and your machine specs (what CPU, how many cores, memory and so on).
+Report the automation program version (like v0.24.8) and the name of the program that has bug.
+Report when you started the program and when the bug happened.
+Report your OS platform (like Win11) and your machine specs (what CPU, how many cores, memory and so on).
+Report your capture card model (like Mirabox USB3.0 HDMI Video Capture Card).
 
 ## Program Logs
 
