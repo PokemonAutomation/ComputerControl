@@ -2,6 +2,14 @@
 
 If you find a bug that you would like to report to developers, please prepare the following data before reporting:
 
+## Double Check Program Wiki
+
+First of all, double check the program wiki listed [here](../Programs/README.md) to make sure you use the program as intended: you set the correct in-game setting and program options.
+
+## Program Options
+
+If you think the bug is related to some program options, e.g. you set one program option to auto-save the game but the program failed to do so, please report all the related program options you use when the bug happened.
+
 ## General Information
 
 Report the automation program version (like v0.24.8), your OS platform (like Win11) and your machine specs (what CPU, how many cores, memory and so on).
@@ -73,7 +81,7 @@ NOTE: we need the screenshot captured via the program, not via the image file tr
 
 Some programs require fast video streaming and visual inferences. They may fail if the computer is too slow.
 
-Please report how many CPU cores are busy and how much memory used by the program when the bug happened.
+If it is likely a visual detection failure and you know your machine is not fast, please report how many CPU cores are busy and how much memory used by the program when the bug happened.
 
 The program also shows stats including video stream FPS and video pivot utilization on top right corner of the video stream view, when the "Stats" checkbox is selected.
 Please also report those stats when the bug happened.
@@ -82,11 +90,17 @@ If the computer is powerful enough, you will see video FPS to be stable 30 or 60
 Usually a bug is found when the program already stopped. If you can, re-run the program, monitor the above resource usages until the bug appears, and report the usages. If the bug does not appear every time or it takes a very long time for it to occur, you can instead report the resource usages when the program runs into the stage where the bug may appear.
 
 ## Video (Optional)
+
 If you happened to be recording your computer screen when the program was running, you can also post the video into Discord.
 Otherwise, if you can, re-run the program with screen recording to capture the bug. A common screen recording software is OBS.
 Make sure the recorded view includes both the program video stream and the log window so that we can match the log content with the video.
 
 NOTE: make sure you have enough disk space to store the saved video stream and your computer is powerful enough so that it can process video recording while also running the automation program.
+
+## Other info
+
+Please include all the other details that you think can be helpful.
+For example, past program usages: "I used the old version of the program for the past week and it worked fine. But after I started using the newest version, it failed. The old version is v0.24.8, the new version is v0.25.9"
 
 ## Submit to Our Discord Server
 
