@@ -1,5 +1,10 @@
 # Egg Fetcher
 
+**Related Programs:**
+ - [Egg Fetcher](EggFetcher.md) (this program)
+ - [Egg Hatcher](EggHatcher.md)
+ - [Egg Autonomous](EggAutonomous.md)
+ - 
 ## Program Description
 
 Make sandwiches and collect eggs.
