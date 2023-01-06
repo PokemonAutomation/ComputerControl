@@ -1,6 +1,8 @@
 # Clipboard Fast Code Entry (C-FCE)
 
-*This program is currently developer-only. It is not yet available to the public.*
+**Related Programs:**
+- [Fast Code Entry (FCE)](FastCodeEntry.md)
+- [Clipboard Fast Code Entry (C-FCE)](ClipboardFastCodeEntry.md) (this program)
 
 <img src="images/ClipboardFastCodeEntry-0.png">
 
