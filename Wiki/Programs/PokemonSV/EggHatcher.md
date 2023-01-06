@@ -1,5 +1,10 @@
 # Egg Hatcher
 
+**Related Programs:**
+ - [Egg Fetcher](EggFetcher.md)
+ - [Egg Hatcher](EggHatcher.md) (this program)
+ - [Egg Autonomous](EggAutonomous.md)
+
 ## Program Description
 
 Hatch boxes of Pokémon.
