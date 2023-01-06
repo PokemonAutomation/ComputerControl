@@ -222,7 +222,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | **Eggs:** |
 | [Egg Fetcher](PokemonSV/EggFetcher.md)                                | Video         | Yes | Yes |
 | [Egg Hatcher](PokemonSV/EggHatcher.md)                                | Video         | Yes | Yes |
-| [Egg Autonomous (in development)](PokemonSV/EggAutonomous.md)         | Video         | Yes | Yes |
+| [Egg Autonomous](PokemonSV/EggAutonomous.md)                          | Video         | Yes | Yes |
 ||
 | **Farming:** |
 | [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Yes |
@@ -230,8 +230,9 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md)         | Video         | Yes | Yes |
 ||
 | **Multiplayer:** |
-| [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md)                   |               | Yes | Yes |
-| [Auto-Host](PokemonSV/AutoHost.md)                                    | Video         | Yes | Yes |
+| [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md)                       |               | Yes | Yes |
+| [Clipboard Fast Code Entry (C-FCE)](PokemonSV/ClipboardFastCodeEntry.md)  |               | Yes | Yes |
+| [Auto-Host](PokemonSV/AutoHost.md)                                        | Video         | Yes | Yes |
 ||
 | **Glitches:** |
 | [Ride Cloner (1.0.1)](PokemonSV/RideCloner-101.md)                    | Video         | Yes | Yes |
