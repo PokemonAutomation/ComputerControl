@@ -1,5 +1,9 @@
 # Fast Code Entry (FCE)
 
+**Related Programs:**
+- [Fast Code Entry (FCE)](FastCodeEntry.md) (this program)
+- [Clipboard Fast Code Entry (C-FCE)](ClipboardFastCodeEntry.md)
+
 <img src="images/FastCodeEntry-0.png">
 
 ## Program Description
