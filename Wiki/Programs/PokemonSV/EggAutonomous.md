@@ -1,6 +1,9 @@
 # Egg Autonomous
 
-*This program is still in development. It is not yet available to the public.*
+**Related Programs:**
+ - [Egg Fetcher](EggFetcher.md)
+ - [Egg Hatcher](EggHatcher.md)
+ - [Egg Autonomous](EggAutonomous.md) (this program)
 
 ## Program Description
 
