@@ -32,10 +32,6 @@ Note that any extra coins obtained past 999 can be picked up from a NPC in Medal
 
 Amount of PP remaining on the first attack of your lead Pokemon.
 
-### Number of Attempts:
-
-Number of day skips/collection attempts to perform.
-
 ### Go Home when Done:
 
 Go to the Switch Home to idle when finished with the number of collection attempts.

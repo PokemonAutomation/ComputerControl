@@ -228,6 +228,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Yes |
 | [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Yes |
 | [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md)         | Video         | Yes | Yes |
+| [ESP Training (in development)](PokemonSV/ESPTraining.md)         	| Video         | Yes | Yes |
 ||
 | **Multiplayer:** |
 | [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md)                       |               | Yes | Yes |
