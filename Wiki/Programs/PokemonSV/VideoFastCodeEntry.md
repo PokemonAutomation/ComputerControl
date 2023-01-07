@@ -36,8 +36,11 @@ As with all FCE programs, the usual disclaimer applies:
 **Monitor Index:** For multi-monitor setups, this lets you choose which monitor to watch.
 
 **X Coordinate:** The left edge of the box to watch. 0.0 is the left edge of the monitor. 1.0 is the right edge of the monitor.
+
 **Y Coordinate:** The top edge of the box to watch. 0.0 is the top edge of the monitor. 1.0 is the bottomedge of the monitor.
+
 **Width:** The width of the box to watch. The number is between 0 and 1 and is the proportion of the full width of the monitor.
+
 **Height:** The height of the box to watch. The number is between 0 and 1 and is the proportion of the full height of the monitor.
 
 
