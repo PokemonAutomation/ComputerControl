@@ -3,7 +3,7 @@
 **Related Programs:**
 - [Fast Code Entry (FCE)](FastCodeEntry.md)
 - [Clipboard Fast Code Entry (C-FCE)](ClipboardFastCodeEntry.md)
-- [Video Fast Code Entry (C-FCE)](VideoFastCodeEntry.md) (this program)
+- [Video Fast Code Entry (V-FCE)](VideoFastCodeEntry.md) (this program)
 
 <img src="images/VideoFastCodeEntry-0.png">
 
