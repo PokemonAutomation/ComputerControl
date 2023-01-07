@@ -25,6 +25,7 @@ As with all FCE programs, the usual disclaimer applies:
 
 - The code entry pad must be up.
 - The cursor must be over the "1" digit.
+- The code must be clearly visible and large. If you are watching a stream, full screen it. If you are watching a Discord channel, open it in a browser and set the magnification to maximize the size of the screenshot containing the code.
 - The box coordinates are properly setup and include only the raid code. (must be clearly visible with black text on light background)
 - Start the program.
 
