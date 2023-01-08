@@ -9,6 +9,9 @@ Many of the programs here are direct ports of the microcontroller versions and w
 
 Therefore, computer-control programs completely supercede the microcontroller programs if you have the hardware for it.
 
+Warning: most computer-control programs don't work on Switch Lite because it does not output video streams.
+Only the programs listed below that don't have "Video" or "Audio" in the "Feedback" column can run with Switch Lite.
+
 **Jump To:**
 - [Nintendo Switch](#nintendo-switch)
 - [Pokémon Sword/Shield](#pokémon-swordshield)
