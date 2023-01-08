@@ -229,6 +229,12 @@ Now **SerialPrograms** is built! Run the program in Terminal by the command
 ./SerialPrograms
 ```
 
+### Computer Battery Setting
+
+When you plan to run the program for a long period of time, you need to prevent your Mac from going to sleep.
+
+Go to System Preferences App -> Battery -> select the checker box "Prevent your Mac from automatically sleeping when the display is off".
+
 Enjoy shiny hunting!
 
 ---------------------
