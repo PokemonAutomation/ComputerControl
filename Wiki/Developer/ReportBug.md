@@ -13,9 +13,29 @@ If you think the bug is related to some program options, e.g. you set one progra
 ## General Information
 
 Report the automation program version (like v0.24.8) and the name of the program that has bug.
+
 Report when you started the program and when the bug happened.
+
 Report your OS platform (like Win11) and your machine specs (what CPU, how many cores, memory and so on).
-Report your capture card model (like Mirabox USB3.0 HDMI Video Capture Card).
+
+Report your capture card model (like Mirabox USB3.0 HDMI Video Capture Card) and how your capture card is connected to the computer.
+Some of the programs rely on a very stable capture card video stream. A capture card may have not enough power or bandwidth if it is connected via a USB hub and the hub has no external power or has too many other devices connected. It this is the case, first try connecting the capture card directly to your computer's USB port and see if the bug still appears.
+
+## Program Runtime Resource Usages
+
+Some programs require fast video streaming and visual inferences. They may fail if the computer is too slow.
+
+If it is likely a visual detection failure and you know your machine is not fast, please report how many CPU cores are busy and how much memory used by the program when the bug happened.
+
+The program also shows stats including video stream FPS and video pivot utilization on top right corner of the video stream view, when the "Stats" checkbox is selected.
+Please also report those stats when the bug happened.
+
+If the computer is powerful enough, you will see video FPS to be stable 30 or 60 FPS and video pivot utilization below 10%, shown in white. If the computer is not fast enough, FPS may sometimes slow down to 20-25 FPS and video pivot utilization may be higher than 50%, shown in yellow or even red.
+
+Usually a bug is found when the program already stopped. If you can, re-run the program, monitor the above resource usages until the bug appears, and report the usages. If the bug does not appear every time or it takes a very long time for it to occur, you can instead report the resource usages when the program runs into the stage where the bug may appear.
+
+If your FPS is below 25 FPS, first try increasing the FPS to be at least 30. You can try closing other computer software that may occupy resources. Try connecting the capture card directly to your computer's USB port so that it has enough power and bandwidth. If you have another capture card, try using the other one. If you have a more powerful computer, try running on it. See if the bug still appears after you get a good FPS.
+
 
 ## Program Logs
 
@@ -79,18 +99,6 @@ NOTE: DON'T use your OS screen capture functionality or other screenshot softwar
 Screenshots from those are not aligned with the exact shape of the Switch screen and therefore cannot be used for the test code.
 
 NOTE: we need the screenshot captured via the program, not via the image file transferred from the Switch after you took it using Switch's screenshot functionality, because the former is what the program sees from the capture card.
-
-## Program Runtime Resource Usages
-
-Some programs require fast video streaming and visual inferences. They may fail if the computer is too slow.
-
-If it is likely a visual detection failure and you know your machine is not fast, please report how many CPU cores are busy and how much memory used by the program when the bug happened.
-
-The program also shows stats including video stream FPS and video pivot utilization on top right corner of the video stream view, when the "Stats" checkbox is selected.
-Please also report those stats when the bug happened.
-If the computer is powerful enough, you will see video FPS to be stable 30 or 60 FPS and video pivot utilization below 10%, shown in white. If the computer is not fast enough, FPS may sometimes slow down to 20-25 FPS and video pivot utilization may be higher than 50%, shown in yellow or even red.
-
-Usually a bug is found when the program already stopped. If you can, re-run the program, monitor the above resource usages until the bug appears, and report the usages. If the bug does not appear every time or it takes a very long time for it to occur, you can instead report the resource usages when the program runs into the stage where the bug may appear.
 
 ## Video (Optional)
 
