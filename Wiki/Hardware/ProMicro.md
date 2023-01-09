@@ -4,8 +4,6 @@ This section covers the required hardware for users who have the Pro Micro.
 
 ## Hardware Requirements
 
-**Microcontroller Hardware:**
-
 Make sure you have all the [microcontroller and serial hardware](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Hardware/ProMicro.md) and [video hardware](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Hardware/Hardware.md#video-hardware).
 
 ## Hardware Assembly
