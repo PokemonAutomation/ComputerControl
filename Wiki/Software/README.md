@@ -4,13 +4,13 @@ This the guide for setting up serial programs on Windows and macOS. If you are h
 
 Setting up serial connection and video capture is the same regardless of what device you have. Therefore all the device-specific tutorials will merge here.
 
-***Do not continue if you have not completed the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md).***
+***Do not continue if you have not completed the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Tutorial/Tutorial.md).***
 
 ***Do NOT skip the Microcontroller tutorial even if you have no intention to run Microcontroller programs. The Microcontroller tutorial provides basic information needed for both Microcontroller and Computer-Control programs.***
 
 ## Step 0: Make sure you are ready.
 
-1. Have you completed the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md)?
+1. Have you completed the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Tutorial/Tutorial.md)?
 2. Do you have TurboA working via the Microcontroller programs?
 3. Do you know what a .hex file is?
 4. Do you know how to flash your device?
@@ -18,7 +18,7 @@ Setting up serial connection and video capture is the same regardless of what de
 6. Have you ever heard of one of these programs: QMK, TeensyLoader, FLIP or script 00-FlashUnix.sh?
 7. Do you know what the 5-second flash looks like on your device?
 
-**If you answered NO to any of these questions, *STOP RIGHT NOW***. Disconnect everything from your device and go back to the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md) and start over.
+**If you answered NO to any of these questions, *STOP RIGHT NOW***. Disconnect everything from your device and go back to the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Tutorial/Tutorial.md) and start over.
 
 Most people who get stuck do so because they skipped the Microcontroller tutorial.
 
@@ -45,7 +45,7 @@ The root folder of the SerialPrograms package should have a set of .hex files fo
 
 Flash the appropriate one to your device.
 
-***If you do not know how to do this, it means you skipped the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md). STOP right now and go back to the Microcontroller tutorial.***
+***If you do not know how to do this, it means you skipped the [Microcontroller tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Tutorial/Tutorial.md). STOP right now and go back to the Microcontroller tutorial.***
 
 ## Step 4: Setup the serial connection.
 

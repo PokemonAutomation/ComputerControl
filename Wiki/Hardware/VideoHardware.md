@@ -15,7 +15,9 @@ The video capture hardware is separate from the device controller emulation. The
 2. HDMI cable(s)
    > Regardless of what capture card(s) you choose, you will need either 1 or 2 HDMI cables to connect them to your Switch and/or your TV.
 
-Note: For the purposes of Pokémon automation, the cheapest capture cards appear to be sufficient. But if you want a tolerable video quality you'll want one that uses USB 3.0. And if you want to display the video both on your TV and in your computer, you will need one with TV output with pass-through. Each of these will add to the cost.
+Note: For the purposes of Pokémon automation, the cheapest capture cards ([example](https://www.amazon.com/gp/product/B088HBRM7T)) appear to be sufficient. But if you want a tolerable video quality you'll want one that uses USB 3.0. And if you want to display the video both on your TV and in your computer, you will need one with TV output with pass-through. Each of these will add to the cost.
+
+Note: **DO NOT** purchase AverMedia capture cards! Those cards use an old API that is no longer supported by our program after v0.14.
 
 # Capture Card Type Explanations
 
@@ -58,3 +60,10 @@ If you would like to use OBS to stream Pokémon automation, you need to let OBS 
 Double clicking on the stream view of our program will pop up the stream view as an independent window. You can then use OBS to capture this window.
 
 <img src="https://raw.githubusercontent.com/PokemonAutomation/SwSh-Arduino/master/Documentation/Tutorials/images/obs.png" height="600">
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
