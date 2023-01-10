@@ -235,7 +235,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | **Multiplayer:** |
 | [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md)                       |               | Yes | Yes |
 | [Clipboard Fast Code Entry (C-FCE)](PokemonSV/ClipboardFastCodeEntry.md)  |               | Yes | Yes |
-| [Video Fast Code Entry (C-FCE) (in development)](PokemonSV/VideoFastCodeEntry.md)  |               | Yes | Yes |
+| [Video Fast Code Entry (C-FCE)](PokemonSV/VideoFastCodeEntry.md)          |               | Yes | Yes |
 | [Auto-Host](PokemonSV/AutoHost.md)                                        | Video         | Yes | Yes |
 ||
 | **Glitches:** |
