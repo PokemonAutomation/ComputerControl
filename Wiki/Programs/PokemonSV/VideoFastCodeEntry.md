@@ -15,6 +15,8 @@ This FCE uses text recognition to read the link code from a part of your screen.
 
 Be aware that Video FCE is not for everyone. It is annoying to setup and will likely require a fast computer with two high resolution monitors. But once setup and calibrated, Video FCE is faster than the Clipboard FCE since you no longer need to double-click + CTRL-C. A single click is all that's needed for V-FCE to enter a raid.
 
+Starting from v0.27, this program can be configured to monitor for a code and automatically enter it when it appears - thus fully automating the raid entry and removing the human element.
+
 As with all FCE programs, the usual disclaimer applies:
 
 ***By using this program, you agree that you are an asshole. Furthermore, you will be required to embrace your asshole status by flaunting it in front of all the people you've blocked out of raids.***
