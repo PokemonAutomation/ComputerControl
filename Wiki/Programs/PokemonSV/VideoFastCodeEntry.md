@@ -52,7 +52,7 @@ As with all FCE programs, the usual disclaimer applies:
 
 The default mode is "Manual" which will read the code and enter it when you start the program.
 
-Starting from v0.27, there is an "Automatic" mode where you start the program first. The program will then monitor the capture box. As soon as it sees a valid code, it will enter it. Thus it automates entering a raid with no human interaction. On a fast computer, the reaction time is about ~2ms which is much faster than the 200ms+ reflect time of a human seeing the code and clicking "Start Program".
+Starting from v0.27, there is an "Automatic" mode where you start the program first. The program will then monitor the capture box. As soon as it sees a valid code, it will enter it. Thus it automates entering a raid with no human interaction. On a fast computer, the reaction time is about ~2ms which is much faster than the 200ms+ reflex time of a human seeing the code and clicking "Start Program".
 
 ***Warning: Using automatic mode on a live-hosting channel is risky because it is easy to accidentally join the wrong raid. On servers (like PA and SHA) that enforce catch limits, you can easily get yourself banned if you accidentally go over.***
 
