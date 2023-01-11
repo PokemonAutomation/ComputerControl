@@ -13,6 +13,8 @@ Yet another improved version of the [Fast Code Entry](/Wiki/Programs/PokemonSwSh
 
 This FCE uses text recognition to read the link code from a part of your screen. Thus this program no longer requires a copy-pasteable code.
 
+This program is useful for fighting your way into extremely busy hosting streams where there are hundreds of other people competing to enter a raid.
+
 Be aware that Video FCE is not for everyone. It is annoying to setup and will likely require a fast computer with two high resolution monitors. But once setup and calibrated, Video FCE is faster than the Clipboard FCE since you no longer need to double-click + CTRL-C. A single click is all that's needed for V-FCE to enter a raid.
 
 Starting from v0.27, this program can be configured to monitor for a code and automatically enter it when it appears - thus fully automating the raid entry and removing the human element.
