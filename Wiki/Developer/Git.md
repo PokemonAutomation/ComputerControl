@@ -9,6 +9,7 @@ To add a new feature to the code, we use the standard Github development cycle:
 - Fork the [Arduino-Source](https://github.com/PokemonAutomation/Arduino-Source/tree/main/SerialPrograms/Source) repository (repo for short) so that you have a complete copy of the codebase repo under your own Github account.
 - Clone your copied repo to your local machine. Make sure your downloaded local repo is linked to your online Github repo.
 - Build the **SerialPrograms** executable using CMake, Visual Studio, VS Code, QCreator or other tools.
+	- Note we use some third-party libraries, including Qt6, Tesseract and OpenCV. You will need to add dependency of those libraries to the project.
 - Some of the automation programs listed in the **SerialPrograms** require additional resources in the form of files in a folder named `Resources`.
 	- You can download the folder from our latest [program releases](https://github.com/PokemonAutomation/ComputerControl/releases) or from the Github repo [Packages](https://github.com/PokemonAutomation/Packages).
 	- Place the `Resources` folder at the same folder hierarchy as the folder of the built **SerialPrograms** executable, so that when launching the executable it can correctly find the resource folder.
