@@ -231,12 +231,13 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Yes |
 | [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Yes |
 | [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md)         | Video         | Yes | Yes |
-| [ESP Training (in development)](PokemonSV/ESPTraining.md)         	| Video         | Yes | Yes |
+| [Auction Farmer (in development)](PokemonSV/AuctionFarmer.md)         | Video         | Yes | Yes |
+| [ESP Training (in development)](PokemonSV/ESPTraining.md)           	| Video         | Yes | Yes |
 ||
 | **Multiplayer:** |
 | [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md)                       |               | Yes | Yes |
 | [Clipboard Fast Code Entry (C-FCE)](PokemonSV/ClipboardFastCodeEntry.md)  |               | Yes | Yes |
-| [Video Fast Code Entry (C-FCE)](PokemonSV/VideoFastCodeEntry.md)          |               | Yes | Yes |
+| [Video Fast Code Entry (V-FCE)](PokemonSV/VideoFastCodeEntry.md)          |               | Yes | Yes |
 | [Auto-Host](PokemonSV/AutoHost.md)                                        | Video         | Yes | Yes |
 ||
 | **Glitches:** |
