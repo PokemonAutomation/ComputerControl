@@ -134,7 +134,6 @@ If you find your Clang version is too low, check this [tutorial](UpdateClang.md)
 ### Download Codebase
 
 Go to **SerialPrograms** Github [webpage](https://github.com/PokemonAutomation/Arduino-Source).
-There's a green button "Code". Click it to show download options.
 
 #### Use Git:
 If you know how to use Git to download code from Github, you can use Git and pick a release version based on Git branch names.
@@ -146,16 +145,28 @@ The version may contain automation programs that are not fully developed or have
 To use one of our stable release versions, first check the version numbers by pressing the dropdown menu currently shown as "main" on the webpage,
 on the same row as the green "Code" button.
 The dropdown menu shows recent version numbers.
-As the time of updating this guide (Nov 1, 2022), the newest version is "v0.18". You can pick the latest version you find.
-Once you select a version, the text of the dropdown menu will be changed from "main" to that version,
-and the code you download from the "Code" button will be from that version.
-Pick "Download ZIP" when clicking the "Code" button to download the code as a ZIP file.
+As the time of updating this guide (JAN 10, 2023), the newest version is "v0.26". You can pick the latest version you find.
+Once you select a version, the text of the dropdown menu will be changed from "main" to that version.
+
+After that, click the green "Code" button. It will show several download options.
+You can pick "Download ZIP" to download the code as a ZIP file.
+The code you download will be from the version you picked.
 The default ZIP filename will be "Arduino-Source-\<VERSION_NUMBER\>.zip"
 
-Place the code into a suitable folder you like. But avoid placing it in a "remote/cloud" folder like in OneDrive. Cloud folders may give some trouble for programs running on those folders.
+Place the code into a suitable folder you like. But avoid placing it in a "remote/cloud" folder like in OneDrive.
+Cloud folders may give some trouble for programs running on those folders.
+Also avoid placing it in your macOS account's "Desktop" folder or "Documents" folder.
+macOS has strict folder access management. It may reject the program from accessing data in those folders.
+An example path is
+```
+/Users/<YOUR_MAC_USERNAME>/games/pokemon/
+```
 If you download as a ZIP, unzip it to a suitable folder.
 
-The downloaded code should be in a folder called "Arduino-Source".
+The downloaded code should be in a folder called "Arduino-Source". Using the above example, the full path of the folder is
+```
+/Users/<YOUR_MAC_USERNAME>/games/pokemon/Arduino-Source
+```
 
 ### Download Program Data
 
