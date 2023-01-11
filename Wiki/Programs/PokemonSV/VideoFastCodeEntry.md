@@ -1,4 +1,4 @@
-# Video Fast Code Entry (C-FCE)
+# Video Fast Code Entry (V-FCE)
 
 **Related Programs:**
 - [Fast Code Entry (FCE)](FastCodeEntry.md)
@@ -43,6 +43,18 @@ As with all FCE programs, the usual disclaimer applies:
 **Width:** The width of the box to watch. The number is between 0 and 1 and is the proportion of the full width of the monitor.
 
 **Height:** The height of the box to watch. The number is between 0 and 1 and is the proportion of the full height of the monitor.
+
+
+### Mode (new to v0.27.x)
+
+- **Manual** - Enter code when you start the program.
+- **Automatic** - Monitor the region. Automatically enter code when it appears.
+
+The default mode is "Manual" which will read the code and enter it when you start the program.
+
+Starting from v0.27, there is an "Automatic" mode where you start the program first. The program will then monitor the capture box. As soon as it sees a valid code, it will enter it. Thus it automates entering a raid with no human interaction. On a fast computer, the reaction time is about ~2ms which is much faster than the 200ms+ reflect time of a human seeing the code and clicking "Start Program".
+
+***Warning: Using automatic mode on a live-hosting channel is risky because it is easy to accidentally join the wrong raid. On servers (like PA and SHA) that enforce catch limits, you can easily get yourself banned if you accidentally go over.***
 
 
 ## Credits
