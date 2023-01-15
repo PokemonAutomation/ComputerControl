@@ -4,7 +4,7 @@
 
 Automatically buy items.
 
-<img src="PokemonSV/images/MassPurchase.png">
+<img src="images/MassPurchase.png">
 
 ### Setup of Settings
 
