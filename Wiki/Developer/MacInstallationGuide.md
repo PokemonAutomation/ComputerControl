@@ -168,7 +168,7 @@ The downloaded code should be in a folder called "Arduino-Source". Using the abo
 /Users/<YOUR_MAC_USERNAME>/games/pokemon/Arduino-Source
 ```
 
-### Download Program Data
+### Download Program Resource Files
 
 **SerialPrograms** need some extra data (images, audio files and Pokémon data text files) to run.
 Go to our [Packages Github webpage](https://github.com/PokemonAutomation/Packages) and download the data same as before but you don't need to pick the versions.
