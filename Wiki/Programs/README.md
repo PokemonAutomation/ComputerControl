@@ -216,6 +216,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | Pokémon Settings | --- | --- | --- |
 ||
 | **General:** |
+| [Mass Purchase](PokemonSV/MassPurchase.md)                            | Video         | Yes | Yes |
 | [Mass Release](PokemonSV/MassRelease.md)                              | Video         | Yes | Yes |
 | [Autonomous Ball Thrower](PokemonSV/AutonomousBallThrower.md)         | Video         | Yes | Yes |
 | [Stats Reset (in development)](PokemonSV/StatsReset.md)               | Video         | Yes | Yes |
