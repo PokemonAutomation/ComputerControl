@@ -7,9 +7,15 @@
 
 ## Program Description
 
-A fully autonomous bot that uses visual feedback to fetch and hatch eggs. It will automatically detect and keep shinies and can also be configured to keep specific gender and IV spreads. It combines the functionalities of [Egg Fetcher](EggFetcher.md) and [Egg Hatcher](EggHatcher.md).
+A fully autonomous bot that uses visual feedback to fetch and hatch eggs.
+It will automatically detect and keep shinies and can also be configured to keep specific gender and IV spreads.
+It combines the functionalities of [Egg Fetcher](EggFetcher.md) and [Egg Hatcher](EggHatcher.md).
 
-At every iteration, this program collects 30 eggs and then hatch them. It keeps the hatched Pokémon that meets the requirement in a box and releases the rest. It can reset the game if there is no Pokémon to keep in those 30 eggs, thereby saving the ingredients of the Egg Power Lv 2 Sandwich. It can run completely unattended for many days without intervention.
+At every iteration, this program makes a sandwich with Egg Power, collects 30 eggs and hatches them.
+It keeps the hatched Pokémon that meets the requirement in a box and releases the rest.
+It can reset the game if there is no Pokémon to keep in those 30 eggs, thereby saving the ingredients of the sandwich.
+It can also reset the game when encountering minor program errors.
+It can run completely unattended for many days without intervention.
 
 <img src="images/EggAuto-0.png">
 <img src="images/EggAuto-1.png">
@@ -21,17 +27,24 @@ At every iteration, this program collects 30 eggs and then hatch them. It keeps 
 1. Text Speed: Fast
 2. Skip Move Learning: On
 3. Give Nicknames: Off
-4. The program offers an [**Auto-Saving** option](#auto-saving) to allow error recovery and egg unhatching by saving the game automatically. Obviously, the game's built-in Auto Save feature will mess up with the program's **Auto-Saving** functionality. You must only enable one Auto saving. You need to either turn off in-game Auto Save or turn off the program's **Auto-Saving** by setting its option to be **No auto-saving**.
+4. The program offers an [**Auto-Saving** option](#auto-saving) to allow sandwich ingredients reset, error recovery and egg unhatching,
+by saving the game automatically.
+Obviously, the game's built-in Auto Save feature will mess up with the program's **Auto-Saving** functionality.
+You **MUST** only enable one Auto saving.
+You need to either turn off in-game Auto Save or turn off the program's **Auto-Saving** by setting its option to be **No auto-saving**.
 
 ### Box Setup
 
 1. Prepare three boxes.
-- 1.1. Left box: place a Flame Body Pokémon at first row and first column of the left box. This Pokémon will be used to hatch the eggs. Make sure the second box column from the left is empty. This column will be used to hold your fetcher party when the program is hatching eggs.
-- 1.2. Middle box: leave it empty.
+- 1.1. Left box: place a Flame Body Pokémon at first row and first column of the left box.
+This Pokémon will be used to hatch the eggs. Make sure the second box column from the left is empty.
+This column will be used to hold your fetcher party when the program is hatching eggs.
+- 1.2. Middle box: leave it empty. It is used to hold eggs.
 - 1.3. Right box: this is the box to hold Pokémon you would like to keep. Give it enough space.
 2. Set the current box as the middle box.
 3. All three boxes need to use the default wallpaper, Wallpaper 1.
-4. If you want to select keep Pokémon with certain IV spreads, you need to unlock IV judge functionality and set the current box view to be judge view.
+4. If you want to selectively keep Pokémon with certain IV spreads,
+you need to unlock IV judge functionality and set the current box view to be judge view.
 
 ### Instructions
 
@@ -45,7 +58,7 @@ At every iteration, this program collects 30 eggs and then hatch them. It keeps 
 <img src="images/SandwichRecipes.png">
 
 7. You have bought enough ingredients for making enough sandwiches set by **Num Sandwiches**. Each Great Peanut Butter Sandwich costs one butter, one peanut butter, one banana and one pick. Any pick is fine: the program will always choose the first pick in the pick selection list. You can buy lots of silver picks for the cheap price.
-8. Fly to Zero Gate flying spot (see image below). Stand on foot. Don't get on your ride.
+8. Fly to Zero Gate flying spot (see image below). Stand on foot. Don't get on your ride. Don't turn your character around. You can turn camera around.
 
 <img src="images/ZeroGate.png">
 
@@ -85,18 +98,18 @@ Stop the program once it has kept this many babies. The program will also stop i
 
 ### Auto-Saving:
 
-You can set it to automatically save the game to recover from crashes, save ingredients or allow eggs to be unhatched.
+You can set it to automatically save the game to recover from minor program errors or game crashes, save ingredients or allow eggs to be unhatched.
 
 - **No auto-saving**: No error/crash recovery. If you find no kept Pokémon after end of the program, you can reset the game to recover sandwich ingredients. But if you want to keep any Pokémon, you will need to save the game afterwards and all the used ingredients are not recoverable. The value of **Num Sandwiches** limits the number of fetching-hatching iterations the program can run.
 
 - **Save before picnic and after keeping a baby**: Allows for error/crash recovery. The program also resets the game if no kept Pokémon after one fetching-hatching iteration to recover the sandwich ingredients. Ingredients are only permanently spent when the program saves the game after a baby is kept. So the program can do more iterations than the value of **Num Sandwiches**.
 
-- **Save before every batch**: Allows you to unhatch eggs. Ingredients permanently spent after every picnic as the program will save before hatching each batch of five eggs. The value of **Num Sandwiches** limits the number of fetching-hatching iterations the program can run.
+- **Save before every batch**: Allows for error/crash recovery and allows you to unhatch eggs. Ingredients permanently spent after every picnic as the program will save before hatching each batch of five eggs. The value of **Num Sandwiches** limits the number of fetching-hatching iterations the program can run.
 Unhatching eggs can be useful for obtaining breeding parents by rehatching a perfect egg in a game with a different language.
 To collect (unhatched) eggs with the desired stats, set this option to "Save before every batch" and **Action Table** below to "Stop Program" on the desired stats.
 Once the program stops on the baby with the desired stats, you can manually reset the game and it will revert to an egg in your party.
 
-NOTE: The game's built-in Auto Save must be turned off in-game Options if you select **Save before picnic and after keeping a baby** or **Save before every batch**.
+NOTE: The game's built-in Auto Save **MUST** be turned off in in-game Options if you select **Save before picnic and after keeping a baby** or **Save before every batch**.
 
 ### Actions Table:
 

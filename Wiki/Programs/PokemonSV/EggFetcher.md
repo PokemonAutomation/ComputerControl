@@ -4,7 +4,7 @@
  - [Egg Fetcher](EggFetcher.md) (this program)
  - [Egg Hatcher](EggHatcher.md)
  - [Egg Autonomous](EggAutonomous.md)
- - 
+
 ## Program Description
 
 Make sandwiches and collect eggs.
@@ -32,7 +32,7 @@ Make sandwiches and collect eggs.
 <img src="images/SandwichRecipes.png">
 
 7. You have bought enough ingredients for making enough sandwiches set by **Max number of sandwiches to make**. Each Great Peanut Butter Sandwich costs one butter, one peanut butter, one banana and one pick. Any pick is fine: the program will always choose the first pick in the pick selection list. You can buy lots of silver picks for the cheap price.
-8. Fly to Zero Gate flying spot (see image below). Stand on foot. Don't get on your ride.
+8. Fly to Zero Gate flying spot (see image below). Stand on foot. Don't get on your ride. Don't turn your character around. You can turn camera around.
 
 <img src="images/ZeroGate.png">
 
