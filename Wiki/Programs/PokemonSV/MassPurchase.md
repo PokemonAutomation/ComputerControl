@@ -1,5 +1,7 @@
 # Mass Purchase
 
+*This program is still in development. It is not yet available to the public.*
+
 ## Program Description
 
 Automatically buy items.
