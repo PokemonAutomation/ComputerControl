@@ -53,11 +53,11 @@ This selects which Switch is the hosting Switch. Can be any of the 4 Switches an
 
 Stop the program after this many wins.
 
-## Rollover Prevention:
+### Rollover Prevention:
 
 On the hosting Switch, periodically set the time back to 12AM to prevent the date from rolling over and losing the raid.
 
-## Recovery Mode:
+### Recovery Mode:
 
 - Stop the program if an error happens on any raiding Switch.
 - On every raiding Switch, save the game before each raid. If an error happens, reset that Switch.
@@ -67,6 +67,8 @@ In all cases, if an error happens on the host that doesn't affect the raiding Sw
 
 
 ## Per-Switch Options
+
+These options can be customized on a per-Switch basis.
 
 ### Game Language
 
