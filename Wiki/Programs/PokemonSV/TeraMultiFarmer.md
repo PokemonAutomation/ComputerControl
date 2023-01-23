@@ -2,7 +2,7 @@
 
 ## Program Description
 
-Farm a Tera raid on one Switch using 1 or more other Switches. Thus this is a multi-Switch program where one Switch is auto-hosting for 1-3 other Switches to farm.
+Auto-host a raid from one Switch while farming it with 1-3 more Switches. Thus this is a multi-Switch program that requires at least 2 Switches to run.
 
 This program can be used to farm both items and Pokémon from a raid. By using pre-programmed moves, it can also be used to farm herbs from higher level raids.
 
