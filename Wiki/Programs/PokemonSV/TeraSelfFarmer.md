@@ -18,11 +18,11 @@ This program can only detect shinies if it is set to catch the Pokémon. Thus it
 4. Send to Boxes: Manual
 5. Your party must be full.
 6. The language in the option must match your in-game language. The program needs to read the ball names.
-7. Auto save off if Shiny Hunt mode is active
+7. Auto save off if Shiny Hunt mode is active.
 
 ### Instructions
 
-1. You have did raid at least once to clear in-game raid guide.
+1. You have done a raid at least once to clear in-game raid guide.
 2. You must be facing an active Tera raid crystal facing south, or standing directly on a crystal spawn spot.*
 3. Your location should be safe from getting attacked by wild Pokémon.
 4. Your lead Pokémon should be able to reliably beat raids by spamming its first move. Pick a move that is strong and has few types resistant to it.

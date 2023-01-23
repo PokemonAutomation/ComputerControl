@@ -1,7 +1,5 @@
 # Auction Farmer
 
-*This program is still in development. It is not yet available to the public.*
-
 ## Program Description
 
 This program resets the game in front of an auction NPC and bids on any wanted items. 
