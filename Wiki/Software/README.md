@@ -84,6 +84,8 @@ For macOS users, follow this [guide](../Developer/MacInstallationGuide.md) to bu
 For Windows users, simply run the `SerialPrograms-Windows.cmd` script.
 <img src="images/serial-programs-main.png" height="600">
 
+If you get any errors about "MSVCP140.dll" or "VCRUNTIME140_1.dll", you may need to install the [MSVC redistributable (x64)](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). (direct download: https://aka.ms/vs/17/release/vc_redist.x64.exe)
+
 ## Step 7: Setup SerialPrograms.
 
 2. Under the "Serial Port" dropdown, select your serial device.
