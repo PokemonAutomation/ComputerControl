@@ -216,10 +216,10 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | Pokémon Settings | --- | --- | --- |
 ||
 | **General:** |
-| [Mass Purchase (in development)](PokemonSV/MassPurchase.md)           | Video         | Yes | Yes |
+| [Mass Purchase](PokemonSV/MassPurchase.md)                            | Video         | Yes | Yes |
 | [Mass Release](PokemonSV/MassRelease.md)                              | Video         | Yes | Yes |
 | [Autonomous Ball Thrower](PokemonSV/AutonomousBallThrower.md)         | Video         | Yes | Yes |
-| [Stats Reset (in development)](PokemonSV/StatsReset.md)               | Video         | Yes | Yes |
+| [Stats Reset](PokemonSV/StatsReset.md)                                | Video         | Yes | Yes |
 ||
 | **Trading:** |
 | [Self Box Trade](PokemonSV/SelfBoxTrade.md)                           | Video         | Yes | Yes |
@@ -231,11 +231,11 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 ||
 | **Farming:** |
 | [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Yes |
-| [Tera Multi-Farmer (in development)](PokemonSV/TeraMultiFarmer.md)    | Video         | Yes | Yes |
+| [Tera Multi-Farmer](PokemonSV/TeraMultiFarmer.md)                     | Video         | Yes | Yes |
 | [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Yes |
 | [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md)         | Video         | Yes | Yes |
 | [Auction Farmer](PokemonSV/AuctionFarmer.md)                          | Video         | Yes | Yes |
-| [ESP Training](PokemonSV/ESPTraining.md)           	                | Video         | Yes | Yes |
+| [ESP Training](PokemonSV/ESPTraining.md)           	                  | Video         | Yes | Yes |
 ||
 | **Multiplayer:** |
 | [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md)                       |               | Yes | Yes |
