@@ -1,7 +1,5 @@
 # Tera Multi-Farmer
 
-*This program is still in development. It is not yet available to the public.*
-
 ## Program Description
 
 Auto-host a raid from one Switch while farming it with 1-3 more Switches. Thus this is a multi-Switch program that requires at least 2 Switches to run.
