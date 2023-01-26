@@ -1,7 +1,5 @@
 # Stats Reset
 
-*This program is still in development. It is not yet available to the public.*
-
 ## Program Description
 
 Repeatedly catch the Treasures of Ruin until you get the stats you want.
