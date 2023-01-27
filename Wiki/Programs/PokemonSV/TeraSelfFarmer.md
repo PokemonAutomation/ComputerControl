@@ -99,9 +99,9 @@ By default it skips 5+ star raids since they usually have low win rates. But if 
 
 ### Battle AI:
 
-**Try to Terastillize:** if available. Try to terastillize if available. Adds 4 seconds per try but greatly increase win rate.
+**Try to Terastillize:** Try to terastillize if available. Adds 4 seconds per try but can greatly increase win rate.
 
-**Move Table:** Pre-program your Pokémon to use this moves.
+**Move Table:** Pre-program your Pokémon to use this sequence of moves.
 
 
 ### Catch on Win:
