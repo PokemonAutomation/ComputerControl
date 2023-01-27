@@ -6,7 +6,7 @@
 
 Farm LP from a Tera crystal.
 
-This program will date-spam in front Tera crystal and grab the LP from it whenever it spawns.
+This program will date-spam in front of a Tera crystal and grab the LP from it whenever it spawns.
 
 For versions prior to v0.29, LP Farming used to be part of the Tera Self Farmer. Starting from v0.29, it has been split out into a separate program.
 
