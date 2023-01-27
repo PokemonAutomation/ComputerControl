@@ -230,6 +230,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Egg Autonomous](PokemonSV/EggAutonomous.md)                          | Video         | Yes | Yes |
 ||
 | **Farming:** |
+| [LP Farmer (coming v0.29)](PokemonSV/LPFarmer.md)                     | Video         | Yes | Yes |
 | [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Yes |
 | [Tera Multi-Farmer](PokemonSV/TeraMultiFarmer.md)                     | Video         | Yes | Yes |
 | [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Yes |
