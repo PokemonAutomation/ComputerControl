@@ -1,7 +1,5 @@
 # LP Farmer
 
-*This program is part of v0.29. It is not yet released.*
-
 ## Program Description
 
 Farm LP from a Tera crystal.
