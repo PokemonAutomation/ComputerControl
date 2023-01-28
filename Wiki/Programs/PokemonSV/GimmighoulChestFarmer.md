@@ -32,6 +32,10 @@ Note that any extra coins obtained past 999 can be picked up from a NPC in Medal
 
 Amount of PP remaining on the first attack of your lead Pokemon.
 
+### Start Location:
+
+Your starting location. By default this is the fly point. If you know the position of the chest and what distance to be from it, you can select "in front of chest" to skip the initial walkup.
+
 ### Go Home when Done:
 
 Go to the Switch Home to idle when finished with the number of collection attempts.

@@ -20,7 +20,7 @@ Repeatedly catch the Treasures of Ruin until you get the stats you want.
 3. Nothing in your party will evolve after catching your target.
 4. The IV judge is unlocked and the current box view must be set to the IV panel.
 5. The language option is set to match your in-game language. This is required to read ball names.
-6. The actions table is set up to the IVs you want. For shiny locked pokemon make sure the Shininess filter is set to Anything/Not Shiny.
+6. The actions table is set up to the IVs you want.
 
 ## Instructions
 
@@ -28,9 +28,9 @@ Repeatedly catch the Treasures of Ruin until you get the stats you want.
 	> For the Treasures of Ruin, their vault must first be unlocked by pulling their respective stakes.
 2. Start the program in-game.
 	> Master Ball strongly recommended for legendaries
+	> If you cannot throw a Pokeball (ex. Chi-Yu used Bounce) the game will simply reset
 
 ## Notes
-- If hunting the Treasures of Ruin, the shininess filter must be set to Anything or Not Shiny, as they are all shiny locked.
 - It is recommended to hunt for 0IV only, as all other stats can be bottle capped.
 - The generic setting will only work for Pokemon that you press A to talk to. Regular static spawns (ex. Spiritomb or wild Tera Pokemon) will have the same stats, so resetting for them will not work.
 - Attempting to reset for the former titan Pokemon or the box legend will not work either, as their IVs and natures are locked.
@@ -51,7 +51,7 @@ Select the language that matches what you are using in-game. This setting is req
 The ball you want to catch your target in.
 
 ### Actions Table:
-Use this table to specify the criteria for keeping a legendary. This is the same table used in the egg hatching programs, so be sure to change the Shininess filter to Anything/Not Shiny if resetting for a shiny locked target.
+Use this table to specify the criteria for keeping a legendary. There is no shiny filter or check, as the Pokemon this program are intended for are all shiny locked.
 
 ### Go Home when Done:
 
