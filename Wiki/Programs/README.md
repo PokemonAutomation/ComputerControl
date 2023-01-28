@@ -224,25 +224,27 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | **Trading:** |
 | [Self Box Trade](PokemonSV/SelfBoxTrade.md)                           | Video         | Yes | Yes |
 ||
-| **Eggs:** |
-| [Egg Fetcher](PokemonSV/EggFetcher.md)                                | Video         | Yes | Yes |
-| [Egg Hatcher](PokemonSV/EggHatcher.md)                                | Video         | Yes | Yes |
-| [Egg Autonomous](PokemonSV/EggAutonomous.md)                          | Video         | Yes | Yes |
-||
 | **Farming:** |
-| [LP Farmer (coming v0.29)](PokemonSV/LPFarmer.md)                     | Video         | Yes | Yes |
-| [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Yes |
-| [Tera Multi-Farmer](PokemonSV/TeraMultiFarmer.md)                     | Video         | Yes | Yes |
+| [LP Farmer](PokemonSV/LPFarmer.md)                                    | Video         | Yes | Yes |
 | [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Yes |
 | [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md)         | Video         | Yes | Yes |
 | [Auction Farmer](PokemonSV/AuctionFarmer.md)                          | Video         | Yes | Yes |
 | [ESP Training](PokemonSV/ESPTraining.md)           	                  | Video         | Yes | Yes |
 ||
-| **Multiplayer:** |
+| **Eggs:** |
+| [Egg Fetcher](PokemonSV/EggFetcher.md)                                | Video         | Yes | Yes |
+| [Egg Hatcher](PokemonSV/EggHatcher.md)                                | Video         | Yes | Yes |
+| [Egg Autonomous](PokemonSV/EggAutonomous.md)                          | Video         | Yes | Yes |
+||
+| **Tera Raids:** |
+| [Auto-Host](PokemonSV/AutoHost.md)                                    | Video         | Yes | Yes |
+| [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Yes |
+| [Tera Multi-Farmer](PokemonSV/TeraMultiFarmer.md)                     | Video         | Yes | Yes |
+||
+| **Fast Code Entry:** |
 | [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md)                       |               | Yes | Yes |
 | [Clipboard Fast Code Entry (C-FCE)](PokemonSV/ClipboardFastCodeEntry.md)  |               | Yes | Yes |
 | [Video Fast Code Entry (V-FCE)](PokemonSV/VideoFastCodeEntry.md)          |               | Yes | Yes |
-| [Auto-Host](PokemonSV/AutoHost.md)                                        | Video         | Yes | Yes |
 ||
 | **Glitches:** |
 | [Ride Cloner (1.0.1)](PokemonSV/RideCloner-101.md)                    | Video         | Yes | Yes |
