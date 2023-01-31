@@ -48,7 +48,7 @@ If you trigger the above by failing too many times, pause for this many minutes 
 
 Periodically set the time back to 12AM to prevent the date from rolling over and losing the raid.
 
-### Bans
+### Bans:
 
 Ban people from your raid. If a banned person tries to join, the raid will be reset to kick them out.
 
@@ -56,7 +56,7 @@ Bans can be specified both via a local table of names as well as an online ban l
 
 The default URL is the shared ban list for the Pokémon Automation (PA) and Shiny Hunter Anonymous (SHA) discord servers. (These are the two servers that are closely affiliated with this project and are were the majority of the users of these programs are concentrated in.)
 
-### Join Reports
+### Join Reports:
 
 Track how many times each IGN has joined and generate a report. This can be used to help identify people who join too many times for the purpose of banning.
 
