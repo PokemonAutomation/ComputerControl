@@ -66,13 +66,6 @@ Stop the program after this many wins.
 
 Hosting out the remaining slots is done using Discord notifications. It is not recommended to stream the video because the program expects your Switches to be the first entries in the lobby. Allowing others to see the stream will allow them to get in front of your own Switches.
 
-### Recovery Mode:
-
-- Stop the program if an error happens on any raiding Switch.
-- On every raiding Switch, save the game before each raid. If an error happens, reset that Switch.
-
-In all cases, if an error happens on the host that doesn't affect the raiding Switches, only the host will be reset.
-
 ### Auto-Hosting Options
 
 See [Auto-Host Options](AutoHostOptions.md).
