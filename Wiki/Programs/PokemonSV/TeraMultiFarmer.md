@@ -25,12 +25,12 @@ Starting from version 0.30.x, you can auto-host the remaining raid slots online 
 3. Auto-save is off.
 4. Airplane mode is disabled and you are offline.
 5. You have done a raid at least once to clear in-game raid guide.
-6. You must be facing an active Tera raid crystal facing south, or standing directly on a crystal spawn spot.*
+6. You must be facing an active Tera raid crystal facing south.
 7. Your location should be safe from getting attacked by wild Pokémon.
 8. You are in the overworld with all menus closed.
 9. Save the game in this position. (standing on north side of crystal facing south)
 
-\*After completing a raid, your character will rotate to face south. Thus if you aren't already facing south, the crystal spawns may no longer be in front of you.
+\*After completing a raid, your character will rotate to face south. Thus if you aren't already facing south, you will no longer be facing the crystal.
 
 **The Raiding Switch(es):**
 
