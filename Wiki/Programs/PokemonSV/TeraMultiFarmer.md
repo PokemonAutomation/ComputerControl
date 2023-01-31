@@ -41,7 +41,7 @@ Starting from version 0.30.x, you can auto-host the remaining raid slots online 
 5. Your location should be safe from getting attacked by wild Pokémon.
 6. You are in the overworld with all menus closed.
 
-### Instructions
+### Instructions:
 
 Once you have set up your Switches as above, just start the program.
 
