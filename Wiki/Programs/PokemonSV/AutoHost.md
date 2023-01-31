@@ -12,6 +12,8 @@ By finishing the raid, it avoids the disconnect penalty and softban. However, th
 
 This program will also change your time to prevent the date from rolling over as this will lose the raid.
 
+For difficult raids that hard to win with only one host, you can use the [Tera Multi-Farmer](TeraMultiFarmer.md) to host using multiple Switches. Most raids (even 6-star) can be cleared with 2 carefully trained and programmed hosts with the other joiners being idle.
+
 ---
 
 **Important Warning:**
@@ -79,26 +81,13 @@ For speed and convenience of [Fast Code Entry (FCE)](FastCodeEntry.md) users, th
 - Host Online (everyone)
 - Host Online (link code)
 
-### Lobby Wait Delay (in seconds):
+### Auto-Hosting Options
 
-Wait this long before starting raid. Start time is 3 minutes minus this number.
+See [Auto-Host Options](AutoHostOptions.md).
 
-If not everyone is ready, the program will wait until everyone is ready even if it goes beyond this time limit.
+### Tera Battle Options
 
-
-### Start Players:
-
-Start the raid when this many players have joined. Again, it will wait until everyone who has joined is ready.
-
-
-### Rollover Prevention:
-
-Periodically set the time back to 12AM to prevent the date from rolling over and losing the raid.
-
-
-### Description:
-
-A custom message to be put on the notification posts when a raid goes up.
+See [Tera Battle Options](TeraBattleOptions.md).
 
 
 ## Credits

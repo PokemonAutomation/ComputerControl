@@ -6,6 +6,13 @@ Auto-host a raid from one Switch while farming it with 1-3 more Switches. Thus t
 
 This program can be used to farm both items and Pokémon from a raid. By using pre-programmed moves, it can also be used to farm herbs from higher level raids.
 
+Starting from version 0.30.x, you can auto-host the remaining raid slots online for others join. Thus this program is effectively a multi-Switch version of the [regular Auto Host](AutoHost.md):
+
+ - When auto-hosting for other people (either locally or online), this program has full feature parity with the [regular Auto Host](AutoHost.md). This includes bans, join tracking, and kill switch.
+- If you are self-farming with fewer than 4 Switches, you can throw it on live-hosting to share the remaining spots with others. For harder raids, this could make it faster if having other players help you win faster.
+- For raids that are too difficult to auto-host with one player, you can now put multiple Switches on it with full move selection. Most raids are probably winnable with 2 carefully programmed hosts assuming all the joiners go idle.
+
+
 
 <img src="images/TeraMultiFarmer-0.png">
 
@@ -51,9 +58,13 @@ This selects which Switch is the hosting Switch. Can be any of the 4 Switches an
 
 Stop the program after this many wins.
 
-### Rollover Prevention:
+### Mode:
 
-On the hosting Switch, periodically set the time back to 12AM to prevent the date from rolling over and losing the raid.
+- Farm by yourself. Use only the Switches controlled by the program. Do not allow anyone else to join.
+- Host remaining slots locally.
+- Host remaining slots online.
+
+Hosting out the remaining slots is done using Discord notifications. It is not recommended to stream the video because the program expects your Switches to be the first entries in the lobby. Allowing others to see the stream will allow them to get in front of your own Switches.
 
 ### Recovery Mode:
 
@@ -61,6 +72,12 @@ On the hosting Switch, periodically set the time back to 12AM to prevent the dat
 - On every raiding Switch, save the game before each raid. If an error happens, reset that Switch.
 
 In all cases, if an error happens on the host that doesn't affect the raiding Switches, only the host will be reset.
+
+### Auto-Hosting Options
+
+See [Auto-Host Options](AutoHostOptions.md).
+
+This entire section is only available if the mode is set to host the remaining slots.
 
 
 
@@ -80,9 +97,9 @@ Check this if you want the Switch to catch the Pokémon. Only relevant to raidin
 
 If the raiding Switch is set to catch the Pokémon, this is the ball to use.
 
-### Battle AI:
+### Tera Battle Options
 
-This option lets you choose how you want this Switch to battle.
+See [Tera Battle Options](TeraBattleOptions.md).
 
 
 
