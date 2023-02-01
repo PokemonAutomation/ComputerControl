@@ -27,11 +27,7 @@ It can run completely unattended for many days without intervention.
 1. Text Speed: Fast
 2. Skip Move Learning: On
 3. Give Nicknames: Off
-4. The program offers an [**Auto-Saving** option](#auto-saving) to allow sandwich ingredients reset, error recovery and egg unhatching,
-by saving the game automatically.
-Obviously, the game's built-in Auto Save feature will mess up with the program's **Auto-Saving** functionality.
-You **MUST** only enable one Auto saving.
-You need to either turn off in-game Auto Save or turn off the program's **Auto-Saving** by setting its option to be **No auto-saving**.
+4. Auto-Save: Off
 
 ### Box Setup
 
@@ -96,20 +92,56 @@ The language you are playing in. This is required only if you are doing IV filte
 
 Stop the program once it has kept this many babies. The program will also stop if the right box is full of kept Pokémon.
 
-### Auto-Saving:
+### Auto-Saving Mode:
 
-You can set it to automatically save the game to recover from minor program errors or game crashes, save ingredients or allow eggs to be unhatched.
+This controls the auto-saving behavior to various things such as error-recovery, reusing ingredients, and unhatching eggs.
 
-- **No auto-saving**: No error/crash recovery. If you find no kept Pokémon after end of the program, you can reset the game to recover sandwich ingredients. But if you want to keep any Pokémon, you will need to save the game afterwards and all the used ingredients are not recoverable. The value of **Num Sandwiches** limits the number of fetching-hatching iterations the program can run.
+**<ins>No Auto-Saving:</ins>**
 
-- **Save before picnic and after keeping a baby**: Allows for error/crash recovery. The program also resets the game if no kept Pokémon after one fetching-hatching iteration to recover the sandwich ingredients. Ingredients are only permanently spent when the program saves the game after a baby is kept. So the program can do more iterations than the value of **Num Sandwiches**.
+**Operation:**
 
-- **Save before every batch**: Allows for error/crash recovery and allows you to unhatch eggs. Ingredients permanently spent after every picnic as the program will save before hatching each batch of five eggs. The value of **Num Sandwiches** limits the number of fetching-hatching iterations the program can run.
-Unhatching eggs can be useful for obtaining breeding parents by rehatching a perfect egg in a game with a different language.
-To collect (unhatched) eggs with the desired stats, set this option to "Save before every batch" and **Action Table** below to "Stop Program" on the desired stats.
-Once the program stops on the baby with the desired stats, you can manually reset the game and it will revert to an egg in your party.
+Repeat this iteration until a stop condition is met:
 
-NOTE: The game's built-in Auto Save **MUST** be turned off in in-game Options if you select **Save before picnic and after keeping a baby** or **Save before every batch**.
+1. Picnic and collect eggs.
+2. Hatch and move keepers to keeper box.
+
+The program will never save or reset the game.
+
+**Effects:**
+
+This is the most basic mode. No saving means no error-recovery. No resets mean the ingredients are consumed at a high rate.
+
+**<ins>Save before picnic and after keeping a baby:</ins>**
+
+**Operation:**
+
+Repeat this iteration until a stop condition is met:
+
+1. Save game.
+2. Picnic and collect eggs.
+3. Hatch and move keepers to keeper box.
+4. Save the game if there are any keepers. If no keepers or there are errors, reset the game.
+
+**Effects:**
+
+This is the default and more efficient mode. Ingredient usage is low since they are reused if there are no keepers. Errors are recoverable by resetting. However eggs that match a desired filter cannot be unhatched.
+
+**<ins>Save before every batch:</ins>**
+
+**Operation:**
+
+Repeat this iteration until a stop condition is met:
+
+1. Save game.
+2. Picnic and collect eggs.
+3. For each column of 4 or 5 eggs:
+    1. Save game.
+    2. Hatch and move keepers to keeper box.
+
+**Effects:**
+
+The mode allows you to unhatch eggs. If the program is configured to stop on a baby matching a filter, you can unhatch that egg by resetting the game. However, ingredient usage is high since they are fully consumed and never reset. Errors are fully recoverable.
+
 
 ### Actions Table:
 
