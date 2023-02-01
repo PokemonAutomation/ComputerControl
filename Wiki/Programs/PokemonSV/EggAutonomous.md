@@ -98,22 +98,14 @@ This controls the auto-saving behavior to various things such as error-recovery,
 
 **<ins>No Auto-Saving:</ins>**
 
-**Operation:**
-
 Repeat this iteration until a stop condition is met:
 
 1. Picnic and collect eggs.
 2. Hatch and move keepers to keeper box.
 
-The program will never save or reset the game.
-
-**Effects:**
-
 This is the most basic mode. No saving means no error-recovery. No resets mean the ingredients are consumed at a high rate.
 
 **<ins>Save before picnic and after keeping a baby:</ins>**
-
-**Operation:**
 
 Repeat this iteration until a stop condition is met:
 
@@ -122,13 +114,9 @@ Repeat this iteration until a stop condition is met:
 3. Hatch and move keepers to keeper box.
 4. Save the game after each keeper. If no keepers or there are errors, reset the game.
 
-**Effects:**
-
-This is the default and more efficient mode. Ingredient usage is low since they are reused if there are no keepers. Errors are recoverable by resetting. However eggs that match a desired filter cannot be unhatched.
+This is the default and more efficient mode. Ingredient usage is low since they are reused if there are no keepers. Errors are recoverable by resetting.
 
 **<ins>Save before every batch:</ins>**
-
-**Operation:**
 
 Repeat this iteration until a stop condition is met:
 
@@ -138,9 +126,9 @@ Repeat this iteration until a stop condition is met:
     1. Save game.
     2. Hatch and move keepers to keeper box.
 
-**Effects:**
-
 The mode allows you to unhatch eggs. If the program is configured to stop on a baby matching a filter, you can unhatch that egg by resetting the game. However, ingredient usage is high since they are fully consumed and never reset. Errors are fully recoverable.
+
+The ability to unhatch eggs makes it possible to hunt for shiny eggs or high-IV eggs to be re-hatched in a different language for the purpose of building breeding parents.
 
 
 ### Actions Table:
