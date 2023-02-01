@@ -120,7 +120,7 @@ Repeat this iteration until a stop condition is met:
 1. Save game.
 2. Picnic and collect eggs.
 3. Hatch and move keepers to keeper box.
-4. Save the game if there are any keepers. If no keepers or there are errors, reset the game.
+4. Save the game after each keeper. If no keepers or there are errors, reset the game.
 
 **Effects:**
 
