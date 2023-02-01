@@ -126,7 +126,7 @@ Repeat this iteration until a stop condition is met:
     1. Save game.
     2. Hatch and move keepers to keeper box.
 
-The mode allows you to unhatch eggs. If the program is configured to stop on a baby matching a filter, you can unhatch that egg by resetting the game. However, ingredient usage is high since they are fully consumed and never reset. Errors are fully recoverable.
+This mode allows you to unhatch eggs. If the program is configured to stop on a baby matching a filter, you can unhatch that egg by resetting the game. However, ingredient usage is high since they are fully consumed and never reset. Errors are fully recoverable.
 
 The ability to unhatch eggs makes it possible to hunt for shiny eggs or high-IV eggs to be re-hatched in a different language for the purpose of building breeding parents.
 
