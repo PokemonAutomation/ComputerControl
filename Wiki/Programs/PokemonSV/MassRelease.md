@@ -1,5 +1,9 @@
 # Mass Release
 
+**Related Programs:**
+- **Microcontroller:** [Mass Release](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/MassRelease.md)
+- **Computer Control:** [Mass Release](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/MassRelease.md) (this program)
+
 ## Program Description
 
 Mass release boxes of Pokémon.
