@@ -1,5 +1,11 @@
 # Gimmighoul Roaming Farmer
 
+**Related Programs:**
+- **Microcontroller:** [Roaming Gimmighoul Farmer](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/RoamingGimmighoulFarmer.md)
+- **Computer Control:** [Gimmighoul Roaming Farmer](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/GimmighoulRoamingFarmer.md) (this program)
+
+The microcontroller and computer-control versions of this program are functionally identical.
+
 ## Program Description
 
 Farm roaming Gimmighoul for coins by date skipping.
