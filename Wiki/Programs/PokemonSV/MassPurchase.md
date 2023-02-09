@@ -1,5 +1,9 @@
 # Mass Purchase
 
+**Related Programs:**
+- **Microcontroller:** [MassPurchase](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/MassPurchase.md)
+- **Computer-Control:** [MassPurchase](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/MassPurchase.md) (this program)
+
 ## Program Description
 
 Automatically buy items.
