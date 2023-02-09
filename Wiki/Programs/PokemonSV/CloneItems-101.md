@@ -1,5 +1,11 @@
 # Clone Items (v1.0.1)
 
+**Related Programs:**
+- **Microcontroller:** [Item Dupe](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/ItemDupe.md) (this program)
+- **Computer Control:** [Clone Items](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/CloneItems-101.md)
+
+The microcontroller and computer-control versions of this program are functionally identical.
+
 **This program requires a setup that can only be performed on version 1.0.1 and earlier. But it will work on version 1.1.0 if setup prior to upgrading.**
 
 <img src="images/CloneItems-0.png">
