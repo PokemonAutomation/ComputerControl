@@ -26,11 +26,11 @@ Farm the Academy Ace Tournament for money and prizes.
 
 The number of tournaments you wish to complete.
 
-###Use Terastillization:
+### Use Terastillization:
 
 If checked, will tera your Pokemon at the start of each battle. Will take much longer to farm tournaments but may be worth the attack boost if your Pokemon isn't specifically built for farming.
 
-###Save every this many tournaments:
+### Save every this many tournaments:
 
 Save every x number of tournaments. Zero disables saving.
 
