@@ -29,15 +29,19 @@ Discord bot integration can be useful for various things. For example:
 
 4. Under Privileged Gateway Intents enable `Presence Intent`, `Server Members Intent`, and `Message Content Intent`. Save your changes.
 
-<img src="images/discord-bot-intents.png">
+<img src="images/discord-bot-intents-0.png">
 
-5. Now head to the OAuth2 tab and click URL Generator; we need to generate an invite URL with the correct permissions. Select `bot` under scopes. You now have two options:
+5. Now head to the OAuth2 tab and click URL Generator; we need to generate an invite URL with the correct permissions. Select `bot` under scopes.
 
-	a. Grant `Send Messages`, `Embed Links`, `Attach Files`, `Read Message History` permissions. Copy the generated URL below and paste it into your browser of choice. This will allow you to invite the bot to a server you have Manage Server permissions in, and your bot will have a pre-configured role.
+<img src="images/discord-bot-scopes.png">
 
-	b. Do not grant any permissions, copy the generated URL below and invite the bot to a server you have Manage Server permissions in. Bot will not have any permissions, you can configure a role in the server. **This is the preferred option if you are setting up your bot in someone else's server.**
+You now have two options:
 
-<img src="images/discord-bot-permissions.png">
+    **a.** Do not grant any permissions, copy the generated URL below and invite the bot to a server you have Manage Server permissions in. Bot will not have any permissions, you can configure a role in the server or configure on a per-channel basis. **This is the preferred option if you are setting up your bot in someone else's server.
+
+	**b.** Grant `Send Messages`, `Embed Links`, `Attach Files`, `Read Message History` permissions. Copy the generated URL below and paste it into your browser of choice. This will allow you to invite the bot to a server you have Manage Server permissions in, and your bot will have a pre-configured role.
+
+<img src="images/discord-bot-permissions-0.png">
 
 
 ## Step 2: Open up the Discord settings.
@@ -46,34 +50,39 @@ Open up the serial programs and click on the Settings button in the bottom-left 
 
 **Settings overview**
 
-* **`Discord token`**: This is where you'll paste your bot's token. It will be blanked so you don't accidentally reveal it.
-* **`Discord command prefix`**: Symbol or text your bot will recognize as the start of a command.
-* **`Discord bot use suffix`**: If enabled the prefix will be matched at the end of a command.
-* **`Discord game status`**: Flavor text that will appear under your bot's status in a server sidebar.
-* **`Discord hello message`**: Bot's response to the `$hi` command. If you enter `<!>` in your custom message, the bot will ping whoever invoked this command.
-* **`Discord sudo`**: Enter comma-separated user IDs you wish to grant remote button click command access to.
-* **`Discord owner`**: Enter your own user ID. This will also enable sudo commands.
+* **`Run Discord Integration On Launch`**: If enabled, Discord bot integration will automatically start as soon as you open the program.
+* **`Discord Integration Library`**: Dropdown menu that allows you to choose which library you want to use: D++ (slash and message commands) or Sleepy Discord (deprecated, only message commands).
+* **`Discord Integration Command Type`**: Dropdown menu that allows you to choose between the modern slash commands or the older style message commands. **Only available when using the D++ library**.
+* **`Discord Token`**: This is where you'll paste your bot's token. It will be blanked so you don't accidentally reveal it.
+* **`Discord Command Prefix`**: Symbol or text your bot will recognize as the start of a command.
+* **`Use Suffix`**: If enabled the prefix will be matched at the end of a command. **Only available when using the Sleepy Discord library**.
+* **`Discord Game Status`**: Flavor text that will appear under your bot's name in the sidebar.
+* **`Discord Hello Message`**: Bot's response to the `$hi` command.
+* **`Discord Sudo`**: Enter comma-separated user IDs you wish to grant remote button click command access to. **Only available when using the Sleepy Discord library**.
+* **`Discord Owner`**: Enter your own user ID. This will also enable sudo commands. **Only available when using the Sleepy Discord library**.
 
-<img src="images/discord-bot-program-settings.png">
+<img src="images/discord-bot-program-settings-0.png">
 
 
 ## Step 3: Get your Discord bot's token and your user ID.
 
-1. Your Discord ID is not "Username#1234". It's actually just a number. To get your Discord ID, [follow this guide](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).
-Paste your ID into the `Discord User ID` and `Discord owner` boxes.
+1. If you haven't already, head back to the Bot tab in Discord's Developer Portal, reveal and copy your bot's token. Then paste it into the `Discord Token` box.
 
-2. If you haven't already, head back to the Bot tab in Discord's Developer Portal, reveal and copy your bot's token. Then paste it into the `Discord token` box.
+If using Sleepy Discord integration:
+
+  2. Your Discord ID is not "Username#1234". It's actually just a number. To get your Discord ID, [follow this guide](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).
+     Paste your ID into the `Discord User ID` and `Discord owner` boxes.
 
 
 ## Step 4: Set up your channels and notifications.
 
 1. Click "Add Row". In the `Description` box enter your own description so it's easier for you to identify channels later on.
 
-2. Similarly to how you got your user ID, get the channel ID you want to send notifications to and enter it.
+2. Similarly to how you got your user ID for Sleepy Discord in the previous step, get the channel ID you want to send notifications to and enter it.
 
 3. If you want your bot to respond to commands in that channel, check `Allow Commands`.
 
-<img src="images/discord-notifications-program-settings-bots-0.png">
+<img src="images/discord-notifications-program-settings-bots-1.png">
 
 
 ## Step 5: Send a test message and try out commands.
@@ -85,13 +94,16 @@ If the bot is online, good job! Now let's test notifications and commands!
 
 Navigate to any program that sends notifications. All programs that send notifications will have the following section near the bottom of the settings.
 
-<img src="images/discord-notifications-event-settings-0.png">
+<img src="images/discord-notifications-event-settings-1.png">
 
 Click on any of the "Send Test Message" buttons. If everything worked properly, this will send a message to the configured channel(s).
 
 <img src="images/discord-notifications-bot-0.png">
 
-If it doesn't, there can literally be a million things wrong. A good place to start is to open up the Output Window and look for any errors.
+***When using slash commands for the very first time you will have to register them. To do this, type `_cmd register` in a Discord channel you have commands enabled in.
+You can also use this command to re-register commands if new ones are added in the future.***
+
+If it doesn't, there can literally be a million things wrong. A good place to start is to open up the `Output Window` and look for any errors.
 
 ***
 
@@ -138,12 +150,36 @@ This lets you specify and fine-tune channels for notifications and commands.
 
 A general command cheat sheet.
 
-## Miscellaneous Commands
+## Miscellaneous Commands (D++)
 
-* **`help`**: Will post all commands that are available to the invoking user with their parameters.
+* **`help`**: Will post all commands that are available to the invoking user with their parameters and descriptions.
+* **`status`**: Will post information about currently running programs and consoles. Good way to find out your console ID (required as a parameter for some commands).
+* **`about`** Will provide some general information about the bot.
+* **`hi`**: Will post a cute reply to the command invoker.
+* **`ping`**: Will reply with ping!
+
+## Owner Commands
+
+* **`click <console id> <button>`**: Will send a button input command to the specified console.
+* **`joystick <console id> <LStick/RStick> <x position (0-255)> <y position (0-255)> <hold ticks>`**: Will hold the left joystick for the specified console for a time.
+***Note: if a program is running, remote button commands will be denied. Remotely stop a running program first.***
+
+* **`start <console id>`**: Will start a stopped program for the specified console.
+* **`stop <console id>`**: Will stop a running program for the specified console.
+* **`resetserial <console id>`**: Will reset the serial connection for the specified console.
+* **`resetcamera <console id>`**: Will reset the camera view for the specified console.
+* **`screenshot <console id> <format (png or jpg)>`**: Will take a screenshot from the specified console and upload it to the channel this command was invoked in.
+* **`register`**: Required for first-time slash command use and for adding new commands in the future. Type `_cmd register` to register slash commands. Afterwards will become usable as a regular slash command.
+
+***
+###
+
+## Miscellaneous Commands (Sleepy Discord)
+
+* **`help`**: Will post all commands that are available to the invoking user with their parameters and descriptions.
 * **`botinfo`**: Will post information about currently running programs and consoles. Good way to find out your console ID (required as a parameter for some commands).
 * **`about`** Will provide some general information about the bot.
-* **`hi`**: Will post a cute response to the command invoker.
+* **`hi`**: Will post a cute reply to the command invoker.
 * **`ping`**: Will post a latency estimate (bot will post a message and edit it with the delay between server responses).
 
 ## Sudo Commands
@@ -163,6 +199,35 @@ A general command cheat sheet.
 * **`reloadsettings`**: Will reload Discord settings.
 * **`shutdown`**: Will (ungracefully) terminate the entire program. Best to avoid using it, settings and stats will not be saved.
 
+***
+### Troubleshooting
+
+* **My bot won't come online!**
+
+If you can see your bot successfully connecting online in the `Output Window`, most likely your channel and/or role permissions for your bot are wrong.
+Double-check permissions specifically related to reading messages and viewing channels. If you have assigned your bot a role, view server as the role to make this easier.
+
+* **My bot is getting rate limited!**
+
+Add a delay for sending messages. If you're sending messages to tons of channels or are running several program instances using the same token you may want to consider making additional bots.
+
+* **My bot's slash commands are showing up in every channel!**
+
+Restrict slash commands in your server settings.
+<img src="images/discord-slash-restriction.png">
+
+* **I've registered slash commands but I don't see them!**
+
+Assuming the user/role/channel is not restricted you may just have to wait for a few minutes or restart your Discord app for the changes to take effect. Discord is slow at caching them.
+
+* **The console ID paramater that worked before no longer works!**
+
+Console ID changes as you select/switch programs. Use the `status` command to check it after switching programs or restarting the program.
+
+* **I've tried everything but it doesn't work!**
+
+Post a detailed message in Pokémon Automation's Discord server.
+For proper human troubleshooting you will be expected to explain how you performed each step in the guide, provide relevant logs, and, if applicable, provide pictures of relevant steps.
 
 <hr>
 
