@@ -37,7 +37,7 @@ Discord bot integration can be useful for various things. For example:
 
 **You now have two options:**
 
-  **a.** Do not grant any permissions, copy the generated URL below and invite the bot to a server you have Manage Server permissions in. Bot will not have any permissions, you can configure a role in the server or configure on a per-channel basis. **This is the preferred option if you are setting up your bot in someone else's server.
+  **a.** Do not grant any permissions, copy the generated URL below and invite the bot to a server you have Manage Server permissions in. Bot will not have any permissions, you can configure a role in the server or configure on a per-channel basis. **This is the preferred option if you are setting up your bot in someone else's server.**
 
   **b.** Grant `Send Messages`, `Embed Links`, `Attach Files`, `Read Message History` permissions. Copy the generated URL below and paste it into your browser of choice. This will allow you to invite the bot to a server you have Manage Server permissions in, and your bot will have a pre-configured role.
 
