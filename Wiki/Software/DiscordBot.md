@@ -35,11 +35,11 @@ Discord bot integration can be useful for various things. For example:
 
 <img src="images/discord-bot-scopes.png">
 
-You now have two options:
+**You now have two options:**
 
-    **a.** Do not grant any permissions, copy the generated URL below and invite the bot to a server you have Manage Server permissions in. Bot will not have any permissions, you can configure a role in the server or configure on a per-channel basis. **This is the preferred option if you are setting up your bot in someone else's server.
+  **a.** Do not grant any permissions, copy the generated URL below and invite the bot to a server you have Manage Server permissions in. Bot will not have any permissions, you can configure a role in the server or configure on a per-channel basis. **This is the preferred option if you are setting up your bot in someone else's server.
 
-	**b.** Grant `Send Messages`, `Embed Links`, `Attach Files`, `Read Message History` permissions. Copy the generated URL below and paste it into your browser of choice. This will allow you to invite the bot to a server you have Manage Server permissions in, and your bot will have a pre-configured role.
+  **b.** Grant `Send Messages`, `Embed Links`, `Attach Files`, `Read Message History` permissions. Copy the generated URL below and paste it into your browser of choice. This will allow you to invite the bot to a server you have Manage Server permissions in, and your bot will have a pre-configured role.
 
 <img src="images/discord-bot-permissions-0.png">
 
@@ -226,7 +226,7 @@ Console ID changes as you select/switch programs. Use the `status` command to ch
 
 * **I've tried everything but it doesn't work!**
 
-Post a detailed message in Pokémon Automation's Discord server.
+Post a detailed message in PokÃ©mon Automation's Discord server.
 For proper human troubleshooting you will be expected to explain how you performed each step in the guide, provide relevant logs, and, if applicable, provide pictures of relevant steps.
 
 <hr>
