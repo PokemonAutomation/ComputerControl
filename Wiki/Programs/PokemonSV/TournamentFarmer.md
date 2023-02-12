@@ -1,5 +1,7 @@
 # Tournament Farmer
 
+*This program is under development. It is not yet available to the public.*
+
 ## Program Description
 
 Farm the Academy Ace Tournament for money and prizes.
