@@ -57,6 +57,8 @@ The best known Pokémon for a lead is Corviknight that is level 100, defensively
 
 ## Options
 
+<img src="images/ShinyHunt-AreaZeroPlatform-3.png">
+
 ### Game Language:
 
 This is the language of your game and is required to read the names of what you encounter. Thus this is also required for auto-catch to work.
@@ -68,6 +70,8 @@ Start the game either on the platform or just inside the Zero Gate station.
 ### Actions Table:
 
 By default, the program will run from non-shinies and stop on shinies. Here you can specify an action for different encounter types by Pokémon name and shininess. This will let you auto-catch Pokémon in your desired ball type.
+
+**Warning:** Level 60 Garganacl knows Explosion. Don't try to auto-catch them unless you don't mind losing some.
 
 ### Video Capture:
 
