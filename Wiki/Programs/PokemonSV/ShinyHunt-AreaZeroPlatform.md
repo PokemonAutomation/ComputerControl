@@ -52,8 +52,13 @@ Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports 
 6. You are zoomed out to maximize your view.
 7. Start the program anywhere on the platform in the overworld with all menus closed.
 
-The best known Pokémon for a lead is Corviknight that is level 100, defensively trained, and holding leftovers. Miraidon and Lucario will work if given a Smoke Ball. However, the lack of leftovers for self-healing makes them less suitable for auto-catching.
+The best known Pokémon for a lead is Corviknight that is level 100, defensively trained, and holding leftovers. Miraidon and Lucario will also work if given a Smoke Ball. However, the lack of leftovers for self-healing makes them less suitable for auto-catching.
 
+On Violet, Corviknight has issues walling Iron Hands and Iron Bundle during auto-catch:
+- Impish 252hp/252def will wall Iron Hands, but takes more than leftovers can heal against Iron Bundle.
+- Careful 252hp/252spdef will wall Iron Bundle, but takes more than leftovers can heal against Iron Hands.
+
+In both cases, Corviknight cannot outrun Iron Bundle and Flutter Mane without significant speed investment. But the program will be able to retry running away until it succeeds and auto-heal if neccessary.
 
 ## Options
 
