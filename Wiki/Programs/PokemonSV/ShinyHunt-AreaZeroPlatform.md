@@ -50,7 +50,8 @@ Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports 
 4. You have plenty of potions for auto-healing.
 5. You have plenty of balls for auto-catching.
 6. You are zoomed out to maximize your view.
-7. Start the program anywhere on the platform in the overworld with all menus closed.
+7. You are on foot. (Not mounted on your ride.)
+8. Start the program anywhere on the platform in the overworld with all menus closed.
 
 The best known Pokémon for a lead is Corviknight that is level 100, defensively trained, and holding leftovers. Miraidon and Lucario will also work if given a Smoke Ball. However, the lack of leftovers for self-healing makes them less suitable for auto-catching.
 
