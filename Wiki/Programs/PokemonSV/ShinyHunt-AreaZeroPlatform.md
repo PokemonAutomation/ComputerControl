@@ -40,6 +40,7 @@ Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports 
 1. Text Speed: Fast
 2. Skip Move Learning: On
 3. Give Nicknames: Off
+4. Auto-Save: Off
 
 
 ### Instructions
