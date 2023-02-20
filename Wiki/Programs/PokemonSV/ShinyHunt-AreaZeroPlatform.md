@@ -1,6 +1,6 @@
 # Shiny Hunt - Area Zero Platform
 
-*This program is still in development and it not yet available to the public.*
+*This program is still in development and is not yet available to the public.*
 
 <img src="images/ShinyHunt-AreaZeroPlatform-0.png">
 
