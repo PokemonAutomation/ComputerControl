@@ -33,7 +33,7 @@ Making a sandwich before running this program will drastically increase shiny ra
 
 Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports auto-catching by blindly throwing balls. But due to the low catch rates of paradox Pokémon, you will need a very tanky lead and a lot of balls.
 
-<img src="images/ShinyHunt-AreaZeroPlatform-1.png">
+<img src="images/ShinyHunt-AreaZeroPlatform-2.png">
 
 ### Setup of Settings
 
