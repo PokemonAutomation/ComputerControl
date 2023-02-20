@@ -58,7 +58,7 @@ On Violet, Corviknight has issues walling Iron Hands and Iron Bundle during auto
 - Impish 252hp/252def will wall Iron Hands, but takes more than leftovers can heal against Iron Bundle.
 - Careful 252hp/252spdef will wall Iron Bundle, but takes more than leftovers can heal against Iron Hands.
 
-In both cases, Corviknight cannot outrun Iron Bundle and Flutter Mane without significant speed investment. But the program will be able to retry running away until it succeeds and auto-heal if neccessary.
+Corviknight also cannot outrun Flutter Mane and Iron Bundle without significant speed investment. So it will take damage over time just running from them. But the program can auto-heal as necessary.
 
 ## Options
 
