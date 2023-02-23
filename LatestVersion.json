@@ -1,8 +1,8 @@
 {
     "Release": {
         "VersionMajor": 0,
-        "VersionMinor": 30,
-        "VersionPatch": 31
+        "VersionMinor": 31,
+        "VersionPatch": 17
     },
     "Beta": {
         "VersionMajor": 0,
