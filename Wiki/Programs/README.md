@@ -247,6 +247,9 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Clipboard Fast Code Entry (C-FCE)](PokemonSV/ClipboardFastCodeEntry.md)  |               | Yes | Yes |
 | [Video Fast Code Entry (V-FCE)](PokemonSV/VideoFastCodeEntry.md)          |               | Yes | Yes |
 ||
+| **Shiny Hunting:** |
+| [Shiny Hunt - Area Zero Platform (in development)](PokemonSV/ShinyHunt-AreaZeroPlatform.md)  | Video + Audio | Yes | Yes |
+||
 | **Glitches:** |
 | [Ride Cloner (1.0.1)](PokemonSV/RideCloner-101.md)                    | Video         | Yes | Yes |
 | [Clone Items (1.0.1)](PokemonSV/CloneItems-101.md)                    | Video         | Yes | Yes |
