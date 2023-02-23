@@ -47,7 +47,7 @@ Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports 
 
 1. Make sure your party is full.
 2. Your lead Pokémon is fast and capable of defeating everything without taking damage.
-3. Your lead Pokémon is unaffected by Dugtrio's Arena Trap.
+3. Your lead Pokémon is unaffected by Dugtrio's Arena Trap. (Flying or ghost type. Or holding a Smoke Ball.)
 4. You have plenty of potions for auto-healing.
 5. You have plenty of balls for auto-catching.
 6. You are zoomed out to maximize your view.
