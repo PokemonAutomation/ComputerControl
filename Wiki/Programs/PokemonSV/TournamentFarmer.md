@@ -36,6 +36,10 @@ If checked, will tera your Pokemon at the start of each battle. Will take much l
 
 Save every x number of tournaments. Zero disables saving.
 
+### Stop after earning this amount of money:
+
+After winning x amount of money, stop the program when the tournament is over. Money lost from losing a battle will not count toward this total. Set this to 0 to disable the setting.
+
 ### Go Home when Done:
 
 Go to the Switch Home to idle when finished.
