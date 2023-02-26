@@ -46,13 +46,14 @@ Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports 
 ### Instructions
 
 1. Make sure your party is full.
-2. Your lead Pokémon is fast and capable of defeating everything without taking damage.
-3. Your lead Pokémon is unaffected by Dugtrio's Arena Trap. (Flying or ghost type. Or holding a Smoke Ball.)
-4. You have plenty of potions for auto-healing.
-5. You have plenty of balls for auto-catching.
-6. You are zoomed out to maximize your view.
-7. You are on foot. (Not mounted on your ride.)
-8. Start the program anywhere on the platform in the overworld with all menus closed.
+2. Your lead Pokémon is not shiny. (Shiny will cause false positive detections.)
+3. Your lead Pokémon is fast and capable of defeating everything without taking damage.
+4. Your lead Pokémon is unaffected by Dugtrio's Arena Trap. (Flying or ghost type. Or holding a Smoke Ball.)
+5. You have plenty of potions for auto-healing.
+6. You have plenty of balls for auto-catching.
+7. You are zoomed out to maximize your view.
+8. You are on foot. (Not mounted on your ride.)
+9. Start the program anywhere on the platform in the overworld with all menus closed.
 
 The best known Pokémon for a lead is Corviknight that is level 100, defensively trained, and holding leftovers. Miraidon and Lucario will also work if given a Smoke Ball. However, the lack of leftovers for self-healing makes them less suitable for auto-catching.
 
