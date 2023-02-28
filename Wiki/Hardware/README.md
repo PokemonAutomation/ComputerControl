@@ -21,6 +21,20 @@ Your computer must be sufficiently powerful:
 - If you intend to control **2** Switches: A quad-core processor @ 3 GHz no older than 2015 should be sufficient.
 - If you intend to control **4** Switches: 6-8 cores minimum.
 
+**Important (since this happens a lot):**
+
+If you...
+
+- Do not already have a suitable computer.
+- Are on a budget.
+- Are considering getting a cheap computer just to run this project. (under $1000 USD)
+
+***Stop right there. Don't do it.***
+
+Video recognition and machine learning require a lot of computing power which cheap computers simply cannot handle. And computational requirements will increase as the Pokémon games become increasingly difficult to automate and require increasingly advanced recognition methods.
+
+We started Pokémon Automation as a fun thing for gamers who already had a decent computer. We never expected (nor do we encourage) people to break the bank for it.
+
 
 ## Serial Hardware
 
