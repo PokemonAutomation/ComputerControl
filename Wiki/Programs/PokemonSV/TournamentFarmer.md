@@ -9,9 +9,9 @@ Farm the Academy Ace Tournament for money and prizes.
 ## Setup
 
 1. Your party must only contain a single Pokemon capable of clearing the tournament solo by spamming its first move. (ex. Chi-Yu or Sylveon)
-	> This cannot be your mount as the program will use it to return to the academy if you end up at the Pokemon Center.
-	> It is strongly recommended that your Pokemon is level 100.
-	> Remember to equip Amulet Coin.
+	* This cannot be your mount as the program will use it to return to the academy if you end up at the Pokemon Center.
+	* It is strongly recommended that your Pokemon is level 100.
+	* Remember to equip Amulet Coin.
 2. The last Pokemon Center visited is Mesagzoa West. The program will attempt to return to the academy from here if you lose the tournament.
 
 ## Instructions
@@ -26,10 +26,10 @@ Farm the Academy Ace Tournament for money and prizes.
 If you have a Hisuian Zoroark from the Scarlet/Violet DLC preorder, you can use the event-exclusive move Happy Hour (which stacks with Amulet Coin) to double your winnings. However, Happy Hour is not a damaging move, so it will not work with the program normally, and requires a slightly different setup as follows:
 
 1. Your party must only contain two Pokemon: The event Zoroark and your regular tournament farming 'mon.
-	> Zoroark must be your lead. It's first move must be Happy Hour and its second move must be Memento.
-	> Zoroark does not need a particular EV spread. As long as it can use Happy Hour on the first turn it is fine.
-	> The Pokemon in your second slot is setup to farm tournaments with the requirements from above.
-	> Note: Having two Pokemon in your party means you can give Zoroark the Amulet Coin. This frees up the item slot on your farming 'mon. Give them the appropriate Choice item for faster kills.
+	* Zoroark must be your lead. It's first move must be Happy Hour and its second move must be Memento.
+	* Zoroark does not need a particular EV spread. As long as it can use Happy Hour on the first turn it is fine.
+	* The Pokemon in your second slot is setup to farm tournaments with the requirements from above.
+	* Note: Having two Pokemon in your party means you can give Zoroark the Amulet Coin. This frees up the item slot on your farming 'mon. Give them the appropriate Choice item for faster kills.
 2. Check the "Happy Hour H-Zoroark" option.
 3. As with the normal setup, the last Pokemon Center visited is Mesagzoa West and your farming Pokemon is not your mount.
 
