@@ -1,7 +1,5 @@
 # Tournament Farmer
 
-*This program is under development. It is not yet available to the public.*
-
 ## Program Description
 
 Farm the Academy Ace Tournament for money and prizes.
@@ -12,12 +10,30 @@ Farm the Academy Ace Tournament for money and prizes.
 
 1. Your party must only contain a single Pokemon capable of clearing the tournament solo by spamming its first move. (ex. Chi-Yu or Sylveon)
 	> This cannot be your mount as the program will use it to return to the academy if you end up at the Pokemon Center.
+	> It is strongly recommended that your Pokemon is level 100.
+	> Remember to equip Amulet Coin.
 2. The last Pokemon Center visited is Mesagzoa West. The program will attempt to return to the academy from here if you lose the tournament.
 
 ## Instructions
 
 1. Stand in front of the tournament entry NPC.
 2. Start the program in-game.
+
+## Happy Hour H-Zoroark Setup + Instructions
+
+<img src="images/TournamentFarmerZoroark.png">
+
+If you have a Hisuian Zoroark from the Scarlet/Violet DLC preorder, you can use the event-exclusive move Happy Hour (which stacks with Amulet Coin) to double your winnings. However, Happy Hour is not a damaging move, so it will not work with the program normally, and requires a slightly different setup as follows:
+
+1. Your party must only contain two Pokemon: The event Zoroark and your regular tournament farming 'mon.
+	> Zoroark must be your lead. It's first move must be Happy Hour and its second move must be Memento.
+	> Zoroark does not need a particular EV spread. As long as it can use Happy Hour on the first turn it is fine.
+	> The Pokemon in your second slot is setup to farm tournaments with the requirements from above.
+	> Note: Having two Pokemon in your party means you can give Zoroark the Amulet Coin. This frees up the item slot on your farming 'mon. Give them the appropriate Choice item for faster kills.
+2. Check the "Happy Hour H-Zoroark" option.
+3. As with the normal setup, the last Pokemon Center visited is Mesagzoa West and your farming Pokemon is not your mount.
+
+Once the conditions above are set, start the tournament as usual. In each fight, H-Zoroark will use Happy Hour on the first turn. Then, if it hasn't fainted, it will use Memento to faint. Once that's done your farming Pokemon will be sent out (and tera'd if that option is checked) to complete the battle.
 
 ## Notes
 - The Turbo A/Turbo Button programs will run through the tournament faster than this, and can be used instead if none of the options (ex. Tera during battle, Prize reading, continuing even if tournament lost) in this program are needed.
@@ -39,6 +55,10 @@ Save every x number of tournaments. Zero disables saving.
 ### Stop after earning this amount of money:
 
 After winning x amount of money, stop the program when the tournament is over. Money lost from losing a battle will not count toward this total. Set this to 0 to disable the setting.
+
+### Happy Hour H-Zoroark:
+
+Check this if you have an event Hisuian Zoroark setup from the above instructions. Do not check this option if you do not have the setup for this, as the program will not function.
 
 ### Go Home when Done:
 
