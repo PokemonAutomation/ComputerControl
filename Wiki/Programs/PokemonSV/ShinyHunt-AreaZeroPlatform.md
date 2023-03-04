@@ -95,7 +95,7 @@ Auto-heal your lead if its HP drops below a certain point. This will obviously c
 
 A platform reset is when you fly to Zero Gate, then return to the platform. This is usually done to recover from falling off the platform or to reset the spawns on the platform.
 
-The reason for resetting spawns is that over time, the Pokémon can spawn in inaccessible places. When there are too few spawns, the kill and encounter rtes will drop to very inefficient levels. Resetting will fix this, at the cost of also despawning any shinies that have not yet been encountered.
+The reason for resetting spawns is that over time, the Pokémon can spawn in inaccessible places. When there are too few spawns, the kill and encounter rates will drop to very inefficient levels. Resetting will fix this, at the cost of also despawning any shinies that have not yet been encountered.
 
 The suboptions here are:
 
