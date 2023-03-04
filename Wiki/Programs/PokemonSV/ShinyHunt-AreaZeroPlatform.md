@@ -1,7 +1,5 @@
 # Shiny Hunt - Area Zero Platform
 
-*This program is still in development and is not yet available to the public.*
-
 <img src="images/ShinyHunt-AreaZeroPlatform-0.png">
 
 (Image shamelessly stolen from Scotteh's run of the program.)
