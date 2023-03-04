@@ -2,7 +2,7 @@
 
 <img src="images/ShinyHunt-AreaZeroPlatform-0.png">
 
-(Image shamelessly stolen from Scotteh's run of the program.)
+<sup>(Image shamelessly stolen from Scotteh's run of the program.)</sup>
 
 
 ## Program Description
