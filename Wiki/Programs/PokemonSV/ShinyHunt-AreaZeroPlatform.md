@@ -103,7 +103,7 @@ The suboptions here are:
 - Kills in Window
 - Encounters in Window
 
-The idea here is that there are fewer then X kills and Y encounters in the last Z minutes, then perform a platform reset. Time spent in battles and other non-productive processes are not counted towards the time window. So if you get stuck auto-catching something for 10 minutes causing your 10 minute time window to have few or no kills/encounters, the program will know to ignore that and not reset.
+The idea here is that if there are fewer then X kills and Y encounters in the last Z minutes, then perform a platform reset. Time spent in battles and other non-productive processes are not counted towards the time window. So if you get stuck auto-catching something for 10 minutes causing your 10 minute time window to have few or no kills/encounters, the program will know to ignore that and not reset.
 
 ### Navigate to Platform Settings:
 
