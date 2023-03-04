@@ -229,7 +229,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Yes |
 | [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md)         | Video         | Yes | Yes |
 | [Auction Farmer](PokemonSV/AuctionFarmer.md)                          | Video         | Yes | Yes |
-| [ESP Training](PokemonSV/ESPTraining.md)           	                | Video         | Yes | Yes |
+| [ESP Training](PokemonSV/ESPTraining.md)           	                  | Video         | Yes | Yes |
 | [Tournament Farmer](PokemonSV/TournamentFarmer.md)                    | Video         | Yes | Yes |
 ||
 | **Eggs:** |
@@ -248,7 +248,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Video Fast Code Entry (V-FCE)](PokemonSV/VideoFastCodeEntry.md)          |               | Yes | Yes |
 ||
 | **Shiny Hunting:** |
-| [Shiny Hunt - Area Zero Platform (in development)](PokemonSV/ShinyHunt-AreaZeroPlatform.md)  | Video + Audio | Yes | Yes |
+| [Shiny Hunt - Area Zero Platform](PokemonSV/ShinyHunt-AreaZeroPlatform.md)    | Video + Audio | Yes | Yes |
 ||
 | **Glitches:** |
 | [Ride Cloner (1.0.1)](PokemonSV/RideCloner-101.md)                    | Video         | Yes | Yes |
