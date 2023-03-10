@@ -7,7 +7,7 @@
 
 ## Program Description
 
-This program will shiny hunt the specific platform detailed in this video: https://youtu.be/5NeLVaE7t8c?t=274
+This program will shiny hunt on the specific platform detailed in this video: https://youtu.be/5NeLVaE7t8c?t=274
 
 While that video is focused on the idling the ghost exploit for Flutter Mane, the same platform can be used to shiny hunt almost everything else there.
 
@@ -51,7 +51,8 @@ Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports 
 6. You have plenty of balls for auto-catching.
 7. You are zoomed out to maximize your view.
 8. You are on foot. (Not mounted on your ride.)
-9. Start the program anywhere on the platform in the overworld with all menus closed.
+9. Stand near the center of the platform or in the Zero Gate building as if you just entered.
+10. Start the program in the overworld with all menus closed.
 
 The best known Pokémon for a lead is Corviknight that is level 100, defensively trained, and holding leftovers. Miraidon and Lucario will also work if given a Smoke Ball. However, the lack of leftovers for self-healing makes them less suitable for auto-catching.
 
