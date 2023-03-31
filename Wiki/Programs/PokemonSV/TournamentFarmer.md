@@ -12,7 +12,7 @@ Farm the Academy Ace Tournament for money and prizes.
 	* This cannot be your mount as the program will use it to return to the academy if you end up at the Pokemon Center.
 	* It is strongly recommended that your Pokemon is level 100.
 	* Remember to equip Amulet Coin.
-2. The last Pokemon Center visited is Mesagzoa West. The program will attempt to return to the academy from here if you lose the tournament.
+2. The last Pokemon Center visited is Mesagoza West. The program will attempt to return to the academy from here if you lose the tournament.
 
 ## Instructions
 
@@ -31,7 +31,7 @@ If you have a Hisuian Zoroark from the Scarlet/Violet DLC preorder, you can use 
 	* The Pokemon in your second slot is setup to farm tournaments with the requirements from above.
 	* Note: Having two Pokemon in your party means you can give Zoroark the Amulet Coin. This frees up the item slot on your farming 'mon. Give them the appropriate Choice item for faster kills.
 2. Check the "Happy Hour H-Zoroark" option.
-3. As with the normal setup, the last Pokemon Center visited is Mesagzoa West and your farming Pokemon is not your mount.
+3. As with the normal setup, the last Pokemon Center visited is Mesagoza West and your farming Pokemon is not your mount.
 
 Once the conditions above are set, start the tournament as usual. In each fight, H-Zoroark will use Happy Hour on the first turn. Then, if it hasn't fainted, it will use Memento to faint. Once that's done your farming Pokemon will be sent out (and tera'd if that option is checked) to complete the battle.
 
@@ -70,7 +70,7 @@ Select the language that matches what you are using in-game. This setting is req
 
 ### Items Table:
 
-Use this table to specify which prizes you want to notified for.
+Use this table to specify which prizes you want to be notified for.
 
 ## Credits
 
