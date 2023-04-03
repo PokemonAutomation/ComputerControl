@@ -27,8 +27,8 @@ Repeatedly catch the Treasures of Ruin until you get the stats you want.
 1. Stand in front of your target and save the game.
 	> For the Treasures of Ruin, their vault must first be unlocked by pulling their respective stakes.
 2. Start the program in-game.
-	> Master Ball strongly recommended for legendaries
-	> If you cannot throw a Pokeball (ex. Chi-Yu used Bounce) the game will simply reset
+	- Master Ball strongly recommended for legendaries
+	- If you cannot throw a Pokeball (ex. Chi-Yu used Bounce) the game will simply reset
 
 ## Notes
 - It is recommended to hunt for 0IV only, as all other stats can be bottle capped.

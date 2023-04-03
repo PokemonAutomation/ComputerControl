@@ -220,6 +220,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Mass Release](PokemonSV/MassRelease.md)                              | Video         | Yes | Yes |
 | [Autonomous Ball Thrower](PokemonSV/AutonomousBallThrower.md)         | Video         | Yes | Yes |
 | [Stats Reset](PokemonSV/StatsReset.md)                                | Video         | Yes | Yes |
+| [Sandwich Maker (in development)](PokemonSV/SandwichMaker.md)         | Video         | Yes | Yes |
 ||
 | **Trading:** |
 | [Self Box Trade](PokemonSV/SelfBoxTrade.md)                           | Video         | Yes | Yes |
@@ -229,7 +230,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Yes |
 | [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md)         | Video         | Yes | Yes |
 | [Auction Farmer](PokemonSV/AuctionFarmer.md)                          | Video         | Yes | Yes |
-| [ESP Training](PokemonSV/ESPTraining.md)           	                  | Video         | Yes | Yes |
+| [ESP Training](PokemonSV/ESPTraining.md)           	                | Video         | Yes | Yes |
 | [Tournament Farmer](PokemonSV/TournamentFarmer.md)                    | Video         | Yes | Yes |
 ||
 | **Eggs:** |
