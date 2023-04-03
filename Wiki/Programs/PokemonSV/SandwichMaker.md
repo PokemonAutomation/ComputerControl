@@ -59,18 +59,24 @@ Each use will require 1x Cucumber, 1x Pickle, 3x type-specific filling, 2x Curry
 
 Herba exclusions for this sandwich are:
 - 1x Sweet and 1x Sour do not work
+- 1x Salty and 1x Sour only works for Flying, Ground, Rock, and Ice
 - 2x Sweet does not work for: Normal, Water, Fighting, Bug, Dragon, Fairy
 - 2x Sour does not work for: Normal, Ice, Bug, Ghost, Dragon, Fairy
 
 #### Humungo + Sparkling + Title:
 
-Both the humungo and teensy recipes are from [here]([https://old.reddit.com/r/PokemonScarletViolet/comments/zdpkzh/ive_made_all_18_type_variations_of/iz2zcpj/](https://old.reddit.com/r/PokemonScarletViolet/comments/zi7ag1/ultimate_guide_for_all_18_types_of/)). Unfortunately, both humungo and teensy are not as flexible as encounter is.
+Both the humungo and teensy recipes are from [here](https://old.reddit.com/r/PokemonScarletViolet/comments/zi7ag1/ultimate_guide_for_all_18_types_of/). Unfortunately, both humungo and teensy are not as flexible as encounter is.
 
 Each use will require 1x type-specific filling, 2x Mustard, 1x Spicy Herba, and 1x Herba Mystica. Spicy Herba is required. The second Herba Mystica can be anything except Sweet.
 
 #### Teensy + Sparkling + Title:
 
 Each use will require 1x type-specific filling, 2x Mayonnaise, 1x Sour Herba, and 1x Herba Mystica. Sour Herba is required. The second Herba Mystica can be anything except Sweet.
+
+#### Title + Encounter + Humungo:
+
+#### Title + Encounter + Teensy:
+
 
 #### Herba selection:
 
