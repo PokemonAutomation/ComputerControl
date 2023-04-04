@@ -22,6 +22,8 @@ Make a sandwich of your choice.
 
 ## Sandwich Recipe selection
 
+*Credit Nymphea for the modified Encounter recipes and the Title + Encounter + Humungo/Teensy recipes.*
+
 To use a preset recipe, select it from the dropdown. Otherwise, select Custom and use the Ingredients table to pick your ingredients.
 
 ### Preset Recipes:
@@ -58,10 +60,11 @@ The sparkling preset recipes are based off of [this](https://twitter.com/silentd
 Each use will require 1x Cucumber, 1x Pickle, 3x type-specific filling, 2x Curry Powder, and 2x Herba Mystica. For example, a Fighting type sandwich would have: 1x Cucumber, 4x Pickle, 2x Curry Powder, and 2x Herba Mystica.
 
 Herba exclusions for this sandwich are:
-- 1x Sweet and 1x Sour do not work
-- 1x Salty and 1x Sour only works for Flying, Ground, Rock, and Ice
+- 1x Sweet and 1x Sour do not work for any type
+- 1x Salty and 1x Sour only works for: Flying, Ground, Rock, and Ice
+- 1x Sour and 1x Bitter does not work for: Fighting, Bug, Fairy
 - 2x Sweet does not work for: Normal, Water, Fighting, Bug, Dragon, Fairy
-- 2x Sour does not work for: Normal, Ice, Bug, Ghost, Dragon, Fairy
+- 2x Sour does not work for: Normal, Fire, Water, Grass, Electric, Ice, Fighting, Poison, Flying, Psychic, Bug, Rock, Ghost, Dragon, Dark, Steel, Fairy
 
 #### Humungo + Sparkling + Title:
 
@@ -75,8 +78,11 @@ Each use will require 1x type-specific filling, 2x Mayonnaise, 1x Sour Herba, an
 
 #### Title + Encounter + Humungo:
 
+TODO
+
 #### Title + Encounter + Teensy:
 
+TODO
 
 #### Herba selection:
 
