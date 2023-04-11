@@ -70,10 +70,10 @@ For example, a Fighting type sandwich would have: 1x Cucumber, 4x Pickle, 2x Cur
 
 Herba exclusions for this sandwich are:
 - 1x Sweet and 1x Sour do not work for any type
-- 1x Salty and 1x Sour only works for: Flying, Ground, Rock, and Ice
-- 1x Sour and 1x Bitter does not work for: Fighting, Bug, Fairy
-- 2x Sour only works for: Ground
-- 2x Sweet does not work for: Normal, Water, Fighting, Bug, Dragon, Fairy
+- 1x Salty and 1x Sour only work for: Flying, Ground, Rock, and Ice
+- 1x Sour and 1x Bitter do not work for: Fighting, Bug, and Fairy
+- 2x Sour do not work for any type
+- 2x Sweet do not work for: Bug
 
 #### Sparkling + Title + Humungo:
 
