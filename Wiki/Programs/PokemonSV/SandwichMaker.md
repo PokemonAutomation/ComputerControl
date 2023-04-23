@@ -12,7 +12,7 @@ Make a sandwich of your choice.
 2. For best performance, use the default tablecloth on your picnic table.
 	- Other tablecloths may contain white patterns that will slow down the program detecting the white picnic hand cursor.
 	- Yellow tablecloths may intefere with the bowl label reader.
-3. You have the ingredients in the quantities you want to use.
+3. You have more ingredients than the quantities required to make the sandwich, as using up an ingredient makes the icon appear faded and interferes with proper ingredient reading.
 
 ## Instructions
 
