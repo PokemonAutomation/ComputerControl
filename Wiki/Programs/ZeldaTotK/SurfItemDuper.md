@@ -20,6 +20,8 @@ Farm items by duplicating them in Tears of the Kingdom. This works by holding it
 2. Open the menu and navigate to the materials tab. Select the item that you want to duplicate. Close the menu.
 3. Start the program in-game.
 
+As this is performed on sand, your shield will not lose durability. Additionally, both starting locations are safe from Blood Moons.
+
 ## Notes
 
 Do not attempt use this program with bombs or anything explosive. Use the [Bow Item Duper](BowItemDuper.md) instead.
