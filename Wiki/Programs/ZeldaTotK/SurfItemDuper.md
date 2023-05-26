@@ -2,7 +2,7 @@
 
 This program is for The Legend of Zelda: Tears of the Kingdom. The program is still within the Pokémon Automation program. It does not require video feedback.
 
-**Version 1.1 or 1.1.1 of the game is required.** The glitch this program uses does not work in version 1.0. This document will be updated when future versions of the game release.
+**Version 1.1 or 1.1.1 of the game is required.** The glitch this program uses does not work in version 1.0 or versions 1.1.2 and above.
 
 ## Program Description
 
