@@ -2,6 +2,8 @@
 
 This program is written for The Legend of Zelda: Tears of the Kingdom. The program is still within the Pokémon Automation program. It does not currently require video feedback.
 
+**Version 1.0, 1.1, or 1.1.1 of the game is required.** The glitch this program uses does not work on version 1.1.2 and above.
+
 ## Program Description
 
 Farm duplicating items in Tears of the Kingdom through the "equip to bow, drop bow, equip new bow, exit and reenter menu quickly" glitch. (For details on the glitch, see this [YouTube video by AustinJohnPlays](https://www.youtube.com/watch?v=foDughls8u0).)

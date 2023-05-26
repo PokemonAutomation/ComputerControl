@@ -18,6 +18,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 - [Pokémon Brilliant Diamond/Shining Pearl](#pokémon-brilliant-diamondshining-pearl)
 - [Pokémon Legends Arceus](#pokémon-legends-arceus)
 - [Pokémon Scarlet/Violet](#pokémon-scarlet-and-violet)
+- [Zelda: Tears of the Kingdom](#zelda-tears-of-the-kingdom)
 
 ## Nintendo Switch
 
@@ -255,6 +256,16 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Ride Cloner (1.0.1)](PokemonSV/RideCloner-101.md)                    | Video         | Yes | Yes |
 | [Clone Items (1.0.1)](PokemonSV/CloneItems-101.md)                    | Video         | Yes | Yes |
 
+
+## Zelda: Tears of the Kingdom
+
+| **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
+| --- | --- | --- | --- |
+| **Glitches (v1.1.1):** |
+| [Bow Item Duper](ZeldaTotK/BowItemDuper.md)             |                  | Yes | Yes |
+| [Paraglide Item Duper](ZeldaTotK/ParaglideItemDuper.md) |                  | Yes | Yes |
+| [Shield Surf Item Duper](ZeldaTotK/SurfItemDuper.md) |                  | Yes | Yes |
+||
 
 <hr>
 
