@@ -27,6 +27,7 @@ If you came here intending to run [AutoMaxLair](https://github.com/PokemonAutoma
   - [Pokémon Brilliant Diamond/Shining Pearl](Wiki/Programs/README.md#pokémon-brilliant-diamondshining-pearl)
   - [Pokémon Legends Arceus](Wiki/Programs/README.md#pokémon-legends-arceus)
   - [Pokémon Scarlet/Violet](Wiki/Programs/README.md#pokémon-scarlet-and-violet)
+  - [Zelda: Tears of the Kingdom](Wiki/Programs/README.md#zelda-tears-of-the-kingdom)
 - [Developer Guide](Wiki/Developer/README.md)
 - [Version History](Wiki/VersionHistory.md)
 
