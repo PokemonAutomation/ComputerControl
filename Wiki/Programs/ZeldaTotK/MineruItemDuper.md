@@ -17,11 +17,12 @@ Farm items by duplicating them in Tears of the Kingdom. This works by holding it
 ## Instructions
 
 1. Warp to the Great Abandoned Central Mine in the depths.
-    - If you are duping Zonai devices, stand next to a wall, as pictured above.
-    - If you are duping materials, do not stand next to a wall. 
+    - If you are duping Zonai devices, stand next to a wall, as pictured above ([Example](https://www.youtube.com/watch?v=kwA17TVL2D8)).
+    - If you are duping materials, do not stand next to a wall ([Example](https://www.youtube.com/watch?v=3GnW7QD65mk)). 
 2. If any Sages are adjacent to you, disable them to prevent accidental ability use.
-3. Open the menu and navigate to the materials tab. Select the item that you want to duplicate. Close the menu.
-4. Start the program in-game.
+3. Mount Mineru.
+4. Open the menu and navigate to the materials tab. Select the item that you want to duplicate. Close the menu.
+5. Start the program in-game.
 
 ## Notes
 
