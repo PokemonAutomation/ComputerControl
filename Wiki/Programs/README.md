@@ -265,7 +265,6 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Bow Item Duper](ZeldaTotK/BowItemDuper.md)             |                  | Yes | Yes |
 | [Paraglide Item Duper](ZeldaTotK/ParaglideItemDuper.md) |                  | Yes | Yes |
 | [Shield Surf Item Duper](ZeldaTotK/SurfItemDuper.md) |                  | Yes | Yes |
-||
 
 <hr>
 
