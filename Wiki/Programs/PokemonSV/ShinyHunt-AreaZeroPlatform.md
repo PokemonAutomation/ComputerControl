@@ -61,7 +61,7 @@ Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports 
 4. Stand inside Area Zero or near Zero Gate. Make sure you are in the overworld and not inside a research building.
 5. Place a hard save before starting the program.
 
-If running without Encoutner power active, the best known Pokémon for a lead is Corviknight that is level 100, defensively trained, and holding leftovers. Miraidon and Lucario will also work if given a Smoke Ball. However, the lack of leftovers for self-healing makes them less suitable for auto-catching.
+If running without Encounter power active, the best known Pokémon for a lead is Corviknight that is level 100, defensively trained, and holding leftovers. Miraidon and Lucario will also work if given a Smoke Ball. However, the lack of leftovers for self-healing makes them less suitable for auto-catching.
 
 On Violet, Corviknight has issues walling Iron Hands and Iron Bundle during auto-catch:
 - Impish 252hp/252def will wall Iron Hands, but takes more than leftovers can heal against Iron Bundle.

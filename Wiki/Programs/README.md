@@ -221,7 +221,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Mass Release](PokemonSV/MassRelease.md)                              | Video         | Yes | Yes |
 | [Autonomous Ball Thrower](PokemonSV/AutonomousBallThrower.md)         | Video         | Yes | Yes |
 | [Stats Reset](PokemonSV/StatsReset.md)                                | Video         | Yes | Yes |
-| [Sandwich Maker](PokemonSV/SandwichMaker.md)         | Video         | Yes | Yes |
+| [Sandwich Maker](PokemonSV/SandwichMaker.md)                          | Video         | Yes | Yes |
 ||
 | **Trading:** |
 | [Self Box Trade](PokemonSV/SelfBoxTrade.md)                           | Video         | Yes | Yes |
@@ -264,8 +264,8 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | **Glitches (v1.1.1):** |
 | [Bow Item Duper](ZeldaTotK/BowItemDuper.md)             |                  | Yes | Yes |
 | [Paraglide Item Duper](ZeldaTotK/ParaglideItemDuper.md) |                  | Yes | Yes |
-| [Shield Surf Item Duper](ZeldaTotK/SurfItemDuper.md) |                  | Yes | Yes |
-| [Mineru Item Duper](ZeldaTotK/MineruItemDuper.md) |                  | Yes | Yes |
+| [Shield Surf Item Duper](ZeldaTotK/SurfItemDuper.md)    |                  | Yes | Yes |
+| [Mineru Item Duper](ZeldaTotK/MineruItemDuper.md)       |                  | Yes | Yes |
 
 <hr>
 
