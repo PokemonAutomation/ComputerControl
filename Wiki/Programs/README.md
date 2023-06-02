@@ -221,7 +221,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Mass Release](PokemonSV/MassRelease.md)                              | Video         | Yes | Yes |
 | [Autonomous Ball Thrower](PokemonSV/AutonomousBallThrower.md)         | Video         | Yes | Yes |
 | [Stats Reset](PokemonSV/StatsReset.md)                                | Video         | Yes | Yes |
-| [Sandwich Maker (in development)](PokemonSV/SandwichMaker.md)         | Video         | Yes | Yes |
+| [Sandwich Maker](PokemonSV/SandwichMaker.md)         | Video         | Yes | Yes |
 ||
 | **Trading:** |
 | [Self Box Trade](PokemonSV/SelfBoxTrade.md)                           | Video         | Yes | Yes |
