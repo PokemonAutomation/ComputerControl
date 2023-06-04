@@ -27,7 +27,7 @@ This program works by standing on an inside edge of the platform and sending out
 
 Since the program cannot see shinies in the overworld, it will not immediately try to engage them when they spawn. So there is a chance that a shiny will despawn (Dunsparce) or fall off the platform. Our statistics suggest around 30% of shinies are lost this way. But that's an acceptable cost of automating.
 
-Making a sandwich before running this program will drastically increase shiny rates and better target what you are hunting for. But since sandwiches only last 30 minutes, it's no longer full automation. Automating the sandwich making for a generic sandwich is a daunting task which we will attempt in the future.
+Running on sandwich mode will drastically increase shiny and/or mark rates and better target what you are hunting for. This allows for the full automation on hunting paradox Pokémon given sufficient sandwich ingredients.
 
 Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports auto-catching by blindly throwing balls. But due to the low catch rates of paradox Pokémon, you will need a very tanky lead and a lot of balls.
 
@@ -54,13 +54,24 @@ Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports 
 9. Stand near the center of the platform or in the Zero Gate building as if you just entered.
 10. Start the program in the overworld with all menus closed.
 
-The best known Pokémon for a lead is Corviknight that is level 100, defensively trained, and holding leftovers. Miraidon and Lucario will also work if given a Smoke Ball. However, the lack of leftovers for self-healing makes them less suitable for auto-catching.
+**Additional Instructions for Sandwich Mode**
+1. You have picniced at least once to clear the picnic tutorial.
+2. You have plenty of sandwich ingredients. (For any ingredient, you need at least 1 more than the required amount to successfully complete the sandwich.)
+3. For best performances, select the default tablecloth for your picnic table. (Light-colored tablecloth may interfere with with video recognition.)
+4. Stand inside Area Zero or near Zero Gate. Make sure you are in the overworld and not inside a research building.
+5. Place a hard save before starting the program.
+
+If running without Encounter power active, the best known Pokémon for a lead is Corviknight that is level 100, defensively trained, and holding leftovers. Miraidon and Lucario will also work if given a Smoke Ball. However, the lack of leftovers for self-healing makes them less suitable for auto-catching.
 
 On Violet, Corviknight has issues walling Iron Hands and Iron Bundle during auto-catch:
 - Impish 252hp/252def will wall Iron Hands, but takes more than leftovers can heal against Iron Bundle.
 - Careful 252hp/252spdef will wall Iron Bundle, but takes more than leftovers can heal against Iron Hands.
 
 Corviknight also cannot outrun Flutter Mane and Iron Bundle without significant speed investment. So it will take damage over time just running from them. But the program can auto-heal as necessary.
+
+If running with Encounter power active, select a lead Pokémon that specifically tanks your target for better auto-catching results.
+
+In sandwich mode, the Sparkling/Title/Encounter preset recipes have a built-in margin for fallen ingredients. It is an intended program feature to drop a few ingredients and still activate the correct sandwich powers. The paradox-specific Humungo/Teensy recipes have less error tolerance built-in and may fail if ingredients fall off, and the fail rate differs depending on the selected recipe.
 
 ## Options
 
@@ -73,6 +84,22 @@ This is the language of your game and is required to read the names of what you 
 ### Mode:
 
 Start the game either on the platform or just inside the Zero Gate station.
+
+### Sandwich Reset Time:
+
+Reset the game and make a new sandwich after this many minutes since the last sandwich.
+
+### Sandwich Maker:
+
+If running on sandwich mode, the program will make the selected sandwich on program start and on every sandwich reset to keep the desired sandwich power active.
+
+- Sandwich Recipe: Select from a preset of recipes or custom sandwich mode. If running a generic recipe, select the type in the suboption. If running a paradox-specific recipe, select the target recipe in the suboption.
+- Herba Mystica: Select the herba mystica pair to be used when running a generic recipe. Note that not every combination is possible.
+- Custom Sandwich: If running on custom sandwich mode, use this table to select the ingredient(s) and condiment(s) to use for the sandwich.
+
+For more information on the preset recipes, including what herba mystica combinations will fail or what ingredients are used for the paradox-specific recipes, please refer to [Generic Recipes](SandwichMaker.md) and [Paradox Recipes](ParadoxRecipes.md) for details.
+
+While the program will attempt to build any given custom recipe, it is not guaranteed to build it successfully. Please test that your custom sandwich is able to be built using the [Sandwich Maker](SandwichMaker.md) program first.
 
 ### Actions Table:
 
