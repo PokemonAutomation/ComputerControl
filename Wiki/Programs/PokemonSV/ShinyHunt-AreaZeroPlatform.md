@@ -115,6 +115,7 @@ These settings govern how the program navigates from Zero Gate to the platform d
 ## Credits
 
 - **Author:** Kuroneko/Mysticial
+- Sandwich mode by Nymphea
 
 
 <hr>
