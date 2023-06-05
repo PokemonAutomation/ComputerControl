@@ -32,7 +32,7 @@ Farm items by duplicating them in Tears of the Kingdom. This works by holding it
 
 ## Notes
 
-Do not attempt use this program with bombs or anything explosive. Use the [Bow Item Duper](BowItemDuper.md) instead.
+Do not attempt use this program with bombs or anything explosive. Use the [Bow Item Duper](BowItemDuper.md) or [Mineru Item Duper](MineruItemDuper.md) instead.
 
 This works even if you have less than 5 of an item, but is more consistent with 5. Consider duplicating manually until you have at least 5 of any item.
 
