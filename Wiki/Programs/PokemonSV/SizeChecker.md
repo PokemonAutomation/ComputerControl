@@ -21,7 +21,7 @@ Talk with the NPC in Mesagoza to check boxes of Pokémon for ones that qualify f
 2. Start the program in-game.
 
 ## Notes
-- The program does not currently notify you if a Pokémon qualifies for size marks, this may be added in a future update.
+- The program does not currently notify you if a Pokémon qualifies for size marks, this may be added in a future update but for now you will have to later manually go back to your boxes see if a new mark has been acquired.
 
 ## Options
 
