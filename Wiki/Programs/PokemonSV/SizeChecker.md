@@ -1,4 +1,4 @@
-# Stats Reset
+# Size Checker
 
 ## Program Description
 
