@@ -24,8 +24,6 @@ As this is performed on sand, your shield will not lose durability. Additionally
 
 ## Notes
 
-Do not attempt use this program with bombs or anything explosive. Use the [Bow Item Duper](BowItemDuper.md) instead.
-
 If standing under a lightroot, disable any Sages you have to prevent accidental ability use.
 
 ## Options
