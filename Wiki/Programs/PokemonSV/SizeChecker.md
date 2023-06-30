@@ -2,7 +2,12 @@
 
 ## Program Description
 
-Talk with the NPC in Mesagoza to check boxes of Pokémon for ones that qualify for the Jumbo or Mini marks.
+Talk with NPCs to check boxes of Pokémon for ones that qualify for marks and/or ribbons.
+
+This is currently confirmed to work for:
+- Jumbo & Mini Marks from Size Checker in Mesagoza
+- Best Friends Ribbon from Friendship Checker in Cascarrafa
+- Effort Ribbon from Effort Value Checker in Levincia
 
 <img src="images/SizeCheckerJumbo.png">
 
@@ -17,11 +22,11 @@ Talk with the NPC in Mesagoza to check boxes of Pokémon for ones that qualify f
 
 ## Instructions
 
-1. Stand in front of the NPC that checks Pokémon sizes, avoid standing too close to the Pachirisu.
+1. Stand in front of the NPC that checks your Pokémon, avoid standing too close to Pokémon that you can interact with.
 2. Start the program in-game.
 
 ## Notes
-- The program does not currently notify you if a Pokémon qualifies for size marks, this may be added in a future update but for now you will have to check your Pokemon summary screen to see if a new mark has been acquired.
+- The program does not currently notify you if a Pokémon qualifies for marks and/or ribbons, this may be added in a future update but for now you will have to check your Pokemon summary screen to see if a new mark and/or ribbon has been acquired.
 
 ## Options
 

@@ -16,6 +16,7 @@ This program works for:
 - Arceus
 - Darkrai
 - All Ramanas Park Pokémon.
+- Honey Tree encounters.
 
 This program cannot be used to shiny hunt:
 - Mesprit
