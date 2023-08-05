@@ -1,0 +1,50 @@
+# Tera Roller
+
+## Program Description
+
+This program will date-spam for Tera Raids, enter & run away from battle, and check the Pokédex to see if the Tera Raid is shiny.
+
+This program is a variation of [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md), but tailored for the sole purpose of finding a shiny Tera Raid for hosting. While this program cannot be used to farm Pokémon nor items, it is much faster per roll and not subject to having to win the Tera Raid.
+
+### Setup of Settings
+
+1. Text Speed: Fast
+2. System Time: Unsynced
+3. Auto Save: Off
+
+### Instructions
+
+1. You have done a Tera Raid at least once to clear the in-game tutorial.
+2. Check in the Pokédex (long press minus in the overworld) that the 5 Recently Battled (not Recently Caught) Pokémon are not shiny. If there is a shiny, battle random wild Pokémon until all 5 Recently Battled Pokémon are not shiny. It's also okay if you have unregistered Pokémon.
+3. You must be facing an active Tera Raid crystal facing south, or be standing directly on top of a crystal spawn spot.*
+4. The player character is in a safe location that is unlikely to be attacked by wild Pokémon.
+5. Your lead Pokémon should be able to reliably beat raids by spamming its first move. Pick a move that is strong and has few types resistant to it.
+6. Start the program in game.
+
+\* After leaving a Tera Raid, the player character will face south by default. This may cause newly spawned crystals to no longer be interactable by the player, if the player is not already facing south.
+
+
+
+## Options
+
+### Game Language:
+
+The language of your game. This is needed to read the Pokémon names.
+
+
+### Opponent Filter:
+
+**Min/Max Stars:** Skip all raids that don't have a star count in this range.
+
+
+## Credits
+
+- **Concept:** The wonderful people in the Japanese dev server (special thanks to いー, ジュナリ, and はんぺん)
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+

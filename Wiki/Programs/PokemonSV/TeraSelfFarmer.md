@@ -64,7 +64,7 @@ Check this box to catch the Pokémon when you win. Catching is required to check
 
 **Stop on Shiny:** Stop the program if the Pokémon you caught is shiny. Resetting the game will return you to the front of this (shiny) raid so it can be hosted again.
 
-**Stop on Rate Items:** Stop the program if the item rewards contain at least this many rare (sparkly) items. Like for shinies, you can reset to re-host this raid. Set to zero to disable this and never stop for item rewards.
+**Stop on Rare Items:** Stop the program if the item rewards contain at least this many rare (sparkly) items. Like for shinies, you can reset to re-host this raid. Set to zero to disable this and never stop for item rewards.
 
 
 
