@@ -244,6 +244,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Auto-Host](PokemonSV/AutoHost.md)                                    | Video         | Yes | Yes |
 | [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Yes |
 | [Tera Multi-Farmer](PokemonSV/TeraMultiFarmer.md)                     | Video         | Yes | Yes |
+| [Tera Roller](PokemonSV/TeraRoller.md)                                | Video         | Yes | Yes |
 ||
 | **Fast Code Entry:** |
 | [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md)                       |               | Yes | Yes |
