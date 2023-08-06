@@ -15,10 +15,10 @@ This program is a variation of [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md), 
 ### Instructions
 
 1. You have done a Tera Raid at least once to clear the in-game tutorial.
-2. Check in the Pokédex (long press minus in the overworld) that the 5 Recently Battled (not Recently Caught) Pokémon are not shiny. If there is a shiny, battle random wild Pokémon until all 5 Recently Battled Pokémon are not shiny. It's also okay if you have unregistered Pokémon.
+2. Check in the Pokédex (long press minus in the overworld) that the 5 Recently Battled (not Recently Caught) Pokémon are not shiny. If there is a shiny, battle random wild Pokémon until all 5 Recently Battled Pokémon are not shiny. It's also okay if you have unregistered Pokémon, just make sure to have cleared the Pokédex tutorial.
 3. You must be facing an active Tera Raid crystal facing south, or be standing directly on top of a crystal spawn spot.*
 4. The player character is in a safe location that is unlikely to be attacked by wild Pokémon.
-5. To save time, your lead Pokémon should not have an Ability that might trigger when entering battle, including Abilities that might trigger due to opponent Pokémon Ability.
+5. To save time, your lead Pokémon should not shiny and does not have an Ability that might trigger when entering battle, including Abilities that might trigger due to opponent Pokémon Ability.
 6. Start the program in game.
 
 \* After leaving a Tera Raid, the player character will face south by default. This may cause newly spawned crystals to no longer be interactable by the player, if the player is not already facing south.
