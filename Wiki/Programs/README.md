@@ -223,6 +223,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Stats Reset](PokemonSV/StatsReset.md)                                | Video         | Yes | Yes |
 | [Sandwich Maker](PokemonSV/SandwichMaker.md)                          | Video         | Yes | Yes |
 | [Size Checker](PokemonSV/SizeChecker.md)                              | Video         | Yes | Yes |
+| [Clothing Buyer](PokemonSV/ClothingBuyer.md)                          | Video         | Yes | Yes |
 ||
 | **Trading:** |
 | [Self Box Trade](PokemonSV/SelfBoxTrade.md)                           | Video         | Yes | Yes |
