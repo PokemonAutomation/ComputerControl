@@ -29,6 +29,10 @@ This program is a variation of [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md), 
 
 ## Options
 
+### Check Only the First Pokédex Page:
+
+When this option is checked, only the first (left-most) Pokémon in the Recently Battled section will be checked for shininess. This reduces the time per roll but will overlook repeated encounters of one of the five recently battled Pokémon.
+
 ### Opponent Filter:
 
 **Min/Max Stars:** Skip all raids that don't have a star count in this range.
