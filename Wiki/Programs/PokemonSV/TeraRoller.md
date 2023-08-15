@@ -6,7 +6,7 @@ This program will date-spam for Tera Raids, enter & run away from battle, and ch
 
 This program is a variation of [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md), but tailored for the sole purpose of finding a shiny Tera Raid for hosting. While this program cannot be used to farm Pokémon nor items, it is much faster per roll and not subject to having to win the Tera Raid.
 
-**Note: This program will not work on Pokémon not in the Paldea Pokédex, should a shiny-unlocked raid of this nature be released in the future.**
+**Note: This program will not work on Pokémon not in the main Paldea Pokédex.**
 
 ### Setup of Settings
 
@@ -40,7 +40,7 @@ When this option is checked, only the first (left-most) Pokémon in the Recently
 
 ## Credits
 
-- **Concept:** The wonderful people in the Japanese dev server (special thanks to いー, ジュナリ, and はんぺん)
+- **Concept:** Special thanks to いー, ジュナリ, and はんぺん from the Japanese automation server for investigating the Recently Battled Pokédex Page mechanism.
 
 <hr>
 
