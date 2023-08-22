@@ -78,7 +78,7 @@ Hatch this many boxes of eggs.
 
 ### Egg Step-Count:
 
-The number of steps needed to hatch the eggs. Look up the value on Serebii.
+The number of steps needed to hatch the eggs. Select the species that will hatch from the Egg.
 
 
 ## Advanced Settings:
