@@ -79,11 +79,6 @@ Take a video after each cooking iteration. This will spam your album with videos
 Number of cooking attempts.
 
 
-
-
-<img src="images/CurryHunter-Settings.png">
-
-
 ## Troubleshooting
 
 Very rarely, your Pokémon can give you a berry or an ingredient. This can cause the program to keep talking to the Pokémon during an entire cooking curry routine, but the program will recover from that.
