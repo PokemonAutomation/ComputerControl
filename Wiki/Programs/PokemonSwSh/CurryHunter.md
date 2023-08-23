@@ -18,7 +18,7 @@ An entire run (cooking curry + attracting the Pokémon) takes around 2 mins 30 s
 **Do not Cook curry in the wild area. You can't get any curry Pokémon to spawn in the wild area.**
 
 
-### Setup of Settings
+## Setup of Settings
 
 This program blindly cooks curry forever. With the right berries and ingredients, it will always cook a Charizard class curry, maximizing your odds of getting an encounter. Follow the steps above for a guaranteed Charizard class curry.
 
@@ -58,9 +58,28 @@ If you don't feel like bothering with increasing both friendship and sociability
 
 ## Options
 
-This program has no program-specific configuration options yet.
+### Walk Up Delay:
 
-Most of the options are self-explanatory.
+When a Pokémon is attracted and the program catches its attention, it walks up to you. This lets the Pokémon the time to walk up to you.
+
+### Small Pokémon:
+
+If there are small Pokémon where you are cooking curry, you should increase this value. It will add an additional check for small Pokémon. The higher the number, the further down the screen the check will go.
+
+### Start location:
+
+If set to start in game, you must disconnect all other controllers.
+
+### Take Vidéos:
+
+Take a video after each cooking iteration. This will spam your album with videos.
+
+### Iterations:
+
+Number of cooking attempts.
+
+
+
 
 <img src="images/CurryHunter-Settings.png">
 
