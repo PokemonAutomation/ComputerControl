@@ -130,6 +130,19 @@ This mode allows you to unhatch eggs. If the program is configured to stop on a 
 
 The ability to unhatch eggs makes it possible to hunt for shiny eggs or high-IV eggs to be re-hatched in a different language for the purpose of building breeding parents.
 
+**<ins>Save after picnic:</ins>**
+
+Repeat this iteration until a stop condition is met:
+
+1. Save game.
+2. Picnic and collect eggs.
+3. Save game.
+4. Hatch and move keepers to keeper box.
+
+This mode is similar to the previous mode but allows you to unhatch an entire box of eggs. If the program is configured to stop on a baby matching a filter, you can unhatch the entire box including that egg by resetting the game. However, ingredient usage is high since they are fully consumed and never reset. Errors are fully recoverable.
+
+For the benefits of unhatching eggs please refer to the previous section under <ins>Save before every batch</ins>.
+
 
 ### Actions Table:
 
