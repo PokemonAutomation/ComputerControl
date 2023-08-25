@@ -35,7 +35,7 @@ For more information on the history and research regarding this mechanism please
 
 ### Check Only the First Pokédex Page:
 
-When this option is checked, only the first (left-most) Pokémon in the Recently Battled section will be checked for shininess. This reduces the time per roll but will overlook cases of .
+When this option is checked, only the first (left-most) Pokémon in the Recently Battled section will be checked for shininess. This reduces the time per roll but will overlook cases if the player encounters the same species of Pokémon within the list of the 5 Recently Battled encounters.
 
 ### Opponent Filter:
 
@@ -46,8 +46,8 @@ When this option is checked, only the first (left-most) Pokémon in the Recently
 ## Credits
 
 - **Concept & Research:** ジュナリ
-- **Collaboration Coordinator:** はんぺん
-- **Adopting Program to CC:** Nymphea
+- **Japanese Dev Server Coordinator:** はんぺん
+- **Adopting Concept to CC:** Nymphea
 
 <hr>
 
