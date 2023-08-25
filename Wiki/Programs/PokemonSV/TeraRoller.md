@@ -4,15 +4,17 @@
 
 This program will date-spam for Tera Raids, enter & run away from the raid and check the Pokédex to see if the Tera Raid Pokémon is shiny.
 
-This program is a variation of [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md), but tailored for the sole purpose of finding a shiny Tera Raid for hosting. While this program cannot be used to farm Pokémon nor items, it is much faster per roll and not subject to having to win the Tera Raid.
+This program is a variation of [Tera Self Farmer](TeraSelfFarmer.md), but tailored for the sole purpose of finding a shiny Tera Raid for hosting. While this program cannot be used to farm Pokémon nor items, it is much faster per roll and not subject to having to win the Tera Raid.
 
 **Note: This program will not work on Pokémon not in the Pokédex.**
+
+<img src="images/TeraRoller-RecentlyBattled.png">
 
 ### How This Works: Post-Encounter Dex Refresh
 
 After encountering a Pokémon, no matter how the battle ends (running away, fainting, etc.) the Recently Battled section of the Pokédex will show an updated information that is relevant to the specific individual Pokémon (most notably gender, form, and shininess) regardless of previous dex registration status. By using this mechanism it is possible to gain information about a Tera Raid from the Recently Battled section after running away. This means we can know if a Tera Raid Pokémon is shiny without having to spend time to capture it.
 
-For more information on the history and research regarding this mechanism please refer to this [Summary by ジュナリ](https://note.com/junari000/n/nc04cc0d3e6cb) (external site, written in Japanese).
+For more information on the history and research regarding this mechanism please refer to this [Summary by ジュナリ](https://note.com/junari000/n/nc04cc0d3e6cb){:target="_blank"} (external site, written in Japanese).
 
 ### Setup of Settings
 
