@@ -39,6 +39,16 @@ For more information on the history and research regarding this mechanism please
 
 When this option is checked, only the first (left-most) Pokémon in the Recently Battled section will be checked for shininess. This reduces the time per roll but will overlook cases if the player encounters the same species of Pokémon within the list of the 5 Recently Battled encounters.
 
+### Event Tera Raid Action:
+
+Select what actions to take regarding event and non-event raids.
+
+**Check all:** Select this option when there are no ongoing tera raid events or when you want to check both event & non-event raids during an event.
+
+**Check only event raids:** Select this option when you want to check only event raids during an event.
+
+**Check only non-event raids:** Select this option when you want to check only non-event raids during an event. This can be made even faster if you exclude 6 star raids in your Opponent Filter.
+
 ### Opponent Filter:
 
 **Min/Max Stars:** Skip all raids that don't have a star count in this range.
