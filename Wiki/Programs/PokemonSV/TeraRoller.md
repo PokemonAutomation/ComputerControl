@@ -6,7 +6,7 @@ This program will date-spam for Tera Raids, enter & run away from the raid and c
 
 This program is a variation of [Tera Self Farmer](TeraSelfFarmer.md), but tailored for the sole purpose of finding a shiny Tera Raid for hosting. While this program cannot be used to farm Pokémon nor items, it is much faster per roll and not subject to having to win the Tera Raid.
 
-**Note: This program will not work on Pokémon not in the Pokédex.**
+Note: This program can work on Pokémon not yet registered in the Pokédex. **It will not work on Pokémon that does not have a Pokédex page (e.g. Mewtwo).**
 
 <img src="images/TeraRoller-RecentlyBattled.png">
 
