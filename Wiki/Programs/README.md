@@ -150,7 +150,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Money Farmer (Route 210)](PokemonBDSP/MoneyFarmerRoute210.md)        | Video | Yes | Yes |
 | [Double Battle Leveling](PokemonBDSP/DoublesLeveling.md)              | Video | Yes | Yes |
 | [Amity Square Pick Up Farmer](PokemonBDSP/AmitySquarePickUpFarmer.md) |       | Yes | Yes |
-| [Poffin Cooker](PokemonBDSP/PoffinCooker.md)                          | Vidéo | Yes | Yes |
+| [Poffin Cooker](PokemonBDSP/PoffinCooker.md)                          | Video | Yes | Yes |
 | [Gift Berry Reset](PokemonBDSP/GiftBerryReset.md)                     | Video | Yes | Yes |
 ||
 | **Shiny Hunting:** |
