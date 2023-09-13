@@ -49,7 +49,7 @@ Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports 
 4. Your lead Pokémon is unaffected by Dugtrio's Arena Trap. (Flying or ghost type. Or holding a Smoke Ball.)
 5. You have plenty of potions for auto-healing.
 6. You have plenty of balls for auto-catching.
-7. You are zoomed out to maximize your view.
+7. You are zoomed all the way out to maximize your view.
 8. You are on foot. (Not mounted on your ride.)
 9. Stand near the center of the platform or in the Zero Gate building as if you just entered.
 10. Start the program in the overworld with all menus closed.
