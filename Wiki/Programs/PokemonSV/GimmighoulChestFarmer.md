@@ -10,6 +10,7 @@ Farm Gimmighoul chests by advancing the in-game day with date skipping.
 
 1. System time: Un-synced
 2. Skip Move Learning: On
+3. Camera Support (camera automatically follows player): On
 
 ## Setup
 
