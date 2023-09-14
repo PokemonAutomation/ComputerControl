@@ -40,7 +40,10 @@ Repeatedly catch the Treasures of Ruin until you get the stats you want.
 
 ### Target:
 
-The Pokemon you are resetting for. Set to Treasures of Ruin if you are targeting Wo-Chien, Chien-Pao, Ting-Lu, or Chi-Yu. Set to Generic for anything else that requires an A press to initiate battle.
+The Pokemon you are resetting for.
+- Set to Treasures of Ruin if you are targeting Wo-Chien, Chien-Pao, Ting-Lu, or Chi-Yu.
+- Loyal Three: use this for Okidogi, Munkidori, and Fezandipiti.
+- Set to Generic for anything else that requires an A press to initiate battle. (Currently only Gimmighoul.)
 
 ### Game Language:
 
