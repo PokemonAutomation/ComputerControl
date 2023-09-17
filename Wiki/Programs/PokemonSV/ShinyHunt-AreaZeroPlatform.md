@@ -17,11 +17,12 @@ In particular, this program can be used to shiny hunt all of these paradox Poké
 - Scream Tail
 - Brute Bonnet
 - Flutter Mane
+- Roaring Moon (requires game version 2.0.1)
 - Iron Treads
 - Iron Bundle
 - Iron Hands
 - Iron Jugulis
-- Iron Valiant (requires sandwich)
+- Iron Valiant (requires sandwich prior to 2.0.1)
 
 This program works by standing on an inside edge of the platform and sending out your lead for Let's Go to kill everything in sight. Because Let's Go auto-battle does not attack shinies, shinies will remain and (with fairly high probability) will wander close enough to your character to trigger an encounter. While the program cannot detect shinies in the overworld, it can hear them during an encounter.
 
