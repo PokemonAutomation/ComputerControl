@@ -28,6 +28,7 @@ It can run completely unattended for many days without intervention.
 2. Skip Move Learning: On
 3. Give Nicknames: Off
 4. Auto-Save: Off
+5. After game version 2.0.1 (the DLC 1 update): Camera Support: On
 
 ### Box Setup
 
