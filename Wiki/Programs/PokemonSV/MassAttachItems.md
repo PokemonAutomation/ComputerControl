@@ -4,7 +4,7 @@
 
 Attach items to Pokémon in your boxes.
 
-When combined with (Self Box Trade)[SelfBoxTrade.md], this program is useful for transfering items from one save to another.
+When combined with [Self Box Trade](SelfBoxTrade.md), this program is useful for transfering items from one save to another.
 
 <img src="images/MassAttachItems-0.png">
 
