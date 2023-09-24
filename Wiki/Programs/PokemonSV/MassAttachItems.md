@@ -20,7 +20,7 @@ When combined with [Self Box Trade](SelfBoxTrade.md), this program is useful for
 ### Instructions
 
 1. When entering your bag and scrolling to the correct pocket, the cursor must already be on the item you wish to mass attach.
-2. You must have enough of the item to attach of all the Pokémon in the selected boxes.
+2. You must have enough of the item to attach to all the Pokémon in the selected boxes.
 2. You must in the box system.
 3. The selection mode must be "Items".
 4. If you have eggs inside your boxes, you will need to have the default background.
