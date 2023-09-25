@@ -22,6 +22,14 @@ Repeatedly catch Bloodmoon Ursaluna until you get the stats you want.
 5. The language option is set to match your in-game language.
 6. The actions table is set up to the IVs you want.
 
+Kyogre can one-shot Ursaluna without using terastallization, making it a great way to save time :
+
+Kyogre @ Choice Specs
+Ability: Drizzle
+EVs: 252 SpA
+Modest Nature
+- Water Spout
+
 ## Instructions
 
 1. Stand in front of Perrin and save the game.
