@@ -19,7 +19,7 @@ Purchase clothing from shops.
 
 ### Use LP to Purchase:
 
-Check this to use LP instead of cash.
+Check this to use LP instead of cash. Do not select this if the clothing shop does not accept LP (Kitakami stall).
 
 ### Wear new clothing after purchase:
 
