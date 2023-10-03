@@ -11,13 +11,14 @@ Repeatedly catch Bloodmoon Ursaluna until you get the stats you want.
 1. Text Speed: Fast
 2. Skip Move Learning: On
 3. Give Nicknames: Off
-4. Auto Save: Off
+4. Send oo Boxes: Manual
+5. Auto Save: Off
 
 ## Setup
 
 The setup will depend on which version you are running.
 
-Version v0.41 and earlier:
+**Version v0.41 and earlier:**
 
 1. Your party must contain exactly 5 Pokémon.
 2. The Pokemon in your party must be able to reliably defeat Ursaluna by spamming their first move.
@@ -26,7 +27,7 @@ Version v0.41 and earlier:
 5. The language option is set to match your in-game language.
 6. The stop conditions table is set up to the IVs you want.
 
-Version v0.42 and later:
+**Version v0.42 and later:**
 
 1. Your party must full.
 2. The Pokemon in your party must be able to reliably defeat Ursaluna by spamming their first move.
@@ -35,11 +36,11 @@ Version v0.42 and later:
 
 Kyogre can one-shot Ursaluna without using terastallization, making it a great way to save time:
 
-Kyogre @ Choice Specs
-Ability: Drizzle
-EVs: 252 SpA
-Modest Nature
-- Water Spout
+    Kyogre @ Choice Specs
+    Ability: Drizzle
+    EVs: 252 SpA
+    Modest Nature
+    - Water Spout
 
 ## Instructions
 
