@@ -15,14 +15,25 @@ Repeatedly catch Bloodmoon Ursaluna until you get the stats you want.
 
 ## Setup
 
-1. Your party must contain exactly 5 Pokemon.
+The setup will depend on which version you are running.
+
+Version v0.41 and earlier:
+
+1. Your party must contain exactly 5 Pokémon.
 2. The Pokemon in your party must be able to reliably defeat Ursaluna by spamming their first move.
 3. Nothing in your party will evolve after catching your target.
 4. The IV judge is unlocked and the current box view must be set to the IV panel.
 5. The language option is set to match your in-game language.
-6. The actions table is set up to the IVs you want.
+6. The stop conditions table is set up to the IVs you want.
 
-Kyogre can one-shot Ursaluna without using terastallization, making it a great way to save time :
+Version v0.42 and later:
+
+1. Your party must full.
+2. The Pokemon in your party must be able to reliably defeat Ursaluna by spamming their first move.
+3. Nothing in your party will evolve after catching your target.
+4. The stop conditions table is set up to the IVs you want.
+
+Kyogre can one-shot Ursaluna without using terastallization, making it a great way to save time:
 
 Kyogre @ Choice Specs
 Ability: Drizzle
@@ -52,8 +63,8 @@ The ball you want to catch your target in.
 
 If checked, will tera your lead Pokemon at the start of battle.
 
-### Actions Table:
-Use this table to specify the criteria for keeping a catch. There is no shiny filter or check, as Bloodmoon Ursaluna is shiny locked.
+### Stop Conditions:
+Use this table to specify the criteria for keeping a catch. There is no shiny or nature filters, as Bloodmoon Ursaluna is shiny and nature locked.
 
 ### Go Home when Done:
 
@@ -61,7 +72,8 @@ Go to the Switch Home to idle when finished.
 
 ## Credits
 
-- **Author:** kichithewolf
+- **Original Author:** kichithewolf
+- **IV Range Update:** Kuroneko/Mysticial
 
 
 <hr>
