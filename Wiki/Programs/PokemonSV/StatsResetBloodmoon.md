@@ -32,7 +32,8 @@ The setup will depend on which version you are running.
 1. Your party must be full.
 2. The Pokemon in your party must be able to reliably defeat Ursaluna by spamming their first move.
 3. Nothing in your party will evolve after catching your target.
-4. The stop conditions table is set up to the IVs you want.
+4. The language option is set to match your in-game language.
+5. The stop conditions table is set up to the IVs you want.
 
 Kyogre can one-shot Ursaluna without using terastallization, making it a great way to save time:
 
