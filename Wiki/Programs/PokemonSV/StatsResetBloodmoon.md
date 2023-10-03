@@ -11,7 +11,7 @@ Repeatedly catch Bloodmoon Ursaluna until you get the stats you want.
 1. Text Speed: Fast
 2. Skip Move Learning: On
 3. Give Nicknames: Off
-4. Send oo Boxes: Manual
+4. Send to Boxes: Manual
 5. Auto Save: Off
 
 ## Setup
