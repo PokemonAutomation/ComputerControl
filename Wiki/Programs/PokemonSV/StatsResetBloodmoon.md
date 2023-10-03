@@ -29,7 +29,7 @@ The setup will depend on which version you are running.
 
 **Version v0.42 and later:**
 
-1. Your party must full.
+1. Your party must be full.
 2. The Pokemon in your party must be able to reliably defeat Ursaluna by spamming their first move.
 3. Nothing in your party will evolve after catching your target.
 4. The stop conditions table is set up to the IVs you want.
