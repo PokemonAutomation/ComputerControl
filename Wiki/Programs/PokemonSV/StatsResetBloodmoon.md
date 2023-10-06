@@ -4,7 +4,20 @@
 
 Repeatedly catch Bloodmoon Ursaluna until you get the stats you want.
 
-<img src="images/StatsResetBloodmoon.png">
+Starting from program version 0.42, the average times to find the following stat distributions are:
+
+| **IV Spread** | **Average Resets** | **Average Time** |
+| --- | --- | --- |
+| Perfect 00 (0 atk + 0 spd) | 5,120 | 11 days |
+| VGC (0-1 atk + 0-1 spd) | 1,280 | 2.7 days |
+| Perfect 0 Attack (0 atk) | 64 | 3.2 hours |
+| Perfect 0 Speed (0 spd) | 64 | 3.2 hours |
+| VGC 0 Attack (0-1 atk) | 32 | 1.6 hours |
+| VGC 0 Speed (0-1 spd) | 32 | 1.6 hours |
+
+These are calculated assuming 3 minutes per reset which is achievable if you can consistently OHKO without terastallizing.
+
+<img src="images/StatsResetBloodmoon-2.png">
 
 ## Settings
 
@@ -49,7 +62,31 @@ Kyogre can one-shot Ursaluna without using terastallization, making it a great w
 2. Start the program in-game.
 
 ## Notes
-- It is recommended to hunt for 0IV only, as all other stats can be bottle capped.
+
+It is recommended to hunt for 0IV only, as all other stats can be bottle capped.
+
+Starting from v0.42, the program will calculate the IV range from Ursaluna's stats instead of finishing the post-catch dialog and navigating to the box system to use the IV judge. This has the following implications:
+
+1. It saves about a minute for each attempt.
+2. It allows the program to detect 1 attack and 1 speed which is not possible by using just the IV judge.
+3. It is no longer possible to distinguish 0 atk and 1 atk as they both have a value of 103.
+
+| **Stat - IV** | **Actual Stat** |
+| --- | --- |
+| Attack - 0 IV | 103 |
+| Attack - 1 IV | 103 |
+| Attack - 2 IV | 104 |
+| Speed - 0 IV | 77 |
+| Speed - 1 IV | 78 |
+| Speed - 2 IV | 79 |
+
+While the program can distinguish speed IVs of 0, 1, and 2, it cannot distinguish attack IVs of 0 and 1.
+
+So if you are searching for perfect 0atk+0spd using an IV filter of `xx/0-0/xx/xx/xx/0-0`, you will get a false positive 50% of the time as the program will stop on 1 attack. You can easily disambiguate (manually) using the IV judge.
+
+If you are just searching for VGC 00 (0-1 attack and 0-1 speed), setting a filter of `xx/0-1/xx/xx/xx/0-1` will stop only on VGC 00 with no false positive.
+
+<img src="images/StatsResetBloodmoon-1.png">
 
 ## Options
 
