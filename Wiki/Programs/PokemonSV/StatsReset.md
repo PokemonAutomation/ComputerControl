@@ -53,6 +53,14 @@ Select the language that matches what you are using in-game. This setting is req
 
 The ball you want to catch your target in.
 
+### Throw Quick Ball:
+
+Check this to throw a Quick Ball on the first turn of the battle. If there are moves in the Move Table, they will run after the Quick Ball is thrown.
+
+### Move Table:
+
+Pre-program a sequence of moves for your lead Pokemon to use. If your lead faints or the end of the table is reached, the program will stop following the table and switch to throwing the selected ball. Delete all the rows in the table if you only want to throw balls and do not want to use any moves.
+
 ### Actions Table:
 Use this table to specify the criteria for keeping a legendary. There is no shiny filter or check, as the Pokemon this program are intended for are all shiny locked.
 

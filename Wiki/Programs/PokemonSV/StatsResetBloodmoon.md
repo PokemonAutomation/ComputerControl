@@ -59,6 +59,7 @@ Kyogre can one-shot Ursaluna without using terastallization, making it a great w
 ## Instructions
 
 1. Stand in front of Perrin and save the game.
+   > This is right after taking photographs for her. If she asks "You all ready to meet the Bloodmoon Beast?" back out and save.
 2. Start the program in-game.
 
 ## Notes
