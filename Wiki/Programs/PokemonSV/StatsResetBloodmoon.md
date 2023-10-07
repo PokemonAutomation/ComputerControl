@@ -9,7 +9,7 @@ Starting from program version 0.42, the average times to find the following stat
 | **IV Spread** | **Average Resets** | **Average Time** |
 | --- | --- | --- |
 | Perfect 00 (0 atk + 0 spd) | 5,120 | 11 days |
-| VGC (0-1 atk + 0-1 spd) | 1,280 | 2.7 days |
+| VGC 00 (0-1 atk + 0-1 spd) | 1,280 | 2.7 days |
 | Perfect 0 Attack (0 atk) | 64 | 3.2 hours |
 | Perfect 0 Speed (0 spd) | 64 | 3.2 hours |
 | VGC 0 Attack (0-1 atk) | 32 | 1.6 hours |
