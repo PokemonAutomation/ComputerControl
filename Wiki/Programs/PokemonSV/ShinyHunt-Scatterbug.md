@@ -1,4 +1,4 @@
-# Shiny Hunt - Area Zero Platform
+# Shiny Hunt - Scatterbug
 
 <!-- <img src="images/ShinyHunt-AreaZeroPlatform-0.png"> -->
 
