@@ -258,7 +258,8 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Stats Reset - Bloodmoon Ursaluna](PokemonSV/StatsResetBloodmoon.md)  | Video         | Yes | Yes |
 ||
 | **Shiny Hunting:** |
-| [Shiny Hunt - Area Zero Platform](PokemonSV/ShinyHunt-AreaZeroPlatform.md)    | Video + Audio | Yes | Yes |
+| [Shiny Hunt - Area Zero Platform](PokemonSV/ShinyHunt-AreaZeroPlatform.md)  | Video + Audio | Yes | Yes |
+| [Shiny Hunt - Scatterbug](PokemonSV/ShinyHunt-Scatterbug.md)                | Video + Audio | Yes | Yes |
 ||
 | **Glitches:** |
 | [Ride Cloner (1.0.1)](PokemonSV/RideCloner-101.md)                    | Video         | Yes | Yes |

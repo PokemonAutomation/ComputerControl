@@ -109,6 +109,10 @@ By default, the program will run from non-shinies and stop on shinies. Here you 
 
 **Warning:** Level 60 Garganacl knows Explosion. Don't try to auto-catch them unless you don't mind losing some.
 
+### Use 1st Move if Cannot Throw Ball:
+
+If you can't throw a ball because the opponent is semi-invulnerable, use the 1st move instead. Therefore, your first move should be non-damaging to avoid killing the wild Pokémon.
+
 ### Video Capture:
 
 Take a video of the encounter if the program detects a shiny.
