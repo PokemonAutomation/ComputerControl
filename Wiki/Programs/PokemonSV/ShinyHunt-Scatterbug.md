@@ -30,7 +30,7 @@ To shiny hunt Scatterbug for Vivillon form collection:
   - Set the first row to be: when encountering shiny Tarountula, the action is "Throw Balls".
   - Set the second row to be: when encountering shiny Scatterbug, the action is "Stop Program".
 
-WARNING: if you interrupt the program or if the program stops due to an unknown program bug, you may want to reset the game to preserve the precious Herba Mystica! If you start the program again before resetting the game, the program will first save the game, permanently locking whatever sandwich ingredients you used in the last program run as consumed.
+WARNING: if you interrupt the program or if the program stops due to a program bug, you may want to reset the game to preserve the precious Herba Mystica! If you start the program again before resetting the game, the program will first save the game, permanently locking whatever sandwich ingredients you used in the last program run as consumed.
 
 ### Setup of Settings
 
