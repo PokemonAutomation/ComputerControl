@@ -12,6 +12,7 @@ In particular, this program can be used to shiny hunt all of these Pokémon:
 - Scatterbug
 - Lechonk
 - Tarountula
+- Fletchling
 
 And probably more.
 
@@ -45,12 +46,13 @@ WARNING: if you interrupt the program or if the program stops due to an unknown 
 1. Make sure your party is full.
 2. Your lead Pokémon is not shiny. (Shiny will cause false positive detections.)
 3. Your lead Pokémon is fast and capable of defeating everything without taking damage.
-4. All your party Pokémon won't produce evolve animation due to received XPs from battles.
-5. You have plenty of potions for auto-healing.
-6. You have plenty of balls for auto-catching.
-7. Fly to South Mesagoza Pokémon Center.
-8. You are on foot. (Not mounted on your ride.)
-9. Start the program in the overworld with all menus closed.
+4. The size of your lead Pokémon is not huge (not as large as a Corviknight). The size of a Talonflame is fine.
+5. All your party Pokémon won't produce evolve animation due to received XPs from battles.
+6. You have plenty of potions for auto-healing.
+7. You have plenty of balls for auto-catching.
+8. Fly to South Mesagoza Pokémon Center.
+9. You are on foot. (Not mounted on your ride.)
+10. Start the program in the overworld with all menus closed.
 
 **Additional Instructions for Making Sandwich **
 1. You have picniced at least once to clear the picnic tutorial.
