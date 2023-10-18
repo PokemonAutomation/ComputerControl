@@ -7,12 +7,14 @@
 
 This program will shiny hunt Pokémon around South Mesagoza Pokémon Center. Its main usage is to shiny hunt Scatterbug to collect all Vivillon forms. But it can also be used to collect shiny Pokémon that naturally spawn on land in South Mesagoza.
 
-In particular, this program can be used to shiny hunt all of these Pokémon:
+In particular, this program can be used to shiny hunt following Pokémon:
 
 - Scatterbug
-- Lechonk
 - Tarountula
+- Lechonk
 - Fletchling
+- Pawmi
+- Hoppip
 
 And probably more.
 
@@ -65,6 +67,10 @@ In sandwich mode, the Sparkling/Title/Encounter preset recipes have a built-in m
 
 <!-- <img src="images/ShinyHunt-AreaZeroPlatform-3.png"> -->
 
+### Save Game at Program Start:
+
+This is to ensure the program can continue after resetting the game. Uncheck this option if you have manually saved the game.
+
 ### Game Language:
 
 This is the language of your game and is required to read the names of what you encounter. Thus this is also required for auto-catch to work.
@@ -104,7 +110,7 @@ Auto-heal your lead if its HP drops below a certain point. This will obviously c
 
 ## Credits
 
-- **Author:** Kuroneko/Mysticial, Gin
+- **Author:** Gin, Kuroneko/Mysticial
 - Sandwich mode by Nymphea
 
 
