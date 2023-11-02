@@ -1,6 +1,6 @@
 # Shiny Hunt - Scatterbug
 
-<!-- <img src="images/ShinyHunt-AreaZeroPlatform-0.png"> -->
+<img src="images/ShinyHunt-Scatterbug-0.jpg">
 
 
 ## Program Description
@@ -18,6 +18,8 @@ In particular, this program can be used to shiny hunt following Pokémon:
 
 And probably more.
 
+<img src="images/ShinyHunt-Scatterbug-1.jpg">
+
 This program works by making a sandwich to boost spawns and shiny rate, then repeatedly sending out your lead for Let's Go to kill everything in sight. It will reset the game if the sandwich expires with no desired Pokémon found. Because Let's Go auto-battle does not attack shinies, shinies will remain and (with fairly high probability) will wander close enough to your character to trigger an encounter. While the program cannot detect shinies in the overworld, it can hear them during an encounter.
 
 Since the program cannot see shinies in the overworld, it will not immediately try to engage them when they spawn. So there is a chance that a shiny will be missed. But that's the cost of automating.
@@ -32,7 +34,7 @@ To shiny hunt Scatterbug for Vivillon form collection:
   - Set the first row to be: when encountering shiny Tarountula, the action is "Throw Balls".
   - Set the second row to be: when encountering shiny Scatterbug, the action is "Stop Program".
 
-WARNING: if you interrupt the program or if the program stops due to a program bug, you may want to reset the game to preserve the precious Herba Mystica! If you start the program again before resetting the game, the program will first save the game, permanently locking whatever sandwich ingredients you used in the last program run as consumed.
+WARNING: if you interrupt the program or if the program stops due to a program bug, you may want to reset the game to preserve the precious Herba Mystica! If you start the program again before resetting the game, depending on what you set the program option, the program may first save the game, thus permanently consuming whatever sandwich ingredients you used in the last program run.
 
 ### Setup of Settings
 
@@ -69,7 +71,7 @@ In sandwich mode, the Sparkling/Title/Encounter preset recipes have a built-in m
 
 ### Save Game at Program Start:
 
-This is to ensure the program can continue after resetting the game. Uncheck this option if you have manually saved the game.
+Save the game when the program starts. This is to ensure the program can continue after resetting the game. Uncheck this option if you have manually saved the game.
 
 ### Game Language:
 
