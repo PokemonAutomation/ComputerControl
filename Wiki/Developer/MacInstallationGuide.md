@@ -2,7 +2,13 @@
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
 
-Guide for how to install our open-source Pokémon automation software, **SerialPrograms** on Mac. This works for both Intel CPU and M1. Note we don't have optimization for M1 yet. So running on M1 macbook could be much slower.
+Guide for how to install our open-source Pokémon automation software, **SerialPrograms** on Mac. This works for both Intel CPU and M1.
+
+
+> **WARNING: around Nov 2023 we noticed a problem on Mac that prevents the program from reading capture cards. We don't know how to fix it yet. You may have to wait until the first few months in 2023. Before the fix is ready, don't continue the following installation steps, unless you are familiar with macOS software development and wish to help us debugging.**
+
+
+Note we don't have all the optimization for M1 yet. So running on M1 macbook could be a bit slower.
 
 The guide involves some program development processes.
 But the guide is aimed for any Mac user. You don't need to know programming to follow the guide.
