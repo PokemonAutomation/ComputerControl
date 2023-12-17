@@ -2,7 +2,7 @@
 
 ## Program Description
 
-Repeatedly catch the Treasures of Ruin or Loyal Three until you get the stats you want.
+Repeatedly catch static encounters until you get the stats you want.
 
 <img src="images/StatsReset.png">
 
@@ -33,7 +33,9 @@ Repeatedly catch the Treasures of Ruin or Loyal Three until you get the stats yo
 - The game will reset if it runs out or cannot find the selected Pokeball.
 - Fainted Pokemon will be swapped out.
 - It is recommended to hunt for 0IV only, as all other stats can be bottle capped.
-- This program does not include the former titan Pokemon, Koraidon, Miraidon, or Ogrepon as their IVs and natures are locked. For Ursaluna, use [Stats Reset - Bloodmoon Ursaluna](StatsResetBloodmoon.md).
+- This program does not include the former titan Pokemon, Koraidon, Miraidon, Ogrepon, or Terapagos as their IVs and natures are locked.
+- Raging Bolt, Gouging Fire, Iron Crown, and Iron Boulder are supported for nature only, as they are all IV locked. Make sure to set the IV filters to Anything.
+- For Ursaluna, use [Stats Reset - Bloodmoon Ursaluna](StatsResetBloodmoon.md).
 - In Versions 0.39.4 and below, the program will reset the game if your lead Pokemon faints or if your target is invulnerable (Bounce).
 
 ## Options
@@ -41,9 +43,10 @@ Repeatedly catch the Treasures of Ruin or Loyal Three until you get the stats yo
 ### Target:
 
 The Pokemon you are resetting for.
-- Set to Treasures of Ruin if you are targeting Wo-Chien, Chien-Pao, Ting-Lu, or Chi-Yu.
-- Loyal Three: use this for Okidogi, Munkidori, and Fezandipiti.
-- Set to Gimmighoul for anything that requires an A press to initiate battle. (Currently this only applies to Gimmighoul.)
+- Treasures of Ruin: Set to this if you are targeting Wo-Chien, Chien-Pao, Ting-Lu, or Chi-Yu. Their vaults must be unlocked.
+- Loyal Three: Use this for Okidogi, Munkidori, and Fezandipiti.
+- Snacksworth Legendary + Meloetta: For Meloetta and the legendaries in Paldea that are unlocked after completing BBQs for Snacksworth.
+- Indigo Disk Paradoxes (nature only) + Gimmighoul: Raging Bolt, Gouging Fire, Iron Crown, and Iron Boulder for nature only. Gimmighoul for both IVs and nature.
 
 ### Game Language:
 
