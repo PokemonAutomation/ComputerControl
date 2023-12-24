@@ -1,0 +1,24 @@
+# Flying Trial Farmer
+
+## Program Description
+
+This program will repeat the easy course of the flying trial at the Canyon Plaza for 10BP per run. The expected returns for this program is roughly at 400BP/hr (10BP per cycle of 87sec at roughly 98% success rate).
+
+### Setup of Settings
+
+1. Text Speed: Fast
+2. Vertical Camera Controls: Regular
+3. Horiztontal Camera Controls: Regular
+4. Camera Support: On
+5. Camera Interpolation: Normal
+
+### Instructions
+
+1. You have completed the Gym Challenge at the Canyon Plaza and have access to the flying trials.
+2. Stand in front of the NPC that hosts the trials and start the program.
+
+## Options
+
+### Number of Trials to Run
+
+Number of trials to automate before stopping.
