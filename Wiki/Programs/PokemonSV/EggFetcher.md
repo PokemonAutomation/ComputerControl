@@ -15,6 +15,7 @@ Make sandwiches and collect eggs.
 
 1. Text Speed: Fast
 2. Skip Move Learning: On
+3. After game version 2.0.1 (the DLC 1 update): Camera Support: On
 
 ### Box Setup
 

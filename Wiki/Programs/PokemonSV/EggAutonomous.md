@@ -28,6 +28,7 @@ It can run completely unattended for many days without intervention.
 2. Skip Move Learning: On
 3. Give Nicknames: Off
 4. Auto-Save: Off
+5. After game version 2.0.1 (the DLC 1 update): Camera Support: On
 
 ### Box Setup
 
@@ -44,7 +45,7 @@ you need to unlock IV judge functionality and set the current box view to be jud
 
 ### Instructions
 
-1. You have picniced at least once to clear in-game picnic guide.
+1. You have picnic'ed at least once to clear in-game picnic guide.
 2. For best performance, use the default tablecloth on your picnic table. Other tablecloths may contain white patterns that will slow down the program detecting the white picnic hand cursor.
 3. You have a party of two or more Pokémon that can produce eggs. Usually one Ditto and another Pokémon. Eggs collected will not fill empty spots in the party. They will be sent to the current box directly.
 4. Making a sandwich gives 100 exp to each party Pokémon. Make sure when the program is running, none of your party Pokémon will evolve by sandwich exp. You can use the option **Num Sandwiches** to control at most how many sandwiches will be made to avoid evolving.

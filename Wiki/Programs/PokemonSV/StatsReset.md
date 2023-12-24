@@ -2,7 +2,7 @@
 
 ## Program Description
 
-Repeatedly catch the Treasures of Ruin until you get the stats you want.
+Repeatedly catch the Treasures of Ruin or Loyal Three until you get the stats you want.
 
 <img src="images/StatsReset.png">
 
@@ -16,31 +16,34 @@ Repeatedly catch the Treasures of Ruin until you get the stats you want.
 ## Setup
 
 1. Your party must contain exactly 5 Pokemon.
-2. If you are not using a Master Ball, your lead Pokemon must be able to wall the Pokemon you are targeting.
-3. Nothing in your party will evolve after catching your target.
-4. The IV judge is unlocked and the current box view must be set to the IV panel.
-5. The language option is set to match your in-game language. This is required to read ball names.
-6. The actions table is set up to the IVs you want.
+2. Nothing in your party will evolve after catching your target.
+3. The IV judge is unlocked and the current box view is set to the IV panel.
+4. The language option is set to match your in-game language. This is required to read ball names.
+5. The actions table is set up to the IVs you want.
 
 ## Instructions
 
 1. Stand in front of your target and save the game.
-	> For the Treasures of Ruin, their vault must first be unlocked by pulling their respective stakes.
+	- For the Treasures of Ruin, their vault must first be unlocked by pulling their respective stakes.
 2. Start the program in-game.
-	- Master Ball strongly recommended for legendaries
-	- If you cannot throw a Pokeball (ex. Chi-Yu used Bounce) the game will simply reset
+	- Master Ball strongly recommended for legendaries.
+	- If you cannot throw a Pokeball (ex. Chi-Yu used Bounce) the game will use your Pokemon's first move. Make sure to set the first move of all Pokemon in your party to something non-damaging/False Swipe.
 
 ## Notes
+- The game will reset if it runs out or cannot find the selected Pokeball.
+- Fainted Pokemon will be swapped out.
 - It is recommended to hunt for 0IV only, as all other stats can be bottle capped.
-- The generic setting will only work for Pokemon that you press A to talk to. Regular static spawns (ex. Spiritomb or wild Tera Pokemon) will have the same stats, so resetting for them will not work.
-- Attempting to reset for the former titan Pokemon or the box legend will not work either, as their IVs and natures are locked.
-- tl;dr use the generic setting for Gimmighoul only. This program will most likely need updates for any future DLC scenarios.
+- This program does not include the former titan Pokemon, Koraidon, Miraidon, or Ogrepon as their IVs and natures are locked. For Ursaluna, use [Stats Reset - Bloodmoon Ursaluna](StatsResetBloodmoon.md).
+- In Versions 0.39.4 and below, the program will reset the game if your lead Pokemon faints or if your target is invulnerable (Bounce).
 
 ## Options
 
 ### Target:
 
-The Pokemon you are resetting for. Set to Treasures of Ruin if you are targeting Wo-Chien, Chien-Pao, Ting-Lu, or Chi-Yu. Set to Generic for anything else that requires an A press to initiate battle.
+The Pokemon you are resetting for.
+- Set to Treasures of Ruin if you are targeting Wo-Chien, Chien-Pao, Ting-Lu, or Chi-Yu.
+- Loyal Three: use this for Okidogi, Munkidori, and Fezandipiti.
+- Set to Gimmighoul for anything that requires an A press to initiate battle. (Currently this only applies to Gimmighoul.)
 
 ### Game Language:
 
@@ -49,6 +52,14 @@ Select the language that matches what you are using in-game. This setting is req
 ### Ball Select:
 
 The ball you want to catch your target in.
+
+### Throw Quick Ball:
+
+Check this to throw a Quick Ball on the first turn of the battle. If there are moves in the Move Table, they will run after the Quick Ball is thrown.
+
+### Move Table:
+
+Pre-program a sequence of moves for your lead Pokemon to use. If your lead faints or the end of the table is reached, the program will stop following the table and switch to throwing the selected ball. Delete all the rows in the table if you only want to throw balls and do not want to use any moves.
 
 ### Actions Table:
 Use this table to specify the criteria for keeping a legendary. There is no shiny filter or check, as the Pokemon this program are intended for are all shiny locked.

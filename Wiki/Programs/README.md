@@ -150,6 +150,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Money Farmer (Route 210)](PokemonBDSP/MoneyFarmerRoute210.md)        | Video | Yes | Yes |
 | [Double Battle Leveling](PokemonBDSP/DoublesLeveling.md)              | Video | Yes | Yes |
 | [Amity Square Pick Up Farmer](PokemonBDSP/AmitySquarePickUpFarmer.md) |       | Yes | Yes |
+| [Poffin Cooker](PokemonBDSP/PoffinCooker.md)                          | Video | Yes | Yes |
 | [Gift Berry Reset](PokemonBDSP/GiftBerryReset.md)                     | Video | Yes | Yes |
 ||
 | **Shiny Hunting:** |
@@ -218,15 +219,15 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 ||
 | **General:** |
 | [Mass Purchase](PokemonSV/MassPurchase.md)                            | Video         | Yes | Yes |
-| [Mass Release](PokemonSV/MassRelease.md)                              | Video         | Yes | Yes |
-| [Autonomous Ball Thrower](PokemonSV/AutonomousBallThrower.md)         | Video         | Yes | Yes |
-| [Stats Reset](PokemonSV/StatsReset.md)                                | Video         | Yes | Yes |
-| [Sandwich Maker](PokemonSV/SandwichMaker.md)                          | Video         | Yes | Yes |
-| [Size Checker](PokemonSV/SizeChecker.md)                              | Video         | Yes | Yes |
 | [Clothing Buyer](PokemonSV/ClothingBuyer.md)                          | Video         | Yes | Yes |
-||
-| **Trading:** |
+| [Autonomous Ball Thrower](PokemonSV/AutonomousBallThrower.md)         | Video         | Yes | Yes |
+| [Size Checker](PokemonSV/SizeChecker.md)                              | Video         | Yes | Yes |
 | [Self Box Trade](PokemonSV/SelfBoxTrade.md)                           | Video         | Yes | Yes |
+| [Sandwich Maker](PokemonSV/SandwichMaker.md)                          | Video         | Yes | Yes |
+||
+| **Boxes:** |
+| [Mass Release](PokemonSV/MassRelease.md)                              | Video         | Yes | Yes |
+| [Mass Attach Items](PokemonSV/MassAttachItems.md) (ETA: v0.41)                     | Video         | Yes | Yes |
 ||
 | **Farming:** |
 | [LP Farmer](PokemonSV/LPFarmer.md)                                    | Video         | Yes | Yes |
@@ -252,8 +253,13 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Clipboard Fast Code Entry (C-FCE)](PokemonSV/ClipboardFastCodeEntry.md)  |               | Yes | Yes |
 | [Video Fast Code Entry (V-FCE)](PokemonSV/VideoFastCodeEntry.md)          |               | Yes | Yes |
 ||
+| **Stats Hunting:** |
+| [Stats Reset](PokemonSV/StatsReset.md)                                | Video         | Yes | Yes |
+| [Stats Reset - Bloodmoon Ursaluna](PokemonSV/StatsResetBloodmoon.md)  | Video         | Yes | Yes |
+||
 | **Shiny Hunting:** |
-| [Shiny Hunt - Area Zero Platform](PokemonSV/ShinyHunt-AreaZeroPlatform.md)    | Video + Audio | Yes | Yes |
+| [Shiny Hunt - Area Zero Platform](PokemonSV/ShinyHunt-AreaZeroPlatform.md)  | Video + Audio | Yes | Yes |
+| [Shiny Hunt - Scatterbug](PokemonSV/ShinyHunt-Scatterbug.md)                | Video + Audio | Yes | Yes |
 ||
 | **Glitches:** |
 | [Ride Cloner (1.0.1)](PokemonSV/RideCloner-101.md)                    | Video         | Yes | Yes |

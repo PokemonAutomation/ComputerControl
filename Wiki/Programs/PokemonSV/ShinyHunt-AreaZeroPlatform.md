@@ -17,11 +17,12 @@ In particular, this program can be used to shiny hunt all of these paradox Poké
 - Scream Tail
 - Brute Bonnet
 - Flutter Mane
+- Roaring Moon (requires game version 2.0.1)
 - Iron Treads
 - Iron Bundle
 - Iron Hands
 - Iron Jugulis
-- Iron Valiant (requires sandwich)
+- Iron Valiant (requires sandwich prior to 2.0.1)
 
 This program works by standing on an inside edge of the platform and sending out your lead for Let's Go to kill everything in sight. Because Let's Go auto-battle does not attack shinies, shinies will remain and (with fairly high probability) will wander close enough to your character to trigger an encounter. While the program cannot detect shinies in the overworld, it can hear them during an encounter.
 
@@ -39,20 +40,22 @@ Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports 
 2. Skip Move Learning: On
 3. Give Nicknames: Off
 4. Auto-Save: Off
+5. After game version 2.0.1 (the DLC 1 update): Camera Support: On
 
 
 ### Instructions
 
-1. Make sure your party is full.
-2. Your lead Pokémon is not shiny. (Shiny will cause false positive detections.)
-3. Your lead Pokémon is fast and capable of defeating everything without taking damage.
-4. Your lead Pokémon is unaffected by Dugtrio's Arena Trap. (Flying or ghost type. Or holding a Smoke Ball.)
-5. You have plenty of potions for auto-healing.
-6. You have plenty of balls for auto-catching.
-7. You are zoomed out to maximize your view.
-8. You are on foot. (Not mounted on your ride.)
-9. Stand near the center of the platform or in the Zero Gate building as if you just entered.
-10. Start the program in the overworld with all menus closed.
+1. **(New to v0.43!)** The "Flying Unlocked" option is set correctly. If you have completed the DLC and have unlocked full flying capability, check this box. Otherwise leave it unchecked. It is important to set this correctly otherwise the program will not be able to navigate to the platform.
+2. Make sure your party is full.
+3. Your lead Pokémon is not shiny. (Shiny will cause false positive detections.)
+4. Your lead Pokémon is fast and capable of defeating everything without taking damage.
+5. Your lead Pokémon is unaffected by Dugtrio's Arena Trap. (Flying or ghost type. Or holding a Smoke Ball.)
+6. You have plenty of potions for auto-healing.
+7. You have plenty of balls for auto-catching.
+8. You are zoomed all the way out to maximize your view.
+9. You are on foot. (Not mounted on your ride.)
+10. Stand near the center of the platform or in the Zero Gate building as if you just entered.
+11. Start the program in the overworld with all menus closed.
 
 **Additional Instructions for Sandwich Mode**
 1. You have picniced at least once to clear the picnic tutorial.
@@ -85,6 +88,10 @@ This is the language of your game and is required to read the names of what you 
 
 Start the game either on the platform or just inside the Zero Gate station.
 
+### Flying Unlocked:
+
+The program needs to navigate from Zero Gate to the platform. However, the path that it takes differs depending on whether you have unlocked full flying (upon completion of the Indigo Disk DLC).
+
 ### Sandwich Reset Time:
 
 Reset the game and make a new sandwich after this many minutes since the last sandwich.
@@ -106,6 +113,10 @@ While the program will attempt to build any given custom recipe, it is not guara
 By default, the program will run from non-shinies and stop on shinies. Here you can specify an action for different encounter types by Pokémon name and shininess. This will let you auto-catch Pokémon in your desired ball type.
 
 **Warning:** Level 60 Garganacl knows Explosion. Don't try to auto-catch them unless you don't mind losing some.
+
+### Use 1st Move if Cannot Throw Ball:
+
+If you can't throw a ball because the opponent is semi-invulnerable, use the 1st move instead. Therefore, your first move should be non-damaging to avoid killing the wild Pokémon.
 
 ### Video Capture:
 
