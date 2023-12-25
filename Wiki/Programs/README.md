@@ -227,7 +227,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 ||
 | **Boxes:** |
 | [Mass Release](PokemonSV/MassRelease.md)                              | Video         | Yes | Yes |
-| [Mass Attach Items](PokemonSV/MassAttachItems.md) (ETA: v0.41)                     | Video         | Yes | Yes |
+| [Mass Attach Items](PokemonSV/MassAttachItems.md)                     | Video         | Yes | Yes |
 ||
 | **Farming:** |
 | [LP Farmer](PokemonSV/LPFarmer.md)                                    | Video         | Yes | Yes |
@@ -236,7 +236,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Auction Farmer](PokemonSV/AuctionFarmer.md)                          | Video         | Yes | Yes |
 | [ESP Training](PokemonSV/ESPTraining.md)           	                | Video         | Yes | Yes |
 | [Tournament Farmer](PokemonSV/TournamentFarmer.md)                    | Video         | Yes | Yes |
-| [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md)                 | Video         | Yes | Yes |
+| [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md) (ETA: v0.44)                 | Video         | Yes | Yes |
 ||
 | **Eggs:** |
 | [Egg Fetcher](PokemonSV/EggFetcher.md)                                | Video         | Yes | Yes |
