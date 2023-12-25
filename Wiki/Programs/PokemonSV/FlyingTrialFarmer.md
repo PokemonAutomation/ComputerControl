@@ -8,7 +8,7 @@ This program will repeat the easy course of the flying trial at the Canyon Plaza
 
 1. Text Speed: Fast
 2. Vertical Camera Controls: Regular
-3. Horiztontal Camera Controls: Regular
+3. Horizontal Camera Controls: Regular
 4. Camera Support: On
 5. Camera Interpolation: Normal
 
@@ -22,3 +22,7 @@ This program will repeat the easy course of the flying trial at the Canyon Plaza
 ### Number of Trials to Run
 
 Number of trials to automate before stopping.
+
+### Invert controls while flying
+
+If you inverted controls while flying in game, turn this feature on as well.
