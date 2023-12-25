@@ -4,6 +4,16 @@
 
 Farm the Academy Ace Tournament for money and prizes.
 
+**Indigo Disk DLC Update:** Because of the increased difficulty of the tournament after completing DLC2, the methods described here are no longer reliable. New battle strategies are required. Until we come up with an improved version of this program, this setup is one of the few ways that work:
+- Kyurem (White)
+- Stats: lvl 100, Modest, Ice Tera
+- EVs: 252 Special Attack, 252 Speed
+- Item: Choice Specs
+- Move: Freeze Dry
+- Turn on Terastillization.
+
+Note that this sacrifices the Amulet Coin for Choice Specs as this is needed to reliably win. Happy Hour Zoroark can still be used (as does a Smeargle with the same moves), but this will hurt the win-rate due to giving the opponent free turns to setup Trick Room or Light Screen. This hasn't been well studied yet.
+
 <img src="images/TournamentFarmer.png">
 
 ## Setup
