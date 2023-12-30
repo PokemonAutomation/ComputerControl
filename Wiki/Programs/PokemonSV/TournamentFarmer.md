@@ -1,5 +1,9 @@
 # Tournament Farmer
 
+**Related Programs:**
+- [Tournament Farmer](TournamentFarmer.md) (this program)
+- [Tournament Farmer 2](TournamentFarmer2.md)
+
 ## Program Description
 
 Farm the Academy Ace Tournament for money and prizes.
