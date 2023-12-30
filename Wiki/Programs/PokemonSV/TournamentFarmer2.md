@@ -80,13 +80,15 @@ Go to the Switch Home to idle when finished.
 While Kyurem-W and Calyrex-Ice are the recommended attackers, there may be others that will work.
 
 **Good:**
-- **Sylveon:** The same one from the original Tournament Farmer may work if given Choice Specs. While untested, the damage output (on paper) is higher than Kyurem-W, though it is more fragile.
 - **Dialga:** With Flash Cannon + Choice Specs, it appears viable through limited testing.
 
 **Bad:**
 - **Kyogre:** While it undoubtedly has the highest damage output due to double-STAB Surf/Water Spout, it will not ***will not work***. Penny's Vaporeon has Water Absorb.
 - Any move type with an immunity: Electric, Ground, Ghost, Normal, Fighting, Poison, Psychic, Dragon, Water (Water Absorb), Grass (Sip Sapper), Fire (Flash Fire). This leaves just Steel, Fairy, Ice, Flying, Rock, Bug, and Dark.
 - Any move that's not 100% accurate. Give the opponent a free turn and they'll setup or status you.
+
+**Untested:**
+- **Sylveon:** The same one from the original Tournament Farmer may work if given Choice Specs. While the damage output is higher than Kyurem-W, it is much slower and more fragile. Even at max speed, it may not be able to outrun everything in the Tournament post-DLC2.
 
 ## Credits
 
