@@ -84,7 +84,7 @@ While Kyurem-W and Calyrex-Ice are the recommended attackers, there may be other
 - **Dialga:** With Flash Cannon + Choice Specs, it appears viable through limited testing.
 
 **Bad:**
-- **Kyogre:** while undoubtedly having the highest damage due to double-STAB Surf/Water Spout ***will not work***. Penny's Vaporeon has Water Absorb.
+- **Kyogre:** While it undoubtedly has the highest damage output due to double-STAB Surf/Water Spout, it will not ***will not work***. Penny's Vaporeon has Water Absorb.
 - Any move type with an immunity: Electric, Ground, Ghost, Normal, Fighting, Poison, Psychic, Dragon, Water (Water Absorb), Grass (Sip Sapper), Fire (Flash Fire). This leaves just Steel, Fairy, Ice, Flying, Rock, Bug, and Dark.
 - Any move that's not 100% accurate. Give the opponent a free turn and they'll setup or status you.
 
