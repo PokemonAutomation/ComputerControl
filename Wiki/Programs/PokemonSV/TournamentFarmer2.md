@@ -36,7 +36,7 @@ The strategy behind this setup is as follows:
     - Taunt is needed to prevent the opponent from setting up Trick Room/Reflect/Light Screen that would make it hard for your attacker to sweep the opposing team.
     - Memento will let your lead die for a free switch into your main attacker.
 
-The main from the [original Tournament Farmer](TournamentFarmer.md) is that you move the Amulet Coin off the attacker for a Choice item to boost its damage output. Then you add Taunt to the suicide lead to block any setup that would prevent sweeping.
+The main difference from the [original Tournament Farmer](TournamentFarmer.md) is that you move the Amulet Coin off the attacker for a Choice item to boost its damage output. Then you add Taunt to the suicide lead to block any setup that would prevent sweeping.
 
 **Happy Hour H-Zoroark:**
 - Happy Hour H-Zoroark is an event Pokémon that was given out as an event for those who preordered the DLC.
