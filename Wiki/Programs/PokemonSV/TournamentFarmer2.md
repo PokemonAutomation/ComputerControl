@@ -50,7 +50,6 @@ The main from the [original Tournament Farmer](TournamentFarmer.md) is that you 
 
 Since Happy Hour cannot be transfered from other games and the DLC preordering has already expired, you either already have it somewhere or must trade for it. Regardless, Happy Hour is optional and the program can run without it. It will just be less efficient with rewards.
 
-
 ## Instructions
 
 1. Stand in front of the tournament entry NPC.
@@ -75,6 +74,19 @@ Save every x number of tournaments. Zero disables saving.
 ### Go Home when Done:
 
 Go to the Switch Home to idle when finished.
+
+## Other Attack Options
+
+While Kyurem-W and Calyrex-Ice are the recommended attackers, there may be others that will work.
+
+**Good:**
+- **Sylveon:** The same one from the original Tournament Farmer may work if given Choice Specs. While untested, the damage output (on paper) is higher than Kyurem-W, though it is more fragile.
+- **Dialga:** With Flash Cannon + Choice Specs, it appears viable through limited testing.
+
+**Bad:**
+- **Kyogre:** while undoubtedly having the highest damage due to double-STAB Surf/Water Spout ***will not work***. Penny's Vaporeon has Water Absorb.
+- Any move type with an immunity: Electric, Ground, Ghost, Normal, Fighting, Poison, Psychic, Dragon, Water (Water Absorb), Grass (Sip Sapper), Fire (Flash Fire). This leaves just Steel, Fairy, Ice, Flying, Rock, Bug, and Dark.
+- Any move that's not 100% accurate. Give the opponent a free turn and they'll setup or status you.
 
 ## Credits
 
