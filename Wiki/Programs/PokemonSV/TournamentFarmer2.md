@@ -1,10 +1,14 @@
 # Tournament Farmer 2
 
+**Related Programs:**
+- [Tournament Farmer](TournamentFarmer.md)
+- [Tournament Farmer 2](TournamentFarmer2.md) (this program)
+
 ## Program Description
 
 Farm the Academy Ace Tournament for money and prizes. (updated version for Indigo Disk DLC)
 
-Because of the increased difficulty of the tournament after completing DLC2, it is recommended to use this version of the tournament farmer which allows better customization move selection.
+Because of the increased difficulty of the tournament after completing DLC2, this version of the tournament farmer is better as it allows better customization move selection. However, as of this writing, it cannot track money or item rewards.
 
 <img src="images/TournamentFarmer2.png">
 
@@ -40,7 +44,7 @@ The strategy behind this setup is as follows:
 - The easiest way sketch Memento is to block it with Protect, then Sketch it the next turn. The Koffings by the Crystal Pool in Kitakami will know Memento.
 - Since Protect is useful for sketching both Taunt and Memento, you will want your Smeargle to sketch Protect first. (even though it won't be used for the tournament)
 
-In both cases, you will require a Pokémon that already knows Happy Hour. Since you cannot transfer Happy Hour from other games and the DLC preordering has already expired, you will need to trade for it if you don't already have a Pokémon that has it.
+Since Happy Hour cannot be transfered from other games and the DLC preordering has already expired, you either already have it somewhere or must trade for it. Regardless, Happy Hour is optional and the the program can run without it. It will just be less efficient with rewards.
 
 
 ## Instructions
