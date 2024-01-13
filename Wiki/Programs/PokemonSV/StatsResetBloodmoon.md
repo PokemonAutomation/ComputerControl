@@ -1,10 +1,10 @@
-# Stats Reset - Bloodmoon Ursaluna
+# Stats Reset - Bloodmoon Ursaluna / Pecharunt
 
 ## Program Description
 
-Repeatedly catch Bloodmoon Ursaluna until you get the stats you want.
+Repeatedly catch Bloodmoon Ursaluna or Pecharunt until you get the stats you want.
 
-Starting from program version 0.42, the average times to find the following stat distributions are:
+Starting from program version 0.42, the average times to find the following stat distributions for Ursaluna are:
 
 | **IV Spread** | **Average Resets** | **Average Time** |
 | --- | --- | --- |
@@ -48,7 +48,7 @@ The setup will depend on which version you are running.
 4. The language option is set to match your in-game language.
 5. The stop conditions table is set up to the IVs you want.
 
-Kyogre can one-shot Ursaluna without using terastallization, making it a great way to save time:
+Kyogre can one-shot both Ursaluna and Pecharunt without using terastallization, making it a great way to save time:
 
     Kyogre @ Choice Specs
     Ability: Drizzle
@@ -58,13 +58,15 @@ Kyogre can one-shot Ursaluna without using terastallization, making it a great w
 
 ## Instructions
 
-1. Stand in front of Perrin and save the game.
-   > This is right after taking photographs for her. If she asks "You all ready to meet the Bloodmoon Beast?" back out and save.
+1. Stand in front of Perrin/Pecharunt and save the game.
+   > For Perrin, this is right after taking photographs for her. If she asks "You all ready to meet the Bloodmoon Beast?" back out and save.
 2. Start the program in-game.
 
 ## Notes
 
 It is recommended to hunt for 0IV only, as all other stats can be bottle capped.
+
+The below is for Ursaluna only, as the IV calculator can distinguish between 0 and 1 for Pecharunt.
 
 Starting from v0.42, the program will calculate the IV range from Ursaluna's stats instead of finishing the post-catch dialog and navigating to the box system to use the IV judge. This has the following implications:
 
@@ -90,6 +92,10 @@ If you are just searching for VGC 00 (0-1 attack and 0-1 speed), setting a filte
 <img src="images/StatsResetBloodmoon-1.png">
 
 ## Options
+
+### Target:
+
+The Pokemon you are resetting for.
 
 ### Game Language:
 
