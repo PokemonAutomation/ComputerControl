@@ -257,7 +257,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 ||
 | **Stats Hunting:** |
 | [Stats Reset](PokemonSV/StatsReset.md)                                | Video         | Yes | Yes |
-| [Stats Reset - Bloodmoon Ursaluna](PokemonSV/StatsResetBloodmoon.md)  | Video         | Yes | Yes |
+| [Stats Reset - Bloodmoon Ursaluna / Pecharunt](PokemonSV/StatsResetBloodmoon.md)  | Video         | Yes | Yes |
 ||
 | **Shiny Hunting:** |
 | [Shiny Hunt - Area Zero Platform](PokemonSV/ShinyHunt-AreaZeroPlatform.md)  | Video + Audio | Yes | Yes |
