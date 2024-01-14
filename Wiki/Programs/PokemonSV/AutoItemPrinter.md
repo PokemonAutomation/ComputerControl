@@ -2,7 +2,7 @@
 
 ## Program Description
 
-This program will repeatly operate the Item Printer for a chance at rare items (Stellar Tera Shards, Apricorn Balls, etc.).
+This program will repeatly operate the Item Printer for a chance at rare items (Stellar Tera Shards, Apricorn Balls, etc.) using the Auto Select function to pick input materials.
 
 ## Caution
 
@@ -15,7 +15,7 @@ The item printer depletes pokemon materials and saves after each iteration, be s
 ### In-Game Setup
 
 1. You have unlocked the Item Printer in the League Room. (Recommended to have its level maxed out for better item odds)
-2. Have enough BP and pokemon materials to run the program.
+2. Have enough BP (can be farmed with [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md)) and pokemon materials (can be farmed with [Shiny Hunt - Area Zero Platform](PokemonSV/ShinyHunt-AreaZeroPlatform.md)) to run the program.
 
 ### Instructions
 
