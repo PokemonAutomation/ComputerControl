@@ -224,6 +224,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Size Checker](PokemonSV/SizeChecker.md)                              | Video         | Yes | Yes |
 | [Self Box Trade](PokemonSV/SelfBoxTrade.md)                           | Video         | Yes | Yes |
 | [Sandwich Maker](PokemonSV/SandwichMaker.md)                          | Video         | Yes | Yes |
+| [Autonomous Item Printer](PokemonSV/AutoItemPrinter.md)               | Video         | Yes | Yes |
 ||
 | **Boxes:** |
 | [Mass Release](PokemonSV/MassRelease.md)                              | Video         | Yes | Yes |
@@ -234,7 +235,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Yes |
 | [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md)         | Video         | Yes | Yes |
 | [Auction Farmer](PokemonSV/AuctionFarmer.md)                          | Video         | Yes | Yes |
-| [ESP Training](PokemonSV/ESPTraining.md)           	                  | Video         | Yes | Yes |
+| [ESP Training](PokemonSV/ESPTraining.md)           	                | Video         | Yes | Yes |
 | [Tournament Farmer](PokemonSV/TournamentFarmer.md)                    | Video         | Yes | Yes |
 | [Tournament Farmer 2](PokemonSV/TournamentFarmer2.md)                 | Video         | Yes | Yes |
 | [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md)                 | Video         | Yes | Yes |
