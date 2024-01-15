@@ -30,7 +30,7 @@ In either case, the program will detect this error condition and stop. There is 
 
 1. The cloned Pokémon is already in the wild.
 2. The cloned Pokémon is holding an item.
-3. The cloned Pokémon cannot do any damage do either your or itself. (knows no damaging moves or self-harming moves)
+3. The cloned Pokémon cannot do any damage to you or itself. (knows no damaging moves or self-harming moves)
 4. The cloned Pokémon cannot block you from using Trick. (don't have it know both Imprison and Trick!)
 5. The cloned Pokémon cannot block you from running. (no Arena Trap, etc...)
 6. Your lead Pokémon is not holding an item.
