@@ -62,9 +62,9 @@ The location around the tree that spawns your clone is not a great location as i
 
 **The Pride Rock: (average clones to failure: 50-70)**
 
-Near the west wide of Savanna Biome is a rock that looks like the pride rock in Lion King where Simba (+ his dad) stands on top. In Scarlet/Violet, there will be a male Pyroar standing in the same place and pose.
+Near the west wide of Savanna Biome is a rock that looks like the pride rock from Lion King where Simba (+ his dad) stands on top. In Scarlet/Violet, there will be a male Pyroar standing in the same place and pose.
 
-Depending on what your clone Pokémon is, it may be possible to lead it up the rock. (Kyurem is confirmed to work) You want to corner the clone on the tip of the rock while you stand further down. The clone will be able to run away and you will be relatively protected from getting attacked.
+Depending on what your clone Pokémon is, it may be possible to lead it up the rock. (Kyurem is confirmed to work) You want to corner the clone on the tip of the rock while you stand further down. The clone will not be able to run away and you will be relatively protected from getting attacked.
 
 Failure cases are:
 1. Eventually getting attacked from behind. (usually a Deerling)
