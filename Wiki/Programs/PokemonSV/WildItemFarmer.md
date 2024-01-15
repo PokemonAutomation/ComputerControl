@@ -10,7 +10,9 @@ Before you begin, make sure you understand how the glitch works:
 - https://www.youtube.com/watch?v=vBel6GplgnY
 - https://www.youtube.com/watch?v=IeKAjpM18mc
 
-The program does not automated the part that clones a Pokémon into the wild. Instead, it automates the part that repeatedly battles it and steals its item. So you still need to setup according to the video.
+The program does not automate the part that clones a Pokémon into the wild. Instead, it automates the part that repeatedly battles it and steals its item. So you still need to setup according to the video.
+
+<img src="images/WildItemFarmer-UnderTree.png">
 
 
 ### How This Program Works:
