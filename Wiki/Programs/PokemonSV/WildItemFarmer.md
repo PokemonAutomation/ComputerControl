@@ -81,7 +81,9 @@ Failure cases are:
 
 This is the first known full-proof location. On the far west side of the map right on the boundary of the Ice and Canyon biomes, there are several platforms on the white blocks that are high up above the terrain. These can be difficult to reach and will require that your clone be able to fly. (Kyurem can fly)
 
-Once you land on this platform, place the clone on the edge with the cliff behind it while you stand further in. So you are standing to the east facing the clone which is on the west. **Turn the "Forward Run" option.** Then start the program. If set up right, this location will work forever. The clone has no place to run to, and you cannot be attacked by anything.
+Once you land on this platform, place the clone on the edge with the cliff behind it while you stand further in. So you are standing to the east facing the clone which is on the west. **Turn the "Forward Run" option OFF.** Then start the program. If set up right, this location will work forever. The clone has no place to run to, and you cannot be attacked by anything.
+
+Do not face the other direction. The battle may push the clone into the wall at which it is lot. Do not turn on the "Forward Run" option, either you and/or the clone will eventually fall off.
 
 <img src="images/WildItemFarmer-IceCanyonPlatform.png">
 
