@@ -6,6 +6,8 @@ This is an experimental program to *help* farm the version 3.0.0 item duplicatio
 
 **Important Note:** This program is not reliable enough to run completely unattended. It will break within a short amount of time unless you pick a very good start position and get lucky. Do not expect this program to fully farm 999 of an item without having to manually intervene a bunch of times.
 
+**Edit:** A location has finally been found to make this program reliable. See the below.
+
 Before you begin, make sure you understand how the glitch works:
 - https://www.youtube.com/watch?v=vBel6GplgnY
 - https://www.youtube.com/watch?v=IeKAjpM18mc
@@ -57,12 +59,12 @@ You can lure your clone around much like the Smeargle. And if your clone can fly
 
 Walk around your clone until the green question mark appears (usually showing up behind it will do), then it will follow you. Getting to fly is a bit tricker as you will need some sort of obstacle to make it jump into the air (may vary by Pokémon). But once you get it into the air, it will be able to follow you to almost anywhere on the map as long as it doesn't get stuck.
 
-**The Spawning Tree: (average clones to failure: 20-30)**
+### The Spawning Tree: (average clones to failure: 20-30)
 
 The location around the tree that spawns your clone is not a great location as it will wander around and there are lots of wild Pokémon to attack you. Unless you get lucky, running the program here will rarely last more than 20-30 items cloned before the clone wanders off or you get attacked by something else.
 
 
-**The Pride Rock: (average clones to failure: 50-70)**
+### The Pride Rock: (average clones to failure: 50-70)
 
 Near the west wide of Savanna Biome is a rock that looks like the pride rock from Lion King where Simba (+ his dad) stands on top. In Scarlet/Violet, there will be a male Pyroar standing in the same place and pose.
 
@@ -77,7 +79,7 @@ Failure cases are:
 <img src="images/WildItemFarmer-PrideRock-Map.png" width="400"> <img src="images/WildItemFarmer-PrideRock-Outside.png" width="400">
 
 
-**Ice/Canyon Boundary Platform: (average clones to failure: ∞)**
+### Ice/Canyon Boundary Platform: (average clones to failure: ∞)
 
 This is the first known full-proof location. On the far west side of the map right on the boundary of the Ice and Canyon biomes, there are several platforms on the white blocks that are high up above the terrain. These can be difficult to reach and will require that your clone be able to fly. (Kyurem can fly)
 
@@ -88,14 +90,14 @@ Do not face the other direction. The battle may push the clone into the wall at 
 <img src="images/WildItemFarmer-IceCanyonPlatform.png">
 
 
-**Terarium Entrance: (average clones to failure: 10-20)**
+### Terarium Entrance: (average clones to failure: 10-20)
 
 Next to the ramp at the entrance of the Terarium. While it looks isolated, it has been tested to be bad. You get attacked from behind by lots of things.
 
 <img src="images/WildItemFarmer-TerariumEntrance.png" width="600">
 
 
-**Various Caves: (average clones to failure: 20-30)**
+### Various Caves: (average clones to failure: 20-30)
 
 Large clones cannot be led into the cave. It's unknown if smaller ones can. Outside you get attacked.
 
