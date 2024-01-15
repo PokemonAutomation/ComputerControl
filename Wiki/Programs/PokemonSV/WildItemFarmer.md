@@ -6,7 +6,7 @@ This is an experimental program to *help* farm the version 3.0.0 item duplicatio
 
 **Important Note:** This program is not reliable enough to run completely unattended. It will break within a short amount of time unless you pick a very good start position and get lucky. Do not expect this program to fully farm 999 of an item without having to manually intervene a bunch of times.
 
-**Edit:** A location has finally been found to make this program reliable. See the below.
+**Edit:** A location has finally been found to make this program reliable. [See the below](#icecanyon-boundary-platform-average-clones-to-failure-).
 
 Before you begin, make sure you understand how the glitch works:
 - https://www.youtube.com/watch?v=vBel6GplgnY
