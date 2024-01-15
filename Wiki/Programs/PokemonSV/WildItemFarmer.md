@@ -71,7 +71,8 @@ Failure cases are:
 2. The encounter cycle rotates out of place and the clone wanders away from in front of you.
 
 <img src="images/WildItemFarmer-PrideRockTip.png">
-<img src="images/WildItemFarmer-PrideRock-Map.png" width="400"><img src="images/WildItemFarmer-PrideRock-Outside.png" width="400">
+
+<img src="images/WildItemFarmer-PrideRock-Map.png" width="400"> <img src="images/WildItemFarmer-PrideRock-Outside.png" width="400">
 
 
 **Terarium Entrance: (bad - average clones to failure: 10-20)**
