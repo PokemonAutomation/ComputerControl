@@ -57,7 +57,7 @@ This is ongoing research. Feel free to check back for updates. Likewise you can 
 
 You can lure your clone around much like the Smeargle. And if your clone can fly (Kyurem can fly), you can get it to follow you to almost anywhere in the Terarium as it can even cross biomes!
 
-Walk around your clone until the green question mark appears (usually showing up behind it will do), then it will follow you. Getting to fly is a bit tricker as you will need some sort of obstacle to make it jump into the air (may vary by Pokémon). But once you get it into the air, it will be able to follow you to almost anywhere on the map as long as it doesn't get stuck.
+Walk around your clone until the green question mark appears (usually showing up behind it will do), then it will follow you. Getting it to fly is a bit tricker as you will need some sort of obstacle to make it jump into the air (may vary by Pokémon). But once you get it into the air, it will be able to follow you to almost anywhere on the map as long as it doesn't get stuck.
 
 ### The Spawning Tree: (average clones to failure: 20-30)
 
