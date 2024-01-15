@@ -77,11 +77,20 @@ Failure cases are:
 <img src="images/WildItemFarmer-PrideRock-Map.png" width="400"> <img src="images/WildItemFarmer-PrideRock-Outside.png" width="400">
 
 
-**Terarium Entrance: (bad - average clones to failure: 10-20)**
+**Ice/Canyon Boundary Platform: (average clones to failure: ∞)**
+
+This is the first known full-proof location. On the far west size of the map right on the boundary of the Ice and Canyon biomes, there are several platforms forms by the white blocks that are high up above the terrain. These can be difficult to reach and will require that your clone be able to fly. (Kyurem can fly)
+
+Once you land on this platform, place the clone on the edge with the cliff behind it while you stand further in. So you are standing to the east facing the clone which is on the west. **Turn the "Forward Run" option.** Then start the program. If set up right, this location will work forever. The clone has no place to run to, and you cannot be attacked by anything.
+
+<img src="images/WildItemFarmer-PrideRockTip.png">
+
+
+**Terarium Entrance: (average clones to failure: 10-20)**
 
 Next to the ramp at the entrance of the Terarium. While it looks isolated, it has been tested to be bad. You get attacked from behind by lots of things.
 
-<img src="images/WildItemFarmer-TerariumEntrance.png" width="400">
+<img src="images/WildItemFarmer-IceCanyonPlatform.png" width="600">
 
 
 **Various Caves: (average clones to failure: 20-30)**
