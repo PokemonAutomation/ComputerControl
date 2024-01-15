@@ -83,8 +83,7 @@ This is the first known full-proof location. On the far west size of the map rig
 
 Once you land on this platform, place the clone on the edge with the cliff behind it while you stand further in. So you are standing to the east facing the clone which is on the west. **Turn the "Forward Run" option.** Then start the program. If set up right, this location will work forever. The clone has no place to run to, and you cannot be attacked by anything.
 
-<img src="images/WildItemFarmer-IceCanyonPlatform.png" width="600">
-<img src="images/WildItemFarmer-PrideRockTip.png">
+<img src="images/WildItemFarmer-IceCanyonPlatform.png">
 
 
 **Terarium Entrance: (average clones to failure: 10-20)**
