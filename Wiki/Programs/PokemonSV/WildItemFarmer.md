@@ -53,11 +53,13 @@ In either case, the program will detect this error condition and stop. There is 
 
 This is ongoing research. Feel free to check back for updates. Likewise you can participate in this research in our Discord server.
 
+You can lure your clone around much like the Smeargle. And if your clone can fly (Kyurem can fly), you can get it to follow you to almost anywhere in the Terarium as it can even cross biomes!
+
+Walk around your clone until the green question mark appears (usually showing up behind it will do), then it will follow you. Getting to fly is a bit tricker as you will need some sort of obstacle to make it jump into the air (may vary by Pokémon). But once you get it into the air, it will be able to follow you to almost anywhere on the map as long as it doesn't get stuck.
+
 **The Spawning Tree: (average clones to failure: 20-30)**
 
 The location around the tree that spawns your clone is not a great location as it will wander around and there are lots of wild Pokémon to attack you. Unless you get lucky, running the program here will rarely last more than 20-30 items cloned before the clone wanders off or you get attacked by something else.
-
-*However, much like you are told to lure the Smeargle into a specific spot to trigger the glitch, you can do the same to your cloned Pokémon. Walk around it until you see the green question mark above it. Then you can travel far away and it will follow you. Thus you can bring your clone to almost anywhere in the Savanna Biome.*
 
 
 **The Pride Rock: (average clones to failure: 50-70)**
