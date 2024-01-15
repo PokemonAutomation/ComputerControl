@@ -57,7 +57,7 @@ This is ongoing research. Feel free to check back for updates. Likewise you can 
 
 The location around the tree that spawns your clone is not a great location as it will wander around and there are lots of wild Pokémon to attack you. Unless you get lucky, running the program here will rarely last more than 20-30 items cloned before the clone wanders off or you get attacked by something else.
 
-However, much like you are told to lure the Smeargle into a specific spot to trigger the glitch, you can do the same to your cloned Pokémon. Walk around it until you see the green question mark above it. Then you can travel far away and it will follow you. Thus you can bring your clone to almost anywhere in the Savanna Biome.
+*However, much like you are told to lure the Smeargle into a specific spot to trigger the glitch, you can do the same to your cloned Pokémon. Walk around it until you see the green question mark above it. Then you can travel far away and it will follow you. Thus you can bring your clone to almost anywhere in the Savanna Biome.*
 
 
 **The Pride Rock: (average clones to failure: 50-70)**
