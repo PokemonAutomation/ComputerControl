@@ -77,7 +77,7 @@ Failure cases are:
 
 **Terarium Entrance: (bad - average clones to failure: 10-20)**
 
-Next to the ramp at the entrance of the Terarium. While it looks isolate, it has been tested to be bad. You get attacked from behind by lots of things.
+Next to the ramp at the entrance of the Terarium. While it looks isolated, it has been tested to be bad. You get attacked from behind by lots of things.
 
 <img src="images/WildItemFarmer-TerariumEntrance.png" width="400">
 
