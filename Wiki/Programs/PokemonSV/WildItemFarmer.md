@@ -89,7 +89,7 @@ This is the first known full-proof location. On the far west side of the map rig
 
 Once you land on this platform, place the clone on the edge with the cliff behind it while you stand further in. So you are standing to the east facing the clone which is on the west. **Turn the "Forward Run" option OFF.** Then start the program. If set up right, this location will work forever. The clone has no place to run to, and you cannot be attacked by anything.
 
-Do not face the other direction as the battle may push the clone into the wall at which it is lost. Do not turn on the "Forward Run" option, either you and/or the clone will eventually fall off.
+Do not face the other direction as the battle may push the clone into the wall at which it is lost. Do not turn on the "Forward Run" option as it eventually causes either you and/or the clone to fall off.
 
 <img src="images/WildItemFarmer-IceCanyonPlatform-Map.png" width="500"> <img src="images/WildItemFarmer-IceCanyonPlatform.png" width="500">
 
