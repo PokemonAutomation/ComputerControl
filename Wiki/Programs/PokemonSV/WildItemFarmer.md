@@ -12,7 +12,7 @@ Before you begin, make sure you understand how the glitch works:
 - https://www.youtube.com/watch?v=vBel6GplgnY
 - https://www.youtube.com/watch?v=IeKAjpM18mc
 
-The program does not automate the part that clones a Pokémon into the wild. Instead, it automates the part that repeatedly battles it and steals its item. So you still need to setup according to the video.
+The program does not automate the part that clones a Pokémon into the wild. Instead, it automates the part that repeatedly battles it and steals its item. So you still need to setup according to the video. **Do not catch the cloned Pokémon - especially if it's a fused Pokémon! A cloned fused Pokémon cannot be properly released or unfused.**
 
 <img src="images/WildItemFarmer-Trick.png">
 
