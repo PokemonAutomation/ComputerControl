@@ -1,5 +1,7 @@
 # Wild Item Farmer
 
+*Note that the primary use of this program is to exploit a glitch in game version 3.0.0. It is likely that this glitch will be patched in the future.*
+
 ## Program Description
 
 This is an experimental program to *help* farm the version 3.0.0 item duplication glitch. Though in theory, this program can be used to farm any item held by a wild Pokémon.
