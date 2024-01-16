@@ -89,7 +89,7 @@ Once you land on this platform, place the clone on the edge with the cliff behin
 
 Do not face the other direction as the battle may push the clone into the wall at which it is lost. Do not turn on the "Forward Run" option, either you and/or the clone will eventually fall off.
 
-<img src="images/WildItemFarmer-IceCanyonPlatform.png" width="500"> <img src="images/WildItemFarmer-IceCanyonPlatform-Map.png" width="500">
+<img src="images/WildItemFarmer-IceCanyonPlatform-Map.png" width="500"> <img src="images/WildItemFarmer-IceCanyonPlatform.png" width="500">
 
 Here is a sample video demonstrating how the clone can be lured to this location: https://cdn.discordapp.com/attachments/711649658220314635/1196636492018221138/2024-01-15_17-58-41.mp4?ex=65b85994&is=65a5e494&hm=7830fc2a453cc1829144a1386034a6e4dee521c9d711cb5b69a9968fabbb3b44&
 
