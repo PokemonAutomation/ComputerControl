@@ -14,7 +14,7 @@ Before you begin, make sure you understand how the glitch works:
 
 The program does not automate the part that clones a Pokémon into the wild. Instead, it automates the part that repeatedly battles it and steals its item. So you still need to setup according to the video.
 
-<img src="images/WildItemFarmer-UnderTree.png">
+<img src="images/WildItemFarmer-Trick.png">
 
 
 ### How This Program Works:
@@ -63,6 +63,8 @@ Walk around your clone until the green question mark appears (usually showing up
 
 The location around the tree that spawns your clone is not a great location as it will wander around and there are lots of wild Pokémon to attack you. Unless you get lucky, running the program here will rarely last more than 20-30 items cloned before the clone wanders off or you get attacked by something else.
 
+<img src="images/WildItemFarmer-UnderTree.png">
+
 
 ### The Pride Rock: (average clones to failure: 50-70)
 
@@ -76,7 +78,7 @@ Failure cases are:
 
 <img src="images/WildItemFarmer-PrideRockTip.png">
 
-<img src="images/WildItemFarmer-PrideRock-Map.png" width="400"> <img src="images/WildItemFarmer-PrideRock-Outside.png" width="400">
+<img src="images/WildItemFarmer-PrideRock-Map.png" width="500"> <img src="images/WildItemFarmer-PrideRock-Outside.png" width="500">
 
 
 ### Ice/Canyon Boundary Platform: (average clones to failure: ∞)
@@ -87,8 +89,12 @@ Once you land on this platform, place the clone on the edge with the cliff behin
 
 Do not face the other direction as the battle may push the clone into the wall at which it is lost. Do not turn on the "Forward Run" option, either you and/or the clone will eventually fall off.
 
-<img src="images/WildItemFarmer-IceCanyonPlatform.png">
+<img src="images/WildItemFarmer-IceCanyonPlatform.png" width="500"> <img src="images/WildItemFarmer-IceCanyonPlatform-Map.png" width="500">
 
+Here is a sample video demonstrating how the clone can be lured to this location: https://cdn.discordapp.com/attachments/711649658220314635/1196636492018221138/2024-01-15_17-58-41.mp4?ex=65b85994&is=65a5e494&hm=7830fc2a453cc1829144a1386034a6e4dee521c9d711cb5b69a9968fabbb3b44&
+
+
+## Bad Start Locations
 
 ### Terarium Entrance: (average clones to failure: 10-20)
 
@@ -101,7 +107,7 @@ Next to the ramp at the entrance of the Terarium. While it looks isolated, it ha
 
 Large clones cannot be led into the cave. It's unknown if smaller ones can. Outside you get attacked.
 
-<img src="images/WildItemFarmer-Caves.png" width="400">
+<img src="images/WildItemFarmer-Caves.png" width="600">
 
 
 ## Credits
