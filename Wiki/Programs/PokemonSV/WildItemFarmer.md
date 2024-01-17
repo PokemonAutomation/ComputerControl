@@ -10,7 +10,7 @@ This is a program to farm the version 3.0.0 item duplication glitch. Though in t
 1. You cannot be attacked by other wild Pokémon.
 2. The cloned Pokémon cannot run around.
 
-As of this writing, there is only one known location where this is possible [see below](#icecanyon-boundary-platform-average-clones-to-failure-).
+As of this writing, there is only one known location where this is possible ([see below](#icecanyon-boundary-platform-average-clones-to-failure-)).
 
 In all other locations that fail at least one condition, this program will not be able to reliably duplicate more than 50 - 100 (in the best case) items before it breaks.
 
