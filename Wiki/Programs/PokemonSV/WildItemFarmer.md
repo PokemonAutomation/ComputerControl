@@ -54,7 +54,7 @@ In either case, the program will detect this error condition and stop. There is 
 
 - If your Pokémon has Trick not in the first 4 relearn slots, you cannot use it as you will not be able to get it into the first slot.
 - If your Pokémon has Trick in the 2nd-4th slots, have it learn all the moves above it. That will move Trick into the first slot.
-- If your Pokémon can only learn Trick as a TM, it will have it in a relearn slot only if it was TM'ed the move in Scarlet/Violet. If it was transferred in from a different already knowing Trick, you will first need to forget Trick and relearn it through a TM.
+- If your Pokémon can only learn Trick as a TM, it will have it in a relearn slot only if it was TM'ed the move in Scarlet/Violet. If it was transferred in from a different game already knowing Trick, you will first need to forget Trick and relearn it through a TM.
 
 <img src="images/WildItemFarmer-TrickUser.png" width="500"> <img src="images/WildItemFarmer-TrickRelearn.png" width="500">
 
