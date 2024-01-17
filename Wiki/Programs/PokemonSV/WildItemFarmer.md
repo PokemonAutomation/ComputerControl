@@ -4,11 +4,15 @@
 
 ## Program Description
 
-This is an experimental program to *help* farm the version 3.0.0 item duplication glitch. Though in theory, this program can be used to farm any item held by a wild Pokémon.
+This is a program to farm the version 3.0.0 item duplication glitch. Though in theory, this program can be used to farm any item held by a wild Pokémon.
 
-**Important Note:** This program is not reliable enough to run completely unattended. It will break within a short amount of time unless you pick a very good start position and get lucky. Do not expect this program to fully farm 999 of an item without having to manually intervene a bunch of times.
+**Important Note:** This program is only reliable if run in place where both of these conditions hold:
+1. You cannot be attacked by other wild Pokémon.
+2. The cloned Pokémon cannot run around.
 
-**Edit:** A location has finally been found to make this program reliable. [See the below](#icecanyon-boundary-platform-average-clones-to-failure-).
+As of this writing, there is only one known location where this is possible [see below](#icecanyon-boundary-platform-average-clones-to-failure-).
+
+In all other locations that fail at least one condition, this program will not be able to reliably duplicate more than 50 - 100 (in the best case) items before it breaks.
 
 Before you begin, make sure you understand how the glitch works:
 - https://www.youtube.com/watch?v=vBel6GplgnY
