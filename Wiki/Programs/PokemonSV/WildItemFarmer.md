@@ -98,7 +98,8 @@ Do not face the other direction as the battle may push the clone into the wall a
 <img src="images/WildItemFarmer-IceCanyonPlatform-Map.png" width="500"> <img src="images/WildItemFarmer-IceCanyonPlatform.png" width="500">
 
 Here is a sample video demonstrating how the clone can be lured to this location: https://cdn.discordapp.com/attachments/711649658220314635/1196998059427647578/CloneGlitch-KyuremToPlatform.mp4
-(To be clear, this is a perfect run done with quite a bit of practice. Often times, the clone will get stuck somewhere and you will need to go find it and lure it back out.)
+
+(To be clear, this video is a perfect run done with quite a bit of practice. Often times, the clone will get stuck somewhere and you will need to go find it and lure it back out.)
 
 ## Bad Start Locations
 
