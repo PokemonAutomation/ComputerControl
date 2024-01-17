@@ -6,7 +6,7 @@
 
 This is a program to farm the version 3.0.0 item duplication glitch. Though in theory, this program can be used to farm any item held by a wild Pokémon.
 
-**Important Note:** This program is only reliable if run in place where both of these conditions hold:
+**Important Note:** This program is only reliable if run in a place where both of these conditions hold:
 1. You cannot be attacked by other wild Pokémon.
 2. The cloned Pokémon cannot run around.
 
