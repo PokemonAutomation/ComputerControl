@@ -76,6 +76,8 @@ Near the west wide of Savanna Biome is a rock that looks like the pride rock fro
 
 Depending on what your clone Pokémon is, it may be possible to lead it up the rock. (Kyurem is confirmed to work) You want to corner the clone on the tip of the rock while you stand further down. The clone will not be able to run away and you will be relatively protected from getting attacked.
 
+**Make sure you turn the "Forward Run" option ON.**
+
 Failure cases are:
 1. Eventually getting attacked from behind. (usually a Deerling)
 2. The encounter cycle rotates out of place and the clone wanders away from in front of you.
