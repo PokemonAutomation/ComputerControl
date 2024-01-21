@@ -235,10 +235,11 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Yes |
 | [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md)         | Video         | Yes | Yes |
 | [Auction Farmer](PokemonSV/AuctionFarmer.md)                          | Video         | Yes | Yes |
-| [ESP Training](PokemonSV/ESPTraining.md)           	                | Video         | Yes | Yes |
+| [ESP Training](PokemonSV/ESPTraining.md)           	                  | Video         | Yes | Yes |
 | [Tournament Farmer](PokemonSV/TournamentFarmer.md)                    | Video         | Yes | Yes |
 | [Tournament Farmer 2](PokemonSV/TournamentFarmer2.md)                 | Video         | Yes | Yes |
 | [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md)                 | Video         | Yes | Yes |
+| [Wild Item Farmer (exploit v3.0.0 cloning glitch)](PokemonSV/WildItemFarmer.md)   | Video         | Yes | Yes |
 ||
 | **Eggs:** |
 | [Egg Fetcher](PokemonSV/EggFetcher.md)                                | Video         | Yes | Yes |
