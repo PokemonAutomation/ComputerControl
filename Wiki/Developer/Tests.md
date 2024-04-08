@@ -19,35 +19,44 @@ Enable the command line test mode by changing the SerialPrograms-Settings.json f
 ```
 "20-GlobalSettings": "COMMAND_LINE_TESTS": "RUN"
 ```
-to true.
-In this mode, when starting **SerialPrograms**, it does not launch GUI. Instead it looks for a local folder the path of which is specified by the json field:
+to true. 
+
+If you are testing or building with Qt creator, you can find SerialPrograms-Settings.json in the folder `Arduino-Source\build-SerialPrograms-Desktop_Qt_6_3_2_MSVC2019_64bit-Debug\UserSettings`, or something similar, depending on your version of Qt.
+
+In this mode, when starting **SerialPrograms**, it does not launch the GUI. Instead it looks for a local folder the path of which is specified by the json field:
 ```
 "20-GlobalSettings": "COMMAND_LINE_TESTS": "FOLDER"
 ```
 and run tests inside it.
 One example path is "./CommandLineTests".
 
+Tests are not included in the Arduino-Source repository. To see some examples of test files and their folder structure, see the [CommandLineTests](https://github.com/PokemonAutomation/CommandLineTests) repository. 
+
+To try using these tests, the value for "FOLDER" in the json should be set to "./CommandLineTests". Download/clone the CommandLineTests from the above repository, and put this folder in the `Arduino-Source\build-SerialPrograms-Desktop_Qt_6_3_2_MSVC2019_64bit-Debug` folder.
+
 Example folder structure:
 ```
-CommandLineTests/                          <- root test folder
-- PokemonLA/                               <- test space, ususally which game the test belongs to
+CommandLineTests/                          <- root test folder. This name needs to match the folder specified in "FOLDER"
+- PokemonLA/                               <- test space, ususally which game the test belongs to.
   - BattleMenuDetector/                    <- test object, name of the class/function/file to test
-    - IngoBattleDayTime_True.png           <- test file for BattleMenuDetector
-    - IngoBattleNightTime_True.png         <- test file for BattleMenuDetector
+    - IngoBattleDayTime_True.png           <- test file for BattleMenuDetector. Expected result is True.
+    - IngoBattleNightTime_True.png         <- test file for BattleMenuDetector. Expected result is True.
 - PokemonBDSP/                             <- another test space for inferences in another game
   - DialogDetector/                        <- test object, this time it's DialogDetector for BDSP
     - Win_Mirabox/                         <- can have more folders under test object to organize test files, e.g by OS and capture card
-      - FetchEggDayTime_True.png           <- test file for DialogDetector
+      - FetchEggDayTime_True.png           <- test file for DialogDetector. Expected result is True.
 ```
 
 ### Find Test Code for Test File
 
 When running in the test mode, it will go to find each file in the folder recursively.
-We assume each file is a test image or other test file. For each file, it uses the file path to determine which test code to call to run on the test file.
+We assume each file is a test image or other test file. For each file, **it uses the file path to determine which test code to call to run on the test file**.
 
 For example, if the path is `CommandLineTest/PokemonLA/BattleMenuDetector/`, the test framework first finds all the files inside this folder as test files.
 It then finds the corresponding test code `test_pokemonLA_BattleMenuDetector()` declared in [PokemonLA_Tests.h](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/Tests/PokemonLA_Tests.h) and calls the test function with each test file.
 To find the test code given a file path, we use a mapping defined as `TEST_MAP` in [TestMap.cpp](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/Tests/TestMap.cpp).
+
+The expected result for the image should be in the file name at the end. E.g. if you expect the test result on the image should be true, the image name should end with `_True`.
 
 ### "Hidden" Files
 
@@ -89,7 +98,19 @@ as a list of strings to skip the paths to those tests.
 
 Each string in the list serves as a prefix to the test path that the test framework uses to filter out paths.
 
-## Add New Test
+## Add New Tests
+
+When adding new tests, add the new test function to both `Tests.cpp` and `Tests.h`, as well as to `TestMap.cpp`.
+
+For example, in order to implement a test for BattleMenuDetector:
+- Implement a ScreenBoolDetectorFunction, `test_pokemonLA_BattleMenuDetector()` that calls the detector code and compares the result with the target bool. The implementation is written in `PokemonLA_Tests.cpp`.
+- Write the function declaration in `PokemonLA_Tests.h`
+- Add a new entry to `TestMap.cpp:TEST_MAP` by utilizing screen_bool_detector_helper:
+`{"PokemonLA_BattleMenuDetector", std::bind(screen_bool_detector_helper, test_pokemonLA_BattleMenuDetector, _1)}`
+
+You can read the code of existing test functions like `test_pokemonLA_BattleMenuDetector()` to know how to write test code.
+
+### How the test framework works
 
 The test framework calls [`find_test_function(test_space, test_obj_name)`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/Tests/TestMap.h) to find the test function related to a test path.
 
@@ -101,4 +122,3 @@ Internally, `find_test_function()` searches in a map: `std::map<std::string, Tes
 The key of the map in the above example is "PokemonLA_BattleMenuDetector" (we use "\_" to connect test space and test obj name).
 The value type of the map is `TestFunction = std::function<int(const std::string& test_file_path)>.` This is the test function.
 
-You can read the code of existing test functions like `test_pokemonLA_BattleMenuDetector()` to know how to write test code.
