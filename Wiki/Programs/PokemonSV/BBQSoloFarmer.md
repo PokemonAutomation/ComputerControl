@@ -1,5 +1,7 @@
 # BBQ Farmer
 
+*This program is still in testing and is not publicly available yet.*
+
 ## Program Description
 
 Farm Blueberry Quests in the Terarium for BP.
