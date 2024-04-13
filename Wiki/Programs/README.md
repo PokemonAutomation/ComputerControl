@@ -239,7 +239,6 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Tournament Farmer](PokemonSV/TournamentFarmer.md)                    | Video         | Yes | Yes |
 | [Tournament Farmer 2](PokemonSV/TournamentFarmer2.md)                 | Video         | Yes | Yes |
 | [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md)                 | Video         | Yes | Yes |
-| [Wild Item Farmer (exploit v3.0.0 cloning glitch)](PokemonSV/WildItemFarmer.md)   | Video         | Yes | Yes |
 | [BBQ Farmer](PokemonSV/BBQSoloFarmer.md)                              | Video + Audio | Yes | Yes |
 ||
 | **Eggs:** |
@@ -266,7 +265,10 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Shiny Hunt - Area Zero Platform](PokemonSV/ShinyHunt-AreaZeroPlatform.md)  | Video + Audio | Yes | Yes |
 | [Shiny Hunt - Scatterbug](PokemonSV/ShinyHunt-Scatterbug.md)                | Video + Audio | Yes | Yes |
 ||
-| **Glitches:** |
+| **Glitches (v3.0.0):** |
+| [Wild Item Farmer (cloning glitch)](PokemonSV/WildItemFarmer.md)      | Video         | Yes | Yes |
+||
+| **Glitches (v1.0.1):** |
 | [Ride Cloner (1.0.1)](PokemonSV/RideCloner-101.md)                    | Video         | Yes | Yes |
 | [Clone Items (1.0.1)](PokemonSV/CloneItems-101.md)                    | Video         | Yes | Yes |
 
