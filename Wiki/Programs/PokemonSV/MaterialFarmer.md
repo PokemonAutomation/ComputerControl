@@ -21,7 +21,7 @@ This program works by making a sandwich to boost spawns, then repeatedly sending
 
 ### Instructions
 
-1. You have completed the Indigo Disc DLC and have unlocked Flying. You can use either Regular or Inverted controls.
+1. You have completed the Indigo Disc DLC and have unlocked Flying (talk to Amarys in Classroom 3-2). You can use either Regular or Inverted controls.
 2. Make sure your party is full.
 3. Your lead Pokémon is not shiny.
 4. Your lead Pokémon is fast and capable of defeating everything without taking damage. Varoom works best in my experience.
