@@ -79,6 +79,7 @@ When the program finishes, fix the date to toggling the clock sync. This is usef
 ## Credits
 
 - **Author:** Mysticial/Kuroneko
+- **Original Auto-ItemPrinter:** Nymphea
 
 <hr>
 
