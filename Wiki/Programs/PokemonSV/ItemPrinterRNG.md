@@ -57,7 +57,7 @@ This table lists the instructions that the program should perform. Each row is a
 
 - **Date Seed** specifies the date (and thus RNG seed) that the program should target.
 - **Jobs to Print** is how many items to print for this run. It can be 1, 5, or 10.
-- **Continue Previous?** If this is checked, the program will not reseed the date. Instead it will just perform this print immediately after the previous one returns to the materials menu. If this option is checked, the date is not and is disabled.
+- **Continue Previous?** If this is checked, the program will not reseed the date. Instead it will just perform this print immediately after the previous one returns to the materials menu. If this option is checked, the date is not used and is disabled.
 
 The program will run the instructions in the table repeatedly - returning to the 1st row after finishing the last row.
 
