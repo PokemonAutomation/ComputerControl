@@ -35,7 +35,7 @@ The item printer depletes Pokémon materials and saves after each iteration, be 
 1. Stand in front of the NPC that operates the Item Printer.
 2. Start the program.
 
-Be aware that you will likely need to adjust the "Delay (Milliseconds)" option for the program to hit the correct seed. And even when perfectly calibrated the accuracy is not 100%.
+Be aware that you will likely need to adjust the "Delay (Milliseconds)" option for the program to hit the correct seed. And even when perfectly calibrated, the accuracy is typically only around 70%.
 
 ## Options
 
