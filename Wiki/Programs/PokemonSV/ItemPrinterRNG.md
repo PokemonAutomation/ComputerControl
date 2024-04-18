@@ -21,7 +21,8 @@ The item printer depletes Pokémon materials and saves after each iteration, be 
 
 ### Setup of Settings
 
-1. Text Speed: Fast
+1. System Time: Unsynced
+2. Text Speed: Fast
 
 ### In-Game Setup
 
@@ -73,7 +74,7 @@ When the program finishes, go the Switch Home to idle.
 
 ### Fix Time When Done
 
-When the program finishes, fix the date to toggling the clock sync. This is useful since this program will mess up your date.
+When the program finishes, fix the date by toggling the clock sync. This is useful since this program will mess up your date.
 
 
 ## Credits
