@@ -1,7 +1,7 @@
 # Autonomous Item Printer
 
 **Related Programs:**
-- [Auto Item Printer](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/AutoItemPrinter.md) (this program)
+- [Auto Item Printer](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/AutoItemPrinter.md) (this program)
 - [Item Printer RNG](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/ItemPrinterRNG.md)
 
 ## Program Description
