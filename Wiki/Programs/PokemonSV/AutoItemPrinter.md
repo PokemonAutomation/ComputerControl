@@ -1,5 +1,9 @@
 # Autonomous Item Printer
 
+**Related Programs:**
+- [Auto Item Printer](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/AutoItemPrinter.md) (this program)
+- [Item Printer RNG](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ItemPrinterRNG.md)
+
 ## Program Description
 
 This program will repeatly operate the Item Printer for a chance at rare items (Stellar Tera Shards, Apricorn Balls, etc.) using the Auto Select function to pick input Pokémon materials.
@@ -26,7 +30,7 @@ The item printer depletes Pokémon materials and saves after each iteration, be 
 
 ### Number of Rounds to Run
 
-Number of rounds to automate before stopping. Make sure to not set this number too high if you have Pokémon materials you want to save. It is also adviced to stop periodically to sell tresure items (Nuggets, etc.) so those don't go to waste when you hit the maximum quantity.
+Number of rounds to automate before stopping. Make sure to not set this number too high if you have Pokémon materials you want to save. It is also advised to stop periodically to sell tresure items (Nuggets, etc.) so those don't go to waste when you hit the maximum quantity.
 
 ## Credits
 
