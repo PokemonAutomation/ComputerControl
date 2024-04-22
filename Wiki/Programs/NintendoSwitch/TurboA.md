@@ -20,7 +20,7 @@ TurboA does exactly what its name implies - it endlessly presses A. The purpose 
 
 ### Instructions
 
-1. You are standing in front of what you want to mash A in front of.
+1. You are standing in front of what you want to mash A.
 2. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ### Default Program Settings
