@@ -9,6 +9,7 @@ Farm Blueberry Quests in the Terarium for BP.
 <img src="images/BBQSoloFarmer.png">
 
 ## Setup of Settings
+Video resolution must be set to 1080p. 720p will not work.
 
 1. Text Speed: Fast
 2. Skip Move Learning: On
