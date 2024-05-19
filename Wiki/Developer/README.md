@@ -23,6 +23,6 @@ If you have any questions regarding the documentation or find any errors in the 
 	- [OCR](OCR.md)
 	- [Parallel Routines](Parallel.md)
 	- [Exception](Exception.md)
-	- Image Template Matching (To be written)
+	- [Image Template Matching](ImageMatching.md)
 	- [Command Line Tests](Tests.md)
 	- [Add New Files](NewFiles.md)
