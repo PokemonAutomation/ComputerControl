@@ -18,13 +18,8 @@ To add a new feature to the code, we use the standard Github development cycle:
 - Make a new Git branch on your local machine. You can name the branch by the name of the new feature you would like to implement. **Do not add any new code directly to the main branch**. All new code should be added to your feature branch. 
 - Before adding commits to the branch, set correct author name and email info in the Git config file. If you want to maintain anonymous, make sure you don't expose your personal info in your Github account and commit messages. Double check you don't set a global author and email info across that could add your personal info on a new Git repo.
 - Write the feature code. Add commits of the new code change to the feature branch.
-	- If you add or remove code files in the source-code folder, you need to update the file list in [CMakeLists.txt](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/CMakeLists.txt) and [SerialPrograms.pro](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/SerialPrograms.pro).
+	- If you add or remove code files in the source-code folder, you need to update the file list in [CMakeLists.txt](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/CMakeLists.txt) and [SerialPrograms.pro](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/SerialPrograms.pro). See [Add New Files](./NewFiles.md) for more details.
 
-	If you know a bit about Python, we have Python helper script [add_new_file.py](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Scripts/add_new_file.py) for you to add a new file in those file lists. An example usage:
-	```
-	python3 Arduino-Source/SerialPrograms/Scripts/add_new_file.py Source/<some_middle_path>/Pokemon_NewFile.h
-	```
-	This adds the path of Pokemon_NewFile.h to both CMakeLists.txt and SerialPrograms.pro.
 - Test the code of this branch to make sure it works and it won't cause problems when merged to the Git trunk (aka main branch) of the codebase.
 - Clean the code:
 	- Remove commented code that no longer used.
