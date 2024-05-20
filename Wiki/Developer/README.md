@@ -25,3 +25,4 @@ If you have any questions regarding the documentation or find any errors in the 
 	- [Exception](Exception.md)
 	- Image Template Matching (To be written)
 	- [Command Line Tests](Tests.md)
+	- [Add New Files](NewFiles.md)

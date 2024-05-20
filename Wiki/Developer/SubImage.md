@@ -12,18 +12,38 @@ If necessary, see this [topic page](Wait.md) on how to wait for the video stream
 ## Design Box Crops
 
 To specify the location of the sub-image, we use [`ImageFloatBox`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/ImageTools/ImageBoxes.h).
-If you know a bit about Python, we have Python helper scripts for you to generate those boxes.
-Use [image_viewer.py](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Scripts/image_viewer.py) to draw initial locations of boxes:
+
+If you know a bit about Python, we have Python helper scripts for you to generate those boxes. 
+
+A brief guide if you haven't used Python before: Download and install Python. Ensure `pip` is included during the installation. Once installed, install opencv, by opening the terminal and typing:
+
+```
+pip install opencv-contrib-python
+```
+
+To draw the initial locations of boxes, use [image_viewer.py](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Scripts/image_viewer.py)
+
 ```
 python3 Arduino-Source/SerialPrograms/Scripts/image_viewer.py <path_to_an_image>
 ```
-See docstring of `image_viewer.py` to know how to use it.
+
+Note: if there are any spaces in the path to the python script, or to the path to the image, wrap the path in parentheses.
+
+In Windows, use `py` or `python` instead of `python3`.
+
+To use the program, left click and drag to draw the rectangle. Press 'i' to dump the information of the drawn boxes. Press 'ESC' to exit the program. See the docstring of `image_viewer.py` for more details.
 
 Then use [check_detector_regions.py](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Scripts/check_detector_regions.py) to fine-tune the box placements
 ```
 python3 Arduino-Source/SerialPrograms/Scripts/check_detector_regions.py <path_to_an_image>
 ```
 by hardcoding the box values in this script and let it render those boxes for you to inspect.
+
+### Box Draw program
+
+If Developer mode is enabled, the Computer Control program includes a program called `Box Draw`, under the Nintendo Switch programs.
+
+If you specify the X and Y coordinates of the box, as well as its width and height, the box will be drawn on the screen.
 
 ## Render Boxes as Overlays
 

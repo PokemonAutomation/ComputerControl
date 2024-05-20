@@ -4,26 +4,22 @@
 
 We use Github to host our codebase and allow open-source development. This guide is for developers who know a little bit of Git but don't know how to use it and Github to contribute to an open-source Github project, or for developers who want to refresh the knowledge of Github development. It also contains some tips about building and developing the code.
 
+For a more detailed guide to using git itself, you can refer to the [git book](https://git-scm.com/book/en). If you prefer videos instead, here are some good introductory videos: [Introduction](https://www.youtube.com/watch?v=uR6G2v_WsRA), [Branching and Merging](https://www.youtube.com/watch?v=FyAAIHHClqI), [Remotes](https://www.youtube.com/watch?v=Gg4bLk8cGNo).
+
 To add a new feature to the code, we use the standard Github development cycle:
 
 - Fork the [Arduino-Source](https://github.com/PokemonAutomation/Arduino-Source/tree/main/SerialPrograms/Source) repository (repo for short) so that you have a complete copy of the codebase repo under your own Github account.
 - Clone your copied repo to your local machine. Make sure your downloaded local repo is linked to your online Github repo.
-- Build the **SerialPrograms** executable using CMake, Visual Studio, VS Code, QCreator or other tools.
-	- Note we use some third-party libraries, including Qt6, Tesseract and OpenCV. You will need to add dependency of those libraries to the project.
+- Build the **SerialPrograms** executable. See the [Build guide](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/README.md) for more details on how to build our programs in Windows. If you use macOS, refer to the [Mac Installation Guide](./MacInstallationGuide.md).
 - Some of the automation programs listed in the **SerialPrograms** require additional resources in the form of files in a folder named `Resources`.
 	- You can download the folder from our latest [program releases](https://github.com/PokemonAutomation/ComputerControl/releases) or from the Github repo [Packages](https://github.com/PokemonAutomation/Packages).
 	- Place the `Resources` folder at the same folder hierarchy as the folder of the built **SerialPrograms** executable, so that when launching the executable it can correctly find the resource folder.
 	For example, if the path of **SerialPrograms** is `C:\git\Arduino-Source\build\SerialPrograms.exe` then the resource folder should be `C:\git\Arduino-Source\Resources`.
-- Make a new Git branch on your local machine. You can name the branch by the name of the new feature you would like to implement.
+- Make a new Git branch on your local machine. You can name the branch by the name of the new feature you would like to implement. **Do not add any new code directly to the main branch**. All new code should be added to your feature branch. 
 - Before adding commits to the branch, set correct author name and email info in the Git config file. If you want to maintain anonymous, make sure you don't expose your personal info in your Github account and commit messages. Double check you don't set a global author and email info across that could add your personal info on a new Git repo.
-- Write the feature code. Add commits of the new code change to the branch.
-	- If you add or remove code files in the source-code folder, you need to update the file list in [CMakeLists.txt](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/CMakeLists.txt) and [SerialPrograms.pro](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/SerialPrograms.pro).
+- Write the feature code. Add commits of the new code change to the feature branch.
+	- If you add or remove code files in the source-code folder, you need to update the file list in [CMakeLists.txt](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/CMakeLists.txt) and [SerialPrograms.pro](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/SerialPrograms.pro). See [Add New Files](./NewFiles.md) for more details.
 
-	If you know a bit about Python, we have Python helper script [add_new_file.py](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Scripts/add_new_file.py) for you to add a new file in those file lists. An example usage:
-	```
-	python3 Arduino-Source/SerialPrograms/Scripts/add_new_file.py Source/<some_middle_path>/Pokemon_NewFile.h
-	```
-	This adds the path of Pokemon_NewFile.h to both CMakeLists.txt and SerialPrograms.pro.
 - Test the code of this branch to make sure it works and it won't cause problems when merged to the Git trunk (aka main branch) of the codebase.
 - Clean the code:
 	- Remove commented code that no longer used.
@@ -36,8 +32,9 @@ To add a new feature to the code, we use the standard Github development cycle:
 - Discuss and take those suggestions if needed by improving the code on your local machine. Then push them to update the PR. This may take several rounds of back and forth.
 - The repo maintainers approve the PR about the feature branch, adding the code into the original repo.
 - Prepare for developing next feature:
-	- After the new code has been added to the original repo as new commits, update the main branch of your online Github repo so receive the new commits as well. 
-	- Pull (aka download) those commits into the main branch of your local repo.
+	- After the new code has been added to the original repo as new commits, update the main branch of your online Github repo so that you receive the new commits as well. 
+	  - One way to do this is to create a remote branch `upstream` that points to the official repo. Whenever you want to update your main branch, you can call `git fetch upstream`, then `git merge upstream/main`.
+	  - Alternatively, pull (aka download) those commits into the main branch of your local repo.
 	- You can then delete the feature branch.
 
 There are many online resources on how to use Git and Github. Feel free to study them if you are not familiar with them.
