@@ -241,6 +241,7 @@ Only the programs listed below that don't have "Video" or "Audio" in the "Feedba
 | [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md)                 | Video         | Yes | Yes |
 | [BBQ Farmer](PokemonSV/BBQSoloFarmer.md)                              | Video + Audio | Yes | Yes |
 | [Item Printer RNG](PokemonSV/ItemPrinterRNG.md)                       | Video         | Yes | Yes |
+| [Material Farmer](PokemonSV/MaterialFarmer.md)                        | Video + Audio | Yes | Yes |
 ||
 | **Eggs:** |
 | [Egg Fetcher](PokemonSV/EggFetcher.md)                                | Video         | Yes | Yes |
