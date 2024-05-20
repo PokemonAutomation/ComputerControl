@@ -80,6 +80,10 @@ RMSD (root mean square deviation) is a single number that summarizes how similar
 
 Note, with area ratio and aspect ratio, each Waterfill object is compared with the Waterfilled template. i.e. Area ratio and aspect ratio values are based on the Waterfill objects. However, RMSD is done on cropped images. Each Waterfill object will produce a cropped image, where the original image will be cropped according to the bounding box of the Waterfill object. The Waterfilled template similarly produces a cropped template image. For each cropped image from the Waterfilll objects, RMSD will be computed in comparison to the cropped template image.
 
+### Why do we use Waterfill instead of object detection?
+
+Waterfill is computationally cheap and works well with video games with lots of solid colors. General object detection will require machine learning, which is both much more computationally intensive and is currently out-of-scope for this project as we don't have the expertise for it yet.
+
 ## MapPokeCenterIconMatcher
 
 In this section, we look at the code for MapPokeCenterIconDetector as an example: 
