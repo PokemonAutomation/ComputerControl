@@ -9,6 +9,7 @@ Farm Blueberry Quests in the Terarium for BP.
 <img src="images/BBQSoloFarmer.png">
 
 ## Setup of Settings
+Video resolution must be set to 1080p. 720p will not work.
 
 1. Text Speed: Fast
 2. Skip Move Learning: On
@@ -16,11 +17,12 @@ Farm Blueberry Quests in the Terarium for BP.
 4. Send to Boxes: Automatic
 5. Auto-Save: Off
 6. System time: Un-synced
-7. Camera Support: On
+7. Camera Support: Off
 8. Vertical/Horizonal Camera Controls: Regular
 9. Camera Interpolation: Normal
 10. You have done a raid at least once to clear in-game raid guide.
 11. You have made a sandwich at least once to clear to in-game guide.
+12. Flying must be unlocked. This requires completing the Indigo Disk story. See setup.
 
 ## Setup
 
@@ -34,7 +36,7 @@ Farm Blueberry Quests in the Terarium for BP.
 	* Slots 3/4/5/6:
         * Filler. One Pokemon should have Flame Body/Magma Armor/Steam Engine for the Egg Hatching quest. Make sure none of them will evolve while running the program.
 2. All the fly locations in the Terarium must be unlocked.
-3. The Indigo Disk story must be completed and Koraidon/Miraidon's flying has been unlocked.
+3. The Indigo Disk story must be completed and Koraidon/Miraidon's flying has been unlocked. (Talk to Amarys in Classroom 3-2.)
 4. You are offline and not in a Union Circle.
 5. You have plenty of balls for auto-catching.
 6. You are well stocked on the following Sandwich ingredients: Apple, Cheese, Watercress, Fried Fillet, Noodles, Rice, Chili Sauce, Marmalade, Butter, Curry Powder, Salt, and Pepper.
