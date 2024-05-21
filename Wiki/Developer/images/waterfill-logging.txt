@@ -1,0 +1,33 @@
+Testing MapPokeCenterIconDetector:
+./Testing/PokemonSV/MapPokeCenterIconDetector/screenshot-20240514-220538497125_2.png
+Parse file path: file name: screenshot-20240514-220538497125_2.png, base name: screenshot-20240514-220538497125_2
+Build waterfil template matcher from D:/Documents/aProgramming/Pokemon-Arduino-Source/build-SerialPrograms-Desktop_Qt_6_3_2_MSVC2019_64bit-RelWithDebInfo/../Resources/PokemonSV/Map/PokeCenterIcon-Template.png, W x H: 36 x 36, area ratio: 0.494599, Object area: 641
+Saving debug image to: ./DebugDumps/CommonFramework/WaterfillTemplateMatcher/20240514-222202384406-matcher_exact_image.png
+Match template by waterfill, 1 filter(s), size range (350, SIZE_MAX)
+Saving debug image to: ./DebugDumps/CommonFramework/WaterfillTemplateMatcher/20240514-222202386577-binary_image.png
+------------
+Object area: 619
+rmsd_original()
+Saving debug image to: ./DebugDumps/CommonFramework/WaterfillTemplateMatcher/20240514-222202417907-rmsd_original_input.png
+Passed WaterfillTemplateMatcher aspect ratio check (W/H): expected: 36 : 36 (1), actual: 36 : 36 (1) error: 1 bound [0.9, 1.1]
+Passed WaterfillTemplateMatcher area ratio check: Expected: 0.494599, actual: 0.477623, error: 0.965679 bound [0.6, 1.2]
+Passed aspect and area ratio check, rmsd = 39.0781
+Object rmsd: 39.0781
+------------
+Object area: 601
+rmsd_original()
+Saving debug image to: ./DebugDumps/CommonFramework/WaterfillTemplateMatcher/20240514-222202418935-rmsd_original_input.png
+Passed WaterfillTemplateMatcher aspect ratio check (W/H): expected: 36 : 36 (1), actual: 36 : 35 (1.02857) error: 0.972222 bound [0.9, 1.1]
+Passed WaterfillTemplateMatcher area ratio check: Expected: 0.494599, actual: 0.476984, error: 0.964386 bound [0.6, 1.2]
+Passed aspect and area ratio check, rmsd = 48.0606
+Object rmsd: 48.0606
+------------
+Object area: 750
+rmsd_original()
+Saving debug image to: ./DebugDumps/CommonFramework/WaterfillTemplateMatcher/20240514-222202420068-rmsd_original_input.png
+Failed to pass WaterfillTemplateMatcher aspect ratio check (W/H): expected: 36 : 36 (1), actual: 38 : 45 (0.844444) error: 1.18421 bound [0.9, 1.1]
+Object rmsd: 99999
+End match template by waterfill
+Box: x=0.341667, y=0.190741, width=0.01875, height=0.0333333
+Box: x=0.375, y=0.531481, width=0.01875, height=0.0324074
+===========================================
