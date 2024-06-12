@@ -9,7 +9,7 @@ All Repos:
 - [Computer-Control Programs](https://github.com/PokemonAutomation/ComputerControl) (this repo)
 - [AutoMaxLair](https://github.com/PokemonAutomation/AutoMaxLair)
 
-If you are new to automation you should start with the [microcontroller programs](https://github.com/PokemonAutomation/Microcontroller). Everything here builds off of the microcontroller programs.
+If you are new to automation you should start [here](https://github.com/PokemonAutomation/About/blob/master/README.md#get-me-started). Make sure you have a working microcontroller setup before using the Computer Control programs. Everything here builds off of the microcontroller programs.
 
 If you came here intending to run [AutoMaxLair](https://github.com/PokemonAutomation/AutoMaxLair), there is a newer version of it that's built-into the Computer-Control programs now. But if you want to play with the original Python one anyway, the hardware setup is the same as the Computer-Control programs.
 
@@ -19,8 +19,6 @@ If you came here intending to run [AutoMaxLair](https://github.com/PokemonAutoma
 - [See Releases](https://github.com/PokemonAutomation/ComputerControl/releases)
 
 **Contents:**
-- [Hardware Tutorial](Wiki/Hardware/README.md)
-- [Software Tutorial](Wiki/Software/README.md)
 - [Program List](Wiki/Programs/README.md)
   - [Nintendo Switch](Wiki/Programs/README.md#nintendo-switch)
   - [Pokémon Sword/Shield](Wiki/Programs/README.md#pokémon-swordshield)
