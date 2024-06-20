@@ -45,7 +45,7 @@ Be aware that you will likely need to adjust the "Delay (Milliseconds)" option f
 
 This is used to read the prizes. But currently the program doesn't do anything with this information. (there are plans to use it in the future)
 
-### Automatic Material Farming
+### Automatic Material Farming (in development - available to developers only)
 
 When this is enabled, after using the item printer, automatically fly to North Province (Area 3) to farm materials, then fly back to keep using the item printer.
 
@@ -92,7 +92,7 @@ This is the critical delay from when you press A to when the game reads the date
 
 ### Automatically adjust delay
 
-This option automatically adjusts the delay, depending on the desired item and the actual print result. This only works if the "Desired Item" column is used for selecting Date Seeds. 
+This option automatically adjusts the delay, depending on the desired item and the actual print result.
 
 The way it works is that if it hits the expected target, the delay remains the same. If it hits the target plus one, the delay is increased 50 ms. If it hits the target minus one, the delay is reduced 50 ms. If it hits the target plus two or minus two, it increases or decreases the delay by 1000 ms, respectively.
 
@@ -109,6 +109,7 @@ When the program finishes, fix the date by toggling the clock sync. This is usef
 
 - **Author:** Mysticial/Kuroneko
 - **Original Auto-ItemPrinter:** Nymphea
+- **Major Improvements:** jw
 
 <hr>
 
