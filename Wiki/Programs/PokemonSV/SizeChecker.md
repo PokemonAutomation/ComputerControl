@@ -25,9 +25,6 @@ This is currently confirmed to work for:
 1. Stand in front of the NPC that checks your Pokémon, avoid standing too close to Pokémon that you can interact with.
 2. Start the program in-game.
 
-## Notes
-- The program does not currently notify you if a Pokémon qualifies for marks and/or ribbons, this may be added in a future update but for now you will have to check your Pokemon summary screen to see if a new mark and/or ribbon has been acquired.
-
 ## Options
 
 ### Go Home when Done:
@@ -37,6 +34,10 @@ Go to the Switch Home to idle when finished.
 ### Number of Boxes to Check:
 
 The number of boxes that you are checking.
+
+### Notifications - Mark/Ribbon Given:
+
+Notifies you when a mark/ribbon is given, screenshot will provide context of where in the box the Pokémon is.
 
 ## Credits
 
