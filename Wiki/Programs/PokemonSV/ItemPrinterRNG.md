@@ -4,7 +4,7 @@
 - [Auto Item Printer](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/AutoItemPrinter.md)
 - [Item Printer RNG](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/ItemPrinterRNG.md) (this program)
 
-## Program Description
+# Program Description
 
 This program will RNG manipulate the Item Printer to farm rare items. See this video for a tutorial of how this works: https://www.youtube.com/watch?v=_wmDXrI5Wz4
 
@@ -15,52 +15,50 @@ The default settings for this program will produce 10 rare balls using only a si
 <img src="images/ItemPrinterRNG-0.png">
 
 
-## Caution
+# Caution
 
 The item printer depletes Pokémon materials and saves after each iteration, be sure that if there are Pokémon materials you want to keep (to make TMs etc.) that you don't overrun this program.
 
-### Setup of Settings
+# Setup of Settings
 
 1. System Time: Unsynced
 2. Text Speed: Fast
 
-### In-Game Setup
+## In-Game Setup
 
 1. You have unlocked the Item Printer in the League Room.
 2. The Item Printer should be fully upgraded for the commonly published seeds to work.
 2. Have enough BP (can be farmed with [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md)) and Pokémon materials (can be farmed with [Shiny Hunt - Area Zero Platform](PokemonSV/ShinyHunt-AreaZeroPlatform.md) running Dragon Encounter Power) to run the program.
 
-### Instructions
+## Instructions
 
 1. Stand in front of the NPC that operates the Item Printer.
 2. Start the program.
 
 Be aware that you will likely need to adjust the "Delay (Milliseconds)" option for the program to hit the correct seed. And even when perfectly calibrated, the accuracy is typically only around 70%.
 
-## Options
+# Options
 
 <img src="images/ItemPrinterRNG-1.png">
 
-### Game Language
+## Game Language
 
-This is used to read the prizes. But currently the program doesn't do anything with this information. (there are plans to use it in the future)
+This is used to read the prizes.
 
-### Automatic Material Farming (in development - available to developers only)
+## Auto Mode (in development - available to developers only)
 
-When this is enabled, after using the item printer, automatically fly to North Province (Area 3) to farm materials, then fly back to keep using the item printer.
+Select your desired item and its quantity, and items will be automatically printed. The program will automatically farm materials as needed.
 
-For example, suppose you have the following settings.
-- Number of rounds of Item Printer → Material farm: 10
-- Number of rounds per Item Printer session: 20
-- Rounds table: 
-  - Row 1: Ball bonus (1 Job)
-  - Row 2: Beast Balls (5 Jobs)
+Requirements:
+- have enough Blueberry points to do all your desired prints (accounting for the 70-75% success rate for each print to give you the correct item(s))
+- Maxed out in your inventory on the following sandwich ingredients: Chorizo, Bananas, Mayonnaise, Whipped cream
+- Strong/fast lead pokemon for auto-battling, for farming materials. (e.g. Ceruledge)
 
-The program would first do 20 loops of the item printer Rounds Table (giving you 100 Beast Balls, assuming no misses). Then fly to North Province (Area 3) to farm materials, then fly back to keep using the item printer. This Item Printer to Material farm loop would be done 10 times. So, in total, you do 200 loops of the item printer Rounds Table (giving you 1000 Beast balls, assuming no misses. Or actually 999 Beast balls, due to the item limit being 999).
+### Auto mode: Item Table 
 
-### Number of rounds of Item Printer → Material farm
+Input your desired item and desired quantity into the table. If there are duplicate items int he table, only the higher quantity will be considered.
 
-One round is: Using the item printer (looping through the table for as many rounds as you specify below), then farming materials at North Provice area 3, then flying back to the item printer. Automatic Material Farming (see above) must be enabled
+## Standard Mode
 
 ### Number of rounds per Item Printer session
 
@@ -85,27 +83,44 @@ Note that to get the Pokeballs (e.g. Master Ball, Beast Ball), you need to ensur
 
 Also note that the Ball Bonus and Item Bonus remain active for 10 prints. All the items in the "Desired item" dropdown print a maximum of 5. So, you need two rows, when using the "Desired item" dropdown, in order to fully use up a Ball/Item bonus.
 
+### Material Farmer (in development - available to developers only)
 
-### Delay (Milliseconds)
+When this is enabled, after using the item printer, automatically fly to North Province (Area 3) to farm materials, then fly back to keep using the item printer.
+
+- **Trigger to start material farmer:** There are 2 options for when to trigger the material farmer:
+  - **Start material farmer when done a certain number of print jobs:**
+    - **Print jobs per Material Farming Session:** 
+      - Run the material farmer once this many jobs have been printed
+  - **Start material farmer when Happiny Dust is less than a certain number**
+    - **Minimum Happiny Dust:**
+      - Run the material farmer before the number of Happiny dust you have drops below this number. This ensures that no other material drops below this number. If a material starts below this threshold, it remains there.
+      - Changes to this number only take place after returning to the item printer, after material farming.
+- **Run Duration**
+  - Run the material farmer for this many minutes.
+- **Make a Sandwich**
+  - Make Sandwiches to boost spawns (e.g. Chansey/Blissey) for material farming
+
+
+## Delay (Milliseconds)
 
 This is the critical delay from when you press A to when the game reads the date for the seed. This is typically 1-2 seconds, with OLED Switches being faster and older Switches being slower. You will likely need to adjust this value to reliably hit the correct seed (again, watch the YouTube video linked at the beginning to understand how this works). Alternatively, enable the `Automatically adjust delay` option, discussed below.
 
-### Automatically adjust delay
+## Automatically adjust delay
 
 This option automatically adjusts the delay, depending on the desired item and the actual print result.
 
 The way it works is that if it hits the expected target, the delay remains the same. If it hits the target plus one, the delay is increased 50 ms. If it hits the target minus one, the delay is reduced 50 ms. If it hits the target plus two or minus two, it increases or decreases the delay by 1000 ms, respectively.
 
-### Go Home when Done
+## Go Home when Done
 
 When the program finishes, go to the Switch Home to idle.
 
-### Fix Time When Done
+## Fix Time When Done
 
 When the program finishes, fix the date by toggling the clock sync. This is useful since this program will mess up your date.
 
 
-## Credits
+# Credits
 
 - **Author:** Mysticial/Kuroneko
 - **Original Auto-ItemPrinter:** Nymphea
