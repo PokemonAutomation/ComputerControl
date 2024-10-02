@@ -41,11 +41,12 @@ Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports 
 3. Give Nicknames: Off
 4. Auto-Save: Off
 5. After game version 2.0.1 (the DLC 1 update): Camera Support: On
+6. Controls while Flying: Regular (if flying is unlocked after completing DLC 2)
 
 
 ### Instructions
 
-1. **(New to v0.43!)** The "Flying Unlocked" option is set correctly. If you have completed the DLC and have unlocked full flying capability, check this box. Otherwise leave it unchecked. It is important to set this correctly otherwise the program will not be able to navigate to the platform.
+1. **(New to v0.43!)** The "Flying Unlocked" option is set correctly. If you have completed the DLC and have unlocked full flying capability, check this box. Otherwise leave it unchecked. It is important to set this correctly otherwise the program will not be able to navigate to the platform. Also, ensure "Controls while Flying" in the in-game settings is set to "Regular" (not "Inverted").
 2. Make sure your party is full.
 3. Your lead Pokémon is not shiny. (Shiny will cause false positive detections.)
 4. Your lead Pokémon is fast and capable of defeating everything without taking damage.
