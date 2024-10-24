@@ -1,6 +1,6 @@
 # BBQ Farmer
 
-*This program is still in testing and is not publicly available yet.*
+*This program publicly available, but is still in testing.*
 
 ## Program Description
 
