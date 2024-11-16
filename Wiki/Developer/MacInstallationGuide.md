@@ -2,11 +2,8 @@
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
 
+## Introduction
 Guide for how to install our open-source Pokémon automation software, **SerialPrograms** on Mac. This works for both Intel CPU and M1.
-
-
-> **WARNING: around Nov 2023 we noticed a problem on Mac that prevents the program from reading capture cards. We don't know how to fix it yet. You may have to wait until the first few months in 2023. Before the fix is ready, don't continue the following installation steps, unless you are familiar with macOS software development and wish to help us debugging.**
-
 
 Note we don't have all the optimization for M1 yet. So running on M1 macbook could be a bit slower.
 
@@ -17,9 +14,30 @@ If you have any questions regarding the documentation or find any errors in the 
 
 Warning: if you don't have software development experience and deviate from the guide steps, you are at your own risk.
 
+## Part 1: Install Pre-requisites
 ### Install XCode App
 
-Go to Mac App Store App, install XCode App. This is a program made by Apple for software development. It also comes with basic software tools to build **SerialPrograms**. So it's safe to install it first.
+This is a program made by Apple for software development. It also comes with basic software tools to build **SerialPrograms**. So it's safe to install it first.
+
+1. Go to Mac App Store App: Click the `` Apple Menu at the top left of the screen. Click `App Store` to open.
+2. Search for XCode in the searchbar. The app should look like this:   
+<img src="images/Mac/xcode.png" alt="A photo of the XCode app" width="202" height="81">
+3. Click `Get` to install. This may take a while.
+
+### Launch Terminal
+
+The Terminal App comes with MacOS and is the place where commands are executed. We'll be using the Terminal app for the rest of the installation.
+
+1. Open the Spotlight Search tool: Spotlight Search allows you to search your Mac for programs to run. To open, press `Command-Space` or click the Magnifying Glass icon in the toolbar.
+2. Search for `Terminal` and press `return`/`Enter`
+
+To run the commands provided in the rest of the guide, simply paste the command into the window and hit `return`/`Enter`
+
+> Note: if you type a wrong letter in Terminal, press Delete key to delete it, or press `Control-C` to void the entire line and start with a fresh new line to input another command.
+
+Apps like Terminal are often shown in movies and shows as what hackers work with on their computers.
+If you haven't used one before, be extra careful! Commands in Terminal are powerful and certain commands delete your files or even destroy your MacOS!
+Only execute the commands in this guide in Terminal.
 
 ### Install Homebrew
 
@@ -29,15 +47,7 @@ To install it, the instruction on Homebrew [home page](https://brew.sh/) is to u
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-Note: if the current Homebrew home page has a different instruction than the one above, follow that from the home page. If you don't know how to do that, contact [us](https://discord.gg/cQ4gWxN).
-
-The command above is to be executed in the Terminal App. macOS comes with Terminal App.
-Launch Terminal App, paste the command inside, press Enter on the keyboard to execute the command.
-
-Apps like Terminal are often shown in movies and shows as what hackers work with on their computers.
-If you haven't used one before, be extra careful!
-The command you put into Terminal may end up deleting your files without easy way to recover or even destroy your macOS!
-Only execute the commands in this guide in Terminal.
+> Note: if the current Homebrew home page has a different instruction than the one above, follow that from the home page. If you don't know how to do that, contact [us](https://discord.gg/cQ4gWxN).
 
 Follow the prompted texts in Terminal to finish the installation.
 - You will need to type your macOS password to give permission to install Homebrew.
@@ -55,7 +65,7 @@ Copy each of the three lines of commands (two starts with "echo" and one starts 
 You need to copy one line, press Enter to execute it, then move on to the next line. You cannot execute all three lines in one single copy-paste.
 These commands make the installed Homebrew and future packages it will install, accessible in Terminal.
 
-Note: if the prompted text after installation finishes has a different set of commands than the one above, follow that from your Terminal.
+> Note: if the prompted text after installation finishes has a different set of commands than the one above, follow that from your Terminal.
 If you don't know how to do that, contact [us](https://discord.gg/cQ4gWxN).
 
 You can verify Homebrew installation is successful by executing `brew help` in Terminal.
@@ -71,7 +81,9 @@ Example usage:
   brew list [FORMULA|CASK...]
 ```
 
-Note: you can scroll up and down in Terminal to see texts outside of the current screen.
+> Note: you can scroll up and down in Terminal to see texts outside of the current screen.
+
+## Part 2: Install Packages
 
 ### Install CMake
 
@@ -79,8 +91,6 @@ CMake is a software tool that helps compile programs. Install it using Homebrew 
 ```
 brew install cmake
 ```
-
-Note: if you type a wrong letter in Terminal, press Delete key to delete it, or press Control-C to void the entire line and start with a new line to input command.
 
 ### Install Qt6
 
@@ -137,27 +147,33 @@ But as long as your Clang version is higher than 13.0.0, you should be fine to p
 
 If you find your Clang version is too low, check this [tutorial](UpdateClang.md) to address it.
 
-### Download Codebase
+## Part 3: Download Codebase
+
+### Download SerialPrograms Source Code
 
 Go to **SerialPrograms** Github [webpage](https://github.com/PokemonAutomation/Arduino-Source).
 
-#### Use Git:
-If you know how to use Git to download code from Github, you can use Git and pick a release version based on Git branch names.
+#### Option 1 - Use Git:
+If you know how to use Git to download code from Github, you can use Git and pick a release version based on Git branch names. Otherwise, use Option 2
 
-#### Download directly as a zip file:
+#### Option 2 - Download directly as a zip file:
 Otherwise, download code directly as follows.
 By default, when you visit this webpage, it lets you download the newest under-development version.
 The version may contain automation programs that are not fully developed or have major bugs.
 To use one of our stable release versions, first check the version numbers by pressing the dropdown menu currently shown as "main" on the webpage,
 on the same row as the green "Code" button.
-The dropdown menu shows recent version numbers.
-As the time of updating this guide (JAN 10, 2023), the newest version is "v0.26". You can pick the latest version you find.
+
+The dropdown menu shows recent version numbers. You can pick the latest version you find.
 Once you select a version, the text of the dropdown menu will be changed from "main" to that version.
+
+<img src="images/Mac/branch_version.png" alt="A photo of the Arduino-Source branches on GitHub" width="166" height="286">
 
 After that, click the green "Code" button. It will show several download options.
 You can pick "Download ZIP" to download the code as a ZIP file.
 The code you download will be from the version you picked.
 The default ZIP filename will be "Arduino-Source-\<VERSION_NUMBER\>.zip"
+
+<img src="images/Mac/download_zip.png" alt="A photo of the menu to download the Arduino-Source code as a zip file" width="205" height="185">
 
 Place the code into a suitable folder you like. But avoid placing it in a "remote/cloud" folder like in OneDrive.
 Cloud folders may give some trouble for programs running on those folders.
@@ -167,45 +183,48 @@ An example path is
 ```
 /Users/<YOUR_MAC_USERNAME>/games/pokemon/
 ```
-If you download as a ZIP, unzip it to a suitable folder.
+If you download as a ZIP, unzip it to a suitable folder. Double click the .zip file to unzip it.
 
 The downloaded code should be in a folder called "Arduino-Source". Using the above example, the full path of the folder is
 ```
 /Users/<YOUR_MAC_USERNAME>/games/pokemon/Arduino-Source
 ```
 
+
 ### Download Program Resource Files
 
-**SerialPrograms** need some extra data (images, audio files and Pokémon data text files) to run.
-Go to our [Packages Github webpage](https://github.com/PokemonAutomation/Packages) and download the data same as before but you don't need to pick the versions.
+**SerialPrograms** needs some extra data (images, audio files and Pokémon data text files) to run.
+Go to our [Packages Github webpage](https://github.com/PokemonAutomation/Packages) and download the data as a zip file the same as before but you don't need to pick the versions.
 
-The downloaded data will be inside a folder called "Packages". Inside it there is a sub-folder called "SerialPrograms". Further inside is a sub-sub-folder "Resources". Move this "Resources" folder into the "Arduino-Source" folder you downloaded before. Make sure it is placed directly inside "Arduino-Source", not deeper into the folder hierarchy.
+The downloaded data will be inside a folder called "Packages". Inside it there is a sub-folder called "SerialPrograms". Further inside is a sub-sub-folder "Resources". Move this "Resources" folder into the "Arduino-Source" folder you downloaded before. Make sure it is placed directly inside "Arduino-Source", not deeper into the folder hierarchy. You are free to delete the other files from "Packages"
 
-### Configure Program
+<img src="images/Mac/resources.png" alt="A photo of the Resources folder inside Arduino-Source" width="460" height="218">
 
-#### Enter source-code folder:
+## Part 4: Compile the Program
 
-Click the "Arduino-Source" folder to select it in Finder App. Command-C to copy the folder, then go to Terminal, type `cd`, followed by a Space key, then Command-V to paste the folder. It actually paste the folder path in macOS file system to the Terminal. So you would have
+### Enter source-code folder:
+
+Click the "Arduino-Source" folder to select it in Finder App. `Command-C` to copy the folder, then go to Terminal, type `cd`, followed by a Space key, then `Command-V` to paste the folder. It actually pastes the folder path in the MacOS file system to the Terminal. So you would have
 ```
 cd <YOUR_PATH_TO_ARDUINO-SOURCE_FOLDER>
 ```
-in your Terminal. Press Enter to execute it. 
+in your Terminal. Press `return`/`Enter` to execute it. 
 
-`cd` command moves the current active folder in Terminal to a new folder. Now your Terminal are running on "Arduino-Source" folder. Verify this by executing
+`cd` command moves the current active folder in Terminal to a new folder that you specify. Now your Terminal is running in the "Arduino-Source" folder. Verify this by executing
 ```
 ls
 ```
 in Terminal. It will list the files and folders in "Arduino-Source" folder.
 
-#### Create a folder to host compiled program:
+### Create a folder to host the compiled program:
 
 Make sure the current active folder in Terminal is the "Arduino-Source" folder, then execute the command in Terminal:
 ```
 mkdir -p build_mac; cd build_mac
 ```
-This makes a new folder called "build_mac" in "Arduino-Source" and move the Terminal's current active folder to the new folder.
+This makes a new folder called "build_mac" in "Arduino-Source" and moves the Terminal's current active folder to the new folder.
 
-#### Use CMake to Configure Program:
+### Use CMake to Configure Program:
 
 Execute the command in Terminal:
 ```
@@ -226,25 +245,26 @@ Make sure the current active folder in Terminal is "build_mac", then execute the
 cmake --build . -j 10
 ```
 to compile and build the program in "build_mac" folder.
-It will take a while to build dependent on your computer speed.
+It will take a while to build depending on your computer's speed.
 
 If successful, it will print 
 ```
 [100%] Built target SerialPrograms
 ```
-in the end in Terminal.
+at the end in Terminal.
 
 We have built the program on our mac computers, so in most cases you won't see any error during building.
 But in case your machine has very different hardware or software environment as ours,
 and as a result it prints out error messages about the code,
 please reach out to us in [our Discord server](https://discord.gg/cQ4gWxN) for help.
 
-### Run Program
+## Part 5: Running the Program
 
-Now **SerialPrograms** is built! Run the program in Terminal by the command
-```
-./SerialPrograms
-```
+Now **SerialPrograms** is built! in the "build_mac" folder, double click the "SerialPrograms" app to open.
+
+If you're opening the program for the first time, MacOS may ask for Camera and Microphone permissions. These are required in order to read video and audio from your capture card. The program does not access your Mac's actual camera and microphone!
+
+<img src="images/Mac/compiled_app.png" alt="A photo of the compiled SerialPrograms app" width="460" height="218">
 
 ### Computer Battery Setting
 
@@ -256,10 +276,23 @@ Enjoy shiny hunting!
 
 ---------------------
 
+## Part 6: Upgrading
+
 ### Upgrade to Newest Version
 
-To upgrade, in most cases you just need to repeat the process starting at [Download Codebase](#download-codebase).
+To upgrade, in most cases you just need to repeat the process starting at [Download Codebase](#part-3-download-codebase).
 
+> Note: When updating an existing installation you can `cd` into the existing "build_mac" folder. This way, only the files that changed are recompiled, saving you a lot of time!
+
+```
+cd build_mac
+```
+instead of ...
+```
+mkdir -p build_mac; cd build_mac
+```
+
+### Package updating
 In rare cases when we add new software library dependencies, just follow the guide to install those new libraries.
 If we upgrade our Qt dependency to a higher Qt version, use Homebrew to upgrade it by running
 ```
