@@ -25,6 +25,8 @@ Soft reset for a shiny starter. Ruby and Sapphire only.
 
 This program only applies to Ruby and Sapphire. While it will run in Emerald, the starting seed will always be 0, so soft resetting will not work.
 
+If on cartridge, the battery cannot be dry, as it will result in the same issue Emerald has.
+
 ## Options
 
 ### Starter:
