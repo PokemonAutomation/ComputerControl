@@ -42,6 +42,7 @@ Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports 
 4. Auto-Save: Off
 5. After game version 2.0.1 (the DLC 1 update): Camera Support: On
 6. Controls while Flying: Regular (if flying is unlocked after completing DLC 2)
+7. Sound Effects: 10
 
 
 ### Instructions

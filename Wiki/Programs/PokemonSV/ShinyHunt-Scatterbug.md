@@ -43,6 +43,7 @@ WARNING: if you interrupt the program or if the program stops due to a program b
 3. Give Nicknames: Off
 4. Auto-Save: Off
 5. After game version 2.0.1 (the DLC 1 update): Camera Support: On
+6. Sound Effects: 10
 
 
 ### Instructions
