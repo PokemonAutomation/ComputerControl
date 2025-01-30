@@ -4,6 +4,8 @@
 
 Soft reset for a shiny starter. Ruby and Sapphire only.
 
+<img src="images/AudioStarterReset-0.png">
+
 ## Game Settings
 
 1. Text Speed: Fast
