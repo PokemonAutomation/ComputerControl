@@ -2,11 +2,16 @@
     "Release": {
         "VersionMajor": 0,
         "VersionMinor": 51,
-        "VersionPatch": 3
+        "VersionPatch": 5
     },
     "Beta": {
         "VersionMajor": 0,
         "VersionMinor": 51,
-        "VersionPatch": 1
+        "VersionPatch": 5
+    },
+    "PrivateBeta": {
+        "VersionMajor": 0,
+        "VersionMinor": 51,
+        "VersionPatch": 5
     }
 }
