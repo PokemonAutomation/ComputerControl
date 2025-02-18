@@ -40,7 +40,9 @@ If you stop the program and switch off or soft reset your game, try to vary the 
 
 The legendary Pokemon you are hunting.
 
-For Deoxys, see [Shiny Hunt - Deoxys](ShinyHuntDeoxys.md) instead.
+For Deoxys, see [Shiny Hunt - Deoxys](ShinyHuntDeoxys.md).
+
+For Mew, see [Shiny Hunt - Mew](ShinyHuntMew.md).
 
 ## Credits
 
