@@ -11,6 +11,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 **Notes:**
 - Programs that require video feedback cannot run on the Switch Lite because it does not have HDMI output.
 - Not every program can run on every controller. Check the table for compability.
+- Table entries marked as "Degraded" mean that the program will run, but performance and reliability may be severely degraded.
 
 **Jump To:**
 - [Nintendo Switch](#nintendo-switch)
