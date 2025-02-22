@@ -47,8 +47,7 @@ This program will automatically hunt for a shiny strong spawn and automatically 
 4. Navigate to the Date and Time menu.
 4. Change the date forward and backwards one day. (This forces a day skip while resetting the date.)
 5. Save the game.
-6. Close the game.
-7. Start the program in the Switch home or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+6. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 
 ## Options
