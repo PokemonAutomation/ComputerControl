@@ -32,8 +32,8 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Turbo Button](NintendoSwitch/TurboButton.md)                     |     | Yes | Yes | Yes |
 | [Turbo Macro](NintendoSwitch/TurboMacro.md)                       |     | Yes | Yes | Yes |
 | [Prevent Sleep](NintendoSwitch/PreventSleep.md)                   |     | Yes | Yes | Yes |
-| [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)            |     | Yes | Yes | TBD |
-| [Friend Delete](NintendoSwitch/FriendDelete.md)                   |     | Yes | Yes | TBD |
+| [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)            |     | Yes | Yes | Degraded |
+| [Friend Delete](NintendoSwitch/FriendDelete.md)                   |     | Yes | Yes | Yes |
 
 ## Pokémon Home
 
