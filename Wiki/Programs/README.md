@@ -37,100 +37,103 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Pokémon Home
 
-| **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
-| --- | --- | --- | --- |
-| [Page Swap](PokemonHome/PageSwap.md)                       |       | Yes | Yes |
-| [Box Sorter](PokemonHome/BoxSorter.md)                     | Video | Yes | Yes |
+| **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** | **sys-botbase** |
+| --- | --- | --- | --- | --- |
+| [Page Swap](PokemonHome/PageSwap.md)                       |       | Yes | Yes | Yes |
+| [Box Sorter](PokemonHome/BoxSorter.md)                     | Video | Yes | Yes |     |
 
 ## Pokémon Sword/Shield
 
-| **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** |
-| --- | --- | --- | --- |
-| [Game Settings](PokemonSwSh/PokemonSettings.md)        | --- | --- | --- |
+| **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** | **sys-botbase** |
+| --- | --- | --- | --- | --- |
+| [Game Settings](PokemonSwSh/PokemonSettings.md)        | --- | --- | --- | --- |
 ||
 | **QoL Macros:** |
-| [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md)             |                  | Yes | Yes |
-| [Friend Search Disconnect](PokemonSwSh/FriendSearchDisconnect.md) |                  | Yes | Yes |
+| [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md)             |                  | Yes | Yes | Degraded |
+| [Friend Search Disconnect](PokemonSwSh/FriendSearchDisconnect.md) |                  | Yes | Yes | Yes |
 ||
 | **General Programs:** |
-| [Mass Release](PokemonSwSh/MassRelease.md)                      |                  | Yes | Yes |
-| [Surprise Trade](PokemonSwSh/SurpriseTrade.md)                  |                  | Yes | Yes |
-| [Trade Bot](PokemonSwSh/TradeBot.md)                            |                  | Yes | Yes |
-| [Clothing Buyer](PokemonSwSh/ClothingBuyer.md)                  |                  | Yes | Yes |
-| [Ball Thrower](PokemonSwSh/BallThrower.md)                      |                  | Yes | Yes |
-| [Autonomous Ball Thrower](PokemonSwSh/AutonomousBallThrower.md) | Video            | Yes | Yes |
-| [Dex Rec Finder](PokemonSwSh/DexRecFinder.md)                   | Video (Optional) | Yes | Yes |
+| [Mass Release](PokemonSwSh/MassRelease.md)                      |                  | Yes | Yes | Degraded |
+| [Surprise Trade](PokemonSwSh/SurpriseTrade.md)                  |                  | Yes | Yes |     |
+| [Trade Bot](PokemonSwSh/TradeBot.md)                            |                  | Yes | Yes |     |
+| [Clothing Buyer](PokemonSwSh/ClothingBuyer.md)                  |                  | Yes | Yes | Yes |
+| [Ball Thrower](PokemonSwSh/BallThrower.md)                      |                  | Yes | Yes | Yes |
+| [Autonomous Ball Thrower](PokemonSwSh/AutonomousBallThrower.md) | Video            | Yes | Yes | Yes |
+| [Dex Rec Finder](PokemonSwSh/DexRecFinder.md)                   | Video (Optional) | Yes | Yes | Degraded |
+| [Box Reorder National Dex](PokemonSwSh/BoxReorderNationalDex.md) | Video           | Yes | Yes |     |
 ||
 | **Date-Spam Farmers:** |
-| [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)                          || Yes | Yes |
-| [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md)                        || Yes | Yes |
-| [Date Spam: Berry Farmer 2](PokemonSwSh/DateSpam-BerryFarmer2.md)              | Video | Yes | Yes |
-| [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)                          || Yes | Yes |
-| [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)            || Yes | Yes |
-| [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)     || Yes | Yes |
-| [Date Spam: Poké Jobs Farmer](PokemonSwSh/DateSpam-PokeJobsFarmer.md)                 || Yes | Yes |
+| [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)                          || Yes | Yes | Degraded |
+| [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md)                        || Yes | Yes | Degraded |
+| [Date Spam: Berry Farmer 2](PokemonSwSh/DateSpam-BerryFarmer2.md)              | Video | Yes | Yes | Degraded |
+| [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)                          || Yes | Yes | Degraded |
+| [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)            || Yes | Yes | Degraded |
+| [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)     || Yes | Yes | Degraded |
+| [Date Spam: Poké Jobs Farmer](PokemonSwSh/DateSpam-PokeJobsFarmer.md)                 || Yes | Yes | Degraded |
 ||
 | **Den Hunting:** |
-| [Beam Reset](PokemonSwSh/BeamReset.md)                        |                  | Yes | Yes |
-| [Purple Beam Finder](PokemonSwSh/PurpleBeamFinder.md)         | Video            | Yes | Yes |
-| [Event Beam Finder](PokemonSwSh/EventBeamFinder.md)           |                  | Yes | Yes |
-| [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md)             |                  | Yes |     |
-| [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md)               |                  | Yes |     |
-| [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md)               |                  | Yes |     |
-| [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md) |                  | Yes |     |
+| [Purple Beam Finder](PokemonSwSh/PurpleBeamFinder.md)         | Video            | Yes | Yes | Yes |
+| [Event Beam Finder](PokemonSwSh/EventBeamFinder.md)           |                  | Yes | Yes | Yes |
+| [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md)             |                  | Yes | Yes |     |
+| [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md)               |                  | Yes | Yes |     |
+| [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md)               |                  | Yes | Yes |     |
+| [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md) |                  | Yes | Yes |     |
 ||
 | **Hosting:** |
-| [Den Roller](PokemonSwSh/DenRoller.md)                    | Video (Optional) | Yes | Yes |
-| [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md)      | Video (Optional) | Yes | Yes |
-| [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md) | Video (Optional) | Yes | Yes |
-||
-| **Non-Shiny Hunting:** |
-| [Stats Reset](PokemonSwSh/StatsReset.md)                   | Video | Yes | Yes |
-| [Stats Reset - Calyrex](PokemonSwSh/StatsReset-Calyrex.md) | Video | Yes | Yes |
-| [Stats Reset - Moltres](PokemonSwSh/StatsReset-Moltres.md) | Video | Yes | Yes |
-| [Stats Reset - Regi](PokemonSwSh/StatsReset-Regi.md)       | Video | Yes | Yes |
-||
-| **Unattended Shiny Hunting:** |
-| [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md)                                      |                  | Yes | Yes |
-| [Shiny Hunt Unattended - Regi](PokemonSwSh/ShinyHuntUnattended-Regi.md)                         |                  | Yes | Yes |
-| [Shiny Hunt Unattended - Swords Of Justice](PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md) |                  | Yes | Yes |
-| [Shiny Hunt Unattended - Strong Spawn](PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md)          |                  | Yes | Yes |
-| [Shiny Hunt Unattended - Regigigas2](PokemonSwSh/ShinyHuntUnattended-Regigigas2.md)             |                  | Yes | Yes |
-| [Shiny Hunt Unattended - IoA Trade](PokemonSwSh/ShinyHuntUnattended-IoATrade.md)                |                  | Yes | Yes |
-| [Curry Hunter](PokemonSwSh/CurryHunter.md)                                                      | Video (Optional) | Yes | Yes |
-||
-| **Autonomous Shiny Hunting:** |
-| [Shiny Hunt Autonomous - Regi](PokemonSwSh/ShinyHuntAutonomous-Regi.md)                         | Video | Yes | Yes |
-| [Shiny Hunt Autonomous - Swords Of Justice](PokemonSwSh/ShinyHuntAutonomous-SwordsOfJustice.md) | Video | Yes | Yes |
-| [Shiny Hunt Autonomous - Strong Spawn](PokemonSwSh/ShinyHuntAutonomous-StrongSpawn.md)          | Video | Yes | Yes |
-| [Shiny Hunt Autonomous - Regigigas2](PokemonSwSh/ShinyHuntAutonomous-Regigigas2.md)             | Video | Yes | Yes |
-| [Shiny Hunt Autonomous - IoA Trade](PokemonSwSh/ShinyHuntAutonomous-IoATrade.md)                | Video | Yes | Yes |
-| [Shiny Hunt Autonomous - Berry Tree](PokemonSwSh/ShinyHuntAutonomous-BerryTree.md)              | Video | Yes | Yes |
-| [Shiny Hunt Autonomous - Whistling](PokemonSwSh/ShinyHuntAutonomous-Whistling.md)               | Video | Yes | Yes |
-| [Shiny Hunt Autonomous - Fishing](PokemonSwSh/ShinyHuntAutonomous-Fishing.md)                   | Video | Yes | Yes |
-| [Shiny Hunt Autonomous - Overworld](PokemonSwSh/ShinyHuntAutonomous-Overworld.md)               | Video | Yes | Yes |
+| [Den Roller](PokemonSwSh/DenRoller.md)                    | Video (Optional) | Yes | Yes | Degraded |
+| [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md)      | Video (Optional) | Yes | Yes | Degraded |
+| [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md) | Video (Optional) | Yes | Yes | Degraded |
 ||
 | **Eggs:** |
-| [Egg Fetcher 2](PokemonSwSh/EggFetcher2.md)                              |       | Yes | Yes |
-| [Egg Hatcher](PokemonSwSh/EggHatcher.md)                                 |       | Yes | Yes |
-| [Egg Combined 2](PokemonSwSh/EggCombined2.md)                            |       | Yes | Yes |
-| [Egg Super-Combined 2](PokemonSwSh/EggSuperCombined2.md)                 |       | Yes | Yes |
-| [Egg Autonomous](PokemonSwSh/EggAutonomous.md)                           | Video | Yes | Yes |
-| [God Egg Item Duplication](PokemonSwSh/GodEggItemDuplication.md)         |       | Yes | Yes |
-| [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md) |       | Yes | Yes |
+| [Egg Fetcher 2](PokemonSwSh/EggFetcher2.md)                              |       | Yes | Yes | Yes |
+| [Egg Fetcher Multiple](PokemonSwSh/EggFetcherMultiple.md)                |       | Yes | Yes | Yes |
+| [Egg Hatcher](PokemonSwSh/EggHatcher.md)                                 |       | Yes | Yes | Yes |
+| [Egg Autonomous](PokemonSwSh/EggAutonomous.md)                           | Video | Yes | Yes | Yes |
+| [God Egg Item Duplication](PokemonSwSh/GodEggItemDuplication.md)         |       | Yes | Yes | Degraded |
+| [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md) |       | Yes | Yes | Degraded |
+||
+| **Non-Shiny Hunting:** |
+| [Stats Reset](PokemonSwSh/StatsReset.md)                   | Video | Yes | Yes | Yes |
+| [Stats Reset - Calyrex](PokemonSwSh/StatsReset-Calyrex.md) | Video | Yes | Yes | Yes |
+| [Stats Reset - Moltres](PokemonSwSh/StatsReset-Moltres.md) | Video | Yes | Yes | Yes |
+| [Stats Reset - Regi](PokemonSwSh/StatsReset-Regi.md)       | Video | Yes | Yes | Yes |
+||
+| **Shiny Hunting:** |
+| [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md)                                      |                  | Yes | Yes | Degraded |
+| [Curry Hunter](PokemonSwSh/CurryHunter.md)                                                      | Video (Optional) | Yes | Yes |     |
+| [Shiny Hunt Autonomous - Regi](PokemonSwSh/ShinyHuntAutonomous-Regi.md)                         | Video | Yes | Yes | Yes |
+| [Shiny Hunt Autonomous - Swords Of Justice](PokemonSwSh/ShinyHuntAutonomous-SwordsOfJustice.md) | Video | Yes | Yes | Yes |
+| [Shiny Hunt Autonomous - Strong Spawn](PokemonSwSh/ShinyHuntAutonomous-StrongSpawn.md)          | Video | Yes | Yes | Yes |
+| [Shiny Hunt Autonomous - Regigigas2](PokemonSwSh/ShinyHuntAutonomous-Regigigas2.md)             | Video | Yes | Yes | Yes |
+| [Shiny Hunt Autonomous - IoA Trade](PokemonSwSh/ShinyHuntAutonomous-IoATrade.md)                | Video | Yes | Yes | Yes |
+| [Shiny Hunt Autonomous - Berry Tree](PokemonSwSh/ShinyHuntAutonomous-BerryTree.md)              | Video | Yes | Yes | Degraded |
+| [Shiny Hunt Autonomous - Whistling](PokemonSwSh/ShinyHuntAutonomous-Whistling.md)               | Video | Yes | Yes | Yes |
+| [Shiny Hunt Autonomous - Fishing](PokemonSwSh/ShinyHuntAutonomous-Fishing.md)                   | Video | Yes | Yes | Yes |
+| [Shiny Hunt Autonomous - Overworld](PokemonSwSh/ShinyHuntAutonomous-Overworld.md)               | Video | Yes | Yes | Yes |
 ||
 | **RNG:** |
-| [RNG Seed Finder](PokemonSwSh/SeedFinder.md)                             | Video | Yes | Yes |
-| [Cram-o-matic RNG](PokemonSwSh/CramomaticRNG.md)                         | Video | Yes | Yes |
+| [RNG Seed Finder](PokemonSwSh/SeedFinder.md)                             | Video | Yes | Yes | Yes |
+| [Cram-o-matic RNG](PokemonSwSh/CramomaticRNG.md)                         | Video | Yes | Yes | Degraded |
 ||
 | **Multi-Switch Programs:** |
-| Synchronized Spinning                                                    || Yes | Yes |
-| [Raid Item Farmer (OHKO)](PokemonSwSh/RaidItemFarmerOHKO.md)             || Yes | Yes |
+| Synchronized Spinning                                                    || Yes | Yes | Degraded |
+| [Raid Item Farmer (OHKO)](PokemonSwSh/RaidItemFarmerOHKO.md)             || Yes | Yes |      |
 ||
 | [**Auto Max Lair 2.0:**](PokemonSwSh/MaxLair.md) |
-| [Max Lair: Standard](PokemonSwSh/MaxLair-Standard.md)                | Video | Yes | Yes |
-| [Max Lair: Strong Boss](PokemonSwSh/MaxLair-StrongBoss.md)           | Video | Yes | Yes |
-| [Max Lair: Boss Finder](PokemonSwSh/MaxLair-BossFinder.md)           | Video | Yes | Yes |
+| [Max Lair: Standard](PokemonSwSh/MaxLair-Standard.md)                | Video | Yes | Yes | Yes |
+| [Max Lair: Strong Boss](PokemonSwSh/MaxLair-StrongBoss.md)           | Video | Yes | Yes | Yes |
+| [Max Lair: Boss Finder](PokemonSwSh/MaxLair-BossFinder.md)           | Video | Yes | Yes | Yes |
+||
+| **Deprecated Programs:** |
+||
+| [Beam Reset](PokemonSwSh/BeamReset.md)                                   |       | Yes | Yes |     |
+| [Egg Combined 2](PokemonSwSh/EggCombined2.md)                            |       | Yes | Yes |     |
+| [Egg Super-Combined 2](PokemonSwSh/EggSuperCombined2.md)                 |       | Yes | Yes |     |
+| [Shiny Hunt Unattended - Regi](PokemonSwSh/ShinyHuntUnattended-Regi.md)                         |                  | Yes | Yes |     |
+| [Shiny Hunt Unattended - Swords Of Justice](PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md) |                  | Yes | Yes |     |
+| [Shiny Hunt Unattended - Strong Spawn](PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md)          |                  | Yes | Yes |     |
+| [Shiny Hunt Unattended - Regigigas2](PokemonSwSh/ShinyHuntUnattended-Regigigas2.md)             |                  | Yes | Yes |     |
+| [Shiny Hunt Unattended - IoA Trade](PokemonSwSh/ShinyHuntUnattended-IoATrade.md)                |                  | Yes | Yes |     |
 
 
 ## Pokémon Brilliant Diamond/Shining Pearl
