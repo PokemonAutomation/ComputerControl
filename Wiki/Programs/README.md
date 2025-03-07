@@ -23,7 +23,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Nintendo Switch
 
-| **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** | **sys-botbase** |
+| **Program** | **Feedback** | **Arduino Uno R3**<br>**Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **ESP32-WROOM** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | [Framework Settings](NintendoSwitch/FrameworkSettings.md)         | --- | --- | --- | --- |
 | [Virtual Console](NintendoSwitch/VirtualConsole.md)               | --- | Yes | Yes | Yes |
@@ -37,14 +37,14 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Pokémon Home
 
-| **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** | **sys-botbase** |
+| **Program** | **Feedback** | **Arduino Uno R3**<br>**Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **ESP32-WROOM** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | [Page Swap](PokemonHome/PageSwap.md)                       |       | Yes | Yes | Yes |
 | [Box Sorter](PokemonHome/BoxSorter.md)                     | Video | Yes | Yes |     |
 
 ## Pokémon Sword/Shield
 
-| **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** | **sys-botbase** |
+| **Program** | **Feedback** | **Arduino Uno R3**<br>**Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **ESP32-WROOM** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | [Game Settings](PokemonSwSh/PokemonSettings.md)        | --- | --- | --- | --- |
 ||
@@ -74,10 +74,10 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | **Den Hunting:** |
 | [Purple Beam Finder](PokemonSwSh/PurpleBeamFinder.md)         | Video            | Yes | Yes | Yes |
 | [Event Beam Finder](PokemonSwSh/EventBeamFinder.md)           |                  | Yes | Yes | Yes |
-| [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md)             |                  | Yes | Yes |     |
-| [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md)               |                  | Yes | Yes |     |
-| [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md)               |                  | Yes | Yes |     |
-| [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md) |                  | Yes | Yes |     |
+| [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md)             |                  | Yes |     |     |
+| [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md)               |                  | Yes |     |     |
+| [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md)               |                  | Yes |     |     |
+| [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md) |                  | Yes |     |     |
 ||
 | **Hosting:** |
 | [Den Roller](PokemonSwSh/DenRoller.md)                    | Video (Optional) | Yes | Yes | Degraded |
@@ -138,7 +138,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Pokémon Brilliant Diamond/Shining Pearl
 
-| **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** | **sys-botbase** |
+| **Program** | **Feedback** | **Arduino Uno R3**<br>**Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **ESP32-WROOM** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | Game Settings | --- | --- | --- | --- |
 ||
@@ -180,7 +180,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Pokémon Legends Arceus
 
-| **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** | **sys-botbase** |
+| **Program** | **Feedback** | **Arduino Uno R3**<br>**Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **ESP32-WROOM** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | Game Settings | --- | --- | --- | --- |
 ||
@@ -218,7 +218,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Pokémon Scarlet and Violet
 
-| **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** | **sys-botbase** |
+| **Program** | **Feedback** | **Arduino Uno R3**<br>**Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **ESP32-WROOM** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | Game Settings | --- | --- | --- | --- |
 ||
@@ -282,7 +282,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Zelda: Tears of the Kingdom
 
-| **Program** | **Feedback** | **Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **Arduino Uno R3** | **sys-botbase** |
+| **Program** | **Feedback** | **Arduino Uno R3**<br>**Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **ESP32-WROOM** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | **Glitches (v1.1.1):** |
 | [Bow Item Duper](ZeldaTotK/BowItemDuper.md)             |                  | Yes | Yes |     |
