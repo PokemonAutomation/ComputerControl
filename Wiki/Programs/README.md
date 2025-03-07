@@ -32,7 +32,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Turbo Button](NintendoSwitch/TurboButton.md)                     |     | Yes | Yes | Yes |
 | [Turbo Macro](NintendoSwitch/TurboMacro.md)                       |     | Yes | Yes | Yes |
 | [Prevent Sleep](NintendoSwitch/PreventSleep.md)                   |     | Yes | Yes | Yes |
-| [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)            |     | Yes | Degraded | Degraded |
+| [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)            |     | Yes | Yes | Degraded |
 | [Friend Delete](NintendoSwitch/FriendDelete.md)                   |     | Yes | Yes | Yes |
 
 ## Pokémon Home
@@ -59,17 +59,17 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Clothing Buyer](PokemonSwSh/ClothingBuyer.md)                  |                  | Yes | Yes | Yes |
 | [Ball Thrower](PokemonSwSh/BallThrower.md)                      |                  | Yes | Yes | Yes |
 | [Autonomous Ball Thrower](PokemonSwSh/AutonomousBallThrower.md) | Video            | Yes | Yes | Yes |
-| [Dex Rec Finder](PokemonSwSh/DexRecFinder.md)                   | Video (Optional) | Yes | Degraded | Degraded |
+| [Dex Rec Finder](PokemonSwSh/DexRecFinder.md)                   | Video (Optional) | Yes | Yes | Degraded |
 | [Box Reorder National Dex](PokemonSwSh/BoxReorderNationalDex.md) | Video           | Yes | Yes |     |
 ||
 | **Date-Spam Farmers:** |
 | [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)                          || Yes | Degraded | Degraded |
-| [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md)                        || Yes | Degraded | Degraded |
-| [Date Spam: Berry Farmer 2](PokemonSwSh/DateSpam-BerryFarmer2.md)              | Video | Yes | Degraded | Degraded |
-| [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)                          || Yes | Degraded | Degraded |
-| [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)            || Yes | Degraded | Degraded |
-| [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)     || Yes | Degraded | Degraded |
-| [Date Spam: Poké Jobs Farmer](PokemonSwSh/DateSpam-PokeJobsFarmer.md)                 || Yes | Degraded | Degraded |
+| [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md)                        || Yes | Yes | Degraded |
+| [Date Spam: Berry Farmer 2](PokemonSwSh/DateSpam-BerryFarmer2.md)              | Video | Yes | Yes | Degraded |
+| [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)                          || Yes | Yes | Degraded |
+| [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)            || Yes | Yes | Degraded |
+| [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)     || Yes | Yes | Degraded |
+| [Date Spam: Poké Jobs Farmer](PokemonSwSh/DateSpam-PokeJobsFarmer.md)                 || Yes | Yes | Degraded |
 ||
 | **Den Hunting:** |
 | [Purple Beam Finder](PokemonSwSh/PurpleBeamFinder.md)         | Video            | Yes | Yes | Yes |
@@ -80,9 +80,9 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md) |                  | Yes |     |     |
 ||
 | **Hosting:** |
-| [Den Roller](PokemonSwSh/DenRoller.md)                    | Video (Optional) | Yes | Degraded | Degraded |
-| [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md)      | Video (Optional) | Yes | Degraded | Degraded |
-| [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md) | Video (Optional) | Yes | Degraded | Degraded |
+| [Den Roller](PokemonSwSh/DenRoller.md)                    | Video (Optional) | Yes | Yes | Degraded |
+| [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md)      | Video (Optional) | Yes | Yes | Degraded |
+| [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md) | Video (Optional) | Yes | Yes | Degraded |
 ||
 | **Eggs:** |
 | [Egg Fetcher 2](PokemonSwSh/EggFetcher2.md)                              |       | Yes | Yes | Yes |
@@ -106,7 +106,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Shiny Hunt Autonomous - Strong Spawn](PokemonSwSh/ShinyHuntAutonomous-StrongSpawn.md)          | Video | Yes | Yes | Yes |
 | [Shiny Hunt Autonomous - Regigigas2](PokemonSwSh/ShinyHuntAutonomous-Regigigas2.md)             | Video | Yes | Yes | Yes |
 | [Shiny Hunt Autonomous - IoA Trade](PokemonSwSh/ShinyHuntAutonomous-IoATrade.md)                | Video | Yes | Yes | Yes |
-| [Shiny Hunt Autonomous - Berry Tree](PokemonSwSh/ShinyHuntAutonomous-BerryTree.md)              | Video | Yes | Degraded | Degraded |
+| [Shiny Hunt Autonomous - Berry Tree](PokemonSwSh/ShinyHuntAutonomous-BerryTree.md)              | Video | Yes | Yes | Degraded |
 | [Shiny Hunt Autonomous - Whistling](PokemonSwSh/ShinyHuntAutonomous-Whistling.md)               | Video | Yes | Yes | Yes |
 | [Shiny Hunt Autonomous - Fishing](PokemonSwSh/ShinyHuntAutonomous-Fishing.md)                   | Video | Yes | Yes | Yes |
 | [Shiny Hunt Autonomous - Overworld](PokemonSwSh/ShinyHuntAutonomous-Overworld.md)               | Video | Yes | Yes | Yes |
@@ -236,17 +236,17 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Mass Attach Items](PokemonSV/MassAttachItems.md)                     | Video         | Yes | Yes | Yes |
 ||
 | **Farming:** |
-| [LP Farmer](PokemonSV/LPFarmer.md)                                    | Video         | Yes | Degraded | Degraded |
-| [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Degraded | Degraded |
-| [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md)         | Video         | Yes | Degraded |     |
-| [Auction Farmer](PokemonSV/AuctionFarmer.md)                          | Video         | Yes | Degraded | Degraded |
+| [LP Farmer](PokemonSV/LPFarmer.md)                                    | Video         | Yes | Yes | Degraded |
+| [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md)     | Video         | Yes | Yes | Degraded |
+| [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md)         | Video         | Yes | Yes |     |
+| [Auction Farmer](PokemonSV/AuctionFarmer.md)                          | Video         | Yes | Yes | Degraded |
 | [ESP Training](PokemonSV/ESPTraining.md)           	                  | Video         | Yes | Yes | Yes |
 | [Tournament Farmer](PokemonSV/TournamentFarmer.md)                    | Video         | Yes | Yes | Yes |
 | [Tournament Farmer 2](PokemonSV/TournamentFarmer2.md)                 | Video         | Yes | Yes | Yes |
 | [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md)                 | Video         | Yes | Yes |     |
 | [BBQ Farmer](PokemonSV/BBQSoloFarmer.md)                              | Video + Audio | Yes | Yes |     |
 | [Material Farmer](PokemonSV/MaterialFarmer.md)                        | Video + Audio | Yes | Yes | Yes |
-| [Item Printer RNG](PokemonSV/ItemPrinterRNG.md)                       | Video + Audio | Yes | Degraded | Degraded |
+| [Item Printer RNG](PokemonSV/ItemPrinterRNG.md)                       | Video + Audio | Yes | Yes | Degraded |
 ||
 | **Eggs:** |
 | [Egg Fetcher](PokemonSV/EggFetcher.md)                                | Video         | Yes | Yes | Yes |
@@ -255,8 +255,8 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 ||
 | **Tera Raids:** |
 | [Auto-Host](PokemonSV/AutoHost.md)                                    | Video         | Yes | Yes | Yes |
-| [Tera Roller](PokemonSV/TeraRoller.md)                                | Video         | Yes | Degraded | Degraded |
-| [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Degraded | Degraded |
+| [Tera Roller](PokemonSV/TeraRoller.md)                                | Video         | Yes | Yes | Degraded |
+| [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md)                       | Video         | Yes | Yes | Degraded |
 | [Tera Multi-Farmer](PokemonSV/TeraMultiFarmer.md)                     | Video         | Yes | Yes | Yes |
 ||
 | **Fast Code Entry:** |
