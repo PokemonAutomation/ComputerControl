@@ -35,7 +35,8 @@ The item printer depletes Pokémon materials and saves after each iteration, be 
 1. Stand in front of the NPC that operates the Item Printer.
 2. Start the program.
 
-Be aware that you will likely need to adjust the "Delay (Milliseconds)" option for the program to hit the correct seed. And even when perfectly calibrated, the accuracy is typically only around 70%.
+You do not need to adjust "Delay (Milliseconds)". As long as it is within 2 seconds of correct value, the program will be able to automatically detect how much it is off by and adjust accordingly.
+Once it is fully calibrated, the accuracy is typically around 70%.
 
 # Options
 
@@ -43,20 +44,8 @@ Be aware that you will likely need to adjust the "Delay (Milliseconds)" option f
 
 ## Game Language
 
-This is used to read the prizes.
+This is needed to read the prizes for the purposes of detecting whether you hit the desired frame.
 
-## Auto Mode (in development - available to developers only)
-
-Select your desired item and its quantity, and items will be automatically printed. The program will automatically farm materials as needed.
-
-Requirements:
-- have enough Blueberry points to do all your desired prints (accounting for the 70-75% success rate for each print to give you the correct item(s))
-- Maxed out in your inventory on the following sandwich ingredients: Chorizo, Bananas, Mayonnaise, Whipped cream
-- Strong/fast lead pokemon for auto-battling, for farming materials. (e.g. Ceruledge)
-
-### Auto mode: Item Table 
-
-Input your desired item and desired quantity into the table. If there are duplicate items int he table, only the higher quantity will be considered.
 
 ## Standard Mode
 
@@ -83,7 +72,7 @@ Note that to get the Pokeballs (e.g. Master Ball, Beast Ball), you need to ensur
 
 Also note that the Ball Bonus and Item Bonus remain active for 10 prints. All the items in the "Desired item" dropdown print a maximum of 5. So, you need two rows, when using the "Desired item" dropdown, in order to fully use up a Ball/Item bonus.
 
-### Material Farmer (in development - available to developers only)
+### Material Farmer
 
 When this is enabled, after using the item printer, automatically fly to North Province (Area 3) to farm materials, then fly back to keep using the item printer.
 
@@ -101,9 +90,24 @@ When this is enabled, after using the item printer, automatically fly to North P
   - Make Sandwiches to boost spawns (e.g. Chansey/Blissey) for material farming
 
 
+## Auto Mode (in development - available to developers only)
+
+Select your desired item and its quantity, and items will be automatically printed. The program will automatically farm materials as needed.
+
+Requirements:
+- Have enough Blueberry points to do all your desired prints (accounting for the 70-75% success rate for each print to give you the correct item(s))
+- Maxed out in your inventory on the following sandwich ingredients: Chorizo, Bananas, Mayonnaise, Whipped cream
+- Strong/fast lead pokemon for auto-battling, for farming materials. (e.g. Ceruledge)
+
+
+### Auto mode: Item Table 
+
+Input your desired item and desired quantity into the table. If there are duplicate items in the table, only the higher quantity will be considered.
+
+
 ## Delay (Milliseconds)
 
-This is the critical delay from when you press A to when the game reads the date for the seed. This is typically 1-2 seconds, with OLED Switches being faster and older Switches being slower. You will likely need to adjust this value to reliably hit the correct seed (again, watch the YouTube video linked at the beginning to understand how this works). Alternatively, enable the `Automatically adjust delay` option, discussed below.
+This is the critical delay from when you press A to when the game reads the date for the seed. This is typically 1-2 seconds, with OLED Switches being faster and older Switches being slower. The program will automatically adjust this for you if the following option is enabled.
 
 ## Automatically adjust delay
 
