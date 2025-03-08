@@ -243,7 +243,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [ESP Training](PokemonSV/ESPTraining.md)           	                  | Video         | Yes | Yes | Yes |
 | [Tournament Farmer](PokemonSV/TournamentFarmer.md)                    | Video         | Yes | Yes | Yes |
 | [Tournament Farmer 2](PokemonSV/TournamentFarmer2.md)                 | Video         | Yes | Yes | Yes |
-| [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md)                 | Video         | Yes | Yes |     |
+| [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md)                 | Video         | Yes | Degraded |     |
 | [BBQ Farmer](PokemonSV/BBQSoloFarmer.md)                              | Video + Audio | Yes | Yes |     |
 | [Material Farmer](PokemonSV/MaterialFarmer.md)                        | Video + Audio | Yes | Yes | Yes |
 | [Item Printer RNG](PokemonSV/ItemPrinterRNG.md)                       | Video + Audio | Yes | Yes | Degraded |
