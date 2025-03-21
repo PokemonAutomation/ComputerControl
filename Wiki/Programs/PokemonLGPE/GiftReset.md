@@ -18,8 +18,9 @@ Beta note: only tested with Magikarp so far.
 
 1. Stand in front of the gift NPC. (Locations [here](https://www.serebii.net/letsgopikachueevee/gift.shtml).)
     - For Magikarp, make sure you have the money to purchase it.
-2. Save the game.
-3. Start the program in-game.
+2. Open your Pokemon box and sort by order caught.
+3. Save the game.
+4. Start the program in-game.
 
 ## Options
 
