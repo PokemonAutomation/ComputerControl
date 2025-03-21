@@ -10,12 +10,15 @@ Shiny hunt Alolan forms by trading in-game.
 
 1. As with all LGPE programs, Right Joycon is required. This program will not run otherwise.
 2. Move any tradeable Pokemon you want to keep into Home or another save file. Favoriting a Pokemon does not prevent it from being traded.
+3. Do not have any of the tradeable Pokemon favorited.
 
 ## Instructions
 
 1. Stand in front of the trade NPC. (Locations [here](https://www.serebii.net/letsgopikachueevee/trade.shtml).)
 2. Save the game.
 3. Start the program in-game.
+
+The program will automatically favorite any shinies found.
 
 ## Options
 
