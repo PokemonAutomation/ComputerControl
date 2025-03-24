@@ -101,7 +101,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | **Shiny Hunting:** |
 | [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md)                                      |                  | Yes | Yes | Degraded |
 | [Curry Hunter](PokemonSwSh/CurryHunter.md)                                                      | Video (Optional) | Yes | Yes |     |
-| [Shiny Hunt Autonomous - Regi](PokemonSwSh/ShinyHuntAutonomous-Regi.md)                         | Video | Yes | Yes | Yes |
+| [Shiny Hunt Autonomous - Regi](PokemonSwSh/ShinyHuntAutonomous-Regi.md)                         | Video | Yes | Yes | Degraded |
 | [Shiny Hunt Autonomous - Swords Of Justice](PokemonSwSh/ShinyHuntAutonomous-SwordsOfJustice.md) | Video | Yes | Yes | Yes |
 | [Shiny Hunt Autonomous - Strong Spawn](PokemonSwSh/ShinyHuntAutonomous-StrongSpawn.md)          | Video | Yes | Yes | Yes |
 | [Shiny Hunt Autonomous - Regigigas2](PokemonSwSh/ShinyHuntAutonomous-Regigigas2.md)             | Video | Yes | Yes | Yes |
