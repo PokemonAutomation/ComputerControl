@@ -10,6 +10,7 @@ Farm daily item respawns (ex. fossils) by date-skipping.
 
 1. As with all LGPE programs, Right Joycon is required. This program will not run otherwise.
 2. System time: Un-synced
+3. Text speed: Fast
 
 ## Instructions
 
