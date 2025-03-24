@@ -4,7 +4,7 @@
 
 Shiny hunt gift Pokemon by resetting the game.
 
-This does not work for fossil revivals.
+For fossils, use [Fossil Revival](FossilRevival.md) instead.
 
 Beta note: only tested with Magikarp so far.
 
