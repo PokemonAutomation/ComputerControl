@@ -51,6 +51,12 @@ on a map.
 
 ## Options
 
+### Reset Game and Skip Outbreak at Start
+If the last outbreak found by the program does not yield what you want, check this option to let the program reset the game
+and skip the ongoing outbreaks at start, before continuing the search.
+
+Note: you must have saved at Jubilife Village front gate before starting the program.
+
 ### Go Home when Done:
 
 After the program finishes, go to the Switch Home to idle.
