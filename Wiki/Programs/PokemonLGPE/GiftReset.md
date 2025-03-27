@@ -13,6 +13,7 @@ Beta note: only tested with Magikarp so far.
 ## Setup
 
 1. As with all LGPE programs, Right Joycon is required. This program will not run otherwise.
+2. Text speed: Fast
 
 ## Instructions
 

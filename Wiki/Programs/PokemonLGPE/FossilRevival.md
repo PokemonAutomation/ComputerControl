@@ -9,6 +9,7 @@ Shiny hunt fossil Pokemon by reviving and resetting.
 ## Setup
 
 1. As with all LGPE programs, Right Joycon is required. This program will not run otherwise.
+2. Text speed: Fast
 
 ## Instructions
 
