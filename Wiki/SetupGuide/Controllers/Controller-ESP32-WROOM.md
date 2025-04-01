@@ -33,15 +33,23 @@ The USB port plugs into the computer which is how the program will control it. A
 **Capture Card:** [See previous section.](../README.md#video-capture-card-the-computers-eyes)
 
 **ESP32-WROOM-32 Microcontroller:**
+
+For Beginners
+
 | **Quantity** | **Price / Unit** | **USB Type** | **UART Type** | **Shopping Link** |
 | --- | --- | --- | --- | --- |
 | 1 (with pins) | $8 / unit | USB-C | CP2102  | https://www.amazon.com/gp/product/B0DG8JFY3C |
 | 2 (with pins) | $6.50 / unit | Micro-USB | CP2102  | https://www.amazon.com/gp/product/B09XDMVS9N |
 | 2 (no pins) | $9 / unit | USB-C | CH340  | https://www.amazon.com/gp/product/B0D6BH4K9B |
+
+For Experienced users
+
+| **Quantity** | **Price / Unit** | **USB Type** | **UART Type** | **Shopping Link** |
+| --- | --- | --- | --- | --- |
 | 3 (no pins) | $5.67 / unit | Micro-USB | CP2104 | https://www.amazon.com/gp/product/B09C5RDZ8G |
 | 8 (no pins) | $5 / unit | Micro-USB | CP2104 | https://www.amazon.com/gp/product/B08MFCC4SR |
 
-NOTE: If you're not experienced with electronics, we recommend buying one with both the Reset/EN and Boot/IO0 buttons because it makes it easier to troubleshoot certain issues. From the links above, most of the boards should have both the Reset and Boot buttons, except for the D1 Mini boards. In other words, if you're not experienced, don't get the ESP32 D1 mini boards.
+NOTE: If you're not experienced with electronics, we recommend buying one with both the Reset/EN and Boot/IO0 buttons, because it makes it easier to troubleshoot certain issues. All of the boards listed in the "For Beginners" section should have both the Reset and Boot buttons. The D1 mini boards (listed under "For Experienced users") are cheaper and smaller, but they only have a single Reset button, which can make it harder to troubleshoot certain issues.
 
 We recommend getting ones without pins since you don't need them (though they are more expensive). Having the pins is a liability for accidentally shorting out and damaging the board.
 
