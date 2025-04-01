@@ -213,6 +213,8 @@ If you see that it gets stuck printing out `...` and never makes progress, try o
   4. Release the `RESET` (EN) button.
   5. Release the `BOOT` button.
 
+If your ESP32 doesn't have a `BOOT` button (such as the D1 mini ESP32), you can achieve the same thing by shorting the `IO0` and `GND` pins/holes.
+
 If neither solution works:
  - Try a different USB port.
  - Try putting a USB2 hub between the computer and the ESP32.
