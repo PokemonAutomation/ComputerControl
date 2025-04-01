@@ -41,6 +41,8 @@ The USB port plugs into the computer which is how the program will control it. A
 | 3 (no pins) | $5.67 / unit | Micro-USB | CP2104 | https://www.amazon.com/gp/product/B09C5RDZ8G |
 | 8 (no pins) | $5 / unit | Micro-USB | CP2104 | https://www.amazon.com/gp/product/B08MFCC4SR |
 
+NOTE: If you're not experienced with electronics, we recommend buying one with both the Reset/EN and Boot/IO0 buttons because it makes it easier to troubleshoot certain issues. From the links above, most of the boards should have both the Reset and Boot buttons, except for the D1 Mini boards. In other words, if you're not experienced, don't get the ESP32 D1 mini boards.
+
 We recommend getting ones without pins since you don't need them (though they are more expensive). Having the pins is a liability for accidentally shorting out and damaging the board.
 
 Most likely you will end up buying a pack of at least 2 or 3 since they don't get any cheaper in single quantity. This is great if you want to automate multiple Switches.
