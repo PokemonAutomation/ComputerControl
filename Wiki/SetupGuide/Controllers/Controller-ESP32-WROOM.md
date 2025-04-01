@@ -105,9 +105,9 @@ Open up Device Manager and look for it under "Serial Ports". If you don't see it
 
 <img src="../Images/ControllerSetup-ESP32-WROOM-Flash-1.png">
 
-5. Click Start and it will flash the PABotBase firmware to your ESP32.
+5. Click Start and it should flash the PABotBase firmware to your ESP32.
 
-If you see that it gets stuck printing out `...` and never makes progress, press and hold the `BOOT` button on the ESP32 and it should start flashing. You can release it when you see the green bar make progress.
+If everything worked correctly, you should see a green progress bar like this. If you see that it gets stuck printing out `...` and never makes progress, see [troubleshooting](#unable-to-flash-the-esp32-stuck-on-).
 
 <img src="../Images/ControllerSetup-ESP32-WROOM-Flash-2.png">
 
@@ -196,6 +196,31 @@ Continue on to [Finishing Up](../README.md#step-4-finishing-up)!
 
 
 ## Troubleshooting:
+
+### Unable to flash the ESP32. (stuck on `...`)
+
+If you see that it gets stuck printing out `...` and never makes progress, try one of these:
+
+**Solution 1:**
+  1. Start the flash such that it is printing out `...`
+  2. Press and hold the `BOOT` button on the ESP32.
+  3. Release the `BOOT` button when you see the green bar make progress.
+     
+**Solution 2:**
+  1. Start the flash such that it is printing out `...`
+  2. Press and hold the `RESET` (EN) button.
+  3. Press and hold the `BOOT` button.
+  4. Release the `RESET` (EN) button.
+  5. Release the `BOOT` button.
+
+If neither solution works:
+ - Try a different USB port.
+ - Try putting a USB2 hub between the computer and the ESP32.
+
+If nothing works, you are not alone! This is a common problem with ESP32 boards.
+ - Further reading: https://www.reddit.com/r/esp32/comments/11awl5h/a_fatal_error_occurred_failed_to_connect_to_esp32/
+ - Come to [our Discord](https://discord.gg/cQ4gWxN) for help.
+
 
 ### Unable to connect to the ESP32.
 
