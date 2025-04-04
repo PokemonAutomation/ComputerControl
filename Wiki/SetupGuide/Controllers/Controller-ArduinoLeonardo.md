@@ -174,7 +174,7 @@ If all else fails, you can try flashing the hex file directly with avrdude. See 
 
    - To confirm that this was done properly, type `avrdude` into the console. You should see the avrdude version number, as well as a list of options available.
 
-   <img src="images/cd-to-avrdude.png" height="500">
+   <img src="../Images/ControllerSetup-Leonardo-AVRDUDE-cd-to-avrdude.png" height="500">
 
 3. Confirm your microcontroller's COM port.
     - Open Device Manager: Right click Start button -> Click "Device Manager"
@@ -182,12 +182,12 @@ If all else fails, you can try flashing the hex file directly with avrdude. See 
     - Ensure the Leonardo is plugged into your computer and click the Leonardo's reset button. It should then show up in the Device Manager under `Ports (COM & LPT)`, as `USB Serial Device (COM#)`. Often, the Leonardo will then disconnect itself after a few seconds, and it will be greyed out in the list. However, if "Show hidden devices" is enabled, you should still be able to see the device and its COM port number.
     - In this example, the COM port for my Leonardo is COM3.
 
-    <img src="images/device-manager-com-port.png" height="150">
+    <img src="../Images/ControllerSetup-Leonardo-AVRDUDE-device-manager-com-port.png" height="150">
 
 4. Flash the hex file with avrdude
    - Ensure the Leonardo is plugged into your computer and click the Leonardo's reset button. For a few seconds, it will no longer be greyed out in the Device manager. This means it's connected to your computer.
 
-    <img src="images/device-manager-com-port-2.png" height="150">
+    <img src="../Images/ControllerSetup-Leonardo-AVRDUDE-device-manager-com-port-2.png" height="150">
 
    - While the Leonardo is connected for those few seconds, type/paste the following command into the console:
 
