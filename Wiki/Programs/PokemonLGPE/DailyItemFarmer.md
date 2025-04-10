@@ -11,6 +11,7 @@ Farm daily item respawns (ex. fossils) by date-skipping.
 1. As with all LGPE programs, Right Joycon is required. This program will not run otherwise.
 2. System time: Un-synced
 3. Text speed: Fast
+4. If you have CFW and sys-botbase running, you must disable ld-mitm or the game will crash.
 
 ## Instructions
 
