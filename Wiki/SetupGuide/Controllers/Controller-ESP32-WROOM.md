@@ -184,11 +184,11 @@ You will notice that there are 4 controller options:
 - Left Joycon
 - Right Joycon
 
-"None" simply idles the ESP32 so it isn't trying to connect to a Switch. The others tell the ESP32 to act as that controller respectively. Every time you press "Reset Ctrl" or change the controller type, it will disconnect from your Switch and try to reconnect using the new type. So you will need to be in the Grip menu or it will stay disconnected. (important if you are accessing remotely!)
+"None" simply idles the ESP32 so it isn't trying to connect to a Switch. The others tell the ESP32 to act as that controller respectively. Every time you press "Reset Ctrl" or change the controller type, it will disconnect from your Switch and try to reconnect using the new controller type. So you will need to be in the Grip menu or it will stay disconnected. (important if you are accessing remotely!)
 
 Changing programs (or even closing the application entirely) will not disconnect the ESP32 from the Switch. When you load a program and connect to the ESP32, it will automatically continue its previous connection to the Switch (and change the controller dropdown accordingly). So you can remotely control your Switch if you are careful enough.
 
-If you intend to do a lot of remote access, we recommend that you use to a wired setup as a wired controller can connect to the Switch from anywhere and take control.
+If you intend to do a lot of remote access, we recommend that you use a wired setup as a wired controller can connect to the Switch from anywhere and take control.
 
 **Connecting as Joycon:**
 
