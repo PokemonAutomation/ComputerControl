@@ -117,10 +117,12 @@ Here the guide will diverge depending on which controller type you have chosen. 
 
 **Wireless Controller:**
  - [ESP32-WROOM](Controllers/Controller-ESP32-WROOM.md)
+   - Video tutorial: https://youtu.be/YzGyQQOGjl8 (recommended for new-comers)
 
 **Wired Controller:**
- - [Arduino Uno R3](Controllers/Controller-ArduinoUnoR3.md)
  - [Arduino Leonardo](Controllers/Controller-ArduinoLeonardo.md)
+   - Video tutorial: https://youtu.be/DFXZzWkOEMs
+ - [Arduino Uno R3](Controllers/Controller-ArduinoUnoR3.md)
  - Teensy(++) 2.0
    - [UART + Mini Grabbers](Controllers/Controller-Teensy2-MiniGrabbers.md)
    - [UART + Solderless Hammer Headers](Controllers/Controller-Teensy2-HammerHeaders.md)
