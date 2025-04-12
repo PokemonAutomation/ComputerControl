@@ -1,5 +1,9 @@
 # Controller Setup: ESP32-WROOM
 
+**Video tutorial:** Pokemon Automation Wireless setup with ESP32: https://youtu.be/YzGyQQOGjl8
+
+<hr>
+
 This setup uses an ESP32 microcontroller to emulate a wireless controller. It can emulate both left and right joycons as well as the wireless pro controller. Since this covers all the controller types, an ESP32 will be able to run nearly our entire repertoire of programs for the Nintendo Switch.
 
 The USB port plugs into the computer which is how the program will control it. At the other end is an antenna that supports Bluetooth which is how it will fake itself as a joycon or a wireless pro controller to the Switch.
