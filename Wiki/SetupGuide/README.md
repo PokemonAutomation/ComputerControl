@@ -119,14 +119,14 @@ Here the guide will diverge depending on which controller type you have chosen. 
  - [ESP32-WROOM](Controllers/Controller-ESP32-WROOM.md)
 
 **Wired Controller:**
- - [Arduino Uno R3](Controller-ArduinoUnoR3.md)
+ - [Arduino Uno R3](Controllers/Controller-ArduinoUnoR3.md)
  - [Arduino Leonardo](Controllers/Controller-ArduinoLeonardo.md)
  - Teensy(++) 2.0
-   - [UART + Mini Grabbers](Controller-Teensy2-MiniGrabbers.md)
-   - [UART + Solderless Hammer Headers](Controller-Teensy2-HammerHeaders.md)
+   - [UART + Mini Grabbers](Controllers/Controller-Teensy2-MiniGrabbers.md)
+   - [UART + Solderless Hammer Headers](Controllers/Controller-Teensy2-HammerHeaders.md)
  - Pro Micro
-   - [UART + Mini Grabbers](Controller-ProMicro-MiniGrabber.md)
-   - [UART + Solderless Hammer Headers](Controller-ProMicro-HammerHeaders.md)
+   - [UART + Mini Grabbers](Controllers/Controller-ProMicro-MiniGrabber.md)
+   - [UART + Solderless Hammer Headers](Controllers/Controller-ProMicro-HammerHeaders.md)
 
 For wired controllers, if you are a beginner, we recommend the Arduino Leonardo setup since it is the easiest. If you have soldering experience, we actually recommend the Pro Micro, but that you directly solder the pins to the microcontroller instead.
 
