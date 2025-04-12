@@ -1,5 +1,9 @@
 # Controller Setup: Arduino Leonardo
 
+**Video tutorial:** Pokemon Automation Wired Setup with Arduino Leonardo: https://youtu.be/DFXZzWkOEMs
+
+<hr>
+
 The wired controller setup is the most difficult of the setups. Most of you who joined us prior to 2025 will be familiar with this setup.
 
 This version of the wired controller setup uses the Arduino Leonardo. It is the easiest of the wired controllers to setup.
