@@ -38,14 +38,19 @@ Specifically, the computer must:
 
 You will also need 2 spare USB ports. (or 2 ports per Switch if you intend to run multiple Switches)
 
+**MacOS:**
+
+CC is functional on MacOS albeit missing a few features present on Windows. A distributable is available for Intel and M1 Macs on MacOS Ventura (13) or later. For MacOS Monterrey (12) and earlier, you will need to follow an extra set of instructions to build CC from source code.
+
+If you are an experienced developer with MacOS, your help in making MacOS feature-complete would be greatly appreciated!
+
 **Other Platforms:**
 
-Due to lack of developer support, our support of Mac and Linux is limited. While you can set these programs up on Mac and Linux, you will need to know how to run command-line build scripts.
+Due to lack of developer support, our support of Linux is limited. While you can set these programs up on Linux, you will need to know how to run command-line build scripts.
 
 If you are not willing to do that or you have no idea what this means, then stop. Unfortunately, you will not be able to run these programs unless you can go to Windows.
 
 If you are willing and able to go down this rabbit hole:
-- M1 Mac builds are working and almost fully functional with only a few features missing.
 - Linux builds have broken video and are thus not usable. We would love some help here!
 
 
@@ -105,6 +110,8 @@ We don't recommend the CFW/sys-botbase setup to anyone except those who already 
 The setup is quite simple until you get to the controller. So we will cover everything before the controller here.
 
 See: [General Setup](GeneralSetup.md)
+
+See: [General Setup for MacOS](GeneralSetupMac.md)
 
 When you are done, you should have the CC window running and looking like this:
 

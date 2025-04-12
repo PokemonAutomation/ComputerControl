@@ -166,14 +166,14 @@ on the same row as the green "Code" button.
 The dropdown menu shows recent version numbers. You can pick the latest version you find.
 Once you select a version, the text of the dropdown menu will be changed from "main" to that version.
 
-<img src="Images/Mac/branch_version.png" alt="A photo of the Arduino-Source branches on GitHub" width="166" height="286">
+<img src="Images/Mac/branch-version.png" alt="A photo of the Arduino-Source branches on GitHub" width="166" height="286">
 
 After that, click the green "Code" button. It will show several download options.
 You can pick "Download ZIP" to download the code as a ZIP file.
 The code you download will be from the version you picked.
 The default ZIP filename will be "Arduino-Source-\<VERSION_NUMBER\>.zip"
 
-<img src="Images/Mac/download_zip.png" alt="A photo of the menu to download the Arduino-Source code as a zip file" width="205" height="185">
+<img src="Images/Mac/download-zip.png" alt="A photo of the menu to download the Arduino-Source code as a zip file" width="205" height="185">
 
 Place the code into a suitable folder you like. But avoid placing it in a "remote/cloud" folder like in OneDrive.
 Cloud folders may give some trouble for programs running on those folders.
@@ -264,7 +264,7 @@ Now **SerialPrograms** is built! in the "build_mac" folder, double click the "Se
 
 If you're opening the program for the first time, MacOS may ask for Camera and Microphone permissions. These are required in order to read video and audio from your capture card. The program does not access your Mac's actual camera and microphone!
 
-<img src="Images/Mac/compiled_app.png" alt="A photo of the compiled SerialPrograms app" width="460" height="218">
+<img src="Images/Mac/compiled-app.png" alt="A photo of the compiled SerialPrograms app" width="460" height="218">
 
 ### Computer Battery Setting
 
