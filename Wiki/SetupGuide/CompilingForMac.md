@@ -166,14 +166,14 @@ on the same row as the green "Code" button.
 The dropdown menu shows recent version numbers. You can pick the latest version you find.
 Once you select a version, the text of the dropdown menu will be changed from "main" to that version.
 
-<img src="Images/Mac/branch_version.png" alt="A photo of the Arduino-Source branches on GitHub" width="166" height="286">
+<img src="Images/Mac/branch-version.png" alt="A photo of the Arduino-Source branches on GitHub" width="166" height="286">
 
 After that, click the green "Code" button. It will show several download options.
 You can pick "Download ZIP" to download the code as a ZIP file.
 The code you download will be from the version you picked.
 The default ZIP filename will be "Arduino-Source-\<VERSION_NUMBER\>.zip"
 
-<img src="Images/Mac/download_zip.png" alt="A photo of the menu to download the Arduino-Source code as a zip file" width="205" height="185">
+<img src="Images/Mac/download-zip.png" alt="A photo of the menu to download the Arduino-Source code as a zip file" width="205" height="185">
 
 Place the code into a suitable folder you like. But avoid placing it in a "remote/cloud" folder like in OneDrive.
 Cloud folders may give some trouble for programs running on those folders.
@@ -191,14 +191,14 @@ The downloaded code should be in a folder called "Arduino-Source". Using the abo
 ```
 
 
-### Download Program Resource Files
+### Download Program Package Files
 
 **SerialPrograms** needs some extra data (images, audio files and Pokémon data text files) to run.
 Go to our [Packages Github webpage](https://github.com/PokemonAutomation/Packages) and download the data as a zip file the same as before but you don't need to pick the versions.
 
-The downloaded data will be inside a folder called "Packages". Inside it there is a sub-folder called "SerialPrograms". Further inside is a sub-sub-folder "Resources". Move this "Resources" folder into the "Arduino-Source" folder you downloaded before. Make sure it is placed directly inside "Arduino-Source", not deeper into the folder hierarchy. You are free to delete the other files from "Packages"
+Unzip the download and move the `Packages` folder to inside `Arduino-Source`
 
-<img src="Images/Mac/resources.png" alt="A photo of the Resources folder inside Arduino-Source" width="460" height="218">
+<img src="Images/Mac/packages.png" alt="A photo of the Resources folder inside Arduino-Source" width="460">
 
 ## Part 4: Compile the Program
 
@@ -264,7 +264,7 @@ Now **SerialPrograms** is built! in the "build_mac" folder, double click the "Se
 
 If you're opening the program for the first time, MacOS may ask for Camera and Microphone permissions. These are required in order to read video and audio from your capture card. The program does not access your Mac's actual camera and microphone!
 
-<img src="Images/Mac/compiled_app.png" alt="A photo of the compiled SerialPrograms app" width="460" height="218">
+<img src="Images/Mac/compiled-app.png" alt="A photo of the compiled SerialPrograms app" width="460" height="218">
 
 ### Computer Battery Setting
 
