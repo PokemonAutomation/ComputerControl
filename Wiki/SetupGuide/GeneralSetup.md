@@ -14,11 +14,6 @@ Once you have downloaded the package, unzip to somewhere you can access later. *
 
 <img src="Images/GeneralSetup-CCFolder.png" height="400">
 
-### If you are running M1 Mac:
-
-We do not have a distribution for Mac. So you will need to compile it yourself. (you have been warned earlier that non-Windows users will need to do this)
-
-See: [Guide for Installing SerialPrograms on Mac](CompilingForMac.md)
 
 ### If you are on x64 Linux:
 
