@@ -6,14 +6,13 @@ Shiny hunt gift Pokemon by resetting the game.
 
 For fossils, use [Fossil Revival](FossilRevival.md) instead.
 
-Beta note: only tested with Magikarp so far.
-
 <img src="images/GiftReset-0.png">
 
 ## Setup
 
 1. As with all LGPE programs, Right Joycon is required. This program will not run otherwise.
 2. Text speed: Fast
+3. Make sure the system date on your Switch is later than the catch date of any Pokemon you have. The program sorts the box by Recently Caught to navigate to the correct Pokemon and shiny check. (This mostly an issue if you've caught Pokemon in the "future" from date-skipping.)
 
 ## Instructions
 

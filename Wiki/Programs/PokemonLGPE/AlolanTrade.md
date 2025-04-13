@@ -12,6 +12,7 @@ Shiny hunt Alolan forms by trading in-game.
 2. Move any tradeable Pokemon you want to keep into Home or another save file. Favoriting a Pokemon does not prevent it from being traded.
 3. Do not have any of the tradeable Pokemon favorited.
 4. Text speed: Fast
+5. Make sure the system date on your Switch is later than the catch date of any Pokemon you have. The program sorts the box by Recently Caught to navigate to the correct Pokemon and shiny check. (This mostly an issue if you've caught Pokemon in the "future" from date-skipping.)
 
 ## Instructions
 
