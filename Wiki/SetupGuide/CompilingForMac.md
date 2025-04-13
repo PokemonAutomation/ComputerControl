@@ -191,14 +191,14 @@ The downloaded code should be in a folder called "Arduino-Source". Using the abo
 ```
 
 
-### Download Program Resource Files
+### Download Program Package Files
 
 **SerialPrograms** needs some extra data (images, audio files and Pokémon data text files) to run.
 Go to our [Packages Github webpage](https://github.com/PokemonAutomation/Packages) and download the data as a zip file the same as before but you don't need to pick the versions.
 
-The downloaded data will be inside a folder called "Packages". Inside it there is a sub-folder called "SerialPrograms". Further inside is a sub-sub-folder "Resources". Move this "Resources" folder into the "Arduino-Source" folder you downloaded before. Make sure it is placed directly inside "Arduino-Source", not deeper into the folder hierarchy. You are free to delete the other files from "Packages"
+Unzip the download and move the `Packages` folder to inside `Arduino-Source`
 
-<img src="Images/Mac/resources.png" alt="A photo of the Resources folder inside Arduino-Source" width="460" height="218">
+<img src="Images/Mac/packages.png" alt="A photo of the Resources folder inside Arduino-Source" width="460">
 
 ## Part 4: Compile the Program
 
