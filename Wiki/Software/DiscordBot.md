@@ -220,7 +220,7 @@ Restrict slash commands in your server settings.
 
 Assuming the user/role/channel is not restricted you may just have to wait for a few minutes or restart your Discord app for the changes to take effect. Discord is slow at caching them.
 
-* **The console ID paramater that worked before no longer works!**
+* **The console ID parameter that worked before no longer works!**
 
 Console ID changes as you select/switch programs. Use the `status` command to check it after switching programs or restarting the program.
 
