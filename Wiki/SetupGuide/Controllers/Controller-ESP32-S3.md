@@ -1,10 +1,10 @@
 # Controller Setup: ESP32-S3
 
-This setup is still in development. Unless you are a developer, you will not be able to do this setup since you won't have access to the (work-in-progress) firmware.
+***This setup is still in development. Unless you are a developer, you will not be able to do this setup since you won't have access to the (work-in-progress) firmware.***
 
 <hr>
 
-This is brand new wired controller setup that is much easier to do than the old AVR8 ones using Arduino or Teensy. If you are beginner, we still recommend starting with the ESP32 wireless setup. But nothing beats good old wired in its stability and ease of use after setup.
+This is the brand new wired controller setup that is much easier to do than the old AVR8 ones using Arduino or Teensy. If you are beginner, we still recommend starting with the ESP32 wireless setup. But nothing beats good old wired in its stability and ease of use after setup.
 
 If you are setting up a wired controller setup for the first time, we recommend this option.
 
@@ -43,7 +43,7 @@ While the ESP32-S3 supports Bluetooth, it only supports Bluetooth LE. It does no
 **ESP32-S3 Microcontroller:**
 
 | **Quantity** | **Price / Unit** | **Shopping Link** |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- |
 | 1 (no pins) | $9 / unit | https://www.amazon.com/gp/product/B0BVVGNBB3/ |
 | 3 (no pins) | $6 / unit | https://www.amazon.com/gp/product/B0C9H7Y66W/ |
 
@@ -53,7 +53,7 @@ Even though these are all made in China, AliExpress isn't much cheaper. (~$6/uni
 
 The ESP32-S3 exists in two variants: 1 USB or 2 USBs. You must get a model that has 2 USB ports on it. 
 
-We recommend getting ones without pins since you don't need them (though they are more expensive). Having the pins is a liability for accidentally shorting out and damaging the board.
+We recommend getting ones without pins since you don't need them. Having the pins is a liability for accidentally shorting out and damaging the board.
 
 **USB Cables:**
 - USB-C -> USB-A: https://www.amazon.com/Charging-Durable-Station-Compatible-Samsung/dp/B08LL1SVZD
@@ -68,6 +68,8 @@ Unlike the ESP32 wireless setup, there are two USB ports. They are not interchan
 1. Turn your ESP32-S3 over to the back side. Next to each of the two USB ports, you will see the labels "USB" and "COM". These identify which port is which.
 2. Connect the "USB" side to your Nintendo Switch.
 3. Connect the "COM" side to your computer.
+
+<img src="../Images/ControllerSetup-ESP32-S3-Backside.jpg">
 
 And that's it! One extra cable compared to the ESP32 wireless setup, but still much simpler than the Arduino/Teensy setups. The "COM" port is the built-in UART that eliminates the need to manually wire up an external UART.
 
