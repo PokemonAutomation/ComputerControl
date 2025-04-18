@@ -4,15 +4,14 @@
 
 <hr>
 
-This is the brand new wired controller setup that is much easier to do than the old AVR8 ones using Arduino or Teensy. If you are beginner, we still recommend starting with the ESP32 wireless setup. But nothing beats good old wired in its stability and ease of use after setup.
+This is the brand new wired controller setup that is much easier to do than the old AVR8 ones using Arduino or Teensy. If you are a beginner, we still recommend starting with the ESP32 wireless setup. But nothing beats good old wired for its stability and ease of use after setup.
 
 If you are setting up a wired controller setup for the first time, we recommend this option.
 
 <img src="../Images/ControllerSetup-ESP32-S3.jpg" height="350"> <img src="../Images/ControllerSetup-ESP32-S3-Setup.jpg" height="350">
 
 
-
-Note that ESP32 and ESP32-S3 are different controllers made from the same company (Espressif).
+Note that ESP32 and ESP32-S3 are different controllers made by the same company (Espressif).
  - ESP32 (aka ESP32-WROOM) is used for the wireless controller setup.
  - ESP32-S3 is used for this wired setup.
 
