@@ -15,6 +15,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 **Jump To:**
 - [Nintendo Switch](#nintendo-switch)
+- [Pokémon Let's Go Pikachu/Eevee](#pok%C3%A9mon-lets-go-pikachueevee-lgpe)
 - [Pokémon Sword/Shield](#pokémon-swordshield)
 - [Pokémon Brilliant Diamond/Shining Pearl](#pokémon-brilliant-diamondshining-pearl)
 - [Pokémon Legends Arceus](#pokémon-legends-arceus)
