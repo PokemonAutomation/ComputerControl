@@ -8,7 +8,9 @@ This is the brand new wired controller setup that is much easier to do than the 
 
 If you are setting up a wired controller setup for the first time, we recommend this option.
 
-<img src="../Images/ControllerSetup-ESP32-S3.jpg" height="350"> (picture of full ESP32-S3 setup)
+<img src="../Images/ControllerSetup-ESP32-S3.jpg" height="350"> <img src="../Images/ControllerSetup-ESP32-S3-Setup.jpg" height="350">
+
+
 
 Note that ESP32 and ESP32-S3 are different controllers made from the same company (Espressif).
  - ESP32 (aka ESP32-WROOM) is used for the wireless controller setup.
@@ -31,7 +33,7 @@ While the ESP32-S3 supports Bluetooth, it only supports Bluetooth LE. It does no
 - **Single Setup:** $25 - $35
 - **Bulk Purchase:** ~$18 per setup
 
-(picture of full ESP32-S3 setup with annotations)
+<img src="../Images/ControllerSetup-ESP32-S3-Setup-Overview.jpg" width="800">
 
 **Important:** There are many variants of the ESP32 microcontroller. Only the ESP32-3 will work. So you must get that specific model. (e.g. Don't get the ESP32-WROOM, or ESP32-S2-WROOM, or ESP32-C2, etc.)
 
