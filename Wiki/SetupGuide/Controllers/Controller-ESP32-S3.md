@@ -117,7 +117,7 @@ If everything worked correctly, you should see a green progress bar like this. I
 
 At this point, your final setup should look like this:
 
-(insert image of CC window showing the connected status)
+<img src="../Images/ControllerSetup-ESP32-WROOM-Connected-Cropped.png">
 
 ### Step 2: Connect the ESP32-S3 to the Computer Control program
 
@@ -128,7 +128,7 @@ If you don't see the device in the dropdown, you probably need to refresh it (es
 
 If everything worked correctly, it will look like this:
 
-(insert image of CC program with ESP32-S3 connected)
+<img src="../Images/ControllerSetup-ESP32-S3-Connected-Labeled.png">
 
 If you see the following instead, then you actually connected to our wireless controller setup instead (ESP32-WROOM). (We love your enthusiasm for having both setups!)
 
