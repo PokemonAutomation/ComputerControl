@@ -197,9 +197,15 @@ If nothing works, you are not alone! This is a common problem with ESP32 boards.
 
 ### Unable to connect to the ESP32-S3.
 
-If you are unable to connect to the ESP32 in step 42 it means the ESP32-S3 either isn't booting up properly, or it isn't properly flashed. You may also try disconnecting and reconnecting the ESP32-S3 device. If this still fails, review step 1 above and ensure that you flashed the firmware properly onto the device.
+If you are unable to connect to the ESP32 in step 2 it means the ESP32-S3 either isn't booting up properly, or it isn't properly flashed. You may also try disconnecting and reconnecting the ESP32-S3 device. If this still fails, review step 1 above and ensure that you flashed the firmware properly onto the device.
 
+### Keyboard controls don't work.
 
+If you find that you're unable to get any button presses to show up on the Switch (keyboard controls don't work and programs aren't doing anything), it's likely that the ESP32-S3 is not connected to the Switch.
+
+There can be many causes of this:
+1. You're inside a game that only allows one controller and the ESP32-S3 is not the primary controller because there's another controller connected to it. In this case, disconnect that other controller.
+2. The Switch is bugged out and won't accept any wired controller. Try redocking your Switch, entering/exiting sleep mode, or rebooting it completely.
 
 <hr>
 
