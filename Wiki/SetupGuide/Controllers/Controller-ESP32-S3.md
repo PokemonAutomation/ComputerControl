@@ -155,8 +155,7 @@ We recommend familiarizing yourself with the keyboard controls as this is the pr
 
 The default layout is the standard WASD setup for FPS games on the most common QWERTY keyboard layout. If you don't like it or you have a different keyboard layout, you can change the key mappings in the "Framework Settings" panel at the top of the program list to the left.
 
-(update image with ESP32-S3 instead)
-<img src="../Images/ControllerSetup-AVR8-Controls.png">
+<img src="../Images/ControllerSetup-ESP32-S3-Controls.png">
 
 ### Step 5: You are done!
 
