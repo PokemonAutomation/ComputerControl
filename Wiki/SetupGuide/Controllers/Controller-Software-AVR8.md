@@ -34,6 +34,17 @@ Both the wired and wireless setups use serial ports. The program can distinguish
 
 If you see neither, then see [troubleshooting](#troubleshooting).
 
+### Step 3: Navigate your Switch to where it will accept a new controller.
+
+The Arduino/Teensy/Pro Micro behaves like a real wired controller. So it can only connect if your Switch is ready for it.
+
+Places where the Switch will accept a new controller:
+1. The grip menu.
+2. The Switch home or settings.
+3. In a game when no other controllers are connected.
+
+<img src="../Images/GripMenu.png">
+
 ### Step 4: Test the connection
 
 You can control your Switch from the keyboard. Click on the video display to activate the keyboard controls. Then try pressing some buttons. You can view the keyboard -> controller mapping by clicking on the "keyboard layout" at the bottom left corner of the program.

@@ -92,9 +92,9 @@ If not, you should go back to the [general setup guide](../README.md) and start 
 
 1. Download the Espressif flash utility: https://dl.espressif.com/public/flash_download_tool.zip
 2. Unzip, then run `flash_download_tool_3.9.7.exe` (version number may vary)
-3. When you see the following menu, select "ESP32-S3" and "Develop". Then hit OK.
+3. When you see the following menu, select "ESP32-S3", "Develop", and "UART". Then hit OK.
 
-(insert image of flash utility)
+<img src="../Images/ControllerSetup-ESP32-S3-Flash-0.png">
 
 4. You will then be prompted with this complicated window. Fill everything as follows:
    - Check the box for the first entry.
@@ -103,13 +103,13 @@ If not, you should go back to the [general setup guide](../README.md) and start 
    - At the bottom right corner, select the COM port of your ESP32-S3.
    - Change "BAUD" to 460800.
 
-(insert image of flash utility with correct options selected)
+<img src="../Images/ControllerSetup-ESP32-S3-Flash-1.png">
 
 5. Click Start and it should flash the PABotBase firmware to your ESP32-S3.
 
 If everything worked correctly, you should see a green progress bar like this. If you see that it gets stuck printing out `...` and never makes progress, see [troubleshooting](#unable-to-flash-the-esp32-s3-stuck-on-).
 
-(insert image of successful flash)
+<img src="../Images/ControllerSetup-ESP32-S3-Flash-2.png">
 
 6. Reboot your ESP32-S3. You can do this either by:
    - Pressing either the `EN` or `RESET` button on the ESP32-S3.
@@ -135,6 +135,17 @@ If you see the following instead, then you actually connected to our wireless co
 <img src="../Images/ControllerSetup-AVR8-ESP32.png">
 
 Both the wired and wireless setups use serial ports. The program can distinguish them when it connects to it.
+
+### Step 3: Navigate your Switch to where it will accept a new controller.
+
+The ESP32-S3 behaves like a real wired controller. So it can only connect if your Switch is ready for it.
+
+Places where the Switch will accept a new controller:
+1. The grip menu.
+2. The Switch home or settings.
+3. In a game when no other controllers are connected.
+
+<img src="../Images/GripMenu.png">
 
 ### Step 4: Test the connection
 
