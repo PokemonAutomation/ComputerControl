@@ -23,7 +23,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Nintendo Switch
 
-| **Program** | **Feedback** | **Arduino Uno R3**<br>**Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **ESP32-WROOM** | **sys-botbase** |
+| **Program** | **Feedback** | **ESP32-WROOM** | **Uno R3/Leonardo/Teensy2/ProMicro**<br>**ESP32-S3 (beta)** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | [Framework Settings](NintendoSwitch/FrameworkSettings.md)         | --- | --- | --- | --- |
 | [Virtual Console](NintendoSwitch/VirtualConsole.md)               | --- | Yes | Yes | Yes |
@@ -37,19 +37,35 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Pokémon Home
 
-| **Program** | **Feedback** | **Arduino Uno R3**<br>**Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **ESP32-WROOM** | **sys-botbase** |
+| **Program** | **Feedback** | **ESP32-WROOM** | **Uno R3/Leonardo/Teensy2/ProMicro**<br>**ESP32-S3 (beta)** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | [Page Swap](PokemonHome/PageSwap.md)                       |       | Yes | Yes | Yes |
 | [Box Sorter](PokemonHome/BoxSorter.md)                     | Video | Yes | Yes |     |
 
+## Pokémon Let's Go Pikachu/Eevee (LGPE)
+
+Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wireless is the only supported controller.
+
+| **Program** | **Feedback** | **ESP32-WROOM** |
+| --- | --- | --- |
+| **General:** |
+| [Daily Item Farmer](PokemonLGPE/DailyItemFarmer.md)  |       | Yes |
+||
+| **Shiny Hunting:** |
+| [Alolan Trade](PokemonLGPE/AlolanTrade.md)           |       | Yes |
+| [Fossil Revival](PokemonLGPE/FossilRevival.md)       |       | Yes |
+| [Gift Reset](PokemonLGPE/GiftReset.md)               |       | Yes |
+
+
+
 ## Pokémon Sword/Shield
 
-| **Program** | **Feedback** | **Arduino Uno R3**<br>**Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **ESP32-WROOM** | **sys-botbase** |
+| **Program** | **Feedback** | **ESP32-WROOM** | **Uno R3/Leonardo/Teensy2/ProMicro**<br>**ESP32-S3 (beta)** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | [Game Settings](PokemonSwSh/PokemonSettings.md)        | --- | --- | --- | --- |
 ||
 | **QoL Macros:** |
-| [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md)             |                  | Yes | Degraded | Degraded |
+| [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md)             |                  | Degraded | Yes | Degraded |
 | [Friend Search Disconnect](PokemonSwSh/FriendSearchDisconnect.md) |                  | Yes | Yes | Yes |
 ||
 | **General Programs:** |
@@ -63,7 +79,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Box Reorder National Dex](PokemonSwSh/BoxReorderNationalDex.md) | Video           | Yes | Yes |     |
 ||
 | **Date-Spam Farmers:** |
-| [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)                          || Yes | Degraded | Degraded |
+| [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)                          || Degraded | Yes | Degraded |
 | [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md)                        || Yes | Yes | Degraded |
 | [Date Spam: Berry Farmer 2](PokemonSwSh/DateSpam-BerryFarmer2.md)              | Video | Yes | Yes | Degraded |
 | [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)                          || Yes | Yes | Degraded |
@@ -74,10 +90,10 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | **Den Hunting:** |
 | [Purple Beam Finder](PokemonSwSh/PurpleBeamFinder.md)         | Video            | Yes | Yes | Yes |
 | [Event Beam Finder](PokemonSwSh/EventBeamFinder.md)           |                  | Yes | Yes | Yes |
-| [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md)             |                  | Yes |     |     |
-| [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md)               |                  | Yes |     |     |
-| [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md)               |                  | Yes |     |     |
-| [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md) |                  | Yes |     |     |
+| [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md)             |                  |     | Yes |     |
+| [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md)               |                  |     | Yes |     |
+| [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md)               |                  |     | Yes |     |
+| [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md) |                  |     | Yes |     |
 ||
 | **Hosting:** |
 | [Den Roller](PokemonSwSh/DenRoller.md)                    | Video (Optional) | Yes | Yes | Degraded |
@@ -138,7 +154,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Pokémon Brilliant Diamond/Shining Pearl
 
-| **Program** | **Feedback** | **Arduino Uno R3**<br>**Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **ESP32-WROOM** | **sys-botbase** |
+| **Program** | **Feedback** | **ESP32-WROOM** | **Uno R3/Leonardo/Teensy2/ProMicro**<br>**ESP32-S3 (beta)** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | Game Settings | --- | --- | --- | --- |
 ||
@@ -180,7 +196,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Pokémon Legends Arceus
 
-| **Program** | **Feedback** | **Arduino Uno R3**<br>**Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **ESP32-WROOM** | **sys-botbase** |
+| **Program** | **Feedback** | **ESP32-WROOM** | **Uno R3/Leonardo/Teensy2/ProMicro**<br>**ESP32-S3 (beta)** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | Game Settings | --- | --- | --- | --- |
 ||
@@ -218,7 +234,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Pokémon Scarlet and Violet
 
-| **Program** | **Feedback** | **Arduino Uno R3**<br>**Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **ESP32-WROOM** | **sys-botbase** |
+| **Program** | **Feedback** | **ESP32-WROOM** | **Uno R3/Leonardo/Teensy2/ProMicro**<br>**ESP32-S3 (beta)** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | Game Settings | --- | --- | --- | --- |
 ||
@@ -243,7 +259,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [ESP Training](PokemonSV/ESPTraining.md)           	                  | Video         | Yes | Yes | Yes |
 | [Tournament Farmer](PokemonSV/TournamentFarmer.md)                    | Video         | Yes | Yes | Yes |
 | [Tournament Farmer 2](PokemonSV/TournamentFarmer2.md)                 | Video         | Yes | Yes | Yes |
-| [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md)                 | Video         | Yes | Degraded |     |
+| [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md)                 | Video         | Yes | Yes |     |
 | [BBQ Farmer](PokemonSV/BBQSoloFarmer.md)                              | Video + Audio | Yes | Yes |     |
 | [Material Farmer](PokemonSV/MaterialFarmer.md)                        | Video + Audio | Yes | Yes | Yes |
 | [Item Printer RNG](PokemonSV/ItemPrinterRNG.md)                       | Video + Audio | Yes | Yes | Degraded |
@@ -260,9 +276,9 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 | [Tera Multi-Farmer](PokemonSV/TeraMultiFarmer.md)                     | Video         | Yes | Yes | Yes |
 ||
 | **Fast Code Entry:** |
-| [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md)                       |               | Yes | Degraded | Degraded |
-| [Clipboard Fast Code Entry (C-FCE)](PokemonSV/ClipboardFastCodeEntry.md)  |               | Yes | Degraded | Degraded |
-| [Video Fast Code Entry (V-FCE)](PokemonSV/VideoFastCodeEntry.md)          |               | Yes | Degraded | Degraded |
+| [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md)                       |               | Degraded | Yes | Degraded |
+| [Clipboard Fast Code Entry (C-FCE)](PokemonSV/ClipboardFastCodeEntry.md)  |               | Degraded | Yes | Degraded |
+| [Video Fast Code Entry (V-FCE)](PokemonSV/VideoFastCodeEntry.md)          |               | Degraded | Yes | Degraded |
 ||
 | **Stats Hunting:** |
 | [Stats Reset](PokemonSV/StatsReset.md)                                | Video         | Yes | Yes | Yes |
@@ -282,7 +298,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Zelda: Tears of the Kingdom
 
-| **Program** | **Feedback** | **Arduino Uno R3**<br>**Arduino Leonardo**<br>**Teensy(++) 2.0**<br>**Pro Micro** | **ESP32-WROOM** | **sys-botbase** |
+| **Program** | **Feedback** | **ESP32-WROOM** | **Uno R3/Leonardo/Teensy2/ProMicro**<br>**ESP32-S3 (beta)** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | **Glitches (v1.1.1):** |
 | [Bow Item Duper](ZeldaTotK/BowItemDuper.md)             |                  | Yes | Yes |     |
