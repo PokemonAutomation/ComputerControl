@@ -33,7 +33,7 @@ While the ESP32-S3 supports Bluetooth, it only supports Bluetooth LE. It does no
 - **Single Setup:** $25 - $35
 - **Bulk Purchase:** ~$18 per setup
 
-<img src="../Images/ControllerSetup-ESP32-S3-Setup-Overview.jpg" width="800">
+<img src="../Images/ControllerSetup-ESP32-S3-Setup-Annotated.jpg" width="800">
 
 **Important:** There are many variants of the ESP32 microcontroller. Only the ESP32-3 will work. So you must get that specific model. (e.g. Don't get the ESP32-WROOM, or ESP32-S2-WROOM, or ESP32-C2, etc.)
 
