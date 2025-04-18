@@ -83,7 +83,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 | **Date-Spam Farmers:** |
 | [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)                          || Degraded | Yes | Degraded |
 | [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md)                        || Yes | Yes | Degraded |
-| [Date Spam: Berry Farmer 2](PokemonSwSh/DateSpam-BerryFarmer2.md)              | Video | Yes | Yes | Degraded |
+| [Date Spam: Berry Farmer 2](PokemonSwSh/DateSpam-BerryFarmer2.md)              | Video + Audio | Yes | Yes | Degraded |
 | [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)                          || Yes | Yes | Degraded |
 | [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)            || Yes | Yes | Degraded |
 | [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)     || Yes | Yes | Degraded |
