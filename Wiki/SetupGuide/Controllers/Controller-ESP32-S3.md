@@ -15,7 +15,7 @@ Note that ESP32 and ESP32-S3 are different controllers made by the same company 
  - ESP32 (aka ESP32-WROOM) is used for the wireless controller setup.
  - ESP32-S3 is used for this wired setup.
 
-While the ESP32-S3 supports Bluetooth, it only supports Bluetooth LE. It does not support Bluetooth Classic as required by the Nintendo Switch. The reason why we chose it is because it has two USB ports - one goes to the Switch, the other is a built-in UART. Thus eliminating the need to manually wire up a UART as required by the Arduino/Teensy setups.
+While the ESP32-S3 supports Bluetooth, it only supports Bluetooth LE. It does not support Bluetooth Classic as required by the Nintendo Switch. Therefore, it cannot be used for a wireless setup the same way the ESP32 can. However, the ESP32-S3 has 2 USB ports. Thus it can connect to both the computer and the Switch in a new setup that eliminates the need to manually wire up a UART as was required by the Arduino/Teensy setups.
 
 ## Hardware Setup:
 
