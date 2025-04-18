@@ -116,10 +116,6 @@ If everything worked correctly, you should see a green progress bar like this. I
    - Pressing either the `EN` or `RESET` button on the ESP32-S3.
    - Unplugging both USB cables and plugging them back in.
 
-At this point, your final setup should look like this:
-
-<img src="../Images/ControllerSetup-ESP32-S3-Connected-Cropped.png">
-
 ### Step 2: Connect the ESP32-S3 to the Computer Control program
 
 1. At the top for the "Controller" option, click the dropdown and select `Serial: PABotBase` (should be on this since this is the default)
@@ -129,7 +125,7 @@ If you don't see the device in the dropdown, you probably need to refresh it (es
 
 If everything worked correctly, it will look like this:
 
-<img src="../Images/ControllerSetup-ESP32-S3-Connected-Labeled.png">
+<img src="../Images/ControllerSetup-ESP32-S3-Connected-Cropped.png">
 
 If you see the following instead, then you actually connected to our wireless controller setup instead (ESP32-WROOM). (We love your enthusiasm for having both setups!)
 
