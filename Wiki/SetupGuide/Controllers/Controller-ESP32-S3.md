@@ -117,7 +117,7 @@ If everything worked correctly, you should see a green progress bar like this. I
 
 At this point, your final setup should look like this:
 
-<img src="../Images/ControllerSetup-ESP32-WROOM-Connected-Cropped.png">
+<img src="../Images/ControllerSetup-ESP32-S3-Connected-Cropped.png">
 
 ### Step 2: Connect the ESP32-S3 to the Computer Control program
 
