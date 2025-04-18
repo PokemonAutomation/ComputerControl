@@ -23,7 +23,7 @@ The USB port plugs into the computer which is how the program will control it. A
 
 **Estimated Total Cost (USD):** (not including computer and Nintendo Switch)
 - **Single Setup:** $25 - $35
-- **Bulk Purchase:** ~$17 per setup
+- **Bulk Purchase:** ~$14 per setup
 
 <img src="../Images/ControllerSetup-ESP32-WROOM-Setup-Annotated-2.jpg" width="800">
 

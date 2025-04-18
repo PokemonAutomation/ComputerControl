@@ -1,6 +1,6 @@
 # Controller Setup: ESP32-S3
 
-***This setup is still in development. Unless you are a developer, you will not be able to do this setup since you won't have access to the (still work-in-progress) firmware.***
+***This setup is still in development. Unless you are a developer, you will not be able to do this setup since you won't have access to the (work-in-progress) firmware.***
 
 <hr>
 
@@ -8,7 +8,7 @@ This is the brand new wired controller setup that is much easier to do than the 
 
 If you are setting up a wired controller setup for the first time, we recommend this option.
 
-(picture of ESP32-S3)(picture of full ESP32-S3 setup)
+<img src="../Images/ControllerSetup-ESP32-S3.jpg" height="350"> (picture of full ESP32-S3 setup)
 
 Note that ESP32 and ESP32-S3 are different controllers made from the same company (Espressif).
  - ESP32 (aka ESP32-WROOM) is used for the wireless controller setup.
@@ -23,7 +23,7 @@ While the ESP32-S3 supports Bluetooth, it only supports Bluetooth LE. It does no
 2. A [computer](../README.md#the-computer-the-player) running x64 Windows. (or another OS if you are able to set it up.)
 3. A [video capture card](../README.md#video-capture-card-the-computers-eyes).
 4. An ESP32-S3 microcontroller.
-5. Two USB-C cables. One connects the ESP32-S3 to the computer while the other connect it to the Switch.
+5. Two USB-C cables. One connects the ESP32-S3 to the computer while the other connects it to the Switch.
 
 #1-3 are part of the initial setup so you should have all of these already.
 
@@ -55,6 +55,8 @@ The ESP32-S3 exists in two variants: 1 USB or 2 USBs. You must get a model that 
 
 We recommend getting ones without pins since you don't need them. Having the pins is a liability for accidentally shorting out and damaging the board.
 
+<img src="../Images/ControllerSetup-ESP32-S3-Board.jpg" height="300">
+
 **USB Cables:**
 - USB-C -> USB-A: https://www.amazon.com/Charging-Durable-Station-Compatible-Samsung/dp/B08LL1SVZD
 - USB-C -> USB-C: https://www.amazon.com/3-Pack-Charging-Braided-iPhone-Samsung/dp/B0D222QDF1
@@ -69,7 +71,7 @@ Unlike the ESP32 wireless setup, there are two USB ports. They are not interchan
 2. Connect the "USB" side to your Nintendo Switch.
 3. Connect the "COM" side to your computer.
 
-<img src="../Images/ControllerSetup-ESP32-S3-Backside.jpg" height="600">
+<img src="../Images/ControllerSetup-ESP32-S3-Backside.jpg">
 
 And that's it! One extra cable compared to the ESP32 wireless setup, but still much simpler than the Arduino/Teensy setups. The "COM" port is the built-in UART that eliminates the need to manually wire up an external UART.
 
@@ -144,6 +146,14 @@ The default layout is the standard WASD setup for FPS games on the most common Q
 
 (update image with ESP32-S3 instead)
 <img src="../Images/ControllerSetup-AVR8-Controls.png">
+
+### Step 5: You are done!
+
+If keyboard commands are working (along with video and audio), you are done!
+
+Try clicking on other programs on the sidebar. You will find that all of them are "virtual consoles" that will accept keyboard commands. At the top of every program is a link to the wiki that explains how to setup and use that program.
+
+Continue on to [Finishing Up](../README.md#step-4-finishing-up)!
 
 
 
