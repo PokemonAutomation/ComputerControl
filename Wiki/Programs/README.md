@@ -49,12 +49,12 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 | **Program** | **Feedback** | **ESP32-WROOM** |
 | --- | --- | --- |
 | **General:** |
-| [Daily Item Farmer](PokemonLGPE/DailyItemFarmer.md)  |       | Yes |
+| [Daily Item Farmer](PokemonLGPE/DailyItemFarmer.md)  | Video | Yes |
 ||
 | **Shiny Hunting:** |
-| [Alolan Trade](PokemonLGPE/AlolanTrade.md)           |       | Yes |
-| [Fossil Revival](PokemonLGPE/FossilRevival.md)       |       | Yes |
-| [Gift Reset](PokemonLGPE/GiftReset.md)               |       | Yes |
+| [Alolan Trade](PokemonLGPE/AlolanTrade.md)           | Video | Yes |
+| [Fossil Revival](PokemonLGPE/FossilRevival.md)       | Video | Yes |
+| [Gift Reset](PokemonLGPE/GiftReset.md)               | Video | Yes |
 
 
 
