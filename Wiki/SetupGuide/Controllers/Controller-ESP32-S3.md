@@ -1,6 +1,6 @@
 # Controller Setup: ESP32-S3
 
-***This setup is still in development. Unless you are a developer, you will not be able to do this setup since you won't have access to the (work-in-progress) firmware.***
+***This setup is still in development. Unless you are a developer, you will not be able to do this setup since you won't have access to the (still work-in-progress) firmware.***
 
 <hr>
 
@@ -71,7 +71,7 @@ Unlike the ESP32 wireless setup, there are two USB ports. They are not interchan
 2. Connect the "USB" side to your Nintendo Switch.
 3. Connect the "COM" side to your computer.
 
-<img src="../Images/ControllerSetup-ESP32-S3-Backside.jpg">
+<img src="../Images/ControllerSetup-ESP32-S3-Backside.jpg" height="600">
 
 And that's it! One extra cable compared to the ESP32 wireless setup, but still much simpler than the Arduino/Teensy setups. The "COM" port is the built-in UART that eliminates the need to manually wire up an external UART.
 
