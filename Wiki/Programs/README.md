@@ -48,6 +48,8 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 
 | **Program** | **Feedback** | **ESP32-WROOM** |
 | --- | --- | --- |
+| Game Settings | --- | --- | --- | --- |
+||
 | **General:** |
 | [Daily Item Farmer](PokemonLGPE/DailyItemFarmer.md)  | Video | Yes |
 ||
