@@ -1,6 +1,6 @@
 # Controller Setup: ESP32-S3
 
-***This setup is still in development. Unless you are a developer, you will not be able to do this setup since you won't have access to the (still work-in-progress) firmware.***
+***This setup is currently in beta and is not officially released yet. If you found this page and have the firmware on hand, feel free to try it!***
 
 <hr>
 
