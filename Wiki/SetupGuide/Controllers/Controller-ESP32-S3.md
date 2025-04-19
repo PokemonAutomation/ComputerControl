@@ -68,11 +68,11 @@ Pick the ones that are appropriate for your computer and Switch dock.
 
 Unlike the ESP32 wireless setup, there are two USB ports. They are not interchangable so you must connect the right ones to the right places.
 
-1. Turn your ESP32-S3 over to the back side. Next to each of the two USB ports, you will see the labels "USB" and "COM". These identify which port is which.
-2. Connect the "USB" side to your Nintendo Switch.
-3. Connect the "COM" side to your computer.
+1. Turn your ESP32-S3 over to the back side. Next to each of the two USB ports, you will see the labels "USB" and "COM" (or "UART" and "OTG"). These identify which port is which.
+2. Connect the "USB"/"OTG" side to your Nintendo Switch.
+3. Connect the "COM"/"UART" side to your computer.
 
-<img src="../Images/ControllerSetup-ESP32-S3-Backside.jpg" height="600">
+<img src="../Images/ControllerSetup-ESP32-S3-Backside.jpg" height="600"><img src="../Images/ControllerSetup-ESP32-S3-Backside-2.jpg" height="600">
 
 And that's it! One extra cable compared to the ESP32 wireless setup, but still much simpler than the Arduino/Teensy setups. The "COM" port is the built-in UART that eliminates the need to manually wire up an external UART.
 
