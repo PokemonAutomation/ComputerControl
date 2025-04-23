@@ -8,12 +8,15 @@ Shiny hunt Legendary Pokemon by resetting the game.
 
 1. As with all LGPE programs, Right Joycon (ESP32 setup) is required. This program will not run otherwise.
 2. Text speed: Fast
-3. Skip Cutscenes: On
+3. Movie Skipping: On
+4. Battle Effects: Off
+5. Background Music/Sound Effects/Pokemon Cries: Don't mute. Default value is 5.
 
 ## Setup
 
 1. Your lead must not be shiny.
-2. If targeting Snorlax, you must have cleared Mr. Fuji's tutorial text. (So target the second Snorlax you fight, not the first one.)
+2. Your lead must be able to reliably defeat the target in 5 minutes by spamming their first move. Lead must not faint.
+3. If targeting Snorlax, you must have cleared Mr. Fuji's tutorial text. (So target the second Snorlax you fight, not the first one.)
 
 ## Instructions
 
@@ -21,7 +24,7 @@ Shiny hunt Legendary Pokemon by resetting the game.
 2. Save the game.
 3. Start the program in-game.
 
-**Note: The 5 minute battle timer does not pause when the Switch is in the Home Menu.**
+The program will reset until it detects a shiny. It will then defeat the shiny using your lead's first move. This is because the 5 minute battle timer does not pause, even when the Switch is on the Home Menu. Once the shiny is defeated, it will not run away during the catching sequence.
 
 ## Options
 
@@ -31,7 +34,7 @@ The Pokemon you are hunting.
 
 ### Go Home when Done:
 
-Go to the Switch Home to idle when finished. Will not pause the battle timer.
+Go to the Switch Home to idle when finished.
 
 
 ## Credits
