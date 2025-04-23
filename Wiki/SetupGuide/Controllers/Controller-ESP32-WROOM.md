@@ -239,7 +239,7 @@ If nothing works, you are not alone! This is a common problem with ESP32 boards.
  - Further reading: https://www.reddit.com/r/esp32/comments/11awl5h/a_fatal_error_occurred_failed_to_connect_to_esp32/
  - Come to [our Discord](https://discord.gg/cQ4gWxN) for help.
 
-## Unable to flash the ESP32: `no log file output`
+### Unable to flash the ESP32: `no log file output`
 - Try switching the USB cable. Make sure it supports data transfer, not just power delivery.
    - When plugging in the ESP32, the device should show up in `Device Manger`, under Ports.
 
