@@ -24,7 +24,7 @@ Shiny hunt Legendary Pokemon by resetting the game.
 2. Save the game.
 3. Start the program in-game.
 
-The program will reset until it detects a shiny. It will then defeat the shiny using your lead's first move. This is because the 5 minute battle timer does not pause, even when the Switch is on the Home Menu. Once the shiny is defeated, it will not run away during the catching sequence.
+The program will reset until it detects a shiny. It will then defeat the shiny using your lead's first move. This is because the 5 minute battle timer does not pause, even when the Switch is on the Home Menu. Once the shiny is defeated, it will not run away during the catching sequence. (*This does not apply to Snorlax. Snorlax can still flee.)
 
 ## Options
 
