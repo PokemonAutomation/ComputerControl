@@ -88,7 +88,7 @@ In the past, the only controller we supported was the wired pro controller. But 
 | <img src="Images/ControllerSetup-ESP32-WROOM.jpg" width="1000"> | <img src="Images/ControllerSetup-ESP32-S3.jpg" width="1000"> | <img src="Images/ControllerSetup-sbb.jpg" width="1000"> |
 | **Supported Controller Types:**<br>- Wireless Pro Controller<br>- Left Joycon<br>- Right Joycon | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> |
 | **Supported Microcontrollers:**<br>ESP32-WROOM-32<br><br><br><br><br> | **Supported Microcontrollers:**<br>ESP32-S3<br>Arduino Uno R3<br>Arduino Leonardo<br>Teensy 2.0 / Teensy++ 2.0<br>Pro Micro | **Supported Microcontrollers:**<br>None required.<br><br><br><br><br> |
-| Cheapest and easiest to setup for the average user. | More expensive. Significantly more difficult to setup. | Requires a hacked Switch running custom firmware (CFW). |
+| Cheapest and easiest to setup for the average user. | More expensive. Easy to setup for ESP32-S3. More difficult for the others. | Requires a hacked Switch running custom firmware (CFW). |
 | Runs nearly all programs including LGPE.* | Runs all programs except for LGPE.*  | Runs most programs.* Cannot run LGPE.<br>Cannot run programs that require precise button timings. |
 | Fast and reliable for most programs.<br>Cannot run Sword/Shield day-skippers. | Fastest and most reliable for high-speed programs. (date-spam exploits, FCE) | Runs most programs well. Slow and unreliable for high-speed programs. |
 | Not recommended for remote access.<br>Not recommended for high density setups due to wireless interference. | Very good for remote access. | Not recommended for remote access. |
