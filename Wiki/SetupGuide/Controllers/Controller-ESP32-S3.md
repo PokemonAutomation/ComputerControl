@@ -1,9 +1,5 @@
 # Controller Setup: ESP32-S3
 
-***This setup is currently in beta and is not officially released yet. If you found this page and have the firmware on hand, feel free to try it!***
-
-<hr>
-
 This is the brand new wired controller setup that is much easier to do than the old AVR8 ones using Arduino or Teensy. If you are a beginner, we still recommend starting with the ESP32 wireless setup. But nothing beats good old wired for its stability and ease of use after setup.
 
 If you are setting up a wired controller setup for the first time, we recommend this option.
