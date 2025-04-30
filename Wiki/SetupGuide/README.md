@@ -96,9 +96,9 @@ In the past, the only controller we supported was the wired pro controller. But 
 
 *Please consult the [program list](/Wiki/Programs/README.md) for the full compatibility table.
 
-**If you are new to automation and are interested in trying it out, we strongly recommend the wireless ESP32 setup.**
+**If you are new to automation and are interested in trying it out, we recommend the wireless ESP32 setup.**
 
-If you are an existing user who already has the wired setup, we recommend getting the wireless ESP32 if:
+If you are an existing user with the old Arduino/Teensy/ProMicro setup, there is no need to upgrade to these newer setups unless...
 - You wish to automate LGPE (Let's Go Pikachu and Eevee).
 - You want to get rid of your complicated and bulky wiring setup and replace it with something cleaner and slimmer.
 
