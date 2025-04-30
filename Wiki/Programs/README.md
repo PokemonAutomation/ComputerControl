@@ -24,7 +24,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Nintendo Switch
 
-| **Program** | **Feedback** | **ESP32-WROOM** | **Arduino Uno R3/Leonardo<br>Teensy2/ProMicro<br>ESP32-S3 (beta)** | **sys-botbase** |
+| **Program** | **Feedback** | **ESP32-WROOM** | **ESP32-S3<br>Arduino Uno R3/Leonardo<br>Teensy2/ProMicro** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | [Framework Settings](NintendoSwitch/FrameworkSettings.md)         | --- | --- | --- | --- |
 | [Virtual Console](NintendoSwitch/VirtualConsole.md)               | --- | Yes | Yes | Yes |
@@ -38,7 +38,7 @@ Therefore, computer-control programs completely supercede the microcontroller pr
 
 ## Pokémon Home
 
-| **Program** | **Feedback** | **ESP32-WROOM** | **Arduino Uno R3/Leonardo<br>Teensy2/ProMicro<br>ESP32-S3 (beta)** | **sys-botbase** |
+| **Program** | **Feedback** | **ESP32-WROOM** | **ESP32-S3<br>Arduino Uno R3/Leonardo<br>Teensy2/ProMicro** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | [Page Swap](PokemonHome/PageSwap.md)                       |       | Yes | Yes | Yes |
 | [Box Sorter](PokemonHome/BoxSorter.md)                     | Video | Yes | Yes |     |
@@ -63,7 +63,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 
 ## Pokémon Sword/Shield
 
-| **Program** | **Feedback** | **ESP32-WROOM** | **Arduino Uno R3/Leonardo<br>Teensy2/ProMicro<br>ESP32-S3 (beta)** | **sys-botbase** |
+| **Program** | **Feedback** | **ESP32-WROOM** | **ESP32-S3<br>Arduino Uno R3/Leonardo<br>Teensy2/ProMicro** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | [Game Settings](PokemonSwSh/PokemonSettings.md)        | --- | --- | --- | --- |
 ||
@@ -157,7 +157,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 
 ## Pokémon Brilliant Diamond/Shining Pearl
 
-| **Program** | **Feedback** | **ESP32-WROOM** | **Arduino Uno R3/Leonardo<br>Teensy2/ProMicro<br>ESP32-S3 (beta)** | **sys-botbase** |
+| **Program** | **Feedback** | **ESP32-WROOM** | **ESP32-S3<br>Arduino Uno R3/Leonardo<br>Teensy2/ProMicro** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | Game Settings | --- | --- | --- | --- |
 ||
@@ -199,7 +199,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 
 ## Pokémon Legends Arceus
 
-| **Program** | **Feedback** | **ESP32-WROOM** | **Arduino Uno R3/Leonardo<br>Teensy2/ProMicro<br>ESP32-S3 (beta)** | **sys-botbase** |
+| **Program** | **Feedback** | **ESP32-WROOM** | **ESP32-S3<br>Arduino Uno R3/Leonardo<br>Teensy2/ProMicro** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | Game Settings | --- | --- | --- | --- |
 ||
@@ -237,7 +237,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 
 ## Pokémon Scarlet and Violet
 
-| **Program** | **Feedback** | **ESP32-WROOM** | **Arduino Uno R3/Leonardo<br>Teensy2/ProMicro<br>ESP32-S3 (beta)** | **sys-botbase** |
+| **Program** | **Feedback** | **ESP32-WROOM** | **ESP32-S3<br>Arduino Uno R3/Leonardo<br>Teensy2/ProMicro** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | Game Settings | --- | --- | --- | --- |
 ||
@@ -301,7 +301,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 
 ## Zelda: Tears of the Kingdom
 
-| **Program** | **Feedback** | **ESP32-WROOM** | **Arduino Uno R3/Leonardo<br>Teensy2/ProMicro<br>ESP32-S3 (beta)** | **sys-botbase** |
+| **Program** | **Feedback** | **ESP32-WROOM** | **ESP32-S3<br>Arduino Uno R3/Leonardo<br>Teensy2/ProMicro** | **sys-botbase** |
 | --- | --- | --- | --- | --- |
 | **Glitches (v1.1.1):** |
 | [Bow Item Duper](ZeldaTotK/BowItemDuper.md)             |                  | Yes | Yes |     |
