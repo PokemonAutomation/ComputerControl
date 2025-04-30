@@ -92,7 +92,7 @@ In the past, the only controller we supported was the wired pro controller. But 
 | Runs nearly all programs including LGPE.* | Runs all programs except for LGPE.*  | Runs most programs.* Cannot run LGPE.<br>Cannot run programs that require precise button timings. |
 | Fast and reliable for most programs.<br>Cannot run Sword/Shield day-skippers. | Fastest and most reliable for high-speed programs. (date-spam exploits, FCE) | Runs most programs well. Slow and unreliable for high-speed programs. |
 | Not recommended for remote access.<br>Not recommended for high density setups due to wireless interference. | Very good for remote access. | Not recommended for remote access. |
-| Recommended for all users including beginners. | Recommended for experienced users or electrical engineering majors. | Recommended for regular CFW users who want to try CC programs with minimal investment. |
+| Recommended for all users including beginners. | Recommended users who want maximum performance and reliability. | Recommended for regular CFW users who want to try CC programs with minimal investment. |
 
 *Please consult the [program list](/Wiki/Programs/README.md) for the full compatibility table.
 
