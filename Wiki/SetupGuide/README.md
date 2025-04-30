@@ -85,9 +85,9 @@ In the past, the only controller we supported was the wired pro controller. But 
 
 | **Wireless** | **Wired** | **Custom Firmware** |
 | --- | --- | --- |
-| <img src="Images/ControllerSetup-ESP32-WROOM.jpg" width="1000"> | <img src="Images/ControllerSetup-Leonardo.jpg" width="1000"> | <img src="Images/ControllerSetup-sbb.jpg" width="1000"> |
+| <img src="Images/ControllerSetup-ESP32-WROOM.jpg" width="1000"> | <img src="Images/ControllerSetup-ESP32-S3.jpg" width="1000"> | <img src="Images/ControllerSetup-sbb.jpg" width="1000"> |
 | **Supported Controller Types:**<br>- Wireless Pro Controller<br>- Left Joycon<br>- Right Joycon | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> |
-| **Supported Microcontrollers:**<br>ESP32-WROOM-32<br><br><br><br> | **Supported Microcontrollers:**<br>[Arduino Uno R3](https://docs.arduino.cc/hardware/uno-rev3)<br>[Arduino Leonardo](https://docs.arduino.cc/hardware/leonardo)<br>[Teensy 2.0](https://www.pjrc.com/store/teensy.html) / [Teensy++ 2.0](https://www.pjrc.com/store/teensypp.html)<br>Pro Micro | **Supported Microcontrollers:**<br>None required.<br><br><br><br> |
+| **Supported Microcontrollers:**<br>ESP32-WROOM-32<br><br><br><br><br> | **Supported Microcontrollers:**<br>ESP32-S3<br>Arduino Uno R3<br>Arduino Leonardo<br>Teensy 2.0 / Teensy++ 2.0<br>Pro Micro | **Supported Microcontrollers:**<br>None required.<br><br><br><br><br> |
 | Cheapest and easiest to setup for the average user. | More expensive. Significantly more difficult to setup. | Requires a hacked Switch running custom firmware (CFW). |
 | Runs nearly all programs including LGPE.* | Runs all programs except for LGPE.*  | Runs most programs.* Cannot run LGPE.<br>Cannot run programs that require precise button timings. |
 | Fast and reliable for most programs.<br>Cannot run Sword/Shield day-skippers. | Fastest and most reliable for high-speed programs. (date-spam exploits, FCE) | Runs most programs well. Slow and unreliable for high-speed programs. |
@@ -128,6 +128,7 @@ Here the guide will diverge depending on which controller type you have chosen. 
  - [ESP32-WROOM for MacOS](Controllers/Controller-ESP32-WROOM-MacOS.md)
 
 **Wired Controller:**
+ - [ESP32-S3](Controllers/Controller-ESP32-S3.md)
  - [Arduino Leonardo](Controllers/Controller-ArduinoLeonardo.md)
    - Video tutorial: https://youtu.be/DFXZzWkOEMs
  - [Arduino Uno R3](Controllers/Controller-ArduinoUnoR3.md)
@@ -138,12 +139,7 @@ Here the guide will diverge depending on which controller type you have chosen. 
    - [UART + Mini Grabbers](Controllers/Controller-ProMicro-MiniGrabber.md)
    - [UART + Solderless Hammer Headers](Controllers/Controller-ProMicro-HammerHeaders.md)
 
-For wired controllers, if you are a beginner, we recommend the Arduino Leonardo setup since it is the easiest. If you have soldering experience, we actually recommend the Pro Micro, but that you directly solder the pins to the microcontroller instead.
-
-The Arduino Uno is not recommended because the ATmega16U2 chip has very little memory which has caused us problems in the past.
-Teensy(++) 2.0 has been discontinued by the manufacturer and thus we cannot recommend it anymore. (it's a nice controller though!)
-
-The difference between the mini grabber vs. solderless pin option is that the mini grabbers are easier to setup, but are very unwieldy to maintain. Conversely, the solderless pin options are much harder to setup, but have a much cleaner (and smaller) final product. For expert users (people with soldering experience), we recommend that you choose neither and just solder the wires directly.
+For wired controllers, the ESP32-S3 is the way to go as it is by far the easiest to setup. The other setups are older setups that are much more difficult to do and require manual wiring.
 
 **Custom Firmware:**
  - [sys-botbase](Controllers/Controller-sys-botbase.md)
