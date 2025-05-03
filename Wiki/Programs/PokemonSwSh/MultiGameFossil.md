@@ -1,12 +1,5 @@
 # Multi-Game Fossil Revive
 
-**Related Programs:**
-- **Microcontroller:** [Multi-Game Fossil Revive](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/MultiGameFossil.md)
-- **Computer Control:** [Multi-Game Fossil Revive](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/MultiGameFossil.md) (this program)
-
-The microcontroller and computer-control versions of this program are functionally identical.
-
-
 ## Program Description
 
 MultiGameFossil is a more advanced fossil reviving program that can revive fossils across multiple game saves. Nevertheless, this program can still be used for a single game only.
