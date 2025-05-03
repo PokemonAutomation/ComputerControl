@@ -1,12 +1,5 @@
 # AutoHost-Rolling
 
-**Related Programs:**
-- **Microcontroller:** [Auto-Host Rolling](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/AutoHost-Rolling.md)
-- **Computer Control:** [Auto-Host Rolling](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/AutoHost-Rolling.md) (this program)
-
-The computer-control version of this program provides substantial improvements over the microcontroller version.
-
-
 ## Program Description
 
 This is the all-in-one autohost that can host all of the following:
