@@ -1,12 +1,5 @@
 # Date Spam - Stow-on-Side Farmer
 
-**Related Programs:**
-- **Microcontroller:** [Date Spam - Stow-on-Side Farmer](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-StowOnSideFarmer.md)
-- **Computer Control:** [Date Spam - Stow-on-Side Farmer](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-StowOnSideFarmer.md) (this program)
-
-The microcontroller and computer-control versions of this program are functionally identical.
-
-
 ## Program Description
 
 Farm the Stow-on-Side bargains dealer. It requires activating the Y-Comm glitch.
