@@ -1,12 +1,5 @@
 # Trade Bot
 
-**Related Programs:**
-- **Microcontroller:** [Trade Bot](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/TradeBot.md)
-- **Computer Control:** [Trade Bot](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/TradeBot.md) (this program)
-
-The microcontroller and computer-control versions of this program are functionally identical.
-
-
 ## Program Description
 
 TradeBot is a coded version of [SurpriseTrade](SurpriseTrade.md). The main use case is for hosting giveaways.
