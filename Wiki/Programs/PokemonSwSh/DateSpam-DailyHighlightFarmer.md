@@ -1,12 +1,5 @@
 # Date Spam - Daily Highlight Farmer
 
-**Related Programs:**
-- **Microcontroller:** [Date Spam - Daily Highlight Farmer](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-DailyHighlightFarmer.md)
-- **Computer Control:** [Date Spam - Daily Highlight Farmer](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-DailyHighlightFarmer.md) (this program)
-
-The microcontroller and computer-control versions of this program are functionally identical.
-
-
 ## Program Description
 
 Farm the daily highlight watt trader in Crown Tundra. It requires activating the Y-Comm glitch.
