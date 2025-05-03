@@ -2,12 +2,6 @@
 
 ***This program is currently not available to the public since we do not condone mass cloning of Pokémon via methods that require hacking. It is only available to developers for research purposes.***
 
-**Related Programs:**
-- **Microcontroller:** [God Egg Duplication](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/GodEggDuplication.md)
-- **Computer Control:** [God Egg Duplication](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/GodEggDuplication.md) (this program)
-
-The microcontroller and computer-control versions of this program are functionally identical.
-
 ## Program Description
 
 Duplicate Pokémon using the God Egg/MissingNo.
