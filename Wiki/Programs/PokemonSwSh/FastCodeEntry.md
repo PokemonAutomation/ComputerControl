@@ -1,11 +1,5 @@
 # Fast Code Entry
 
-**Related Programs:**
-- **Microcontroller:** [Fast Code Entry](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/FastCodeEntry.md)
-- **Computer Control:** [Fast Code Entry](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/FastCodeEntry.md) (this program)
-
-The microcontroller and computer-control versions of this program are functionally identical.
-
 <img src="images/FastCodeEntry-0.png">
 
 
