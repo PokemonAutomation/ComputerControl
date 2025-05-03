@@ -1,11 +1,5 @@
 # Surprise Trade
 
-**Related Programs:**
-- **Microcontroller:** [Surprise Trade](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/SurpriseTrade.md)
-- **Computer Control:** [Surprise Trade](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/SurpriseTrade.md) (this program)
-
-The microcontroller and computer-control versions of this program are functionally identical.
-
 ## Program Description
 
 SurpriseTrade will surprise trade entire boxes of Pokémon. The main use case is gathering trainer IDs for Loto farming and to farm hacked Pokémon+items surprise trades.
