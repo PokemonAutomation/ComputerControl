@@ -1,12 +1,5 @@
 # Auto Host - MultiGame
 
-**Related Programs:**
-- **Microcontroller:** [Auto-Host Multi-Game](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/AutoHost-MultiGame.md)
-- **Computer Control:** [Auto-Host Multi-Game](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/AutoHost-MultiGame.md) (this program)
-
-The computer-control version of this program provides substantial improvements over the microcontroller version.
-
-
 ## Program Description
 This is a multi-game version of [AutoHost-Rolling](AutoHost-Rolling.md).
 
