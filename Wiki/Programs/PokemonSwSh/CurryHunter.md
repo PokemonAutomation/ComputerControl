@@ -1,12 +1,5 @@
 # Curry Hunter
 
-**Related Programs:**
-- **Microcontroller:** [Curry Hunter](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/CurryHunter.md)
-- **Computer Control:** [Curry Hunter](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/CurryHunter.md) (this program)
-
-The microcontroller and computer-control versions of this program are functionally identical.
-
-
 ## Program Description
 
 This program will endlessly cook curry, and it will catch the Pokémon coming to your camp. It doesn't stop on a shiny, so you will need to check all the Pokémon in your boxes once you stop the program.
