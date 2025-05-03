@@ -1,12 +1,5 @@
 # Egg Fetcher 2
 
-**Related Programs:**
-- **Microcontroller:** [Egg Fetcher 2](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/EggFetcher2.md)
-- **Computer Control:** [Egg Fetcher 2](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/EggFetcher2.md) (this program)
-
-The microcontroller and computer-control versions of this program are functionally identical.
-
-
 ## Program Description
 
 Fetch eggs into your boxes without hatching them.
