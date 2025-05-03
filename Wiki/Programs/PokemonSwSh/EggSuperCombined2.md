@@ -1,12 +1,5 @@
 # Egg Super Combined 2
 
-**Related Programs:**
-- **Microcontroller:** [Egg Super-Combined 2](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/EggSuperCombined2.md)
-- **Computer Control:** [Egg Super-Combined 2](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/EggSuperCombined2.md) (this program)
-
-The microcontroller and computer-control versions of this program are functionally identical.
-
-
 ## Program Description
 
 Run [MassRelease](MassRelease.md), then run [EggCombined2](EggCombined2.md).
