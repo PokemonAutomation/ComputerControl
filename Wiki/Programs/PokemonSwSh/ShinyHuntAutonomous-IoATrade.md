@@ -1,9 +1,8 @@
 # Shiny Hunt (Autonomous) - IoA Trade
 
 **Related Programs:**
-- **Microcontroller:** [Shiny Hunt Unattended: IoA Trade](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-IoATrade.md)
-- **Computer Control:** [Shiny Hunt Unattended: IoA Trade](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-IoATrade.md)
-- **Computer Control:** [Shiny Hunt Autonomous: IoA Trade](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-IoATrade.md) (this program)
+- [Shiny Hunt Unattended: IoA Trade](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-IoATrade.md)
+- [Shiny Hunt Autonomous: IoA Trade](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-IoATrade.md) (this program)
 
 
 ## Program Description
