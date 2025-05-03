@@ -4,7 +4,6 @@
 - [Ball Thrower](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/BallThrower.md) (this program)
 - [Autonomous Ball Thrower](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/AutonomousBallThrower.md)
 
-The microcontroller and computer-control versions of this program are functionally identical.
 The "autonomous" version of this program will automatically detect stop conditions such as successful catch, somebody faints, out of balls.
 
 ## Program Description
