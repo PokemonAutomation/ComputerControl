@@ -1,11 +1,8 @@
 # Shiny Hunt (Unattended) - Strong Spawn
 
 **Related Programs:**
-- **Microcontroller:** [Shiny Hunt Unattended: Strong Spawn](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md)
-- **Computer Control:** [Shiny Hunt Unattended: Strong Spawn](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md) (this program)
-- **Computer Control:** [Shiny Hunt Autonomous: Strong Spawn](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-StrongSpawn.md)
-
-The "Unattended" versions are functionally identical between the microcontroller and computer-control versions.
+- [Shiny Hunt Unattended: Strong Spawn](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md) (this program)
+- [Shiny Hunt Autonomous: Strong Spawn](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-StrongSpawn.md)
 
 The last one on the list is the most advanced. It can detect shinies, distinguish stars from squares, stop on them, and notify the user.
 
