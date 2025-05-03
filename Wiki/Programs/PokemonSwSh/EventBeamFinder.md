@@ -1,12 +1,5 @@
 # Event Beam Finder
 
-**Related Programs:**
-- **Microcontroller:** [Event Beam Finder](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/EventBeamFinder.md)
-- **Computer Control:** [Event Beam Finder](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/EventBeamFinder.md) (this program)
-
-The microcontroller and computer-control versions of this program are functionally identical.
-
-
 ## Program Description
 
 Drop wishing pieces between two dens until you find an event den.
