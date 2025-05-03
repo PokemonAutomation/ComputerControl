@@ -1,12 +1,5 @@
 # Date Spam - Loto Farmer
 
-**Related Programs:**
-- **Microcontroller:** [Date Spam - Loto Farmer](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-LotoFarmer.md)
-- **Computer Control:** [Date Spam - Loto Farmer](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-LotoFarmer.md) (this program)
-
-The microcontroller and computer-control versions of this program are functionally identical.
-
-
 ## Program Description
 
 LotoFarmer will farm the loto. It requires activating the Y-Comm glitch.
