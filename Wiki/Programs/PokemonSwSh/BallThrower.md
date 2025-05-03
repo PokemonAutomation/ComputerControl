@@ -1,9 +1,8 @@
 # Ball Thrower
 
 **Related Programs:**
-- **Microcontroller:** [Ball Thrower](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/BallThrower.md)
-- **Computer Control:** [Ball Thrower](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/BallThrower.md) (this program)
-- **Computer Control:** [Autonomous Ball Thrower](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/AutonomousBallThrower.md)
+- [Ball Thrower](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/BallThrower.md) (this program)
+- [Autonomous Ball Thrower](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/AutonomousBallThrower.md)
 
 The microcontroller and computer-control versions of this program are functionally identical.
 The "autonomous" version of this program will automatically detect stop conditions such as successful catch, somebody faints, out of balls.
