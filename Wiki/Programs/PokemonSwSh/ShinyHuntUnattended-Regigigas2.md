@@ -1,12 +1,8 @@
 # Shiny Hunt (Unattended) - Regigigas 2
 
 **Related Programs:**
-- **Microcontroller:** [Shiny Hunt Unattended: Regigigas](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-Regigigas.md)
-- **Microcontroller:** [Shiny Hunt Unattended: Regigigas2](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-Regigigas2.md)
 - **Computer Control:** [Shiny Hunt Unattended: Regigigas2](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-Regigigas2.md) (this program)
 - **Computer Control:** [Shiny Hunt Autonomous: Regigigas2](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-Regigigas2.md)
-
-The "Unattended" versions of Regigigas2 are functionally identical between the microcontroller and computer-control versions.
 
 The last one on the list is the most advanced. It can detect shinies, distinguish stars from squares, stop on them, and notify the user.
 
