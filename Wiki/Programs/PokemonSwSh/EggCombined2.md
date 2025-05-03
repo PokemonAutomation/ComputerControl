@@ -1,12 +1,5 @@
 # Egg Combined 2
 
-**Related Programs:**
-- **Microcontroller:** [Egg Combined 2](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/EggCombined2.md)
-- **Computer Control:** [Egg Combined 2](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/EggCombined2.md) (this program)
-
-The microcontroller and computer-control versions of this program are functionally identical.
-
-
 ## Program Description
 
 ***(Do not use this program until you are experiented with [EggFetcher2](EggFetcher2.md) and [EggHatcher](EggHatcher.md). This program is very difficult to use and will require understanding of those simpler programs to use properly.)***
