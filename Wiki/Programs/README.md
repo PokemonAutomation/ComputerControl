@@ -1,12 +1,6 @@
 # Program List (Computer Control)
 
-This is a list of all the computer-control programs. To run these programs, you need the [full computer-control setup](/Wiki/SetupGuide/README.md).
-
-For microcontroller-only programs, go to the [Microcontroller repository](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md).
-
-Nearly every program that exists for microcontroller is also available here under computer-control either as a functionally identical port, or an improved version utilizing video/audio feedback.
-
-Therefore, computer-control programs completely supercede the microcontroller programs if you have the hardware for it.
+This is a list of all the computer-control programs. To run these programs, you need the [computer-control setup](/Wiki/SetupGuide/README.md).
 
 **Notes:**
 - Programs that require video feedback cannot run on the Switch Lite because it does not have HDMI output.
