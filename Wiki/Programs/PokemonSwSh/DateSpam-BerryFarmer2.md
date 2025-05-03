@@ -1,10 +1,9 @@
 # Date Spam - Berry Farmer 2
 
 **Related Programs:**
-- **Microcontroller:** [Date Spam - Berry Farmer](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-BerryFarmer.md)
-- **Computer Control:** [Date Spam - Berry Farmer](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-BerryFarmer.md)
-- **Computer Control:** [Date Spam - Berry Farmer 2](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-BerryFarmer2.md) (this program)
-- **Computer Control:** [Shiny Hunt (Autonomous) - Berry Tree](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-BerryTree.md)
+- [Date Spam - Berry Farmer](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-BerryFarmer.md)
+- [Date Spam - Berry Farmer 2](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-BerryFarmer2.md) (this program)
+- [Shiny Hunt (Autonomous) - Berry Tree](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-BerryTree.md)
 
 This version of the program uses sound feedback to be more efficient.
 
