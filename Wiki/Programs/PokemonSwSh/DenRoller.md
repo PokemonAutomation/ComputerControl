@@ -1,12 +1,5 @@
 # Den Roller
 
-**Related Programs:**
-- **Microcontroller:** [Den Roller](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DenRoller.md)
-- **Computer Control:** [Den Roller](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DenRoller.md) (this program)
-
-The computer-control version of this program provides substantial improvements over the microcontroller version.
-
-
 ## Program Description
 
 Roll a den forward by N days, show what it is, then reset. Use this program to roll for a specific Pokémon in your den.
