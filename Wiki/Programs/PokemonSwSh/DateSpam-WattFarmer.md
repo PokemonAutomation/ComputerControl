@@ -1,17 +1,10 @@
 # Date Spam - Watt Farmer
 
-**Related Programs:**
-- **Microcontroller:** [Date Spam - Watt Farmer](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-WattFarmer.md)
-- **Computer Control:** [Date Spam - Watt Farmer](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/DateSpam-WattFarmer.md) (this program)
-
-The microcontroller and computer-control versions of this program are functionally identical.
-
-
 ## Program Description
 
 WattFarmer will farm watts from a wishing piece beam. It requires activating the Y-Comm glitch.
 
-This program runs at 7.2 seconds per fetch. This is about 1 million watts/hour at 2000/fetch.
+With a wired controller, this program runs at 7.2 seconds per fetch. This is about 1 million watts/hour at 2000/fetch. Wireless and tick-imprecise controllers will be slower.
 
 <img src="images/DateSpam-WattFarmer-0.png">
 
