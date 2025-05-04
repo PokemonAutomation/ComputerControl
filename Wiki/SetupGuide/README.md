@@ -103,10 +103,7 @@ We currently support 3 different types of controllers. So take your pick on whic
 | --- | --- | --- |
 | You are completely new to automation. | Wireless: ESP32-WROOM | The best balance between price, ease of setup, and program coverage for beginners. |
 | You are an existing Computer Control user who already has the Arduino/Teensy setup. | Wired: Keep what you have. | What you have already works. There's no need to invest in more hardware unless you want to run LGPE programs or you simply want to cleanup your setup. |
-| You are coming from another microcontroller-based automation project. | Depends... | Check what you have as it may already work. There are quite a few other projects out there that share our Arduino/Teensy/ProMicro + UART setup. If that's what you're coming from, you probably already have everything. |
-| You are an existing Microcontroller user who already has an Arduino/Teensy, but not serial. (You were probably forced here because of the firmware 20.0 update.) | Wireless: ESP32-WROOM | While you can reuse your existing hardware, you still need to setup the UART which is complicated. A brand new ESP32 setup is still cheaper and is much easier. |
 | You are a CFW user who already uses sys-botbase with Sysbot/Forkbot/not-Forkbot. | Custom Firmware: sys-botbase | This setup is designed specifically for you at no additional cost (beyond a capture card)! If you want to get serious with CC, you will eventually want to get one of the other microcontroller setups since they are faster and more reliable. |
-| You are a power user who travels a lot or otherwise wants to remotely control your automation. | Wired: ESP32-S3 | If wireless disconnects, you won't be able to regain control of your Switch. So you need a wired setup. |
 | You are a power user who wishes to automate many Switches in a farm. | Wired: ESP32-S3 | If you are a power user, you don't need us to tell you what to do! In any case, we recommend wired since too many wireless devices in a closed area can be problematic. |
 
 Also, don't be afraid to get both wired and wireless setups! Many of us do exactly this!
