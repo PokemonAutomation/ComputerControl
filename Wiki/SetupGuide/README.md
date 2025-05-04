@@ -81,29 +81,35 @@ Ensure the capture card is capable of a video output resolution of 1080p at 30 f
 
 The controller is the most difficult part to setup because there is no off-the-shelf product that will do it for you.
 
-In the past, the only controller we supported was the wired pro controller. But as of today, we have expanded support to 3 different setups!
+We currently support 3 different types of controllers. So take your pick on which suits you the best.
 
 | **Wireless** | **Wired** | **Custom Firmware** |
 | --- | --- | --- |
 | <img src="Images/ControllerSetup-ESP32-WROOM.jpg" width="1000"> | <img src="Images/ControllerSetup-ESP32-S3.jpg" width="1000"> | <img src="Images/ControllerSetup-sbb.jpg" width="1000"> |
 | **Supported Controller Types:**<br>- Wireless Pro Controller<br>- Left Joycon<br>- Right Joycon | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> |
 | **Supported Microcontrollers:**<br>ESP32-WROOM-32<br><br><br><br><br> | **Supported Microcontrollers:**<br>ESP32-S3<br>Arduino Uno R3<br>Arduino Leonardo<br>Teensy 2.0 / Teensy++ 2.0<br>Pro Micro | **Supported Microcontrollers:**<br>None required.<br><br><br><br><br> |
-| Cheapest and easiest to setup for the average user. | More expensive. Easy to setup for ESP32-S3. More difficult for the others. | Requires a hacked Switch running custom firmware (CFW). |
-| Runs nearly all programs including LGPE.* | Runs all programs except for LGPE.*  | Runs most programs.* Cannot run LGPE.<br>Cannot run programs that require precise button timings. |
-| Fast and reliable for most programs.<br>Cannot run Sword/Shield day-skippers. | Fastest and most reliable for high-speed programs. (date-spam exploits, FCE) | Runs most programs well. Slow and unreliable for high-speed programs. |
-| Not recommended for remote access.<br>Not recommended for high density setups due to wireless interference. | Very good for remote access. | Not recommended for remote access. |
+| Cheapest and easiest to setup for the average user. | More expensive. Also easy to setup if you pick ESP32-S3. Others are harder to setup. | Requires a hacked Switch running custom firmware (CFW). |
+| Can run LGPE programs.<br>Cannot run Sword/Shield day-skippers.<br>Runs all other programs.* | Cannot run LGPE programs.<br>Runs all other programs.* | Cannot run LGPE programs.<br>Runs most other programs.*<br>Cannot run programs that require timing precision. |
+| Fast and reliable for most programs. | Fastest and most reliable. Best for high-speed programs (date-spam exploits, FCE). | Runs most programs well. Slow and unreliable for high-speed programs. |
+| Not recommended for remote access.<br>Not recommended for high density setups due to wireless interference. | Very good for remote access.<br>Very good for high density setups. | Not recommended for remote access. |
 | Recommended for all users including beginners. | Recommended users who want maximum performance and reliability. | Recommended for regular CFW users who want to try CC programs with minimal investment. |
 
 *Please consult the [program list](/Wiki/Programs/README.md) for the full compatibility table.
 
-**If you are new to automation and are interested in trying it out, we recommend the wireless ESP32 setup.**
+### **Recommendations:**
 
-If you are an existing user with the old Arduino/Teensy/ProMicro setup, there is no need to upgrade to these newer setups unless...
-- You wish to automate LGPE (Let's Go Pikachu and Eevee).
-- You want to get rid of your complicated and bulky wiring setup and replace it with something cleaner and slimmer.
 
-We don't recommend the CFW/sys-botbase setup to anyone except those who already have CFW and are seasoned users of Sysbot and other hacked Switch projects. This is more of a, "Hey, try us out!" sort of thing for those who already get all their automation from CFW-land.
+| **User Type** | **Recommendation** | **Comments** |
+| --- | --- | --- |
+| You are completely new to automation. | Wireless: ESP32-WROOM | The best balance between price, ease of setup, and program coverage for beginners. |
+| You are an existing Computer Control user who already has the Arduino/Teensy setup. | Wired: Keep what you have. | What you have already works. There's no need to invest in more hardware unless you want to run LGPE programs or you simply want to cleanup your setup. |
+| You are coming from another microcontroller-based automation project. | Depends... | Check what you have as it may already work. There are quite a few other projects out there that share our Arduino/Teensy/ProMicro + UART setup. If that's what you're coming from, you probably already have everything. |
+| You are an existing Microcontroller user who already has an Arduino/Teensy, but not serial. (You were probably forced here because of the firmware 20.0 update.) | Wireless: ESP32-WROOM | While you can reuse your existing hardware, you still need to setup the UART which is complicated. A brand new ESP32 setup is still cheaper and is much easier. |
+| You are a CFW user who already uses sys-botbase with Sysbot/Forkbot/not-Forkbot. | Custom Firmware: sys-botbase | This setup is designed specifically for you at no additional cost (beyond a capture card)! If you want to get serious with CC, you will eventually want to get one of the other microcontroller setups since they are faster and more reliable. |
+| You are a power user who travels a lot or otherwise wants to remotely control your automation. | Wired: ESP32-S3 | If wireless disconnects, you won't be able to regain control of your Switch. So you need a wired setup. |
+| You are a power user who wishes to automate many Switches in a farm. | Wired: ESP32-S3 | If you are a power user, you don't need us to tell you what to do! In any case, we recommend wired since too many wireless devices in a closed area can be problematic. |
 
+Also, don't be afraid to get both wired and wireless setups! Many of us do exactly this!
 
 ## Step 2: General Setup: (setting up everything except the controller)
 
