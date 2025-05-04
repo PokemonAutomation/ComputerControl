@@ -77,7 +77,7 @@ Should be pretty self-explanatory:
 1. Connect the ESP32 to your computer using the USB cable.
 2. Place the ESP32 near your Switch. (within 3ft line-of-sight for maximum stability)
 
-And that's it! So much simpler than the wired setup right?
+And that's it!
 
 
 ## Software Setup
