@@ -4,7 +4,7 @@ This is a list of all the computer-control programs. To run these programs, you 
 
 **Notes:**
 - Programs that require video feedback cannot run on the Switch Lite because it does not have HDMI output.
-- Not every program can run on every controller. Check the table for compability.
+- Not every program can run on every controller. Please check the table for compatibility.
 - Table entries marked as "Degraded" mean that the program will run, but performance and reliability may be severely degraded.
 
 **Jump To:**
