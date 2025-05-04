@@ -92,7 +92,7 @@ We currently support 3 different types of controllers. So take your pick on whic
 | Can run LGPE programs.<br>Cannot run Sword/Shield day-skippers.<br>Runs all other programs.* | Cannot run LGPE programs.<br>Runs all other programs.* | Cannot run LGPE programs.<br>Runs most other programs.*<br>Cannot run programs that require timing precision. |
 | Fast and reliable for most programs. | Fastest and most reliable. Best for high-speed programs (date-spam exploits, FCE). | Runs most programs well. Slow and unreliable for high-speed programs. |
 | Not recommended for remote access.<br>Not recommended for high density setups due to wireless interference. | Very good for remote access.<br>Very good for high density setups. | Not recommended for remote access. |
-| Recommended for all users including beginners. | Recommended users who want maximum performance and reliability. | Recommended for regular CFW users who want to try CC programs with minimal investment. |
+| Recommended for all users including beginners. | Recommended for users who want maximum performance and reliability. | Recommended for regular CFW users who want to try CC programs with minimal investment. |
 
 *Please consult the [program list](/Wiki/Programs/README.md) for the full compatibility table.
 
