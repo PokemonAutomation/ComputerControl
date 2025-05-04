@@ -277,6 +277,7 @@ It is as cute as it is stupid, and it will give you problems. We tried it so you
 <hr>
 
 **Credits:**
+- Ericzklm
 - Kuroneko/Mysticial
 - jw
 - kichithewolf
