@@ -106,11 +106,9 @@ Open up System Information and look for it under USB → USB Device Tree. If you
 <img src="../Images/Mac/usb-device-tree.png" width=400>
 
 ### Step 2: Get ESP-32 PABotBase Firmware.
-Download the latest version of our programs from [here](https://github.com/PokemonAutomation/ComputerControl/releases).
+Download the latest version of PABotBase-ESP32 from [here](https://github.com/PokemonAutomation/AutoBuildRelease/releases). If you have the ESP32-S3 variant, download the corresponding ESP32-S3 binary.
 
-> (The link should look like something like `PA-SerialPrograms-0.x.x-xxxxxxxx.zip`)
-
-Unzip it and find `PABotBase-ESP32-<version>.bin`
+> Make sure to download the PABotBase that's part of the same release as your SerialPrograms
 
 ### Step 3: Flash the firmware to the ESP32.
 
@@ -245,6 +243,10 @@ If nothing works, you are not alone! This is a common problem with ESP32 boards.
  - Further reading: https://www.reddit.com/r/esp32/comments/11awl5h/a_fatal_error_occurred_failed_to_connect_to_esp32/
  - Come to [our Discord](https://discord.gg/cQ4gWxN) for help.
 
+### Unable to flash the ESP32: Device not found
+ - Try switching the USB cable. Make sure it supports data transfer, not just power delivery.
+    - When plugging in the ESP32, the device should show up in `System Information`, under Hardware > USB.
+
 ### Unable to connect to the ESP32.
 
 If you are unable to connect to the ESP32 in step 4, it means the ESP32 either isn't booting up properly, or it isn't properly flashed. You may also try disconnecting and reconnecting the ESP32 device. If this still fails, review step 2 above and ensure that you flashed the firmware properly onto the device.
@@ -277,7 +279,7 @@ It is as cute as it is stupid, and it will give you problems. We tried it so you
 <hr>
 
 **Credits:**
-- Ericzklm
+- Gimikyu/Ericzklm
 - Kuroneko/Mysticial
 - jw
 - kichithewolf

@@ -14,7 +14,7 @@ If your MacOS version is Monterrey (12) or lower, you will need to compile Seria
 
 ### Download SerialPrograms-Installer.dmg
 
-For those with MacOS Ventura (13) and later, download the latest version of our programs [here](https://github.com/PokemonAutomation/Arduino-Source/releases)
+For those with MacOS Ventura (13) and later, download the latest version of our programs [here](https://github.com/PokemonAutomation/AutoBuildRelease/releases)
 
 
 ## Step 2: Open up SerialPrograms.
