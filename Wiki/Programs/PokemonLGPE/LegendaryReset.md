@@ -4,6 +4,8 @@
 
 Shiny hunt Legendary Pokemon by resetting the game.
 
+[Demo Video (Youtube)](https://youtu.be/OfIMRUpcehU?si=Ce-jKAddN91fQ4m5)
+
 ## Settings
 
 1. As with all LGPE programs, Right Joycon (ESP32 setup) is required. This program will not run otherwise.
