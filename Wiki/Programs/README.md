@@ -291,6 +291,8 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 | **Glitches (v1.0.1):** |
 | [Ride Cloner (1.0.1)](PokemonSV/RideCloner-101.md)                    | Video         | Yes | Yes |     |
 | [Clone Items (1.0.1)](PokemonSV/CloneItems-101.md)                    | Video         | Yes | Yes |     |
+| **Beta:** |
+| [AutoStory](PokemonSV/AutoStory.md)                    | Video         | Untested | Yes |     |
 
 
 ## Zelda: Tears of the Kingdom
