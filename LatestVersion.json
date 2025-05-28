@@ -3,7 +3,7 @@
         "VersionMajor": 0,
         "VersionMinor": 53,
         "VersionPatch": 3,
-        "Changes:": "- Fixed date-spam for LGPE programs.<br>- Date-spam has been tweaked to be less likely to sleep your Switch when it messes up.<br>- Fixed an issue that may cause programs to hang when stopping."
+        "Changes": "- Fixed date-spam for LGPE programs.<br>- Date-spam has been tweaked to be less likely to sleep your Switch when it messes up.<br>- Fixed an issue that may cause programs to hang when stopping."
     },
     "Beta": {
         "VersionMajor": 0,
