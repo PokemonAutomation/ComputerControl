@@ -8,6 +8,13 @@
  - [**Step 3:** Controller Setup](#step-3-controller-setup)
  - [**Step 4:** Finishing up](#step-4-finishing-up)
 
+
+### Note: Most of this project is broken on the Switch 2 and there is no ETA on when we will be able to fix everything.
+
+If you wish to automate, please stay on the Switch 1 for now.
+
+--------
+
 This is the setup guide for the computer control (CC) automation setup. We recommend that you read this before purchasing any hardware. Cost estimates will vary depending on the method you choose.
 
 The computer control (CC) automation setup consists of 4 main components:
@@ -60,6 +67,8 @@ If you are willing and able to go down this rabbit hole:
 
 If you're going to automate a Nintendo Switch game, then you need to have a Nintendo Switch.
 
+**Switch 2 Update: Most programs are broken on Switch 2 with no ETA to fix everything. So do not get the Switch 2 for automation.**
+
 However, it needs to be a *regular* Nintendo Switch that can be docked with HDMI video output. You cannot use a Switch Lite. We need the video output for the computer to see your Switch. Unfortunately you cannot just point a camera at the Switch Lite's screen since that comes with too much loss of quality. (Even if this worked, it's bad idea anyway since 24/7 gameplay will burn out the screen.)
 
 
@@ -88,6 +97,7 @@ We currently support 3 different types of controllers. So take your pick on whic
 | <img src="Images/ControllerSetup-ESP32-WROOM.jpg" width="1000"> | <img src="Images/ControllerSetup-ESP32-S3.jpg" width="1000"> | <img src="Images/ControllerSetup-sbb.jpg" width="1000"> |
 | **Supported Controller Types:**<br>- Wireless Pro Controller<br>- Left Joycon<br>- Right Joycon | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> |
 | **Supported Microcontrollers:**<br>ESP32-WROOM-32<br><br><br><br><br> | **Supported Microcontrollers:**<br>ESP32-S3<br>Arduino Uno R3<br>Arduino Leonardo<br>Teensy 2.0 / Teensy++ 2.0<br>Pro Micro | **Supported Microcontrollers:**<br>None required.<br><br><br><br><br> |
+| Currently does not work on Switch 2. | Works on Switch 2. | Does not work on Switch 2 due to lack of CFW. |
 | Cheapest and easiest to setup for the average user. | More expensive. Also easy to setup if you pick ESP32-S3. Others are harder to setup. | Requires a hacked Switch running custom firmware (CFW). |
 | Can run LGPE programs.<br>Cannot run Sword/Shield day-skippers.<br>Runs all other programs.* | Cannot run LGPE programs.<br>Runs all other programs.* | Cannot run LGPE programs.<br>Runs most other programs.*<br>Cannot run programs that require timing precision. |
 | Fast and reliable for most programs. | Fastest and most reliable. Best for high-speed programs (date-spam exploits, FCE). | Runs most programs well. Slow and unreliable for high-speed programs. |
@@ -98,6 +108,7 @@ We currently support 3 different types of controllers. So take your pick on whic
 
 ### **Recommendations:**
 
+**Switch 2 Update: The ESP32 wireless setup currently does not work on the Switch 2 at all and we don't know how to fix it yet. If you intend on automating the Switch 2, your own option is the wired ESP32-S3 or the Arduino setups.**
 
 | **User Type** | **Recommendation** | **Comments** |
 | --- | --- | --- |
