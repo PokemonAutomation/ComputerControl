@@ -243,6 +243,9 @@ If nothing works, you are not alone! This is a common problem with ESP32 boards.
 - Try switching the USB cable. Make sure it supports data transfer, not just power delivery.
    - When plugging in the ESP32, the device should show up in `Device Manger`, under Ports.
 
+### Problem with flashing ESP32: Download tool shows `FINISH`, but no green progress bar appeared. Log shows `NO XMC flash detected!`
+Ensure the top left checkbox is checked. The top row should be green. Ensure the correct COM is selected, and BAUD is set to 460800. Then try flashing again.
+
 ### Unable to connect to the ESP32.
 
 If you are unable to connect to the ESP32 in step 4, it means the ESP32 either isn't booting up properly, or it isn't properly flashed. You may also try disconnecting and reconnecting the ESP32 device. If this still fails, review step 2 above and ensure that you flashed the firmware properly onto the device.
