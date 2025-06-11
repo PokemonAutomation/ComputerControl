@@ -97,7 +97,7 @@ We currently support 3 different types of controllers. So take your pick on whic
 | <img src="Images/ControllerSetup-ESP32-WROOM.jpg" width="1000"> | <img src="Images/ControllerSetup-ESP32-S3.jpg" width="1000"> | <img src="Images/ControllerSetup-sbb.jpg" width="1000"> |
 | **Supported Controller Types:**<br>- Wireless Pro Controller<br>- Left Joycon<br>- Right Joycon | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> |
 | **Supported Microcontrollers:**<br>ESP32-WROOM-32<br><br><br><br><br> | **Supported Microcontrollers:**<br>ESP32-S3<br>Arduino Uno R3<br>Arduino Leonardo<br>Teensy 2.0 / Teensy++ 2.0<br>Pro Micro | **Supported Microcontrollers:**<br>None required.<br><br><br><br><br> |
-| Currently does not work on Switch 2. | Works on Switch 2. | Does not work on Switch 2 due to lack of CFW. |
+| Currently does not work on Switch 2. | ESP32-S3 works on Switch 2.<br>The others do not. | Does not work on Switch 2 due to lack of CFW. |
 | Cheapest and easiest to setup for the average user. | More expensive. Also easy to setup if you pick ESP32-S3. Others are harder to setup. | Requires a hacked Switch running custom firmware (CFW). |
 | Can run LGPE programs.<br>Cannot run Sword/Shield day-skippers.<br>Runs all other programs.* | Cannot run LGPE programs.<br>Runs all other programs.* | Cannot run LGPE programs.<br>Runs most other programs.*<br>Cannot run programs that require timing precision. |
 | Fast and reliable for most programs. | Fastest and most reliable. Best for high-speed programs (date-spam exploits, FCE). | Runs most programs well. Slow and unreliable for high-speed programs. |
@@ -108,14 +108,12 @@ We currently support 3 different types of controllers. So take your pick on whic
 
 ### **Recommendations:**
 
-**Switch 2 Update: The ESP32 wireless setup currently does not work on the Switch 2 at all and we don't know how to fix it yet. If you intend on automating the Switch 2, your own option is the wired ESP32-S3 or the Arduino setups.**
-
 | **User Type** | **Recommendation** | **Comments** |
 | --- | --- | --- |
-| You are completely new to automation. | Wireless: ESP32-WROOM | The best balance between price, ease of setup, and program coverage for beginners. |
-| You are an existing Computer Control user who already has the Arduino/Teensy setup. | Wired: Keep what you have. | What you have already works. There's no need to invest in more hardware unless you want to run LGPE programs or you simply want to cleanup your setup. |
+| You are completely new to automation. | Wired: ESP32-S3 | Currently the only controller that works on the Switch 2. Easy to setup. |
+| If you want to automate LGPE. | Wireless ESP32-WROOM | This is the only option to automate LGPE. |
+| You are an existing Computer Control user who already has the Arduino/Teensy setup. | Wired: Keep what you have. | Unless you need to automated LGPE or on the Switch 2, what you have already works. |
 | You are a CFW user who already uses sys-botbase with Sysbot/Forkbot/not-Forkbot. | Custom Firmware: sys-botbase | This setup is designed specifically for you at no additional cost (beyond a capture card)! If you want to get serious with CC, you will eventually want to get one of the other microcontroller setups since they are faster and more reliable. |
-| You are a power user who wishes to automate many Switches in a farm. | Wired: ESP32-S3 | If you are a power user, you don't need us to tell you what to do! In any case, we recommend wired since too many wireless devices in a closed area can be problematic. |
 
 Also, don't be afraid to get both wired and wireless setups! Many of us do exactly this!
 
