@@ -11,20 +11,35 @@ There are different skippers for each date format. Use the one that matches your
 
 ## Program Description
 
-This is the EU day skipper that runs at 7350 - 7550 skips/hour.
+This is the EU day skipper that runs at about:
+- Switch 1: **7350 - 7550** skips/hour
+- Switch 2: **5730** skips/hour
 
-The exact speed will depend on the real life year. For the year 2020, it will run at about 7541 skips/hour.
+On the Switch 1, the exact speed will depend on the real life year. For the year 2020, it will run at about 7541 skips/hour.
 
-> Note that this skipper is slower than the [Japanese date skipper](DaySkipperJPN.md). If you are doing large skips, it is recommended to change the Switch language to Japanese and use the Japanese skipper.
+> On the Switch 1, this skipper is slower than the [Japanese date skipper](DaySkipperJPN.md). If you are doing large skips, it is recommended to change the Switch language to Japanese and use the Japanese skipper.
 
 <img src="images/DaySkipperEU-0.png">
 
 ### Setup of Settings
 
+This setup here depends on whether you are on a Switch 1 or a Switch 2.
+
+**Switch 1:**
+
 1. System time: Un-synced
 2. The language/region for the Switch must have a date layout of dd/mm/year/hour/min.
    1. Unlike the JPN date skipper, you do not need to set the starting the date. However you do need to set the current year correctly.
 3. The VS (Y-COMM) glitch must be active.
+4. The console type is set to "Switch 1".
+
+**Switch 2:**
+
+1. System time: Un-synced
+2. The language/region for the Switch must have a date layout of dd/mm/year/hour/min.
+3. Set the date to the 1st of a month with 31 days that is not March.
+4. The VS (Y-COMM) glitch must be active.
+5. The console type is set to any of the Switch 2 options.
 
 ### Instructions
 
@@ -68,14 +83,18 @@ Skip this many frames. The actual number of skips performed may be less if any e
 
 This can be as large as 4,294,967,295. But it will take 60+ years to skip that many frames.
 
-### Real Life Year:
+### Real Life Year (Switch 1 only):
 
 Set this to the current year in real life. 
 More specifically, this needs to be the year that the time-sync will change the date to.
 
-### Auto-Recover Interval:
+This option is ignored on the Switch 2.
+
+### Auto-Recover Interval (Switch 1 only):
 
 Perform an auto-recovery every this number of skips. This is the recovery routine that recovers from trapping errors. You shouldn't need to touch this value.
+
+This option is ignored on the Switch 2.
 
 
 ## Credits
