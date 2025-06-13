@@ -11,7 +11,9 @@ There are different skippers for each date format. Use the one that matches your
 
 ## Program Description
 
-This is the original "7k Skipper". It is a Japanese day skipper that runs at 7619 skips/hour.
+This is the original "7k Skipper".
+- Switch 1: **7619** skips/hour
+- Switch 2: **5730** skips/hour
 
 <img src="images/DaySkipperJPN-0.png">
 
@@ -20,7 +22,8 @@ This is the original "7k Skipper". It is a Japanese day skipper that runs at 761
 1. System time: Un-synced
 2. The language for your Switch must be set to Japanese (日本語).
 3. Set the date to the 1st of a month with 31 days that is not March.
-3. The VS (Y-COMM) glitch must be active.
+4. The VS (Y-COMM) glitch must be active.
+5. The console type must be correctly set to either the Switch 1 or one of the Switch 2 options.
 
 ### Instructions
 
@@ -64,9 +67,11 @@ Skip this many frames. The actual number of skips performed may be less if any e
 
 This can be as large as 4,294,967,295. But it will take 60+ years to skip that many frames.
 
-### Auto-Recover Interval:
+### Auto-Recover Interval (Switch 1 only):
 
 Perform an auto-recovery every this number of skips. This is the recovery routine that recovers from trapping errors. You shouldn't need to touch this value.
+
+This option is ignored on the Switch 2.
 
 
 ## Credits
