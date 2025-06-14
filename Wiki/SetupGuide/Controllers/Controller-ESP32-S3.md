@@ -94,9 +94,10 @@ If not, you should go back to the [general setup guide](../README.md) and start 
 <img src="../Images/ControllerSetup-ESP32-S3-Flash-0.png">
 
 4. You will then be prompted with this complicated window. Fill everything as follows:
-   - Check the box for the first entry.
+   - Check the box for the first entry, at the top left.
    - For the first entry, click on the `...` and browse for `PABotBase-ESP32-S3-2025032100.bin` in the serial programs download folder. (version number may vary)
    - The right-most box should be a zero.
+   - **The top row should now be green** (see image below). If not, ensure that the top left checkbox is checked.
    - At the bottom right corner, select the COM port of your ESP32-S3.
    - Change "BAUD" to 460800.
 
