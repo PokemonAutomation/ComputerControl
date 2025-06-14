@@ -13,7 +13,7 @@ There are different skippers for each date format. Use the one that matches your
 
 This is the US day skipper that runs at about:
 - Switch 1: **7000 - 7200** skips/hour
-- Switch 2: **5512** skips/hour
+- Switch 2: **5443** skips/hour
 
 On the Switch 1, the exact speed will depend on the real life year. For the year 2020, it will run at about 7180 skips/hour.
 
