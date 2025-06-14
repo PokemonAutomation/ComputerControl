@@ -13,7 +13,7 @@ There are different skippers for each date format. Use the one that matches your
 
 This is the original "7k Skipper".
 - Switch 1: **7619** skips/hour
-- Switch 2: **5730** skips/hour
+- Switch 2: **5655** skips/hour
 
 <img src="images/DaySkipperJPN-0.png">
 
