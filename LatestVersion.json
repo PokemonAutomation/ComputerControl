@@ -13,6 +13,7 @@
     "PrivateBeta": {
         "VersionMajor": 0,
         "VersionMinor": 54,
-        "VersionPatch": 1
+        "VersionPatch": 1,
+        "Changes": "<b>Changes:</b><br>- Preliminary support for Switch 2."
     }
 }
