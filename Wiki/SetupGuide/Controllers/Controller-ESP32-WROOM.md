@@ -249,7 +249,7 @@ Ensure the top left checkbox is checked. The top row should be green. Ensure the
 
 ### Unable to connect to the ESP32.
 
-If you are unable to connect to the ESP32 in step 4, it means the ESP32 either isn't booting up properly, or it isn't properly flashed. You may also try disconnecting and reconnecting the ESP32 device. If this still fails, review step 2 above and ensure that you flashed the firmware properly onto the device.
+If you are unable to connect to the ESP32 in step 4, it means the ESP32 either isn't booting up properly, or it isn't properly flashed. Ensure you have reset the device. Try clicking the `RST/EN` button. You may also try disconnecting and reconnecting the cable to the ESP32 device. If this still fails, review step 2 above and ensure that you flashed the firmware properly onto the device.
 
 
 ### ESP32 fails to connect to Switch.
