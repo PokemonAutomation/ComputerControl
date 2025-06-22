@@ -24,7 +24,7 @@ Alternatively, the program also can stop if a shiny is heard during the route to
 
 **Game Settings:**
 1. Text Speed: Fast
-2. Auto-save is off.
+2. Auto-Save: Off
 
 
 ### Instructions

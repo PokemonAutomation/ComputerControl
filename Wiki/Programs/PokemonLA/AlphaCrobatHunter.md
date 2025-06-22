@@ -36,7 +36,7 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/9498823622
 
 **Game Settings:**
 1. Text Speed: Fast
-2. Auto-save is off.
+2. Auto-Save: Off
 
 
 ### Instructions

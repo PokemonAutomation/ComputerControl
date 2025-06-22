@@ -25,7 +25,7 @@ Note: MMO related functionalities are only present in upcoming Program v0.16.
 
 **Game Settings:**
 1. Text Speed: Fast
-2. Auto-save is off.
+2. Auto-Save: Off
 3. If MMO Pokémon are desired:
    
    3.1 Remove all the player-placed map markers (e.g. flag, berries, ores, Pokémon and pokeballs) that

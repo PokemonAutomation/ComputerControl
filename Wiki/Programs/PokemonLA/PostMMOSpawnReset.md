@@ -33,7 +33,7 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/9701645462
 
 **Game Settings:**
 1. Text Speed: Fast
-2. Auto-save is off.
+2. Auto-Save: Off
 3. Vertical and Horizontal camera controls should both be ***Regular***. Do not set either one to inverted.
 4. Camera sensitivity should be at the default value of 3.
 5. Autosave should be off.

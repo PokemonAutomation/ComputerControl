@@ -22,7 +22,7 @@ Starting from version 0.30.x, you can auto-host the remaining raid slots online 
 
 1. Text Speed: Fast
 2. System time: Un-synced
-3. Auto-save is off.
+3. Auto-Save: Off
 4. Airplane mode is disabled and you are offline.
 5. You have done a raid at least once to clear in-game raid guide.
 6. You must be facing an active Tera raid crystal facing south.

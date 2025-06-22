@@ -37,7 +37,7 @@ Note: we have now a more efficient program to earn money and exp: [Tenacity Cand
 
 **Game Settings:**
 1. Text Speed: Fast
-2. Auto-save is off.
+2. Auto-Save: Off
 
 
 ### Instructions

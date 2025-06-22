@@ -35,7 +35,7 @@ Thus the purpose of this program is cover some of the things that cannot be hunt
 
 **Game Settings:**
 1. Text Speed: Fast
-2. Auto-save is off.
+2. Auto-Save: Off
 3. Vertical and Horizontal camera controls are both ***Regular***. Do not set either one to inverted.
 4. Camera sensititivy it at the default value of 3.
 
