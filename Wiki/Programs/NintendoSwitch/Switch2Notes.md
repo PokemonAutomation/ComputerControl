@@ -50,7 +50,7 @@ There are 3 different Switch setting layouts:
 Most programs can automatically detect which layout it is. But not always.
 In cases where it fails, you will need to manually specify the Switch type in the dropdown.
 
-Program will stop and notify you in the following circumstances:
+Programs will stop and notify you in the following circumstances:
 - You do not set the Switch type, the program needs to know and is unable to detect.
 - You are not specific enough with the Switch type selection, the program needs to know and is unable to detect.
 - Your selection conflicts with what the program has detected.
