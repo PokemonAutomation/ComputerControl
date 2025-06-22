@@ -14,17 +14,24 @@ Note: MMO related functionalities are only present in upcoming Program v0.16.
 
 ### Settings
 
+**Switch Settings:**
 1. Screen size: Must be 100% within the Switch settings
-2. Video Resolution: 1080p or higher in program settings
-   > Text recognition is not reliable at low resolutions.
-3. Text speed is fast.
-4. Make sure the Game Language is set correctly. This program needs to read the Pokémon names!
-5. If MMO Pokémon are desired:
+2. [Switch 2: The profile you are using must be the 1st (left-most) profile.](/Wiki/Programs/NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+2. Audio input is properly setup.
+3. Game Language is set correctly. This program needs to read the Pokémon names!
+
+**Game Settings:**
+1. Text Speed: Fast
+2. Auto-save is off.
+3. If MMO Pokémon are desired:
    
-   5.1 Remove all the player-placed map markers (e.g. flag, berries, ores, Pokémon and pokeballs) that
+   3.1 Remove all the player-placed map markers (e.g. flag, berries, ores, Pokémon and pokeballs) that
 may overlap with MMO Pokémon locations. 
    
-   5.2 Remove all the satchels that may overlap with MMO Pokémon locations.
+   3.2 Remove all the satchels that may overlap with MMO Pokémon locations.
 Picked satchels will respawn randomly on the map after loading the map again after a while.
 So you may need to pick them up repeatedly until all the spawned satchels don't overlap with MMO Pokémon locations.
 

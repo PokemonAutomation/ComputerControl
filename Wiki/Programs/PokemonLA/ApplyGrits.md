@@ -8,6 +8,7 @@ This program will apply Grit items on your party Pokémon to level up their Grit
 
 ### Settings
 
+**Game Settings:**
 1. Text speed is fast.
 
 

@@ -28,10 +28,17 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/9501258122
 
 ### Settings
 
+**Switch Settings:**
 1. Screen size: Must be 100% within the Switch settings
-2. Video Resolution: 1080p or higher in program settings
-3. Audio input is properly setup.
-4. Auto-save is off.
+2. [Switch 2: The profile you are using must be the 1st (left-most) profile.](/Wiki/Programs/NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+2. Audio input is properly setup.
+
+**Game Settings:**
+1. Text Speed: Fast
+2. Auto-save is off.
 
 
 ### Instructions

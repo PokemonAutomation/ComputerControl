@@ -10,10 +10,12 @@ Once they are unlocked, distortions take at most 40 minutes to appear even if yo
 
 ### Settings
 
+**Switch Settings:**
 1. Screen size: Must be 100% within the Switch settings
-2. Video Resolution: 1080p or higher in program settings
-   > Text recognition is not reliable at low resolutions.
-3. Make sure the Game Language is set correctly. This program needs to read the notification!
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+2. Game Language is set correctly. This program needs to read the notification!
 
 ### Instructions
 

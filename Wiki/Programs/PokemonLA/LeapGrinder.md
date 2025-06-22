@@ -21,9 +21,14 @@ Alternatively, the program also can stop if:
 
 ### Settings
 
+**Switch Settings:**
 1. Screen size: Must be 100% within the Switch settings
-2. Video Resolution: 1080p or higher in program settings
-3. Auto-save is off.
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
+1. Text Speed: Fast
 
 
 ### Instructions

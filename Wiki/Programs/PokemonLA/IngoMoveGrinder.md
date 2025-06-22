@@ -18,9 +18,14 @@ This program works on game version 1.0 and later.
 
 ### Settings
 
+**Switch Settings:**
 1. Screen size: Must be 100% within the Switch settings
-2. Video Resolution: 1080p or higher in program settings
-3. Text speed is fast.
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
+1. Text Speed: Fast
 
 
 ### Instructions
