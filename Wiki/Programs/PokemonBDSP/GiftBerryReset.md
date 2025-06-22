@@ -12,12 +12,13 @@ Reset for a rare berry given by the berry NPC in Pastoria City.
 2. Video Resolution: 1080p or higher in program settings
    > Text recognition is not reliable at low resolutions.
 3. Text Speed: Fast
+4. [Switch 2: The profile you are using must be the 1st (left-most) profile.](/Wiki/Programs/NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
 
 ### Instructions
 
 1. Stand facing the npc in her house.
-3. Save the game.
-4. Start the program in game. Make sure the device is the connected controller.
+2. Save the game.
+3. Start the program in game. Make sure the device is the connected controller.
 
 
 ## Options
