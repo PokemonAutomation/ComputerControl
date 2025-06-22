@@ -19,6 +19,10 @@ Clone an entire box of items at a time using the method described here: https://
 
 ### Settings
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+
+**Game Settings:**
 1. Text Speed: Fast
 
 ### Box Setup

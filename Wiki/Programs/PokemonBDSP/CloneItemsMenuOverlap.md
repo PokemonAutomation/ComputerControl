@@ -21,6 +21,13 @@ Clone 5 items at a time using the menu overlap menu method described here: https
 
 ### Settings
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 1. Text Speed: Fast
 
 ### Box and Party

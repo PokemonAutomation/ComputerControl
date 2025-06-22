@@ -6,6 +6,7 @@ AmitySquarePickUpFarmer is used to farm items (rare berries and stickers) your w
 
 ### Setup of Settings
 
+**Game Settings:**
 1. Text Speed: Fast
 
 ### Instructions

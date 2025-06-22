@@ -8,9 +8,14 @@ Shiny hunt Shaymin using the runaway method. This program is faster than [Legend
 
 ### Setup of Settings
 
+**Switch Settings:**
 1. Screen size: Must be 100% within the Switch settings
-2. Video Resolution: 1080p or higher in program settings
-3. Text Speed: Fast
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
+1. Text Speed: Fast
 
 ### Setup of Party
 1. Your lead Pokémon must be able to run away. (faster or holding Smoke Ball)

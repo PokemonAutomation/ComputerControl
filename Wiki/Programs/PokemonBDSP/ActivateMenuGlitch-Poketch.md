@@ -21,6 +21,7 @@ This program can be used to setup the [item cloning program](CloneItemsBoxCopy2.
 
 ### Settings
 
+**Game Settings:**
 1. Text Speed: Fast
 
 ### Instructions
