@@ -36,6 +36,7 @@ It is not known if this program works on:
 2. Video Resolution: 1080p or higher in program settings
    > Shiny detection and text recognition is not reliable at low resolutions.
 3. Text Speed: Fast
+4. [Switch 2: The profile you are using must be the 1st (left-most) profile.](/Wiki/Programs/NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
 
 ### Setup of Party
 1. Your lead Pokémon must not be shiny.
