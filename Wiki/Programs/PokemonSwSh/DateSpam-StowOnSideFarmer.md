@@ -4,7 +4,14 @@
 
 Farm the Stow-on-Side bargains dealer. It requires activating the Y-Comm glitch.
 
-This program runs at 14.2 seconds per purchase.
+**Switch 1:**
+- **Wired Controller:** 16.1 seconds/fetch
+- **ESP32 Wireless:** 16.6 seconds/fetch
+- **sys-botbase 2.x:** TBD
+- **sys-botbase 3.0:** TBD
+
+**Switch 2:**
+- **Wired Controller:** TBD
 
 <img src="images/DateSpam-StowOnSideFarmer-0.png">
 
