@@ -37,6 +37,9 @@ We are currently exploring ways to detect the running profile and automatically 
 
 ### Japan region-locked Switches have different settings.
 
+<img src="images/Switch2Menu-International.png" width="400">
+<img src="images/Switch2Menu-JapanLocked.png" width="400">
+
 In the regular (international) Switch 2, there are options to set the Switch language and region.
 However, these settings are missing in the Japan region-locked Switch 2s.
 
