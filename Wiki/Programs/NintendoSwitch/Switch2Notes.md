@@ -18,6 +18,7 @@ This is the tl;dr if you just want to know what settings to use for Switch 2.
 - For programs that reset the game, you must move the user profile to the 1st one (left-most slot).
 - Some programs require specifying the Switch type. (Switch 1, Switch 2 international, Switch 2 Japan-locked)
 
+<img src="images/ConsoleTypeSelection.png">
 
 ## Switch 1 -> Switch 2 Differences
 
