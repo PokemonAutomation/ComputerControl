@@ -6,10 +6,10 @@ WattFarmer will farm watts from a wishing piece beam. It requires activating the
 
 This program will collect watts at the following speeds:
 - **Switch 1:**
-    - Wired Controller: 9.0 seconds/fetch (~800k watts per hour at 2000/fetch)
-    - ESP32 Wireless: 9.5 seconds/fetch (~760k watts per hour at 2000/fetch)
-    - sys-botbase 2.x:
-    - sys-botbase 3.0:
+    - **Wired Controller:** 9.0 seconds/fetch (~800k watts per hour at 2000/fetch)
+    - **ESP32 Wireless:** 9.5 seconds/fetch (~760k watts per hour at 2000/fetch)
+    - **sys-botbase 2.x:** TBD
+    - **sys-botbase 3.0:** TBD
 
 <img src="images/DateSpam-WattFarmer-0.png">
 
