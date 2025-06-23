@@ -8,7 +8,14 @@
 
 BerryFarmer will farm berries from a tree. It requires activating the Y-Comm glitch.
 
-This program runs at 13.4 seconds per fetch.
+**Switch 1:**
+- **Wired Controller:** 15.3 seconds/fetch
+- **ESP32 Wireless:** 15.8 seconds/fetch
+- **sys-botbase 2.x:** TBD
+- **sys-botbase 3.0:** TBD
+
+**Switch 2:**
+- **Wired Controller:** TBD
 
 <img src="images/DateSpam-BerryFarmer-0.png">
 
