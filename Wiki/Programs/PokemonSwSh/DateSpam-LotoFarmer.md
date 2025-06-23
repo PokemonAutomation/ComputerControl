@@ -4,7 +4,14 @@
 
 LotoFarmer will farm the loto. It requires activating the Y-Comm glitch.
 
-This program runs at 18.7 seconds per attempt.
+**Switch 1:**
+- **Wired Controller:** 21.8 seconds/fetch
+- **ESP32 Wireless:** 22.2 seconds/fetch
+- **sys-botbase 2.x:** TBD
+- **sys-botbase 3.0:** TBD
+
+**Switch 2:**
+- **Wired Controller:** TBD
 
 <img src="images/DateSpam-LotoFarmer-0.png">
 
