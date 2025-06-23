@@ -10,6 +10,8 @@ This program will collect watts at the following speeds:
     - **ESP32 Wireless:** 9.5 seconds/fetch (~760k watts per hour at 2000/fetch)
     - **sys-botbase 2.x:** TBD
     - **sys-botbase 3.0:** TBD
+- **Switch 2:**
+    - **Wired Controller:** TBD
 
 <img src="images/DateSpam-WattFarmer-0.png">
 
