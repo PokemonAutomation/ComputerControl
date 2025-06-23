@@ -70,6 +70,7 @@ Reddit Thread: https://www.reddit.com/r/elgato/comments/1l48p6g/megathread_switc
 
 HDR has been known to cause some issues. But these are often in conjunction with Elgato cards. So more information is needed.
 
+<img src="images/Switch2-HDR-Off.png" width="400"> <img src="images/Switch2-HDR-On.png" width="400">
 
 ### ESP32 wireless is currently broken.
 
