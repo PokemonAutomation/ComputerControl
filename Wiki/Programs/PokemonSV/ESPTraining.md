@@ -8,8 +8,16 @@ Replay the ESP training gym challenge in knockout mode to farm EV berries.
 
 ## Setup
 
-1. Complete the Alfornada gym.
-1. Speak to Dendra at least once to clear out any dialog explaining the mode.
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
+1. Text Speed: Fast
+2. Complete the Alfornada gym.
+3. Speak to Dendra at least once to clear out any dialog explaining the mode.
 
 ## Instructions
 

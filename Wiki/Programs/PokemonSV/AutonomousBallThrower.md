@@ -10,8 +10,15 @@ Keep throwing ball until you catch the Pokémon you're fighting. In case of fail
 
 ## Preparation Instructions
 
+**Switch Settings:**
 1. Screen size: Must be 100% within the Switch settings
-2. Video Resolution: 1280 x 720 or higher in program settings
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
+1. Text Speed: Fast
+2. Auto-Save: Off
 
 ## Instructions
 

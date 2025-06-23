@@ -35,6 +35,17 @@ However, this program has two major failure cases:
 
 In either case, the program will detect this error condition and stop. There is ongoing research on how to minimize these scenarios as well as how to recover from them.
 
+### Setup of Settings
+
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
+1. Text Speed: Fast
+
 
 ### Instructions
 

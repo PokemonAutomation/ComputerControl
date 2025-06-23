@@ -8,12 +8,20 @@ Purchase clothing from shops.
 
 ## Settings
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 1. Text Speed: Fast
 
 ## Instructions
 
 1. The selection arrow is on the first item in the menu for buying clothing.
 2. Start the program in-game. The program will automatically stop if you run out of cash/LP, or when the number of categories is hit (see options).
+
 
 ## Options
 

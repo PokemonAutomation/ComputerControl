@@ -12,6 +12,10 @@ Automatically buy items.
 
 ### Setup of Settings
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+
+**Game Settings:**
 1. Text Speed: Fast
 2. Make sure you have sufficient funds (In LP or Cash)
 

@@ -9,20 +9,27 @@ Farm Blueberry Quests in the Terarium for BP.
 <img src="images/BBQSoloFarmer.png">
 
 ## Setup of Settings
-Video resolution must be set to 1080p. 720p will not work.
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: The profile you are using must be the 1st (left-most) profile.](/Wiki/Programs/NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
+3. System Time: Unsynced
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 1. Text Speed: Fast
-2. Skip Move Learning: On
-3. Give Nicknames: Off
-4. Send to Boxes: Automatic
-5. Auto-Save: Off
-6. System time: Un-synced
-7. Camera Support: Off
-8. Vertical/Horizonal Camera Controls: Regular
-9. Camera Interpolation: Normal
-10. You have done a raid at least once to clear in-game raid guide.
-11. You have made a sandwich at least once to clear to in-game guide.
-12. Flying must be unlocked. This requires completing the Indigo Disk story. See setup.
+2. Auto-Save: Off
+3. Skip Move Learning: On
+4. Give Nicknames: Off
+5. Send to Boxes: Automatic
+6. Camera Support: Off
+7. Vertical/Horizonal Camera Controls: Regular
+8. Camera Interpolation: Normal
+9. You have done a raid at least once to clear in-game raid guide.
+10. You have made a sandwich at least once to clear to in-game guide.
+11. Flying must be unlocked. This requires completing the Indigo Disk story. See setup.
 
 ## Setup
 

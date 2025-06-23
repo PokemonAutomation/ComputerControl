@@ -6,6 +6,13 @@ This program will repeat the easy course of the flying trial at the Canyon Plaza
 
 ### Setup of Settings
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 1. Text Speed: Fast
 2. Vertical Camera Controls: Regular
 3. Horizontal Camera Controls: Regular

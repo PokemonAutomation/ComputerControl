@@ -8,11 +8,17 @@ Make a sandwich of your choice.
 
 ## Setup
 
-1. You have picniced at least once to clear in-game picnic guide.
-2. For best performance, use the default tablecloth on your picnic table.
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+2. The language in the option must match your in-game language.
+
+**Game Settings:**
+1. Text Speed: Fast
+2. You have picniced at least once to clear in-game picnic guide.
+3. For best performance, use the default tablecloth on your picnic table.
 	- Other tablecloths may contain white patterns that will slow down the program detecting the white picnic hand cursor.
 	- Yellow tablecloths may intefere with the bowl label reader.
-3. You have more ingredients than the quantities required to make the sandwich, as using up an ingredient makes the icon appear faded and interferes with proper ingredient reading.
+4. You have more ingredients than the quantities required to make the sandwich, as using up an ingredient makes the icon appear faded and interferes with proper ingredient reading.
 
 ## Instructions
 

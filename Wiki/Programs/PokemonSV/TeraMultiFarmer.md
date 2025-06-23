@@ -20,9 +20,18 @@ Starting from version 0.30.x, you can auto-host the remaining raid slots online 
 
 **The Host Switch:**
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: The profile you are using must be the 1st (left-most) profile.](/Wiki/Programs/NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
+3. System Time: Unsynced
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 1. Text Speed: Fast
-2. System time: Un-synced
-3. Auto-Save: Off
+2. Auto-Save: Off
+3. System time: Un-synced
 4. Airplane mode is disabled and you are offline.
 5. You have done a raid at least once to clear in-game raid guide.
 6. You must be facing an active Tera raid crystal facing south.
@@ -34,6 +43,13 @@ Starting from version 0.30.x, you can auto-host the remaining raid slots online 
 
 **The Raiding Switch(es):**
 
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+
+**Game Settings:**
 1. Text Speed: Fast
 2. Airplane mode is disabled and you are offline.
 3. You have done a raid at least once to clear in-game raid guide.

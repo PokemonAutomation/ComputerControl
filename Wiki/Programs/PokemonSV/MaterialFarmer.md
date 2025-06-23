@@ -13,6 +13,14 @@ This program works by making a sandwich to boost spawns, then repeatedly sending
 
 ### Setup of Settings
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+2. The language in the option must match your in-game language.
+
+**Game Settings:**
 1. Text Speed: Fast
 2. After game version 2.0.1 (the DLC 1 update): Camera Support: On
 

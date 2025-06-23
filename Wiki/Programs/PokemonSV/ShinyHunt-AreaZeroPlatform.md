@@ -36,6 +36,14 @@ Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports 
 
 ### Setup of Settings
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+2. The language in the option must match your in-game language.
+
+**Game Settings:**
 1. Text Speed: Fast
 2. Skip Move Learning: On
 3. Give Nicknames: Off

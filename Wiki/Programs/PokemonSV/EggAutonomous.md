@@ -24,10 +24,18 @@ It can run completely unattended for many days without intervention.
 
 ### Setup of Settings
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: The profile you are using must be the 1st (left-most) profile.](/Wiki/Programs/NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 1. Text Speed: Fast
-2. Skip Move Learning: On
-3. Give Nicknames: Off
-4. Auto-Save: Off
+2. Auto-Save: Off
+3. Skip Move Learning: On
+4. Give Nicknames: Off
 5. After game version 2.0.1 (the DLC 1 update): Camera Support: On
 
 ### Box Setup

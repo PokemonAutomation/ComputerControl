@@ -45,7 +45,15 @@ Most people can keep their ride legendary in their party all the time since it's
 
 ### Setup of Settings
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 1. Text Speed: Fast
+
 
 ### Instructions
 

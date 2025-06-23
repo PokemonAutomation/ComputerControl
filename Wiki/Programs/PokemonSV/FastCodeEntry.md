@@ -24,6 +24,10 @@ This program supports multiple Switches. So if you want to be an even bigger ass
 The mystery gift mode can take any mystery gift code and enter it really fast. This is useful if the code is randomized and difficult to type manually, if you have game saves across multiple Switches that you want to get the mystery gift on, or if you are resetting a mystery gift for the desired IVs/Nature/Gender/etc.
 
 
+### Setup of Settings
+
+None
+
 ### Instructions
 
 - The code entry pad must be up.

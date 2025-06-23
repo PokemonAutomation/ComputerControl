@@ -22,6 +22,9 @@ As with all FCE programs, the usual disclaimer applies:
 ***By using this program, you agree that you are an asshole. Furthermore, you will be required to embrace your asshole status by flaunting it in front of all the people you've blocked out of raids.***
 
 
+### Setup of Settings
+
+None
 
 ### Instructions
 

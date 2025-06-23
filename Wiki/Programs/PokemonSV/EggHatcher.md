@@ -13,6 +13,13 @@ Hatch boxes of Pokémon.
 
 ### Setup of Settings
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 1. Text Speed: Fast
 2. Give Nicknames: Off
 
