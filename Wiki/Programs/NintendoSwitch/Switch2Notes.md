@@ -37,8 +37,7 @@ We are currently exploring ways to detect the running profile and automatically 
 
 ### Japan region-locked Switches have different settings.
 
-<img src="images/Switch2Menu-International.png" width="400">
-<img src="images/Switch2Menu-JapanLocked.png" width="400">
+<img src="images/Switch2Menu-International.png" width="400"> <img src="images/Switch2Menu-JapanLocked.png" width="400">
 
 In the regular (international) Switch 2, there are options to set the Switch language and region.
 However, these settings are missing in the Japan region-locked Switch 2s.
@@ -58,6 +57,17 @@ Programs will stop and notify you in the following circumstances:
 - You are not specific enough with the Switch type selection, the program needs to know and is unable to detect.
 - Your selection conflicts with what the program has detected.
 
+
+### Elgato captures cards do not play well with the Switch 2.
+
+Numerous people have been reporting issues with Elgato capture cards. There is an entire reddit thread for this, the one that affects us the most is that colors can become extremely washed out. This causes problems for program that do color-sensitive visual recognition.
+
+Reddit Thread: https://www.reddit.com/r/elgato/comments/1l48p6g/megathread_switch_2_capture_or_streaming_issues/
+
+
+### Switch 2 HDR may be problematic.
+
+HDR has been known to cause some issues. But these are often in conjunction with Elgato cards. So more information is needed.
 
 
 ### ESP32 wireless is currently broken.
