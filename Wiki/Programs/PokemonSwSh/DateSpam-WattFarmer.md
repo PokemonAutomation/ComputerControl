@@ -4,7 +4,12 @@
 
 WattFarmer will farm watts from a wishing piece beam. It requires activating the Y-Comm glitch.
 
-With a wired controller, this program runs at 7.2 seconds per fetch. This is about 1 million watts/hour at 2000/fetch. Wireless and tick-imprecise controllers will be slower.
+This program will collect watts at the following speeds:
+- **Switch 1:**
+    - Wired Controller: 9.0 seconds/fetch (~800k watts per hour at 2000/fetch)
+    - ESP32 Wireless: 9.5 seconds/fetch (~760k watts per hour at 2000/fetch)
+    - sys-botbase 2.x:
+    - sys-botbase 3.0:
 
 <img src="images/DateSpam-WattFarmer-0.png">
 
