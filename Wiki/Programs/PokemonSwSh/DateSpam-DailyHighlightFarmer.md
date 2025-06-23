@@ -4,7 +4,14 @@
 
 Farm the daily highlight watt trader in Crown Tundra. It requires activating the Y-Comm glitch.
 
-This program runs at 15.8 seconds per purchase.
+**Switch 1:**
+- **Wired Controller:** 15.3 seconds/fetch
+- **ESP32 Wireless:** 17.6 seconds/fetch
+- **sys-botbase 2.x:** TBD
+- **sys-botbase 3.0:** TBD
+
+**Switch 2:**
+- **Wired Controller:** TBD
 
 <img src="images/DateSpam-DailyHighlightFarmer-0.png">
 
