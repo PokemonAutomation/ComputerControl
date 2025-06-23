@@ -25,7 +25,7 @@ This is the tl;dr if you just want to know what settings to use for Switch 2.
 
 ### Resetting a game moves the cursor to the 1st user profile.
 
-This is perhaps the biggest (and annoying) functional difference between Switch 1 and Switch 2.
+This is perhaps the biggest (and most annoying) functional difference between Switch 1 and Switch 2.
 
 - On the Switch 1, when you close and relaunch a game, the cursor stays on the same user profile that was previous playing.
 - On the Switch 2, the cursor always moves to the 1st (left-most) user profile.
