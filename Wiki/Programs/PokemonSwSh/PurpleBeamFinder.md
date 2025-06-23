@@ -17,8 +17,14 @@ A smart version of [Beam Reset](BeamReset.md) that automatically stops on a purp
 
 ### Setup of Settings
 
+**Switch Settings:**
 1. Screen size: Must be 100% within the Switch settings
-2. Text Speed: Slow
+
+**Program Settings:**
+1. Video Resolution: 720p or higher
+
+**Game Settings:**
+1. Text Speed: ***SLOW*** (this is different from other programs!)
 2. Casual mode: Off
 
 ### Instructions

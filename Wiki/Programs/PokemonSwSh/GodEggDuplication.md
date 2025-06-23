@@ -11,6 +11,7 @@ Duplicate Pokémon using the God Egg/MissingNo.
 
 ### Setup of Settings
 
+**Game Settings:**
 1. Text Speed: Fast
 2. Casual mode: Off
 3. The "Send to Boxes" option must be set to "Manual".

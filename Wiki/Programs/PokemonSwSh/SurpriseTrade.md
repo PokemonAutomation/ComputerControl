@@ -8,6 +8,7 @@ This program is similar to brianuuuSonic's BoxSurpriseTrade, but is also toleran
 
 ### Setup of Settings
 
+**Game Settings:**
 1. Text Speed: Fast
 2. Casual mode: Off
 3. Nicknaming needs to be off. (in case of a trade evolution)

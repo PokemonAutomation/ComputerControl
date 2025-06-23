@@ -22,14 +22,21 @@ This program will detect shiny Pokémon, however, a better alternative for this 
 
 ### Setup of Settings
 
+**Switch Settings:**
 1. Screen size: Must be 100% within the Switch settings
-2. Video Resolution: 1280 x 720 or higher in program settings
-3. Audio input is properly set up.
-4. Text Speed: Fast
-5. Casual mode: Off
-6. Background Music: 0 (needs to be unlocked in Motostoke)
-7. System time: Un-synced
-8. VS (Y-Comm) glitch must be active
+2. [Switch 2: The profile you are using must be the 1st (left-most) profile.](/Wiki/Programs/NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
+3. System Time: Unsynced
+
+**Program Settings:**
+1. Video Resolution: 720p or higher
+2. Audio input is properly set up.
+
+**Game Settings:**
+1. Text Speed: Fast
+2. Auto-Save: Off
+3. Background Music: 0 (needs to be unlocked in Motostoke)
+4. Y-Comm glitch must be active
+   1. Verify glitch is active by checking for a "flash" when re-entering the game from the Home menu.
 
 
 ### Setup of Party

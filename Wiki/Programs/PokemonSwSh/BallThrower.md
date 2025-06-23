@@ -35,6 +35,7 @@ This program blindly throws balls without context. Thus the only way it can work
 
 ### Setup of Settings
 
+**Game Settings:**
 1. Text Speed: Fast
 2. Casual mode: Off
 3. The "Send to Boxes" option must be set to "Automatic".

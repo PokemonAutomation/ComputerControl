@@ -12,18 +12,24 @@ Furthermore, this program doesn't care about step counts, egg-warming, or early 
 
 ### Setup of Settings
 
-1. Screen size: Must be 100% within the Switch settings.
-2. Video Resolution: 1080p or higher in program settings.
-3. Casual mode: Off.
-4. The "Send to Boxes" option must be set to "Automatic".
-5. Nicknaming needs to be off.
-6. Your bike must be fully upgraded.
-7. Text Speed: Fast.
-8. The parents are already deposited at the Route 5 Nursery.
-9. The Rotom Phone apps on the menu are in their default locations.
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: The profile you are using must be the 1st (left-most) profile.](/Wiki/Programs/NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
+3. System Time: Unsynced
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
+1. Text Speed: Fast
+2. Casual mode: Off
+3. Nicknaming needs to be off.
+4. Your bike must be fully upgraded.
+5. The parents are already deposited at the Route 5 Nursery.
+6. The Rotom Phone apps on the menu are in their default locations.
    1. The Town Map app must be in the 2nd row on the far left.
    2. The Pokémon app must be in the 1st row, 2nd from the left.
-10. You already have the Pokédex entry for the Pokémon you are hatching.
+7. You already have the Pokédex entry for the Pokémon you are hatching.
 
 **Strongly Recommended:**
 - Masuda Method: The Pokémon in the Nursery are of different languages.

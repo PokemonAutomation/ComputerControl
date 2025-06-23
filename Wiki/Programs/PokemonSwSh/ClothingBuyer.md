@@ -8,6 +8,7 @@ As its name implies, this program will automatically buy clothing.
 
 ### Setup of Settings
 
+**Game Settings:**
 1. Text Speed: Fast
 2. Casual mode: Off
 

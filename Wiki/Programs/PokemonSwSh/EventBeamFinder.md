@@ -8,6 +8,7 @@ Drop wishing pieces between two dens until you find an event den.
 
 ### Setup of Settings
 
+**Game Settings:**
 1. Text Speed: Fast
 2. Casual mode: Off
 3. Airplane mode; On

@@ -15,6 +15,7 @@ This program does not use bike boosts, but is nevertheless roughly the same spee
 
 ### Setup of Settings
 
+**Game Settings:**
 1. Text Speed: Fast
 2. Casual mode: Off
 3. Nicknaming: Off

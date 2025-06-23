@@ -38,15 +38,26 @@ Now, you are ready to cook curry.
 If you don't feel like bothering with increasing both friendship and sociability, note that cooking curry with your curry hunting team will increase both their friendship and their sociability. But if you reset after each session to save berries and ingredients, you are going to have to increase these at the beginning of each session, and this will actually affect the speed of your hunt. As this is already quite a long hunt, it is **highly** recommanded to max both friendship and sociability. At the time of writing, cooking curry is the only known method to increase your Pokémon's sociability.
 
 
+### Setup of Settings
+
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
+1. Text Speed: Fast
+2. Casual mode is off.
+3. The "Send to Boxes" option must be set to "Automatic".
+4. You need to have cook at least one curry before using the program. This is because you have several additional text boxes the first time you cook curry.
+
+
 ### Instructions
 
-1. You need to have cook at least one curry before using the program. This is because you have several additional text boxes the first time you cook curry.
-2. Casual mode is off.
-3. Your text speed must be set to fast.
-4. The "Send to Boxes" option must be set to "Automatic".
-5. Make sure to favorite as many rare ingredients and rare berries as possible. That way, the program can run for a really long time.
-6. Your character needs to be in the curry camp, with the curry menu closed.
-7. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose
+1. Make sure to favorite as many rare ingredients and rare berries as possible. That way, the program can run for a really long time.
+2. Your character needs to be in the curry camp, with the curry menu closed.
+3. Start the program in game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose
 
 
 ## Options

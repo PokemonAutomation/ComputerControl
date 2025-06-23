@@ -17,6 +17,7 @@ EggSuperCombined2 is the most optimized of the egg programs in this package. Whe
 
 ### Setup of Settings
 
+**Game Settings:**
 1. Text Speed: Fast
 2. Casual mode: Off
 3. The "Send to Boxes" option must be set to "Automatic".

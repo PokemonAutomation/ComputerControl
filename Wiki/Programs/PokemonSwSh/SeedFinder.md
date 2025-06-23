@@ -12,6 +12,11 @@ This program is meant to support manual rng manipulation.
 
 ### Instructions
 
+**Game Settings:**
+1. Text Speed: Fast
+2. Casual mode: Off
+
+**Instructions:**
 1. You need to have a non-shiny Orbeetle in your party.
 2. Open the party menu and move to Orbeetle.
 3. Start the program in-game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.

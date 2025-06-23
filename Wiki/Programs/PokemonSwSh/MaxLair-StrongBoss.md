@@ -14,13 +14,17 @@ This program hunts for a shiny boss. It will strategically reset the host to kee
 
 ### Setup of Settings
 
+**Switch Settings:**
 1. Screen size: Must be 100% within the Switch settings
-2. Video Resolution: 1920 x 1080 or higher in program settings.
-3. Text Speed: Fast
-4. Casual mode: Off
-5. The "Send to Boxes" option must be set to "Automatic".
-6. Nicknaming needs to be off.
-7. System time: Un-synced
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
+1. Text Speed: Fast
+2. Casual mode: Off
+3. The "Send to Boxes" option must be set to "Automatic".
+4. Nicknaming needs to be off.
 
 This must be done to all participating Switches.
 

@@ -12,13 +12,17 @@ Unlike the Shiny Hunt (Unattended) programs, the Autonomous programs require no 
 
 ### Setup of Settings
 
+**Switch Settings:**
 1. Screen size: Must be 100% within the Switch settings
-2. Video Resolution: 1280 x 720 or higher in program settings
-   > Shiny detection is not reliable at low resolutions.
-   > If playing in an Asian language, your video resolution need to be 1080p. Text recognition is more accurate at higher resolutions.
-3. Text Speed: Fast
-4. Casual mode: Off
-5. System time: Un-synced
+2. [Switch 2: The profile you are using must be the 1st (left-most) profile.](/Wiki/Programs/NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
+3. System Time: Unsynced
+
+**Program Settings:**
+1. Video Resolution: 720p or higher
+
+**Game Settings:**
+1. Text Speed: Fast
+2. Casual mode: Off
 
 ### Setup of Party
 1. Your lead Pokémon must be able to run away. (faster or holding Smoke Ball)

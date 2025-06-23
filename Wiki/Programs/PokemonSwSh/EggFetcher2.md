@@ -12,6 +12,7 @@ This program is also used to build a reservoir of eggs for running the faster [E
 
 ### Setup of Settings
 
+**Game Settings:**
 1. Text Speed: Fast
 2. Casual mode: Off
 3. The "Send to Boxes" option must be set to "Automatic".

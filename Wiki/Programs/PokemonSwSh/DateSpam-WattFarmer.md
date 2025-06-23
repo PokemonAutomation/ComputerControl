@@ -10,13 +10,21 @@ With a wired controller, this program runs at 7.2 seconds per fetch. This is abo
 
 ### Setup of Settings
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: The profile you are using must be the 1st (left-most) profile.](/Wiki/Programs/NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
+3. System Time: Unsynced
+
+**Program Settings:**
+1. Video Resolution: 720p or higher
+
+**Game Settings:**
 1. Text Speed: Fast
 2. Casual mode: Off
-3. System time: Un-synced
-4. Y-Comm glitch must be active (see below)
+3. Y-Comm glitch must be active
    1. Verify glitch is active by checking for a "flash" when re-entering the game from the Home menu.
-5. You must be offline.
-6. Airplane mode must be off.
+4. You must be offline.
+5. Airplane mode must be off.
 
    > **Stability Recommendation:** Stand ***behind*** the den so that the beam is directly in front of your character. Sometimes, the program will miss a button press which causes the date-spamming to happen in the game instead of the Switch settings. This will cause the character to move downwards and away from the den if you're not standing behind it.
 

@@ -12,6 +12,13 @@ MultiGameFossil is a more advanced fossil reviving program that can revive fossi
 
 > **These must be setup on *each* participating save.**
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+
+**Program Settings:**
+1. Video Resolution: 720p or higher
+
+**Game Settings:**
 1. Text Speed: Fast
 2. Casual mode: Off
 3. Have "Send to Boxes" set to "Automatic".

@@ -24,12 +24,21 @@ If video feedback is enabled, it will keep track of stats and will waste a lot l
 > 
 > If you care about your den, get rid of all your wishing pieces. They are easy to get back later with watt farming.
 
-### Setup for All Switches
+### Setup of Settings
 
+**Switch Settings:**
+1. Screen size: Must be 100% within the Switch settings
+2. System Time: Unsynced
+
+**Program Settings:**
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 1. Text Speed: Fast
-2. Casual mode: Off
-3. System time: Un-synced
-4. Make sure you have a strong internet connection. (if hosting online)
+2. Auto-Save: Off
+3. Casual mode: Off
+4. System time: Un-synced
+5. Make sure you have a strong internet connection. (if hosting online)
 
 ### Instructions
 

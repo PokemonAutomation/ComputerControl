@@ -10,6 +10,7 @@ This program is experimental and is more suited for high-demand and high-quantit
 
 ### Setup of Settings
 
+**Game Settings:**
 1. Text Speed: Fast
 2. Casual mode: Off
 3. Nicknaming needs to be off. (in case of a trade evolution)
