@@ -13,7 +13,7 @@
     "PrivateBeta": {
         "VersionMajor": 0,
         "VersionMinor": 54,
-        "VersionPatch": 1,
-        "Changes": "<b>Changes:</b><br>- Preliminary support for Switch 2."
+        "VersionPatch": 5,
+        "Changes": "<b>Version 0.54.5:</b><br>- Improved detection of console type. (Switch 1 vs. Switch 2 international vs. Switch 2 Japan-locked)<br>- Programs will now error out if the detected console type disagrees with the user selection.<br>- Fixed a serious issue with audio playback.<br>- Fixed various issues with the SV sandwich maker.<br>- Improved reliability of Shaymin shiny hunt.<br>- Improved reliability of LGPE legendary reset.<br>- Improved reliability of date-spam routines.<br>- Fixed SwSh Regi light corrections.<br>- Fixed LGPE gift reset not recovering from errors.<br>- Switch 2: Fixed update menu detection. It will now detect both firmware and game updates and bypass them.<br>"
     }
 }
