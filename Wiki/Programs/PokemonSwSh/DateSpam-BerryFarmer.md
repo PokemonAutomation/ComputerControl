@@ -15,7 +15,7 @@ BerryFarmer will farm berries from a tree. It requires activating the Y-Comm gli
 - **sys-botbase 3.0:** TBD
 
 **Switch 2:**
-- **Wired Controller:** TBD
+- **Wired Controller:** 15.9 seconds/fetch
 
 <img src="images/DateSpam-BerryFarmer-0.png">
 
