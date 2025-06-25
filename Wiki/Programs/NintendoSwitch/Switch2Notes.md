@@ -65,12 +65,21 @@ Numerous people have been reporting issues with Elgato capture cards. There is a
 
 Reddit Thread: https://www.reddit.com/r/elgato/comments/1l48p6g/megathread_switch_2_capture_or_streaming_issues/
 
+In Elgato 4k Capture Utility settings:
+- HDMI Color Range: Bypass
+- Input EDID Mode: Display
+- EDID (Internal): Default
+
+Additionally, make sure to close the 4k Capture Utility before running programs.
 
 ### Switch 2 HDR may be problematic.
 
 HDR has been known to cause some issues. But these are often in conjunction with Elgato cards. So more information is needed.
 
-<img src="images/Switch2-HDR-Off.png" width="400"> <img src="images/Switch2-HDR-On.png" width="400">
+If using an HDR-capable card, we recommend turning it off in System Settings -> Display. Make sure to toggle the second HDR option (pictured below), as that controls the TV Output. (The first HDR option is for handheld mode.)
+|HDR Off|HDR On|
+|---|---|
+|<img src="images/Switch2-HDR-Off.png" width="400">|<img src="images/Switch2-HDR-On.png" width="400">|
 
 ### ESP32 wireless is currently broken.
 
