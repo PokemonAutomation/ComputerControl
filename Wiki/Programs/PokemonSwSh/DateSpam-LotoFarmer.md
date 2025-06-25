@@ -11,7 +11,7 @@ LotoFarmer will farm the loto. It requires activating the Y-Comm glitch.
 - **sys-botbase 3.0:** TBD
 
 **Switch 2:**
-- **Wired Controller:** TBD
+- **Wired Controller:** 22.3 seconds/attempt
 
 <img src="images/DateSpam-LotoFarmer-0.png">
 
