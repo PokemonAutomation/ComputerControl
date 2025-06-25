@@ -8,7 +8,7 @@ Farm the Stow-on-Side bargains dealer. It requires activating the Y-Comm glitch.
 - **Wired Controller:** 16.1 seconds/fetch
 - **ESP32 Wireless:** 16.6 seconds/fetch
 - **sys-botbase 2.x:** TBD
-- **sys-botbase 3.0:** TBD
+- **sys-botbase 3.0:** 23.4 seconds/fetch
 
 **Switch 2:**
 - **Wired Controller:** 16.7 seconds/fetch
