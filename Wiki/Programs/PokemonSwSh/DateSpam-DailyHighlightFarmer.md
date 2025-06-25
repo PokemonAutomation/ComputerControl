@@ -7,7 +7,7 @@ Farm the daily highlight watt trader in Crown Tundra. It requires activating the
 **Switch 1:**
 - **Wired Controller:** 17.6 seconds/fetch
 - **ESP32 Wireless:** 18.0 seconds/fetch
-- **sys-botbase 2.x:** TBD
+- **sys-botbase 2.x:** 24.7 seconds/fetch
 - **sys-botbase 3.0:** TBD
 
 **Switch 2:**
