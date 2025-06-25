@@ -81,6 +81,31 @@ As of this writing, we do not yet know how to fix this. Many other controller em
 Until this is fixed, the only option to connect to the Switch 2 is using wired controllers (ESP32-S3, Arduino/Teensy).
 
 
+## For Developers
+
+### System menus are generally slower.
+
+On the Switch 1, it was possible to navigate all system menus at the rate of 24ms per action. This is no longer possible on Switch 2. While some menus retain their 24ms rate, others are much slower. In particular, numpad and keyboard scrolling now requires 48ms delay to be reliable - thus slowing down Fast Code Entry (FCE).
+
+Some methods of simultaneous and overlapping button presses no longer work on the Switch 2 as it interprets them differently. Thus many optimizations that were developed for the Switch 1 no longer work on Switch 2. We have yet to figure out new methods specific to the Switch 2, though we are not confident they exist.
+
+### The wired controller poll rate is no longer a constant 125 Hz.
+
+For most of the history of this project (and many similar automation projects), we have used the AVR8 microcontrollers. The canonical method to issuing a fixed schedule of button presses with precise timings is to rely on the USB controller poll rate of 125 Hz or 8 milliseconds. Thus for every 125 times that the host (the Switch) requests a controller state, we know that exactly 1 second has elapsed. This 8 millisecond "tick" is precisely how the tick-based time unit evolved in both our MC and CC automation.
+
+Both the Switch 1 as well as any computer will poll the controller at this steady 125 Hz. However, the Switch 2 has been observed to vary the poll rate between 125 Hz and 62.5 Hz. Needless to say, this broke our Arduino/Teensy controllers which we had to fix.
+
+For developers, we now have 3 different controller setups with different minimum time units (tick size):
+- Wired controller (Switch 1): 8ms
+- Wired controller (Switch 2): 8ms or 16ms
+- ESP32 Wireless (Switch 1 only): 15ms
+
+The minimum time unit is the minimum amount of time between controller state changes. Meaning that if you press A, you cannot release it until at least 8ms later (for 8ms tick size). ESP32 increased it to 15ms. Now on Switch 2, it needs to be at least 16ms.
+
+In the vast majority of cases, this does not matter since buttons need to be held down for at least ~40ms for the Switch to register it as a press. But for fast programs that use multiple buttons in parallel, you need to be careful that the implied state changes do not drop below 16ms in duration if you want it to be reliable across all systems.
+
+
+
 
 <hr>
 
