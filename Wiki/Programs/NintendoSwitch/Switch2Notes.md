@@ -59,7 +59,7 @@ Programs will stop and notify you in the following circumstances:
 - Your selection conflicts with what the program has detected.
 
 
-### Elgato captures cards do not play well with the Switch 2.
+### Elgato capture cards do not play well with the Switch 2.
 
 Numerous people have been reporting issues with Elgato capture cards. There is an entire reddit thread for this, the one that affects us the most is that colors can become extremely washed out. This causes problems for programs that do color-sensitive visual recognition.
 
