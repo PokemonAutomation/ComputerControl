@@ -112,7 +112,7 @@ We currently support 3 different types of controllers. So take your pick on whic
 | --- | --- | --- |
 | You are completely new to automation. | Wired: ESP32-S3 | Currently the only controller that works on the Switch 2. Easy to setup. |
 | If you want to automate LGPE. | Wireless ESP32-WROOM | This is the only option to automate LGPE. |
-| You are an existing Computer Control user who already has the Arduino/Teensy setup. | Wired: Keep what you have. | Unless you need to automated LGPE or on the Switch 2, what you have already works. |
+| You are an existing Computer Control user who already has the Arduino/Teensy setup. | Wired: Keep what you have. | Unless you need to automate LGPE or on the Switch 2, what you have already works. |
 | You are a CFW user who already uses sys-botbase with Sysbot/Forkbot/not-Forkbot. | Custom Firmware: sys-botbase | This setup is designed specifically for you at no additional cost (beyond a capture card)! If you want to get serious with CC, you will eventually want to get one of the other microcontroller setups since they are faster and more reliable. |
 
 Also, don't be afraid to get both wired and wireless setups! Many of us do exactly this!
