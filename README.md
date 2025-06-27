@@ -1,11 +1,5 @@
 # Pokémon Automation - Computer-Control Programs
 
-### Note: Most of this project is broken on the Switch 2 and there is no ETA on when we will be able to fix everything.
-
-If you wish to automate, please stay on the Switch 1 for now.
-
---------
-
 This repo contains the computer-control programs (formerly known as "serial programs") for Pokémon Automation.
 
 [More information about this project.](https://github.com/PokemonAutomation/About/blob/master/README.md)
