@@ -7,8 +7,9 @@
     },
     "Beta": {
         "VersionMajor": 0,
-        "VersionMinor": 51,
-        "VersionPatch": 12
+        "VersionMinor": 54,
+        "VersionPatch": 8,
+        "Changes": "<b>Version 0.54.8 (Beta):</b><br>- Added preliminary support for Switch 2. (wired controllers only)<br>- Added LGPE Legendary reset (Switch 1 only).<br>- Numerous fixes.<br><br>Note that ESP32 is still broken on Switch 2.<br><br>Please see the release notes for more information."
     },
     "PrivateBeta": {
         "VersionMajor": 0,
