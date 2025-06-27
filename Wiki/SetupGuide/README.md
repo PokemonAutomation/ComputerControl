@@ -8,11 +8,6 @@
  - [**Step 3:** Controller Setup](#step-3-controller-setup)
  - [**Step 4:** Finishing up](#step-4-finishing-up)
 
-
-### Note: Most of this project is broken on the Switch 2 and there is no ETA on when we will be able to fix everything.
-
-If you wish to automate, please stay on the Switch 1 for now.
-
 --------
 
 This is the setup guide for the computer control (CC) automation setup. We recommend that you read this before purchasing any hardware. Cost estimates will vary depending on the method you choose.
@@ -66,8 +61,6 @@ If you are willing and able to go down this rabbit hole:
 <img src="Images/GeneralSetup-NintendoSwitch.png">
 
 If you're going to automate a Nintendo Switch game, then you need to have a Nintendo Switch.
-
-**Switch 2 Update: Most programs are broken on Switch 2 with no ETA to fix everything. So do not get the Switch 2 for automation.**
 
 However, it needs to be a *regular* Nintendo Switch that can be docked with HDMI video output. You cannot use a Switch Lite. We need the video output for the computer to see your Switch. Unfortunately you cannot just point a camera at the Switch Lite's screen since that comes with too much loss of quality. (Even if this worked, it's bad idea anyway since 24/7 gameplay will burn out the screen.)
 
