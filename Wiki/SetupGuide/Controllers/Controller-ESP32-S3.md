@@ -196,9 +196,14 @@ If nothing works, you are not alone! This is a common problem with ESP32 boards.
 ### Problem with flashing ESP32-S3: Download tool shows `FINISH`, but no green progress bar appeared.`
 Ensure the top left checkbox is checked. The top row should be green. Ensure the correct COM is selected, and BAUD is set to 460800. Then try flashing again.
 
-### Unable to connect to the ESP32-S3.
+### Unable to connect to the ESP32-S3. e.g. stuck on `Connecting...`
 
-If you are unable to connect to the ESP32 in step 2 it means the ESP32-S3 either isn't booting up properly, or it isn't properly flashed. Ensure you have reset the device. Try clicking the `RST/EN` button. You may also try disconnecting and reconnecting all cables to the ESP32-S3 device. If this still fails, review step 1 above and ensure that you flashed the firmware properly onto the device.
+If you are unable to connect to the ESP32 in step 2 it means the ESP32-S3 either isn't booting up properly, or it isn't properly flashed. 
+
+Try the following:
+ - Ensure you have reset the device. Try disconnecting all cables to the ESP32-S3 device, then reconnect them.
+ - Ensure the USB cables are connected to the correct ports on the ESP32-S3. See Hardware Assembly above.
+ - If this still fails, review step 1 above (Flash the firmware to the ESP32) and ensure that you flashed the firmware properly onto the device.
 
 ### Keyboard controls don't work.
 
