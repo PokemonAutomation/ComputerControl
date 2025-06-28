@@ -202,8 +202,9 @@ If you are unable to connect to the ESP32 in step 2 it means the ESP32-S3 either
 
 Try the following:
  - Ensure you have reset the device. Try disconnecting all cables to the ESP32-S3 device, then reconnect them.
- - Ensure the USB cables are connected to the correct ports on the ESP32-S3. See Hardware Assembly above.
- - If this still fails, review step 1 above (Flash the firmware to the ESP32) and ensure that you flashed the firmware properly onto the device.
+ - Ensure the USB cables are connected to the correct ports on the ESP32-S3. The two ports are NOT interchangeable. See [Hardware Assembly](#hardware-assembly) above.
+ - Try different USB cables and different USB ports.
+ - If this still fails, review [step 1](#step-1-flash-the-firmware-to-the-esp32) above (Flash the firmware to the ESP32) and ensure that you flashed the firmware properly onto the device.
 
 ### Keyboard controls don't work.
 
