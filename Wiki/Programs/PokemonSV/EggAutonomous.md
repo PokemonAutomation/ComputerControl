@@ -17,10 +17,15 @@ It can reset the game if there is no Pokémon to keep in those 30 eggs, thereby 
 It can also reset the game when encountering minor program errors.
 It can run completely unattended for many days without intervention.
 
+### Shiny odds
+
+With the Masuda method and Shiny charm, the chance of getting a shiny pokemon is 1/512. Without either of the above, shiny rates are worse otherwise. 
+
+Hatching 500 eggs without a shiny is quite common. This can happen approximately 37% of the time ((511/512)^500). We would only start to worry that something is wrong with the program if you hatch over 5000 eggs without a shiny.
+
 <img src="images/EggAuto-0.png">
 <img src="images/EggAuto-1.png">
 <img src="images/EggAuto-2.png">
-
 
 ### Setup of Settings
 
