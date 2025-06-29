@@ -255,7 +255,7 @@ If you are unable to connect to the ESP32 in step 4, it means the ESP32 either i
 
 Try the following:
  - Ensure you have reset the device. Try disconnecting the cable to the ESP32-S3 device, then reconnect it.
- - Try different USB cables and different USB ports.
+ - Try different USB cables and different USB ports. Sometimes it will not flash properly over certain USB ports.
  - If this still fails, review [step 2](#step-2-flash-the-firmware-to-the-esp32) above (Flash the firmware to the ESP32) and ensure that you flashed the firmware properly onto the device.
 
 ### ESP32 fails to connect to Switch.
