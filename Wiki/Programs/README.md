@@ -242,7 +242,6 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 | [Size Checker](PokemonSV/SizeChecker.md)                              | Video         | Yes | Yes | Yes |
 | [Self Box Trade](PokemonSV/SelfBoxTrade.md)                           | Video         | Yes | Yes | Yes |
 | [Sandwich Maker](PokemonSV/SandwichMaker.md)                          | Video         | Yes | Yes | Yes |
-| [Autonomous Item Printer](PokemonSV/AutoItemPrinter.md)               | Video         | Yes | Yes | Yes |
 ||
 | **Boxes:** |
 | [Mass Release](PokemonSV/MassRelease.md)                              | Video         | Yes | Yes | Yes |
@@ -291,8 +290,12 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 | **Glitches (v1.0.1):** |
 | [Ride Cloner (1.0.1)](PokemonSV/RideCloner-101.md)                    | Video         | Yes | Yes |     |
 | [Clone Items (1.0.1)](PokemonSV/CloneItems-101.md)                    | Video         | Yes | Yes |     |
+||
 | **Beta programs:** |
 | [AutoStory](PokemonSV/AutoStory.md)                    | Video         | Untested | Yes |     |
+||
+| **Deprecated Programs:** |
+| [Autonomous Item Printer](PokemonSV/AutoItemPrinter.md)               | Video         | Yes | Yes | Yes |
 
 
 ## Zelda: Tears of the Kingdom
