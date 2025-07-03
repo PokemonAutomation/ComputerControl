@@ -30,6 +30,10 @@ If you want to tinker with this anyway, see: [How to Build (Qt 6.8.2) - Ubuntu 2
 
 At this point you will see a black bar and a white screen. That's because we haven't setup video or audio yet!
 
+If you get errors about missing files like `MSVCP140.dll` or `VCRUNTIME140.dll`, you need to install the Microsoft Redistributable:
+- https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+- Direct Download: https://aka.ms/vs/17/release/vc_redist.x64.exe
+
 ## Step 3: Setup video.
 
 1. Connect an HDMI cable from your Switch dock to your video capture card.
