@@ -8,8 +8,8 @@
     "Beta": {
         "VersionMajor": 0,
         "VersionMinor": 54,
-        "VersionPatch": 12,
-        "Changes": "<b>Version 0.54.12 (Beta):</b><br>- Performance optimizations to improve 4k usability on Switch 2.<br>- The output window now remembers its position across program restarts. (credit jw)<br>- Fixed SV date spam routines that were not working.<br>- Fixed the material farmer. (credit jw)<br>- Fixes to SV auto-story. (credit jw)<br>- Improved reliability of Home navigation. (reported by pat)<br>- Improved reliability of the Item Printer RNG at 4k.<br>- Improved reliability of console type detection.<br><br><b>Version 0.54.8 (Beta):</b><br>- Added preliminary support for Switch 2. (wired controllers only)<br>- Added LGPE Legendary reset (Switch 1 only).<br>- Numerous fixes.<br><br>Note that ESP32 is still broken on Switch 2.<br><br>Please see the release notes for more information."
+        "VersionPatch": 21,
+        "Changes": "<b>Version 0.54.21 (beta):</b><br><br>- Fixed a major issue with the wired controllers that caused button drops leading to severe program stability issues. (reported by ry, pat)<br>- Performance optimizations to SwSh + BDSP shiny detection on 4k.<br>- Area Zero Platform Bot and Scatterbug programs will now properly detect chained encounters including chained shiny encounters. Chain attacks are extremely common on Switch 2 due to the increased # of spawns.<br>- Fixed Material Farmer and Scatterbug programs not working on 4k.<br>- Fixed some program crashes and hangs.<br>- Fixed SV Mass Release. (reported by teddi.001)<br>- SV Egg autonomous will now recover from getting attacked. (reported by alex75772)<br>- Misc. Fixes to the BBQ Farmer (credit kichi)<br>- Improved reliability of the Item Printer. (reported by Sheep Punter)<br>- Improved reliability of BDSP eggs. (reported by Zing)<br>- Fixed code entry being broken on sys-botbase.<br>- Removed SleepyDiscord backend for Discord integration.<br><br>You will need to flash new firmware for all controllers."
     },
     "PrivateBeta": {
         "VersionMajor": 0,
