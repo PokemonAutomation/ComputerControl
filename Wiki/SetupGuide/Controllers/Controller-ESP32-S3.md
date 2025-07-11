@@ -124,12 +124,6 @@ If everything worked correctly, it will look like this:
 
 <img src="../Images/ControllerSetup-ESP32-S3-Connected-Cropped.png">
 
-If you see the following instead, then you actually connected to our wireless controller setup instead (ESP32-WROOM). (We love your enthusiasm for having both setups!)
-
-<img src="../Images/ControllerSetup-AVR8-ESP32.png">
-
-Both the wired and wireless setups use serial ports. The program can distinguish them when it connects to it.
-
 ### Step 3: Navigate your Switch to where it will accept a new controller.
 
 The ESP32-S3 behaves like a real wired controller. So it can only connect if your Switch is ready for it.
