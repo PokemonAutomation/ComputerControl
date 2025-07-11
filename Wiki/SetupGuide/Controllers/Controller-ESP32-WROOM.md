@@ -154,13 +154,7 @@ If everything worked correctly, it will look like this:
 
 <img src="../Images/ControllerSetup-ESP32-WROOM-Connected-Cropped.png">
 
-If you see the following instead, then you actually connected to our wired controller setup instead (Uno R3, Leonardo, Teensy, Pro Micro). (We love your enthusiasm for having both setups!)
-
-<img src="../Images/ControllerSetup-ESP32-WROOM-AVR8.png">
-
-Both the wired and wireless setups use serial ports. The program can distinguish them when it connects to it.
-
-If you see neither, then see [troubleshooting](#troubleshooting).
+If you do not see this or you get an error, then see [troubleshooting](#troubleshooting).
 
 ### Step 5: Connect the ESP32 to the Switch
 
