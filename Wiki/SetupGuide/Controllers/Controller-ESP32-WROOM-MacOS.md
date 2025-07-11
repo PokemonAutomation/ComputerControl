@@ -265,10 +265,6 @@ If in step 5, you are unable to connect to the Switch, (controller never shows u
 - Is it already paired with a different Switch?
 - There are reports of CFW ldm-mitm interfering with the ESP32. (This is a bug which we have yet to investigate.)
 
-### The Switch cannot transfer save files while paired with an ESP32.
-
-This doesn't always happen and we aren't sure exactly why, though we suspect it has to do with the ESP32 trying to reconnect to the Switch. You can fix this by changing the controller type to "None" to idle the ESP32.
-
 ### Wireless Interference with Multiple ESP32s.
 
 If you have multiple ESP32s, spread them out to reduce wireless interference.
