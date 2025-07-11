@@ -29,7 +29,7 @@ The USB port plugs into the computer which is how the program will control it. A
 
 <img src="../Images/ControllerSetup-ESP32-WROOM-Setup-Annotated-2.jpg" width="800">
 
-**Important:** There are many variants of the ESP32 microcontroller. The ESP32-WROOM is the only one that we support. So you must get that specific model. (e.g. Don't get the ESP32-S3-WROOM, or ESP32-S2-WROOM, or ESP32-C2, etc.)
+**Important:** There are many variants of the ESP32 microcontroller. The ESP32-WROOM is the only one that works here. So you must get that specific model. (e.g. Don't get the ESP32-S3-WROOM, or ESP32-S2-WROOM, or ESP32-C2, etc.)
 
 
 ### Recommended Purchase Links:
