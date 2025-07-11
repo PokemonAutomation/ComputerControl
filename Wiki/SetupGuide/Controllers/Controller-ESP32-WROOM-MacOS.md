@@ -6,7 +6,7 @@ This setup uses an ESP32 microcontroller to emulate a wireless controller. It ca
 
 The USB port plugs into the computer which is how the program will control it. At the other end is an antenna that supports Bluetooth which is how it will fake itself as a joycon or a wireless pro controller to the Switch.
 
-<img src="../Images/Mac/esp32.png" height="350"> <img src="../Images/Mac/esp32-full-setup.png" height="350">
+<img src="../Images/Mac/esp32.jpg" height="350"> <img src="../Images/Mac/esp32-full-setup.jpg" height="350">
 
 ## Hardware Setup:
 
@@ -23,7 +23,7 @@ The USB port plugs into the computer which is how the program will control it. A
 - **Single Setup:** $25 - $35
 - **Bulk Purchase:** ~$17 per setup
 
-<img src="../Images/Mac/esp32-setup.png" width="800">
+<img src="../Images/Mac/esp32-setup.jpg" width="800">
 
 **Important:** There are many variants of the ESP32 microcontroller. The ESP32-WROOM is the only one that we support. So you must get that specific model. (e.g. Don't get the ESP32-S3-WROOM, or ESP32-S2-WROOM, or ESP32-C2, etc.)
 
