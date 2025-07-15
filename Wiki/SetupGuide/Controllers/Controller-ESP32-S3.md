@@ -83,7 +83,16 @@ Make sure you have everything else setup so that it looks like this:
 
 If not, you should go back to the [general setup guide](../README.md) and start over.
 
-### Step 1: Flash the firmware to the ESP32.
+### Step 1: Install UART drivers (potentially)
+
+Depending on exactly which ESP32-S3 model you bought, you may need to install UART drivers. Most of them do not require any drivers. But if you need drivers, it will likely be the CP2102 drivers.
+
+- CP210x: https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip
+
+Only do this step if you do not see ESP32-S3 show up in device manager as a serial (COM) device.
+
+
+### Step 2: Flash the firmware to the ESP32.
 
 **Flash the ESP32:**
 
@@ -113,7 +122,7 @@ If everything worked correctly, you should see a green progress bar like this. I
    - Pressing either the `EN` or `RESET` button on the ESP32-S3.
    - Unplugging both USB cables and plugging them back in.
 
-### Step 2: Connect the ESP32-S3 to the Computer Control program
+### Step 3: Connect the ESP32-S3 to the Computer Control program
 
 1. At the top for the "Controller" option, click the dropdown and select `Serial: PABotBase` (should be on this since this is the default)
 2. In the next dropdown, select your serial device. On Windows it will be something like `COM3`.
@@ -124,7 +133,7 @@ If everything worked correctly, it will look like this:
 
 <img src="../Images/ControllerSetup-ESP32-S3-Connected-Cropped.png">
 
-### Step 3: Navigate your Switch to where it will accept a new controller.
+### Step 4: Navigate your Switch to where it will accept a new controller.
 
 The ESP32-S3 behaves like a real wired controller. So it can only connect if your Switch is ready for it.
 
@@ -135,7 +144,7 @@ Places where the Switch will accept a new controller:
 
 <img src="../Images/GripMenu.png">
 
-### Step 4: Test the connection
+### Step 5: Test the connection
 
 You can control your Switch from the keyboard. Click on the video display to activate the keyboard controls. Then try pressing some buttons. You can view the keyboard -> controller mapping by clicking on the "keyboard layout" at the bottom left corner of the program.
 
@@ -145,7 +154,7 @@ The default layout is the standard WASD setup for FPS games on the most common Q
 
 <img src="../Images/ControllerSetup-ESP32-S3-Controls.png">
 
-### Step 5: You are done!
+### Step 6: You are done!
 
 If keyboard commands are working (along with video and audio), you are done!
 
