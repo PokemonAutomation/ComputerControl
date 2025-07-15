@@ -4,7 +4,7 @@ This repo contains the computer-control programs (formerly known as "serial prog
 
 [More information about this project.](https://github.com/PokemonAutomation/About/blob/master/README.md)
 
-If you are new, you should start with our [Computer Control Setup Gude](Wiki/SetupGuide/README.md).
+If you are new, you should start with our [Computer Control Setup Guide](Wiki/SetupGuide/README.md).
 
 If you came here intending to run [AutoMaxLair](https://github.com/PokemonAutomation/AutoMaxLair), there is a newer version of it that's built-into the Computer-Control programs now. But if you want to play with the original Python one anyway, the hardware setup is the same as the wired configuration for the Computer-Control programs.
 
