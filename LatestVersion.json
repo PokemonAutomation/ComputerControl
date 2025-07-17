@@ -8,8 +8,8 @@
     "Beta": {
         "VersionMajor": 0,
         "VersionMinor": 54,
-        "VersionPatch": 21,
-        "Changes": "<b>Version 0.54.21 (beta):</b><br><br>- Fixed a major issue with the wired controllers that caused button drops leading to severe program stability issues. (reported by ry, pat)<br>- Performance optimizations to SwSh + BDSP shiny detection on 4k.<br>- Area Zero Platform Bot and Scatterbug programs will now properly detect chained encounters including chained shiny encounters. Chain attacks are extremely common on Switch 2 due to the increased # of spawns.<br>- Fixed Material Farmer and Scatterbug programs not working on 4k.<br>- Fixed some program crashes and hangs.<br>- Fixed SV Mass Release. (reported by teddi.001)<br>- SV Egg autonomous will now recover from getting attacked. (reported by alex75772)<br>- Misc. Fixes to the BBQ Farmer (credit kichi)<br>- Improved reliability of the Item Printer. (reported by Sheep Punter)<br>- Improved reliability of BDSP eggs. (reported by Zing)<br>- Fixed code entry being broken on sys-botbase.<br>- Removed SleepyDiscord backend for Discord integration.<br><br>You will need to flash new firmware for all controllers."
+        "VersionPatch": 24,
+        "Changes": "<b>Version 0.54.24 (Release Candidate):</b><br><br>- Added partial support for the Switch 2 GR and GL buttons. All keyboard settings will be reset to default due to the button mappings shifting.<br>- Fixed Arduino/Teensy and ESP32-S3 controllers hanging if the Switch refuses the connection. New firmware will be needed.<br>- Fixed all PLA programs that navigate regions being broken. (regression in v0.54.12)<br>- The Home Box Sorter should recognize PLA balls now.<br>- Fixed SBB allowing joysticks to go diagonally out-of-bounds. (reported by Koi)<br>- Fixed a possible deadlock with SBB.<br>- Fixed an issue in the button scheduler where it may issue incorrect commands.<br>- Various stability improvements to CC itself."
     },
     "PrivateBeta": {
         "VersionMajor": 0,
