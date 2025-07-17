@@ -38,6 +38,7 @@ Essentially, we catch the Ralts in the Autostory save file, move it to your main
 -	Move Ralts to the box
 -	Save and close the game
 -	Open Pokemon Home with your main account.
+  -	To get Pokemon Home: Download it from the eShop.
 -	Open the Pokemon Home box. Select the autostory account. 
 -	Move the Ralts into Pokemon Home
 -	Open the Pokemon Home box again. But select your main account this time.
