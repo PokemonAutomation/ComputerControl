@@ -49,18 +49,19 @@ Essentially, we catch the Ralts in the Autostory save file, move it to your main
 -	Level up Ralts with EXP candy (these can be farmed via [Item Printer RNG](ItemPrinterRNG.md), or with Tera raids). Evolve it to Gardevoir. Get it to level 100.<br>
 NOTE: Don’t give all the EXP candy at once. Give it in at least 2 batches, so that Ralts has the chance to evolve twice. If you end up with a level 100 Kirlia, to evolve it to Gardevoir you have to give an extra rare candy.<br>
 NOTE 2: I recommend disabling Move learning. So you skip all the dialog boxes from the moves you will learn as you level up. Afterwards, you can just relearn the moves as needed.
-- Give Modest Mint. To change nature to Modest
-- Give 26 carbos and 26 Calcium to maximize Speed and Special Attack EVs. Give 1 Iron to give an extra point of Defense
-- Give Choice Specs to hold
-- Use PP ups/PP max on all moves
 - Set the moves to the following:<br>
 \- Moon Blast
 \- Dazzling Gleam
 \- Psychic
 \- Mystical fire
+- Give 26 carbos and 26 Calcium to maximize Speed and Special Attack EVs. Afterwards, give 1 Iron to give an extra point of Defense (make sure to do this after giving the Carbos and Calcium)
+- Give Modest Mint. To change nature to Modest
+- Use PP ups/PP max on all moves
+- Give Choice Specs to hold
 - Go to Montenevera to Hypertrain all stats except Attack.
 - Ensure the ability is Synchronize or Telepathy. You may need to use an Ability Capsule or Ability Patch respectively. We don't want the ability Trace.
 - Optional: Go to Treasure eatery in Medali to change the tera type to Fairy
+- NOTE: after vitamins, mint and hypertraining, the stats should be as follows: HP 277, Attack [doesn't matter], Defense 167, Speed 259, Sp. Def 266, Sp. Atk 383
 
 **Moving the Gardevoir back to the Autostory account**
 - In your main account, put the Gardevoir back into the box. Save and close the game.
