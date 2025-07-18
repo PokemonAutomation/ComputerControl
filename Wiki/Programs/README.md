@@ -52,6 +52,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 | [Alolan Trade](PokemonLGPE/AlolanTrade.md)           | Video | Yes |
 | [Fossil Revival](PokemonLGPE/FossilRevival.md)       | Video | Yes |
 | [Gift Reset](PokemonLGPE/GiftReset.md)               | Video | Yes |
+| [Legendary Reset](PokemonLGPE/LegendaryReset.md)     | Video | Yes |
 
 
 
