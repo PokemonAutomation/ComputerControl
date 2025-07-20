@@ -1,4 +1,8 @@
-# Shiny Hunt (Unattended) - Regi
+# Shiny Hunt (Unattended) - Regi (deprecated)
+
+***This program is deprecated and is no longer maintained. Please use [Shiny Hunt Autonomous: Regi](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-Regi.md) instead.***
+
+-----
 
 **Related Programs:**
 - [Shiny Hunt Unattended: Regi](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-Regi.md) (this program)
