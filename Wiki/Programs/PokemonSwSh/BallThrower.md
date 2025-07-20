@@ -1,4 +1,8 @@
-# Ball Thrower
+# Ball Thrower (deprecated)
+
+***This program is deprecated and is no longer maintained. Please use [Autonomous Ball Thrower](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/AutonomousBallThrower.md) instead.***
+
+-----
 
 **Related Programs:**
 - [Ball Thrower](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/BallThrower.md) (this program)
