@@ -1,4 +1,8 @@
-# Shiny Hunt (Unattended) - Strong Spawn
+# Shiny Hunt (Unattended) - Strong Spawn (deprecated)
+
+***This program is deprecated and is no longer maintained. Please use [Shiny Hunt Autonomous: Strong Spawn](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-StrongSpawn.md) instead.***
+
+-----
 
 **Related Programs:**
 - [Shiny Hunt Unattended: Strong Spawn](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md) (this program)
