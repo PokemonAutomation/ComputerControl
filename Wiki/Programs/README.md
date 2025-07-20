@@ -71,7 +71,6 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 | [Surprise Trade](PokemonSwSh/SurpriseTrade.md)                  |                  | Yes | Yes |     |
 | [Trade Bot](PokemonSwSh/TradeBot.md)                            |                  | Yes | Yes |     |
 | [Clothing Buyer](PokemonSwSh/ClothingBuyer.md)                  |                  | Yes | Yes | Yes |
-| [Ball Thrower](PokemonSwSh/BallThrower.md)                      |                  | Yes | Yes | Yes |
 | [Autonomous Ball Thrower](PokemonSwSh/AutonomousBallThrower.md) | Video            | Yes | Yes | Yes |
 | [Dex Rec Finder](PokemonSwSh/DexRecFinder.md)                   | Video (Optional) | Yes | Yes | Degraded |
 | [Box Reorder National Dex](PokemonSwSh/BoxReorderNationalDex.md) | Video           | Yes | Yes |     |
@@ -140,6 +139,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 ||
 | **Deprecated Programs:** |
 ||
+| [Ball Thrower](PokemonSwSh/BallThrower.md)                      |                  | Yes | Yes | Yes |
 | [Beam Reset](PokemonSwSh/BeamReset.md)                                   |       | Yes | Yes |     |
 | [Egg Combined 2](PokemonSwSh/EggCombined2.md)                            |       | Yes | Yes |     |
 | [Egg Super-Combined 2](PokemonSwSh/EggSuperCombined2.md)                 |       | Yes | Yes |     |
