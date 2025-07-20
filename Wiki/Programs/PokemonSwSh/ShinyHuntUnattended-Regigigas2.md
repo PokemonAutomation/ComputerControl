@@ -1,4 +1,8 @@
-# Shiny Hunt (Unattended) - Regigigas 2
+# Shiny Hunt (Unattended) - Regigigas 2 (deprecated)
+
+***This program is deprecated and is no longer maintained. Please use [Shiny Hunt Autonomous: Regigigas2](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-Regigigas2.md) instead.***
+
+-----
 
 **Related Programs:**
 - **Computer Control:** [Shiny Hunt Unattended: Regigigas2](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-Regigigas2.md) (this program)
