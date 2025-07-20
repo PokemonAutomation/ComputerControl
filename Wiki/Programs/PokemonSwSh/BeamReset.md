@@ -1,4 +1,8 @@
-# Beam Reset
+# Beam Reset (deprecated)
+
+***This program is deprecated and is no longer maintained. Please use [Purple Beam Finder](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/PurpleBeamFinder.md) instead.***
+
+-----
 
 **Related Programs:**
 - [Beam Reset](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/BeamReset.md) (this program)
