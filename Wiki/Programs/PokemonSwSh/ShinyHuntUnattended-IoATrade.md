@@ -1,4 +1,4 @@
-# Shiny Hunt (Unattended) - Isle of Armor Trade
+# Shiny Hunt (Unattended) - Isle of Armor Trade (deprecated)
 
 ***This program is deprecated and is no longer maintained. Please use [Shiny Hunt Autonomous: IoA Trade](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-IoATrade.md) instead.***
 
