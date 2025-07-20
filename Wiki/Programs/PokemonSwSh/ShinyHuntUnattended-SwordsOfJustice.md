@@ -1,8 +1,12 @@
-# Shiny Hunt (Unattended) - Swords of Justice
+# Shiny Hunt (Unattended) - Swords of Justice (deprecated)
+
+***This program is deprecated and is no longer maintained. Please use [Shiny Hunt Autonomous: Swords of Justice](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-SwordsOfJustice.md) instead.***
+
+-----
 
 **Related Programs:**
 - [Shiny Hunt Unattended: Swords of Justice](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md) (this program)
-   [Shiny Hunt Autonomous: Swords of Justice](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-SwordsOfJustice.md)
+- [Shiny Hunt Autonomous: Swords of Justice](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-SwordsOfJustice.md)
 
 The last one on the list is the most advanced. It can detect shinies, distinguish stars from squares, stop on them, and notify the user.
 
