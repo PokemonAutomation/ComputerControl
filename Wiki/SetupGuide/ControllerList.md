@@ -2,7 +2,7 @@
 
 This is a full list of controllers that we currently support.
 
-| | **Controller Type** | **Support Switch Controllers** | **Notes** |
+| | **Controller Type** | **Supported Controllers** | **Notes** |
 | --- | --- | ------------------------------------------------------------------------ | --- |
 | <img src="Images/ControllerSetup-ESP32-S3.jpg" width="200"> | [ESP32-S3](Controllers/Controller-ESP32-S3.md) | Wired Pro Controller (3rd Party) | Easy to setup.<br>Recommended for most users. |
 | <img src="Images/ControllerSetup-ESP32-WROOM.jpg" width="200"> | [ESP32-WROOM](Controllers/Controller-ESP32-WROOM.md)<br><br>[(Mac Guide)](Controllers/Controller-ESP32-WROOM-MacOS.md) | Wireless Pro Controller<br>Left Joycon<br>Right Joycon | Easy to setup.<br>Recommended for LGPE.<br>Not working on Switch 2. |
