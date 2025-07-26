@@ -37,7 +37,7 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/1036457871
 
 ### Primary Apricorns:
 
-The amount of Apricorns you have in the selected bag slot.
+The amount of Apricorns you have in the selected bag slot. This number needs to be 5 or greater, but preferably in the hundreds.
 
 ### Secondary Apricorns:
 
