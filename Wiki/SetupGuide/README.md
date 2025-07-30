@@ -82,7 +82,9 @@ Example Shopping Links:
 - https://www.amazon.com/dp/B09FLN63B3
 
 Most cheap capture cards work. Higher end-capture cards may cause issues with color detection.
-Ensure the capture card is capable of a video output resolution of 1080p at 30 frames per second.
+Ensure the capture card is capable of a video output resolution of 1080p at 30 frames per second (FPS). Though we recommend at least 1080p/60 FPS to minimize video tearing.
+
+For Switch 2 owners, you do not need an (expensive) 4k capture card to run automation on the Switch 2. These cheap 1080p capture cards will work fine on the Switch 2. But if you don't mind the price, feel free to get a 4k capture card anyway for the better graphics quality. Automation will work on both 1080p and 4k.
 
 
 ### The Controller: (the computer's hands)
