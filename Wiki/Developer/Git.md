@@ -10,7 +10,7 @@ To add a new feature to the code, we use the standard Github development cycle:
 
 - Fork the [Arduino-Source](https://github.com/PokemonAutomation/Arduino-Source/tree/main/SerialPrograms/Source) repository (repo for short) so that you have a complete copy of the codebase repo under your own Github account.
 - Clone your copied repo to your local machine. Make sure your downloaded local repo is linked to your online Github repo.
-- Build the **SerialPrograms** executable. See the [Build guide](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/README.md) for more details on how to build our programs in Windows. If you use macOS, refer to the [Mac Installation Guide](https://github.com/PokemonAutomation/About/blob/master/Setup/ComputerControl/ComputerControl-Mac.md).
+- Build the **SerialPrograms** executable. See the [Build guide](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/README.md) for more details on how to build our programs.
 - Some of the automation programs listed in the **SerialPrograms** require additional resources in the form of files in a folder named `Resources`.
 	- You can download the folder from our latest [program releases](https://github.com/PokemonAutomation/ComputerControl/releases) or from the Github repo [Packages](https://github.com/PokemonAutomation/Packages).
 	- Place the `Resources` folder at the same folder hierarchy as the folder of the built **SerialPrograms** executable, so that when launching the executable it can correctly find the resource folder.
