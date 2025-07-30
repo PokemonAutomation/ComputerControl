@@ -13,6 +13,7 @@ If you have any questions regarding the documentation or find any errors in the 
 - [Example Tutorial: Button Script](TutorialMC.md)
 - [Example Tutorial: Pokémon Home Sorter](TutorialCC.md)
 - Development Topics
+	- [Build Guide](BuildGuide.md)
 	- [Send Button Commands](Button.md)
 	- [Access Regions of Interest on Images](SubImage.md)
 	- [Wait Some Time](Wait.md)
