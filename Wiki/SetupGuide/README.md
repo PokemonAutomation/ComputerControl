@@ -68,9 +68,7 @@ However, it needs to be a *regular* Nintendo Switch that can be docked with HDMI
 
 Support for the Switch 2 is available starting from version 0.54 but only for wired controllers. Support for wireless controllers (including joycons) on the Switch 2 remains a work in progress.
 
-As of July 2025, we expect most automation to remain on the Switch 1 even for Switch 2 owners. There are currently no Pokémon games exclusive to the Switch 2.
-
-Most of our users who have jumped on the Switch 2 train use the Switch 2 for manual/normal play while their Switch 1 becomes the spare for running 24/7 automation.
+As of July 2025, we expect most automation to remain on the Switch 1 even for Switch 2 owners. There are currently no Pokémon games exclusive to the Switch 2. Most of our users who have jumped on the Switch 2 train use the Switch 2 for manual/normal play while their existing Switch 1 becomes the spare for running 24/7 automation.
 
 
 ### Video Capture Card (the computer's eyes)
