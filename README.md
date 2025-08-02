@@ -14,7 +14,7 @@ If you came here intending to run [AutoMaxLair](https://github.com/PokemonAutoma
 - [See Releases](https://github.com/PokemonAutomation/ComputerControl/releases)
 
 **Contents:**
-- [Setup Gude](Wiki/SetupGuide/README.md)
+- [Setup Guide](Wiki/SetupGuide/README.md)
 - [Program List](Wiki/Programs/README.md)
   - [Nintendo Switch](Wiki/Programs/README.md#nintendo-switch)
   - [Pokémon Let's Go Pikachu and Eevee](Wiki/Programs/README.md#pok%C3%A9mon-lets-go-pikachueevee-lgpe)
@@ -33,6 +33,7 @@ The next level game console automation using computer control, machine learning,
 <img src="Wiki/SetupGuide/Images/ControllerSetup-ESP32-WROOM-Setup.jpg" width="800">
 <img src="Wiki/Programs/PokemonSwSh/images/ShinyHuntAutonomous-Overworld-1.jpg" width="800">
 <img src="Wiki/Programs/PokemonSwSh/images/MaxLair-0.png" width="800">
+
 
 
 
