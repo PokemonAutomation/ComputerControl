@@ -252,14 +252,14 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 | [LP Farmer](PokemonSV/LPFarmer.md) | Farm LP by day skipping Tera raids.                                                            | Video         | Yes | Yes | Degraded |
 | [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md) | Farm roaming Gimmighoul for coins.                              | Video         | Yes | Yes | Degraded |
 | [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md) | Farm chest Gimmighoul for coins.                                    | Video         | Yes | Yes |     |
-| [Auction Farmer](PokemonSV/AuctionFarmer.md) | Farm special Pokeballs (now superceded Item Printer RNG), EV reset berries, feathers | Video         | Yes | Yes | Degraded |
-| [ESP Training](PokemonSV/ESPTraining.md) | Farm EV reset berries          	                                                      | Video         | Yes | Yes | Yes |
-| [Tournament Farmer](PokemonSV/TournamentFarmer.md) | Farm money (now superceded Item Printer RNG)                                   | Video         | Yes | Yes | Yes |
-| [Tournament Farmer 2](PokemonSV/TournamentFarmer2.md) | Farm money (now superceded Item Printer RNG)                                | Video         | Yes | Yes | Yes |
-| [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md) | Farm BBQ points                                                             | Video         | Yes | Yes |     |
-| [BBQ Farmer](PokemonSV/BBQSoloFarmer.md)  | Farm BBQ points                                                                         | Video + Audio | Yes | Yes |     |
+| [Auction Farmer](PokemonSV/AuctionFarmer.md) | Farm special Pokeballs (now superceded by Item Printer RNG), EV reset berries, feathers | Video         | Yes | Yes | Degraded |
+| [ESP Training](PokemonSV/ESPTraining.md) | Farm EV reset berries          	                                                        | Video         | Yes | Yes | Yes |
+| [Tournament Farmer](PokemonSV/TournamentFarmer.md) | Farm money (now superceded by Item Printer RNG)                                | Video         | Yes | Yes | Yes |
+| [Tournament Farmer 2](PokemonSV/TournamentFarmer2.md) | Farm money (now superceded by Item Printer RNG)                             | Video         | Yes | Yes | Yes |
+| [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md) | Farm Blueberry points (BP) with the Flying trial                            | Video         | Yes | Yes |     |
+| [BBQ Farmer](PokemonSV/BBQSoloFarmer.md)  | Farm Blueberry points (BP) with Blueberry quests                                        | Video + Audio | Yes | Yes |     |
 | [Material Farmer](PokemonSV/MaterialFarmer.md) | Farm Happiny dust                                                                  | Video + Audio | Yes | Yes | Yes |
-| [Item Printer RNG](PokemonSV/ItemPrinterRNG.md) | Farm Ability Patches, PP Max, EXP Candy, special Pokeballs, Tera shards           | Video + Audio | Yes | Yes | Degraded |
+| [Item Printer RNG](PokemonSV/ItemPrinterRNG.md) | Farm rare items (e.g. Ability Patch, PP Max, EXP Candy, rare Pokeballs, Tera shards). To farm money, farm and sell Ability Patches. | Video + Audio | Yes | Yes | Degraded |
 ||
 | **Eggs:** |
 | [Egg Fetcher](PokemonSV/EggFetcher.md) | Fetch eggs from a picnic.                         | Video         | Yes | Yes | Yes |
@@ -314,5 +314,6 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
