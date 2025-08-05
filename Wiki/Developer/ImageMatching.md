@@ -80,6 +80,10 @@ RMSD (root mean square deviation) is a single number that summarizes how similar
 
 Note, with area ratio and aspect ratio, each Waterfill object is compared with the Waterfilled template. i.e. Area ratio and aspect ratio values are based on the Waterfill objects. However, RMSD is done on cropped images. Each Waterfill object will produce a cropped image, where the original image will be cropped according to the bounding box of the Waterfill object. The Waterfilled template similarly produces a cropped template image. For each cropped image from the Waterfilll objects, RMSD will be computed in comparison to the cropped template image.
 
+### Creating your own image templates
+
+If you want to create a template image for a detector, I recommend ensuring screenshots are in 1080p (or 4K). One easy way to do this is to take screenshots from within the Computer Control program. Screenshots taken from the Switch are lower resolution (720p) and can cause issues with image matching. Then, use an image editor (like MS Paint or Paint.net) to crop down to the area of interest. Use the magic wand tool to remove most of the unwanted background. Then use the eraser tool to delete any remaining unwanted pixels.
+
 ### Why do we use Waterfill instead of object detection?
 
 Waterfill is computationally cheap and works well with video games with lots of solid colors. General object detection will require machine learning, which is both much more computationally intensive and is currently out-of-scope for this project as we don't have the expertise for it yet.
@@ -102,8 +106,6 @@ MapPokeCenterIconMatcher() : WaterfillTemplateMatcher(
 PokeCenterIcon-Template.png is the template image. It’s located in the Resources folder. 
 
 <img src="images/template-image-original.png">
-
-> Side note: If you want to create a template image for another detector, I recommend ensuring screenshots are in 1080p. One easy way to do this is to take screenshots from within the Computer Control program. Screenshots taken from the Switch are lower resolution (720p) and can cause issues with image matching. Then, use an image editor (like MS Paint or Paint.net) to crop down to the area of interest. Use the magic wand tool to remove most of the unwanted background. Then use the eraser tool to delete any remaining unwanted pixels.
 
 Still looking within the WaterfillTemplateMatcher constructor, the next two color parameters are for applying color filters for Waterfilling the template. In other words, the template is not being used as is, but rather is a Waterfill object. In this case, the color filter keeps all pixels with Red: 150-255, Green: 0-100, Blue: 0-100. i.e. the filter keeps all the red portions of the Pokecenter icon. The largest group of connected red pixels is the Waterfill object that is selected. This resulting Waterfill object is the template that we will use for comparing against objects on the screen. Note, another reminder that the red arc and dot inside the icon aren't connected to the rest of the icon, so these won't be a part of the Waterfill template object. In other words, the red arc and dot aren't relevant for meeting the aspect ratio and area ratio requirements. However, they are relevant for meeting the RMSD threshold, which doesn't use Waterfill objects, but rather cropped images.
 
@@ -184,6 +186,7 @@ Some tips with inspecting the dump folder:
 - If your desired Waterfill object is there, but within a larger image/Waterfill object, try narrowing your color filters.
 - If your desired Waterfill object is there, but only a portion of it is present, try expanding your filters. 
 - If your desired Waterfill object is there, and perfect, then your Waterfill filters might be fine. Try inspecting your RMSD, area ratio, and aspect ratio thresholds and adjusting those. That being said, it's still possible that you have a problem with your area ratio. For example, the image in the dump folder could look perfect while your area ratio could be lower than expected, if Waterfill is primarily matching pixels along the borders/edge of the image, but not in the middle.
+
 
 
 
