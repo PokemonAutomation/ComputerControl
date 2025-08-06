@@ -6,8 +6,8 @@ OCR is for optical character recognition, technique to read texts from images.
 We use [Tesseract library](https://github.com/tesseract-ocr/tesseract) to do OCR.
 Given a video screen image, we first create a crop to get the region of the image where text is. See [this topic](SubImage.md) on how to get a region of the image. Then we apply our OCR functions on this sub-image.
 
-We mostly use [`SmallDictionaryMatcher`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/OCR/OCR_SmallDictionaryMatcher.h)
-and [`LargeDictionaryMatcher`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/OCR/OCR_LargeDictionaryMatcher.h)
+We mostly use [`SmallDictionaryMatcher`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonTools/OCR/OCR_SmallDictionaryMatcher.h)
+and [`LargeDictionaryMatcher`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonTools/OCR/OCR_LargeDictionaryMatcher.h)
 to find a text match from a pre-difined set of candidate texts.
 
 ## SmallDictionaryMatcher
@@ -65,15 +65,16 @@ Note: even with this trick, OCR can still sometimes fail, especially for Asian l
 
 ## Read Text from Image
 
-Both two matcher classes are based on [`DictionaryMatcher`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/OCR/OCR_DictionaryMatcher.h), which provide function `match_substring_from_image_multifiltered()` to match a substring from an image.
+Both two matcher classes are based on [`DictionaryMatcher`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonTools/OCR/OCR_DictionaryMatcher.h), which provide function `match_substring_from_image_multifiltered()` to match a substring from an image.
 See its comments for how to use it.
 
 You can find out how `BerryNameReader` reads berry names in [**PokemonBDSP_GiftBerryReset**](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonBDSP/Programs/Farming/PokemonBDSP_GiftBerryReset.cpp).
 
 ## Read Number from Image
 
-We have a special function, [`OCR::read_number()`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonFramework/OCR/OCR_NumberReader.h)
+We have a special function, [`OCR::read_number()`](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/CommonTools/OCR/OCR_NumberReader.h)
 to read only numbers on an image.
 See [**PokemonBDSP_BattleBallReader**](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/Source/PokemonBDSP/Inference/Battles/PokemonBDSP_BattleBallReader.cpp) as an example.
+
 
 Note: same as our general text OCR functions, `OCR::read_number()` is not the most robust. It may occasionally fail to read the correct number. For most robust programs, we suggest using other inferences (color, timing, sound) to supplement OCR.
