@@ -294,6 +294,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 ||
 | **Beta programs:** |
 | [AutoStory](PokemonSV/AutoStory.md) | Progress through the tutorial and mainstory of Scarlet/Violet | Video         | Untested | Yes |     |
+| [Claim Mystery Gift](PokemonSV/ClaimMysteryGift.md) | Claim the Mystery Gift in Scarlet/Violet | Video         | Untested | Yes |     |
 ||
 | **Deprecated Programs:** |
 | [Autonomous Item Printer](PokemonSV/AutoItemPrinter.md)               | Video         | Yes | Yes | Yes |
