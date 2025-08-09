@@ -158,44 +158,44 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 
 ## Pokémon Brilliant Diamond/Shining Pearl
 
-| **Program** | **Feedback** | **ESP32-WROOM** | **ESP32-S3<br>Arduino Uno R3/Leonardo<br>Teensy2/ProMicro** | **sys-botbase** |
-| --- | --- | --- | --- | --- |
-| Game Settings | --- | --- | --- | --- |
+| **Program** | **Feedback** | **Controllers** |
+| --- | --- | --- |
+| Game Settings | --- | --- |
 ||
 | **General:** |
-| [Mass Release](PokemonBDSP/MassRelease.md)                            |       | Yes | Yes | Yes |
-| [Autonomous Ball Thrower](PokemonBDSP/AutonomousBallThrower.md)       | Video | Yes | Yes | Yes |
+| [Mass Release](PokemonBDSP/MassRelease.md)                            |       | All |
+| [Autonomous Ball Thrower](PokemonBDSP/AutonomousBallThrower.md)       | Video | All |
 ||
 | **Trading:** |
-| [Self Box Trade](PokemonBDSP/SelfBoxTrade.md)                         | Video | Yes | Yes | Yes |
-| [Self Touch Trade](PokemonBDSP/SelfTouchTrade.md)                     | Video | Yes | Yes | Yes |
+| [Self Box Trade](PokemonBDSP/SelfBoxTrade.md)                         | Video | All |
+| [Self Touch Trade](PokemonBDSP/SelfTouchTrade.md)                     | Video | All |
 ||
 | **Farming:** |
-| [Money Farmer (Route 212)](PokemonBDSP/MoneyFarmerRoute212.md)        | Video | Yes | Yes |     |
-| [Money Farmer (Route 210)](PokemonBDSP/MoneyFarmerRoute210.md)        | Video | Yes | Yes |     |
-| [Double Battle Leveling](PokemonBDSP/DoublesLeveling.md)              | Video | Yes | Yes | Yes |
-| [Amity Square Pick Up Farmer](PokemonBDSP/AmitySquarePickUpFarmer.md) |       | Yes | Yes | Yes |
-| [Gift Berry Reset](PokemonBDSP/GiftBerryReset.md)                     | Video | Yes | Yes | Yes |
-| [Poffin Cooker](PokemonBDSP/PoffinCooker.md)                          | Video | Yes | Yes | Degraded |
+| [Money Farmer (Route 212)](PokemonBDSP/MoneyFarmerRoute212.md)        | Video | Wired, Wireless |
+| [Money Farmer (Route 210)](PokemonBDSP/MoneyFarmerRoute210.md)        | Video | Wired, Wireless |
+| [Double Battle Leveling](PokemonBDSP/DoublesLeveling.md)              | Video | All |
+| [Amity Square Pick Up Farmer](PokemonBDSP/AmitySquarePickUpFarmer.md) |       | All |
+| [Gift Berry Reset](PokemonBDSP/GiftBerryReset.md)                     | Video | All |
+| [Poffin Cooker](PokemonBDSP/PoffinCooker.md)                          | Video | All (Degraded: sbb2) |
 ||
 | **Shiny Hunting:** |
-| [Starter Reset](PokemonBDSP/StarterReset.md)                          | Video | Yes | Yes | Yes |
-| [Legendary Reset](PokemonBDSP/LegendaryReset.md)                      | Video | Yes | Yes | Yes |
-| [Shiny Hunt - Overworld](PokemonBDSP/ShinyHunt-Overworld.md)          | Video | Yes | Yes | Yes |
-| [Shiny Hunt - Fishing](PokemonBDSP/ShinyHunt-Fishing.md)              | Video | Yes | Yes | Yes |
-| [Shiny Hunt - Shaymin](PokemonBDSP/ShinyHunt-Shaymin.md)              | Video | Yes | Yes | Yes |
+| [Starter Reset](PokemonBDSP/StarterReset.md)                          | Video | All |
+| [Legendary Reset](PokemonBDSP/LegendaryReset.md)                      | Video | All |
+| [Shiny Hunt - Overworld](PokemonBDSP/ShinyHunt-Overworld.md)          | Video | All |
+| [Shiny Hunt - Fishing](PokemonBDSP/ShinyHunt-Fishing.md)              | Video | All |
+| [Shiny Hunt - Shaymin](PokemonBDSP/ShinyHunt-Shaymin.md)              | Video | All |
 ||
 | **Eggs:** |
-| [Egg Fetcher](PokemonBDSP/EggFetcher.md)                              |       | Yes | Yes | Yes |
-| [Egg Hatcher](PokemonBDSP/EggHatcher.md)                              |       | Yes | Yes | Yes |
-| [Egg Autonomous](PokemonBDSP/EggAutonomous.md)                        | Video | Yes | Yes | Yes |
+| [Egg Fetcher](PokemonBDSP/EggFetcher.md)                              |       | All |
+| [Egg Hatcher](PokemonBDSP/EggHatcher.md)                              |       | All |
+| [Egg Autonomous](PokemonBDSP/EggAutonomous.md)                        | Video | All |
 ||
 | **Glitches (v1.1.3):** |
-| [Activate Menu Glitch (1.1.3)](PokemonBDSP/ActivateMenuGlitch-113.md)     | Video | Yes | Yes |     |
-| [Clone Items (Box Copy Method 2)](PokemonBDSP/CloneItemsBoxCopy2.md)      | Video | Yes | Yes |     |
+| [Activate Menu Glitch (1.1.3)](PokemonBDSP/ActivateMenuGlitch-113.md)     | Video | Wired, Wireless |
+| [Clone Items (Box Copy Method 2)](PokemonBDSP/CloneItemsBoxCopy2.md)      | Video | Wired, Wireless |
 ||
 | **Glitches (v1.1.2):** |
-| [Activate Menu Glitch (1.1.2)](PokemonBDSP/ActivateMenuGlitch-Poketch.md) | Video | Yes | Yes |     |
+| [Activate Menu Glitch (1.1.2)](PokemonBDSP/ActivateMenuGlitch-Poketch.md) | Video | Wired, Wireless |
 
 
 ## Pokémon Legends Arceus
@@ -321,6 +321,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
