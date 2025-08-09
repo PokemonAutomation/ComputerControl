@@ -14,9 +14,9 @@ Your main team needs to consist of 3 pokemon. A Gardevoir and two other strong p
 
 ## Gardevoir
 
-The Gardevoir should be level 100, with the moves in the following order:  Moonblast, Dazzling Gleam, Psychic, Mystical Fire. All PP should be maxed. Max Speed and Special Attack EVs. Max IVs except for Attack. Ability: Synchronize or Telepathy (we don't want Trace). Tera Fairy. Holding Choice Specs. Modest nature.
+The Gardevoir should be level 100, with the moves in the following order:  Moonblast, Dazzling Gleam, Psychic, Mystical Fire. All PP should be maxed. Max Speed and Special Attack EVs. Max IVs except for Attack. Ability: Synchronize or Telepathy (we don't want Trace). Tera Fairy. Modest nature.
 
-Gardevoir @ Choice Specs <br>
+Gardevoir <br>
 Ability: Synchronize <br>
 Tera Type: Fairy<br>
 EVs: 252 SpA / 252 Spe<br>
@@ -57,7 +57,7 @@ NOTE 2: I recommend disabling Move learning. So you skip all the dialog boxes fr
 - Give 26 carbos and 26 Calcium to maximize Speed and Special Attack EVs. Afterwards, give 1 Iron to give an extra point of Defense (make sure to do this after giving the Carbos and Calcium)
 - Give Modest Mint. To change nature to Modest
 - Use PP ups/PP max on all moves
-- Give Choice Specs to hold
+- No need for held item, since held items can't be transferred through Home.
 - Go to Montenevera to Hypertrain all stats except Attack.
 - Ensure the ability is Synchronize or Telepathy. You may need to use an Ability Capsule or Ability Patch respectively. We don't want the ability Trace.
 - Optional: Go to Treasure eatery in Medali to change the tera type to Fairy
@@ -101,4 +101,5 @@ End the autostory program at this segment in the story.
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
