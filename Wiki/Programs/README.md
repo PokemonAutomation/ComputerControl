@@ -33,7 +33,7 @@ This is a list of all the computer-control programs. To run these programs, you 
 | [Turbo Button](NintendoSwitch/TurboButton.md)                     |     | All |
 | [Turbo Macro](NintendoSwitch/TurboMacro.md)                       |     | All |
 | [Prevent Sleep](NintendoSwitch/PreventSleep.md)                   |     | All |
-| [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)            |     | All<br>(sbb2 degraded) |
+| [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)            |     | All (Degraded: sbb2) |
 | [Friend Delete](NintendoSwitch/FriendDelete.md)                   |     | All |
 
 ## Pokémon Home
@@ -69,47 +69,47 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 | [Game Settings](PokemonSwSh/PokemonSettings.md)        | --- | --- | --- |
 ||
 | **QoL Macros:** |
-| [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md) |              |                  | All<br>(wireless degraded)<br>(sbb2 degraded) |
+| [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md) |              |                  | All (Degraded: Wireless, sbb2) |
 | [Friend Search Disconnect](PokemonSwSh/FriendSearchDisconnect.md) |  |                  | All |
 ||
 | **General Programs:** |
-| [Mass Release](PokemonSwSh/MassRelease.md) |                       |                  | All<br>(sbb2 degraded) |
+| [Mass Release](PokemonSwSh/MassRelease.md) |                       |                  | All (Degraded: sbb2) |
 | [Surprise Trade](PokemonSwSh/SurpriseTrade.md) |                   |                  | Yes | Yes |     |
 | [Trade Bot](PokemonSwSh/TradeBot.md) |                             |                  | Yes | Yes |     |
 | [Clothing Buyer](PokemonSwSh/ClothingBuyer.md) |                   |                  | Yes | Yes | Yes |
 | [Autonomous Ball Thrower](PokemonSwSh/AutonomousBallThrower.md) |  | Video            | Yes | Yes | Yes |
-| [Dex Rec Finder](PokemonSwSh/DexRecFinder.md) |                    | Video (Optional) | All<br>(sbb2 degraded) |
-| [Box Reorder National Dex](PokemonSwSh/BoxReorderNationalDex.md) | | Video           | Yes | Yes |     |
+| [Dex Rec Finder](PokemonSwSh/DexRecFinder.md) |                    | Video (Optional) | All (Degraded: sbb2) |
+| [Box Reorder National Dex](PokemonSwSh/BoxReorderNationalDex.md) | | Video            | Yes | Yes |     |
 ||
 | **Date-Spam Farmers:** |
-| [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md) | Farm watts. To farm money, use watts to buy Luxury balls, then sell them. || Degraded | Yes | Degraded |
-| [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md) | Farm berries.                                                           || All<br>(wireless degraded)<br>(sbb2 degraded) |
-| [Date Spam: Berry Farmer 2](PokemonSwSh/DateSpam-BerryFarmer2.md) | Farm berries using audio/video feedback                              | Video + Audio | All<br>(sbb2 degraded) |
-| [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md) |                          || All<br>(sbb2 degraded) |
-| [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md) |            || All<br>(sbb2 degraded) |
-| [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md) |     || All<br>(sbb2 degraded) |
-| [Date Spam: Poké Jobs Farmer](PokemonSwSh/DateSpam-PokeJobsFarmer.md) |                 || All<br>(sbb2 degraded) |
+| [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md) | Farm watts. To farm money, use watts to buy Luxury balls, then sell them. || All (Degraded: Wireless, sbb2) |
+| [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md) | Farm berries.                                                           || All (Degraded: Wireless, sbb2) |
+| [Date Spam: Berry Farmer 2](PokemonSwSh/DateSpam-BerryFarmer2.md) | Farm berries using audio/video feedback                              | Video + Audio | All (Degraded: sbb2) |
+| [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md) |                          || All (Degraded: sbb2) |
+| [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md) |            || All (Degraded: sbb2) |
+| [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md) |     || All (Degraded: sbb2) |
+| [Date Spam: Poké Jobs Farmer](PokemonSwSh/DateSpam-PokeJobsFarmer.md) |                 || All (Degraded: sbb2) |
 ||
 | **Den Hunting:** |
 | [Purple Beam Finder](PokemonSwSh/PurpleBeamFinder.md) |         | Video            | All |
 | [Event Beam Finder](PokemonSwSh/EventBeamFinder.md) |           |                  | All |
-| [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md) |             |                  | Wired, Wireless<br>(wireless degraded) |
-| [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md) |               |                  | Wired, Wireless<br>(wireless degraded) |
-| [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md) |               |                  | Wired, Wireless<br>(wireless degraded) |
+| [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md) |             |                  | Wired, Wireless (Degraded: Wireless) |
+| [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md) |               |                  | Wired, Wireless (Degraded: Wireless) |
+| [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md) |               |                  | Wired, Wireless (Degraded: Wireless) |
 | [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md) | |                  | Wired Only |
 ||
 | **Hosting:** |
-| [Den Roller](PokemonSwSh/DenRoller.md) |                    | Video (Optional) | All<br>(sbb2 degraded) |
-| [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md) |      | Video (Optional) | All<br>(sbb2 degraded) |
-| [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md) | | Video (Optional) | All<br>(sbb2 degraded) |
+| [Den Roller](PokemonSwSh/DenRoller.md) |                    | Video (Optional) | All (Degraded: sbb2) |
+| [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md) |      | Video (Optional) | All (Degraded: sbb2) |
+| [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md) | | Video (Optional) | All (Degraded: sbb2) |
 ||
 | **Eggs:** |
 | [Egg Fetcher 2](PokemonSwSh/EggFetcher2.md) |                              |       | All |
 | [Egg Fetcher Multiple](PokemonSwSh/EggFetcherMultiple.md) |                |       | All |
 | [Egg Hatcher](PokemonSwSh/EggHatcher.md) |                                 |       | All |
 | [Egg Autonomous](PokemonSwSh/EggAutonomous.md) |                           | Video | All |
-| [God Egg Item Duplication](PokemonSwSh/GodEggItemDuplication.md) |         |       | All<br>(sbb2 degraded) |
-| [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md) | |       | All<br>(sbb2 degraded) |
+| [God Egg Item Duplication](PokemonSwSh/GodEggItemDuplication.md) |         |       | All (Degraded: sbb2) |
+| [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md) | |       | All (Degraded: sbb2) |
 ||
 | **Non-Shiny Hunting:** |
 | [Stats Reset](PokemonSwSh/StatsReset.md) |                   | Video | All |
@@ -118,24 +118,24 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 | [Stats Reset - Regi](PokemonSwSh/StatsReset-Regi.md) |       | Video | All |
 ||
 | **Shiny Hunting:** |
-| [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md) |                                      |                  | All<br>(sbb2 degraded) |
+| [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md) |                                      |                  | All (Degraded: sbb2) |
 | [Curry Hunter](PokemonSwSh/CurryHunter.md) |                                                      | Video (Optional) | Wired, Wireless |
-| [Shiny Hunt Autonomous - Regi](PokemonSwSh/ShinyHuntAutonomous-Regi.md) |                         | Video | All<br>(sbb2 degraded) |
+| [Shiny Hunt Autonomous - Regi](PokemonSwSh/ShinyHuntAutonomous-Regi.md) |                         | Video | All (Degraded: sbb2) |
 | [Shiny Hunt Autonomous - Swords Of Justice](PokemonSwSh/ShinyHuntAutonomous-SwordsOfJustice.md) | | Video | All |
 | [Shiny Hunt Autonomous - Strong Spawn](PokemonSwSh/ShinyHuntAutonomous-StrongSpawn.md) |          | Video | All |
 | [Shiny Hunt Autonomous - Regigigas2](PokemonSwSh/ShinyHuntAutonomous-Regigigas2.md) |             | Video | All |
 | [Shiny Hunt Autonomous - IoA Trade](PokemonSwSh/ShinyHuntAutonomous-IoATrade.md) |                | Video | All |
-| [Shiny Hunt Autonomous - Berry Tree](PokemonSwSh/ShinyHuntAutonomous-BerryTree.md) |              | Video | All<br>(sbb2 degraded) |
+| [Shiny Hunt Autonomous - Berry Tree](PokemonSwSh/ShinyHuntAutonomous-BerryTree.md) |              | Video | All (Degraded: sbb2) |
 | [Shiny Hunt Autonomous - Whistling](PokemonSwSh/ShinyHuntAutonomous-Whistling.md) |               | Video | All |
 | [Shiny Hunt Autonomous - Fishing](PokemonSwSh/ShinyHuntAutonomous-Fishing.md) |                   | Video | All |
 | [Shiny Hunt Autonomous - Overworld](PokemonSwSh/ShinyHuntAutonomous-Overworld.md) |               | Video | All |
 ||
 | **RNG:** |
 | [RNG Seed Finder](PokemonSwSh/SeedFinder.md) | Finds the current state to be used for manual RNG manipulation      | Video | All |
-| [Cram-o-matic RNG](PokemonSwSh/CramomaticRNG.md) | Farm apriballs using RNG manip of Cram-o-matic                  | Video | All<br>(sbb2 degraded) |
+| [Cram-o-matic RNG](PokemonSwSh/CramomaticRNG.md) | Farm apriballs using RNG manip of Cram-o-matic                  | Video | All (Degraded: sbb2) |
 ||
 | **Multi-Switch Programs:** |
-| Synchronized Spinning |                                                    || All<br>(sbb2 degraded) |
+| Synchronized Spinning |                                                    || All (Degraded: sbb2) |
 | [Raid Item Farmer (OHKO)](PokemonSwSh/RaidItemFarmerOHKO.md)  |            || Wired, Wireless |
 ||
 | [**Auto Max Lair 2.0:**](PokemonSwSh/MaxLair.md) |
@@ -321,6 +321,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
