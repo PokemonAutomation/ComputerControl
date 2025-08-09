@@ -238,89 +238,90 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 
 ## Pokémon Scarlet and Violet
 
-| **Program** | **Description** | **Feedback** | **ESP32-WROOM** | **ESP32-S3<br>Arduino Uno R3/Leonardo<br>Teensy2/ProMicro** | **sys-botbase** |
-| --- | --- | --- | --- | --- | --- |
-| Game Settings | --- | --- | --- | --- | --- |
+| **Program** | **Description** | **Feedback** | **Controllers** |
+| --- | --- | --- | --- |
+| Game Settings | --- | --- | --- |
 ||
 | **General:** |
-| [Mass Purchase](PokemonSV/MassPurchase.md) | Purchase items from the shop.                                           | Video         | Yes | Yes | Yes |
-| [Clothing Buyer](PokemonSV/ClothingBuyer.md) | Purchase clothing from shops.                                         | Video         | Yes | Yes | Yes |
-| [Autonomous Ball Thrower](PokemonSV/AutonomousBallThrower.md) | Repeatedly throw a ball until you catch the pokemon. | Video         | Yes | Yes | Yes |
-| [Size Checker](PokemonSV/SizeChecker.md) | Check boxes of Pokemon for size marks.                                    | Video         | Yes | Yes | Yes |
-| [Self Box Trade](PokemonSV/SelfBoxTrade.md) | Tade boxes of Pokemon between two local Switches.                      | Video         | Yes | Yes | Yes |
-| [Sandwich Maker](PokemonSV/SandwichMaker.md) | Make a sandwich  of your choice.                                      | Video         | Yes | Yes | Yes |
+| [Mass Purchase](PokemonSV/MassPurchase.md) | Purchase items from the shop.                                           | Video         | All |
+| [Clothing Buyer](PokemonSV/ClothingBuyer.md) | Purchase clothing from shops.                                         | Video         | All |
+| [Autonomous Ball Thrower](PokemonSV/AutonomousBallThrower.md) | Repeatedly throw a ball until you catch the pokemon. | Video         | All |
+| [Size Checker](PokemonSV/SizeChecker.md) | Check boxes of Pokemon for size marks.                                    | Video         | All |
+| [Self Box Trade](PokemonSV/SelfBoxTrade.md) | Tade boxes of Pokemon between two local Switches.                      | Video         | All |
+| [Sandwich Maker](PokemonSV/SandwichMaker.md) | Make a sandwich  of your choice.                                      | Video         | All |
 || 
 | **Boxes:** |
-| [Mass Release](PokemonSV/MassRelease.md) | Mass release boxes of Pokemon.          | Video         | Yes | Yes | Yes |
-| [Mass Attach Items](PokemonSV/MassAttachItems.md) | Mass attach items to Pokemon.  | Video         | Yes | Yes | Yes |
+| [Mass Release](PokemonSV/MassRelease.md) | Mass release boxes of Pokemon.          | Video         | All |
+| [Mass Attach Items](PokemonSV/MassAttachItems.md) | Mass attach items to Pokemon.  | Video         | All |
 ||
 | **Farming:** |
-| [LP Farmer](PokemonSV/LPFarmer.md) | Farm LP by day skipping Tera raids.                                                            | Video         | Yes | Yes | Degraded |
-| [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md) | Farm roaming Gimmighoul for coins.                              | Video         | Yes | Yes | Degraded |
-| [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md) | Farm chest Gimmighoul for coins.                                    | Video         | Yes | Yes |     |
-| [Auction Farmer](PokemonSV/AuctionFarmer.md) | Farm special Pokeballs (now superceded by Item Printer RNG), EV reset berries, feathers | Video         | Yes | Yes | Degraded |
-| [ESP Training](PokemonSV/ESPTraining.md) | Farm EV reset berries          	                                                        | Video         | Yes | Yes | Yes |
-| [Tournament Farmer](PokemonSV/TournamentFarmer.md) | Farm money (now superceded by Item Printer RNG)                                | Video         | Yes | Yes | Yes |
-| [Tournament Farmer 2](PokemonSV/TournamentFarmer2.md) | Farm money (now superceded by Item Printer RNG)                             | Video         | Yes | Yes | Yes |
-| [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md) | Farm Blueberry points (BP) with the Flying trial                            | Video         | Yes | Yes |     |
-| [BBQ Farmer](PokemonSV/BBQSoloFarmer.md)  | Farm Blueberry points (BP) with Blueberry quests                                        | Video + Audio | Yes | Yes |     |
-| [Material Farmer](PokemonSV/MaterialFarmer.md) | Farm Happiny dust                                                                  | Video + Audio | Yes | Yes | Yes |
-| [Item Printer RNG](PokemonSV/ItemPrinterRNG.md) | Farm rare items (e.g. Ability Patch, PP Max, EXP Candy, rare Pokeballs, Tera shards). To farm money, farm and sell Ability Patches. | Video + Audio | Yes | Yes | Degraded |
+| [LP Farmer](PokemonSV/LPFarmer.md) | Farm LP by day skipping Tera raids.                                                            | Video         | All (Degraded: sbb2) |
+| [Gimmighoul Roaming Farmer](PokemonSV/GimmighoulRoamingFarmer.md) | Farm roaming Gimmighoul for coins.                              | Video         | All (Degraded: sbb2) |
+| [Gimmighoul Chest Farmer](PokemonSV/GimmighoulChestFarmer.md) | Farm chest Gimmighoul for coins.                                    | Video         | Wired, Wireless |
+| [Auction Farmer](PokemonSV/AuctionFarmer.md) | Farm special Pokeballs (now superceded by Item Printer RNG), EV reset berries, feathers | Video      | All (Degraded: sbb2) |
+| [ESP Training](PokemonSV/ESPTraining.md) | Farm EV reset berries          	                                                        | Video         | All |
+| [Tournament Farmer](PokemonSV/TournamentFarmer.md) | Farm money (now superceded by Item Printer RNG)                                | Video         | All |
+| [Tournament Farmer 2](PokemonSV/TournamentFarmer2.md) | Farm money (now superceded by Item Printer RNG)                             | Video         | All |
+| [Flying Trial Farmer](PokemonSV/FlyingTrialFarmer.md) | Farm Blueberry points (BP) with the Flying trial                            | Video         | Wired, Wireless |
+| [BBQ Farmer](PokemonSV/BBQSoloFarmer.md)  | Farm Blueberry points (BP) with Blueberry quests                                        | Video + Audio | Wired, Wireless |
+| [Material Farmer](PokemonSV/MaterialFarmer.md) | Farm Happiny dust                                                                  | Video + Audio | All |
+| [Item Printer RNG](PokemonSV/ItemPrinterRNG.md) | Farm rare items (e.g. Ability Patch, PP Max, EXP Candy, rare Pokeballs, Tera shards). To farm money, farm and sell Ability Patches. | Video + Audio | All (Degraded: sbb2) |
 ||
 | **Eggs:** |
-| [Egg Fetcher](PokemonSV/EggFetcher.md) | Fetch eggs from a picnic.                         | Video         | Yes | Yes | Yes |
-| [Egg Hatcher](PokemonSV/EggHatcher.md) | Hatch eggs from boxes.                            | Video         | Yes | Yes | Yes |
-| [Egg Autonomous](PokemonSV/EggAutonomous.md) | Get meal power, fetch eggs, and hatch them. | Video         | Yes | Yes | Yes |
+| [Egg Fetcher](PokemonSV/EggFetcher.md) | Fetch eggs from a picnic.                         | Video         | All |
+| [Egg Hatcher](PokemonSV/EggHatcher.md) | Hatch eggs from boxes.                            | Video         | All |
+| [Egg Autonomous](PokemonSV/EggAutonomous.md) | Get meal power, fetch eggs, and hatch them. | Video         | All |
 ||
 | **Tera Raids:** |
-| [Auto-Host](PokemonSV/AutoHost.md) | Auto-host a Tera raid.                                                                     | Video         | Yes | Yes | Yes |
-| [Tera Roller](PokemonSV/TeraRoller.md) | Roll Tera raids to find shiny Pokemon.                                                 | Video         | Yes | Yes | Degraded |
-| [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md) | Farm items and Pokemon from Tera raids. Hunt for shiny and high reward raids. | Video         | Yes | Yes | Degraded |
-| [Tera Multi-Farmer](PokemonSV/TeraMultiFarmer.md) | Farm items and Pokemon from your own Tera raid using multiple Switches.     | Video         | Yes | Yes | Yes |
+| [Auto-Host](PokemonSV/AutoHost.md) | Auto-host a Tera raid.                                                                     | Video         | All |
+| [Tera Roller](PokemonSV/TeraRoller.md) | Roll Tera raids to find shiny Pokemon.                                                 | Video         | All (Degraded: sbb2) |
+| [Tera Self Farmer](PokemonSV/TeraSelfFarmer.md) | Farm items and Pokemon from Tera raids. Hunt for shiny and high reward raids. | Video         | All (Degraded: sbb2) |
+| [Tera Multi-Farmer](PokemonSV/TeraMultiFarmer.md) | Farm items and Pokemon from your own Tera raid using multiple Switches.     | Video         | All |
 ||
 | **Fast Code Entry:** |
-| [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md) | Quickly enter a 4, 6, 8 digit link code.                                                      |               | Degraded | Yes | Degraded |
-| [Clipboard Fast Code Entry (C-FCE)](PokemonSV/ClipboardFastCodeEntry.md) | Quickly enter a 4, 6, 8 digit link code from clipboard.                  |               | Degraded | Yes | Degraded |
-| [Video Fast Code Entry (V-FCE)](PokemonSV/VideoFastCodeEntry.md) | Read a 4, 6, 8 digit link code from someone on your screen and enter it quickly. |               | Degraded | Yes | Degraded |
+| [Fast Code Entry (FCE)](PokemonSV/FastCodeEntry.md) | Quickly enter a 4, 6, 8 digit link code.                                                      |               | All (Degraded, Wireless, sbb2) |
+| [Clipboard Fast Code Entry (C-FCE)](PokemonSV/ClipboardFastCodeEntry.md) | Quickly enter a 4, 6, 8 digit link code from clipboard.                  |               | All (Degraded, Wireless, sbb2) |
+| [Video Fast Code Entry (V-FCE)](PokemonSV/VideoFastCodeEntry.md) | Read a 4, 6, 8 digit link code from someone on your screen and enter it quickly. |               | All (Degraded, Wireless, sbb2) |
 ||
 | **Stats Hunting:** |
-| [Stats Reset](PokemonSV/StatsReset.md) | Repeatedly catch static encounters (e.g. Legendaries) until you get the stats you wish.         | Video         | Yes | Yes | Yes |
-| [Stats Reset - Event Battle](PokemonSV/StatsResetEventBattle.md) | Repeatedly catch Ursaluna/Pecharunt until you get the stats you wish. | Video         | Yes | Yes | Yes |
+| [Stats Reset](PokemonSV/StatsReset.md) | Repeatedly catch static encounters (e.g. Legendaries) until you get the stats you wish.         | Video         | All |
+| [Stats Reset - Event Battle](PokemonSV/StatsResetEventBattle.md) | Repeatedly catch Ursaluna/Pecharunt until you get the stats you wish. | Video         | All |
 ||
 | **Shiny Hunting:** |
-| [Shiny Hunt - Area Zero Platform](PokemonSV/ShinyHunt-AreaZeroPlatform.md) | Shiny hunt Pokemon on the isolated platform at the bottom of Area Zero. | Video + Audio | Yes | Yes | Yes |
-| [Shiny Hunt - Scatterbug](PokemonSV/ShinyHunt-Scatterbug.md) | Shiny hunt Scatterbug.                                                                | Video + Audio | Yes | Yes | Yes |
+| [Shiny Hunt - Area Zero Platform](PokemonSV/ShinyHunt-AreaZeroPlatform.md) | Shiny hunt Pokemon on the isolated platform at the bottom of Area Zero. | Video + Audio | All |
+| [Shiny Hunt - Scatterbug](PokemonSV/ShinyHunt-Scatterbug.md) | Shiny hunt Scatterbug.                                                                | Video + Audio | All |
 ||
 | **Glitches (v3.0.0):** |
-| [Wild Item Farmer (cloning glitch)](PokemonSV/WildItemFarmer.md) | Farm an item held by a cloned wild Pokemon. (glitch patched) | Video         | Yes | Yes | Yes |
+| [Wild Item Farmer (cloning glitch)](PokemonSV/WildItemFarmer.md) | Farm an item held by a cloned wild Pokemon. (glitch patched) | Video         | All |
 ||
 | **Glitches (v1.0.1):** |
-| [Ride Cloner (1.0.1)](PokemonSV/RideCloner-101.md) | Clone your ride legendary and its item using the add-to-party glitch. (glitch patched) | Video         | Yes | Yes |     |
-| [Clone Items (1.0.1)](PokemonSV/CloneItems-101.md) | Clone items using the add-to-party glitch. (glitch patched)                            | Video         | Yes | Yes |     |
+| [Ride Cloner (1.0.1)](PokemonSV/RideCloner-101.md) | Clone your ride legendary and its item using the add-to-party glitch. (glitch patched) | Video         | Wired, Wireless |
+| [Clone Items (1.0.1)](PokemonSV/CloneItems-101.md) | Clone items using the add-to-party glitch. (glitch patched)                            | Video         | Wired, Wireless |
 ||
 | **Beta programs:** |
-| [AutoStory](PokemonSV/AutoStory.md) | Progress through the tutorial and mainstory of Scarlet/Violet | Video         | Untested | Yes |     |
-| [Claim Mystery Gift](PokemonSV/ClaimMysteryGift.md) | Claim the Mystery Gift in Scarlet/Violet | Video         | Untested | Yes |     |
+| [AutoStory](PokemonSV/AutoStory.md) | Progress through the tutorial and mainstory of Scarlet/Violet | Video         | Wired (Wireless untested) |
+| [Claim Mystery Gift](PokemonSV/ClaimMysteryGift.md) | Claim the Mystery Gift in Scarlet/Violet | Video              | Wired (Wireless untested) |
 ||
 | **Deprecated Programs:** |
-| [Autonomous Item Printer](PokemonSV/AutoItemPrinter.md)               | Video         | Yes | Yes | Yes |
+| [Autonomous Item Printer](PokemonSV/AutoItemPrinter.md)               || Video         | All |
 
 
 ## Zelda: Tears of the Kingdom
 
-| **Program** | **Feedback** | **ESP32-WROOM** | **ESP32-S3<br>Arduino Uno R3/Leonardo<br>Teensy2/ProMicro** | **sys-botbase** |
+| **Program** | **Feedback** | **Controllers** |
 | --- | --- | --- | --- | --- |
 | **Glitches (v1.1.1):** |
-| [Bow Item Duper](ZeldaTotK/BowItemDuper.md)             |                  | Yes | Yes |     |
-| [Paraglide Item Duper](ZeldaTotK/ParaglideItemDuper.md) |                  | Yes | Yes |     |
-| [Shield Surf Item Duper](ZeldaTotK/SurfItemDuper.md)    |                  | Yes | Yes |     |
-| [Mineru Item Duper](ZeldaTotK/MineruItemDuper.md)       |                  | Yes | Yes |     |
+| [Bow Item Duper](ZeldaTotK/BowItemDuper.md)             |                  | Wired, Wireless |
+| [Paraglide Item Duper](ZeldaTotK/ParaglideItemDuper.md) |                  | Wired, Wireless |
+| [Shield Surf Item Duper](ZeldaTotK/SurfItemDuper.md)    |                  | Wired, Wireless |
+| [Mineru Item Duper](ZeldaTotK/MineruItemDuper.md)       |                  | Wired, Wireless |
 
 <hr>
 
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
