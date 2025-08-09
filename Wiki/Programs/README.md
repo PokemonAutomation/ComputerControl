@@ -5,7 +5,7 @@ This is a list of all the computer-control programs. To run these programs, you 
 **Notes:**
 - Programs that require video feedback cannot run on the Switch Lite because it does not have HDMI output.
 - Not every program can run on every controller. Please check the table for compatibility.
-- Table entries marked as "Degraded" mean that the program will run, but performance and reliability may be severely degraded.
+- Controllers marked as "Degraded" mean that the program will run, but performance and reliability may be severely degraded.
 
 **Jump To:**
 - [Nintendo Switch](#nintendo-switch)
@@ -321,6 +321,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
