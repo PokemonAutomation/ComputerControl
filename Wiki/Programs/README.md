@@ -200,40 +200,40 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 
 ## Pokémon Legends Arceus
 
-| **Program** | **Feedback** | **ESP32-WROOM** | **ESP32-S3<br>Arduino Uno R3/Leonardo<br>Teensy2/ProMicro** | **sys-botbase** |
-| --- | --- | --- | --- | --- |
-| Game Settings | --- | --- | --- | --- |
+| **Program** | **Feedback** | **Controllers** |
+| --- | --- | --- |
+| Game Settings | --- | --- |
 ||
 | **General:** |
-| [Braviary Height Glitch](PokemonLA/BraviaryHeightGlitch.md)           |               | Yes | Yes | Yes |
-| [Distortion Waiter](PokemonLA/DistortionWaiter.md)                    | Video         | Yes | Yes | Yes |
-| [Outbreak Finder](PokemonLA/OutbreakFinder.md)                        | Video         | Yes | Yes | Yes |
-| [Clothing Buyer](PokemonLA/ClothingBuyer.md)                          |               | Yes | Yes | Yes |
-| [Skip To Full Moon](PokemonLA/SkipToFullMoon.md)                      | Video         | Yes | Yes | Yes |
-| [Apply Grits](PokemonLA/ApplyGrits.md)                                |               | Yes | Yes | Yes |
-| [Pokédex Task Reader](PokemonLA/PokedexTasksReader.md)                | Video         | Yes | Yes | Yes |
+| [Braviary Height Glitch](PokemonLA/BraviaryHeightGlitch.md)           |               | All |
+| [Distortion Waiter](PokemonLA/DistortionWaiter.md)                    | Video         | All |
+| [Outbreak Finder](PokemonLA/OutbreakFinder.md)                        | Video         | All |
+| [Clothing Buyer](PokemonLA/ClothingBuyer.md)                          |               | All |
+| [Skip To Full Moon](PokemonLA/SkipToFullMoon.md)                      | Video         | All |
+| [Apply Grits](PokemonLA/ApplyGrits.md)                                |               | All |
+| [Pokédex Task Reader](PokemonLA/PokedexTasksReader.md)                | Video         | All |
 ||
 | **Trading:** |
-| [Self Box Trade](PokemonLA/SelfBoxTrade.md)                           | Video         | Yes | Yes | Yes |
-| [Self Touch Trade](PokemonLA/SelfTouchTrade.md)                       | Video         | Yes | Yes | Yes |
+| [Self Box Trade](PokemonLA/SelfBoxTrade.md)                           | Video         | All |
+| [Self Touch Trade](PokemonLA/SelfTouchTrade.md)                       | Video         | All |
 ||
 | **Farming:** |
-| [Nugget Farmer (Highlands)](PokemonLA/NuggetFarmerHighlands.md)       | Video + Audio | Yes | Yes | Yes |
-| [Ingo Battle Grinder](PokemonLA/IngoBattleGrinder.md)                 | Video         | Yes | Yes | Yes |
-| [Ingo Move Grinder](PokemonLA/IngoMoveGrinder.md)                     | Video         | Yes | Yes | Yes |
-| [Magikarp Move Grinder](PokemonLA/MagikarpMoveGrinder.md)             | Video         | Yes | Yes | Yes |
-| [Tenacity Candy Farmer](PokemonLA/TenacityCandyFarmer.md)             | Video         | Yes | Yes | Yes |
-| [Leap Grinder](PokemonLA/LeapGrinder.md)                              | Video + Audio | Yes | Yes | Yes |
+| [Nugget Farmer (Highlands)](PokemonLA/NuggetFarmerHighlands.md)       | Video + Audio | All |
+| [Ingo Battle Grinder](PokemonLA/IngoBattleGrinder.md)                 | Video         | All |
+| [Ingo Move Grinder](PokemonLA/IngoMoveGrinder.md)                     | Video         | All |
+| [Magikarp Move Grinder](PokemonLA/MagikarpMoveGrinder.md)             | Video         | All |
+| [Tenacity Candy Farmer](PokemonLA/TenacityCandyFarmer.md)             | Video         | All |
+| [Leap Grinder](PokemonLA/LeapGrinder.md)                              | Video + Audio | All |
 ||
 | **Shiny Hunting:** |
-| [Alpha Crobat Hunter](PokemonLA/AlphaCrobatHunter.md)                 | Video + Audio | Yes | Yes | Yes |
-| [Alpha Gallade Hunter](PokemonLA/AlphaGalladeHunter.md)               | Video + Audio | Yes | Yes | Yes |
-| [Alpha Froslass Hunter](PokemonLA/AlphaFroslassHunter.md)             | Video + Audio | Yes | Yes | Yes |
-| [Burmy Hunter](PokemonLA/BurmyHunter.md)                              | Video + Audio | Yes | Yes | Degraded |
-| [Unown Hunter](PokemonLA/UnownHunter.md)                              | Video + Audio | Yes | Yes | Yes |
-| [Shiny Hunt - Flag Pin](PokemonLA/ShinyHunt-FlagPin.md)               | Video + Audio | Yes | Yes | Yes |
-| [Post-MMO Spawn Reset](PokemonLA/PostMMOSpawnReset.md)                | Video + Audio | Yes | Yes | Yes |
-| [Shiny Hunt - Custom Path](PokemonLA/ShinyHunt-CustomPath.md)         | Video + Audio | Yes | Yes | Degraded |
+| [Alpha Crobat Hunter](PokemonLA/AlphaCrobatHunter.md)                 | Video + Audio | All |
+| [Alpha Gallade Hunter](PokemonLA/AlphaGalladeHunter.md)               | Video + Audio | All |
+| [Alpha Froslass Hunter](PokemonLA/AlphaFroslassHunter.md)             | Video + Audio | All |
+| [Burmy Hunter](PokemonLA/BurmyHunter.md)                              | Video + Audio | All (Degraded: sbb2) |
+| [Unown Hunter](PokemonLA/UnownHunter.md)                              | Video + Audio | All |
+| [Shiny Hunt - Flag Pin](PokemonLA/ShinyHunt-FlagPin.md)               | Video + Audio | All |
+| [Post-MMO Spawn Reset](PokemonLA/PostMMOSpawnReset.md)                | Video + Audio | All |
+| [Shiny Hunt - Custom Path](PokemonLA/ShinyHunt-CustomPath.md)         | Video + Audio | All (Degraded: sbb2) |
 
 
 ## Pokémon Scarlet and Violet
@@ -321,6 +321,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
