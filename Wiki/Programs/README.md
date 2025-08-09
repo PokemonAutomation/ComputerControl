@@ -16,138 +16,144 @@ This is a list of all the computer-control programs. To run these programs, you 
 - [Pokémon Scarlet/Violet](#pokémon-scarlet-and-violet)
 - [Zelda: Tears of the Kingdom](#zelda-tears-of-the-kingdom)
 
+**Controller Categories:**
+| **Wired** | **Wireless** | **Other** |
+| --- | --- | --- |
+| ESP32-S3<br>Arduino Uno R3<br>Arduino Leonardo<br>Teensy 2.0<br>Teensy++ 2.0<br>Pro Micro<br>sys-botbase 3 (sbb3) | ESP32-WROOM | sys-botbase 2.4 (sbb2) |
+
+
 ## Nintendo Switch
 
-| **Program** | **Feedback** | **ESP32-WROOM** | **ESP32-S3<br>Arduino Uno R3/Leonardo<br>Teensy2/ProMicro** | **sys-botbase** |
-| --- | --- | --- | --- | --- |
-| [Framework Settings](NintendoSwitch/FrameworkSettings.md)         | --- | --- | --- | --- |
-| [Virtual Console](NintendoSwitch/VirtualConsole.md)               | --- | Yes | Yes | Yes |
-| [Switch Viewer](NintendoSwitch/SwitchViewer.md)                   | --- | Yes | Yes | Yes |
-| [TurboA](NintendoSwitch/TurboA.md)                                |     | Yes | Yes | Yes |
-| [Turbo Button](NintendoSwitch/TurboButton.md)                     |     | Yes | Yes | Yes |
-| [Turbo Macro](NintendoSwitch/TurboMacro.md)                       |     | Yes | Yes | Yes |
-| [Prevent Sleep](NintendoSwitch/PreventSleep.md)                   |     | Yes | Yes | Yes |
-| [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)            |     | Yes | Yes | Degraded |
-| [Friend Delete](NintendoSwitch/FriendDelete.md)                   |     | Yes | Yes | Yes |
+| **Program** | **Feedback** | **Controllers** |
+| --- | --- | --- |
+| [Framework Settings](NintendoSwitch/FrameworkSettings.md)         | --- | --- |
+| [Virtual Console](NintendoSwitch/VirtualConsole.md)               | --- | All |
+| [Switch Viewer](NintendoSwitch/SwitchViewer.md)                   | --- | All |
+| [TurboA](NintendoSwitch/TurboA.md)                                |     | All |
+| [Turbo Button](NintendoSwitch/TurboButton.md)                     |     | All |
+| [Turbo Macro](NintendoSwitch/TurboMacro.md)                       |     | All |
+| [Prevent Sleep](NintendoSwitch/PreventSleep.md)                   |     | All |
+| [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)            |     | All<br>(sbb2 degraded) |
+| [Friend Delete](NintendoSwitch/FriendDelete.md)                   |     | All |
 
 ## Pokémon Home
 
-| **Program** | **Feedback** | **ESP32-WROOM** | **ESP32-S3<br>Arduino Uno R3/Leonardo<br>Teensy2/ProMicro** | **sys-botbase** |
-| --- | --- | --- | --- | --- |
-| [Page Swap](PokemonHome/PageSwap.md)                       |       | Yes | Yes | Yes |
-| [Box Sorter](PokemonHome/BoxSorter.md)                     | Video | Yes | Yes |     |
+| **Program** | **Feedback** | **Controllers** |
+| --- | --- | --- |
+| [Page Swap](PokemonHome/PageSwap.md)                       |       | All |
+| [Box Sorter](PokemonHome/BoxSorter.md)                     | Video | Wired, Wireless |
 
 ## Pokémon Let's Go Pikachu/Eevee (LGPE)
 
 Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wireless is the only supported controller.
 
-| **Program** | **Feedback** | **ESP32-WROOM** |
+| **Program** | **Feedback** | **Controllers** |
 | --- | --- | --- |
-| Game Settings | --- | --- | --- | --- |
+| Game Settings | --- | --- |
 ||
 | **General:** |
-| [Daily Item Farmer](PokemonLGPE/DailyItemFarmer.md)  | Video | Yes |
+| [Daily Item Farmer](PokemonLGPE/DailyItemFarmer.md)  | Video | Wireless Only |
 ||
 | **Shiny Hunting:** |
-| [Alolan Trade](PokemonLGPE/AlolanTrade.md)           | Video | Yes |
-| [Fossil Revival](PokemonLGPE/FossilRevival.md)       | Video | Yes |
-| [Gift Reset](PokemonLGPE/GiftReset.md)               | Video | Yes |
-| [Legendary Reset](PokemonLGPE/LegendaryReset.md)     | Video | Yes |
+| [Alolan Trade](PokemonLGPE/AlolanTrade.md)           | Video | Wireless Only |
+| [Fossil Revival](PokemonLGPE/FossilRevival.md)       | Video | Wireless Only |
+| [Gift Reset](PokemonLGPE/GiftReset.md)               | Video | Wireless Only |
+| [Legendary Reset](PokemonLGPE/LegendaryReset.md)     | Video | Wireless Only |
 
 
 
 ## Pokémon Sword/Shield
 
-| **Program** |  **Description** | **Feedback** | **ESP32-WROOM** | **ESP32-S3<br>Arduino Uno R3/Leonardo<br>Teensy2/ProMicro** | **sys-botbase** |
-| --- | --- | --- | --- | --- | --- |
-| [Game Settings](PokemonSwSh/PokemonSettings.md)        | --- | --- | --- | --- | --- |
+| **Program** |  **Description** | **Feedback** | **Controllers** |
+| --- | --- | --- | --- |
+| [Game Settings](PokemonSwSh/PokemonSettings.md)        | --- | --- | --- |
 ||
 | **QoL Macros:** |
-| [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md) |              |                  | Degraded | Yes | Degraded |
-| [Friend Search Disconnect](PokemonSwSh/FriendSearchDisconnect.md) |  |                  | Yes | Yes | Yes |
+| [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md) |              |                  | All<br>(wireless degraded)<br>(sbb2 degraded) |
+| [Friend Search Disconnect](PokemonSwSh/FriendSearchDisconnect.md) |  |                  | All |
 ||
 | **General Programs:** |
-| [Mass Release](PokemonSwSh/MassRelease.md) |                       |                  | Yes | Yes | Degraded |
+| [Mass Release](PokemonSwSh/MassRelease.md) |                       |                  | All<br>(sbb2 degraded) |
 | [Surprise Trade](PokemonSwSh/SurpriseTrade.md) |                   |                  | Yes | Yes |     |
 | [Trade Bot](PokemonSwSh/TradeBot.md) |                             |                  | Yes | Yes |     |
 | [Clothing Buyer](PokemonSwSh/ClothingBuyer.md) |                   |                  | Yes | Yes | Yes |
 | [Autonomous Ball Thrower](PokemonSwSh/AutonomousBallThrower.md) |  | Video            | Yes | Yes | Yes |
-| [Dex Rec Finder](PokemonSwSh/DexRecFinder.md) |                    | Video (Optional) | Yes | Yes | Degraded |
+| [Dex Rec Finder](PokemonSwSh/DexRecFinder.md) |                    | Video (Optional) | All<br>(sbb2 degraded) |
 | [Box Reorder National Dex](PokemonSwSh/BoxReorderNationalDex.md) | | Video           | Yes | Yes |     |
 ||
 | **Date-Spam Farmers:** |
 | [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md) | Farm watts. To farm money, use watts to buy Luxury balls, then sell them. || Degraded | Yes | Degraded |
-| [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md) | Farm berries.                                                           || Yes | Yes | Degraded |
-| [Date Spam: Berry Farmer 2](PokemonSwSh/DateSpam-BerryFarmer2.md) | Farm berries using audio/video feedback                              | Video + Audio | Yes | Yes | Degraded |
-| [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md) |                          || Yes | Yes | Degraded |
-| [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md) |            || Yes | Yes | Degraded |
-| [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md) |     || Yes | Yes | Degraded |
-| [Date Spam: Poké Jobs Farmer](PokemonSwSh/DateSpam-PokeJobsFarmer.md) |                 || Yes | Yes | Degraded |
+| [Date Spam: Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md) | Farm berries.                                                           || All<br>(wireless degraded)<br>(sbb2 degraded) |
+| [Date Spam: Berry Farmer 2](PokemonSwSh/DateSpam-BerryFarmer2.md) | Farm berries using audio/video feedback                              | Video + Audio | All<br>(sbb2 degraded) |
+| [Date Spam: Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md) |                          || All<br>(sbb2 degraded) |
+| [Date Spam: Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md) |            || All<br>(sbb2 degraded) |
+| [Date Spam: Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md) |     || All<br>(sbb2 degraded) |
+| [Date Spam: Poké Jobs Farmer](PokemonSwSh/DateSpam-PokeJobsFarmer.md) |                 || All<br>(sbb2 degraded) |
 ||
 | **Den Hunting:** |
-| [Purple Beam Finder](PokemonSwSh/PurpleBeamFinder.md) |         | Video            | Yes | Yes | Yes |
-| [Event Beam Finder](PokemonSwSh/EventBeamFinder.md) |           |                  | Yes | Yes | Yes |
-| [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md) |             |                  |     | Yes |     |
-| [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md) |               |                  |     | Yes |     |
-| [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md) |               |                  |     | Yes |     |
-| [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md) | |                  |     | Yes |     |
+| [Purple Beam Finder](PokemonSwSh/PurpleBeamFinder.md) |         | Video            | All |
+| [Event Beam Finder](PokemonSwSh/EventBeamFinder.md) |           |                  | All |
+| [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md) |             |                  | Wired, Wireless<br>(wireless degraded) |
+| [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md) |               |                  | Wired, Wireless<br>(wireless degraded) |
+| [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md) |               |                  | Wired, Wireless<br>(wireless degraded) |
+| [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md) | |                  | Wired Only |
 ||
 | **Hosting:** |
-| [Den Roller](PokemonSwSh/DenRoller.md) |                    | Video (Optional) | Yes | Yes | Degraded |
-| [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md) |      | Video (Optional) | Yes | Yes | Degraded |
-| [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md) | | Video (Optional) | Yes | Yes | Degraded |
+| [Den Roller](PokemonSwSh/DenRoller.md) |                    | Video (Optional) | All<br>(sbb2 degraded) |
+| [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md) |      | Video (Optional) | All<br>(sbb2 degraded) |
+| [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md) | | Video (Optional) | All<br>(sbb2 degraded) |
 ||
 | **Eggs:** |
-| [Egg Fetcher 2](PokemonSwSh/EggFetcher2.md) |                              |       | Yes | Yes | Yes |
-| [Egg Fetcher Multiple](PokemonSwSh/EggFetcherMultiple.md) |                |       | Yes | Yes | Yes |
-| [Egg Hatcher](PokemonSwSh/EggHatcher.md) |                                 |       | Yes | Yes | Yes |
-| [Egg Autonomous](PokemonSwSh/EggAutonomous.md) |                           | Video | Yes | Yes | Yes |
-| [God Egg Item Duplication](PokemonSwSh/GodEggItemDuplication.md) |         |       | Yes | Yes | Degraded |
-| [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md) | |       | Yes | Yes | Degraded |
+| [Egg Fetcher 2](PokemonSwSh/EggFetcher2.md) |                              |       | All |
+| [Egg Fetcher Multiple](PokemonSwSh/EggFetcherMultiple.md) |                |       | All |
+| [Egg Hatcher](PokemonSwSh/EggHatcher.md) |                                 |       | All |
+| [Egg Autonomous](PokemonSwSh/EggAutonomous.md) |                           | Video | All |
+| [God Egg Item Duplication](PokemonSwSh/GodEggItemDuplication.md) |         |       | All<br>(sbb2 degraded) |
+| [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md) | |       | All<br>(sbb2 degraded) |
 ||
 | **Non-Shiny Hunting:** |
-| [Stats Reset](PokemonSwSh/StatsReset.md) |                   | Video | Yes | Yes | Yes |
-| [Stats Reset - Calyrex](PokemonSwSh/StatsReset-Calyrex.md) | | Video | Yes | Yes | Yes |
-| [Stats Reset - Moltres](PokemonSwSh/StatsReset-Moltres.md) | | Video | Yes | Yes | Yes |
-| [Stats Reset - Regi](PokemonSwSh/StatsReset-Regi.md) |       | Video | Yes | Yes | Yes |
+| [Stats Reset](PokemonSwSh/StatsReset.md) |                   | Video | All |
+| [Stats Reset - Calyrex](PokemonSwSh/StatsReset-Calyrex.md) | | Video | All |
+| [Stats Reset - Moltres](PokemonSwSh/StatsReset-Moltres.md) | | Video | All |
+| [Stats Reset - Regi](PokemonSwSh/StatsReset-Regi.md) |       | Video | All |
 ||
 | **Shiny Hunting:** |
-| [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md) |                                      |                  | Yes | Yes | Degraded |
-| [Curry Hunter](PokemonSwSh/CurryHunter.md) |                                                      | Video (Optional) | Yes | Yes |     |
-| [Shiny Hunt Autonomous - Regi](PokemonSwSh/ShinyHuntAutonomous-Regi.md) |                         | Video | Yes | Yes | Degraded |
-| [Shiny Hunt Autonomous - Swords Of Justice](PokemonSwSh/ShinyHuntAutonomous-SwordsOfJustice.md) | | Video | Yes | Yes | Yes |
-| [Shiny Hunt Autonomous - Strong Spawn](PokemonSwSh/ShinyHuntAutonomous-StrongSpawn.md) |          | Video | Yes | Yes | Yes |
-| [Shiny Hunt Autonomous - Regigigas2](PokemonSwSh/ShinyHuntAutonomous-Regigigas2.md) |             | Video | Yes | Yes | Yes |
-| [Shiny Hunt Autonomous - IoA Trade](PokemonSwSh/ShinyHuntAutonomous-IoATrade.md) |                | Video | Yes | Yes | Yes |
-| [Shiny Hunt Autonomous - Berry Tree](PokemonSwSh/ShinyHuntAutonomous-BerryTree.md) |              | Video | Yes | Yes | Degraded |
-| [Shiny Hunt Autonomous - Whistling](PokemonSwSh/ShinyHuntAutonomous-Whistling.md) |               | Video | Yes | Yes | Yes |
-| [Shiny Hunt Autonomous - Fishing](PokemonSwSh/ShinyHuntAutonomous-Fishing.md) |                   | Video | Yes | Yes | Yes |
-| [Shiny Hunt Autonomous - Overworld](PokemonSwSh/ShinyHuntAutonomous-Overworld.md) |               | Video | Yes | Yes | Yes |
+| [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md) |                                      |                  | All<br>(sbb2 degraded) |
+| [Curry Hunter](PokemonSwSh/CurryHunter.md) |                                                      | Video (Optional) | Wired, Wireless |
+| [Shiny Hunt Autonomous - Regi](PokemonSwSh/ShinyHuntAutonomous-Regi.md) |                         | Video | All<br>(sbb2 degraded) |
+| [Shiny Hunt Autonomous - Swords Of Justice](PokemonSwSh/ShinyHuntAutonomous-SwordsOfJustice.md) | | Video | All |
+| [Shiny Hunt Autonomous - Strong Spawn](PokemonSwSh/ShinyHuntAutonomous-StrongSpawn.md) |          | Video | All |
+| [Shiny Hunt Autonomous - Regigigas2](PokemonSwSh/ShinyHuntAutonomous-Regigigas2.md) |             | Video | All |
+| [Shiny Hunt Autonomous - IoA Trade](PokemonSwSh/ShinyHuntAutonomous-IoATrade.md) |                | Video | All |
+| [Shiny Hunt Autonomous - Berry Tree](PokemonSwSh/ShinyHuntAutonomous-BerryTree.md) |              | Video | All<br>(sbb2 degraded) |
+| [Shiny Hunt Autonomous - Whistling](PokemonSwSh/ShinyHuntAutonomous-Whistling.md) |               | Video | All |
+| [Shiny Hunt Autonomous - Fishing](PokemonSwSh/ShinyHuntAutonomous-Fishing.md) |                   | Video | All |
+| [Shiny Hunt Autonomous - Overworld](PokemonSwSh/ShinyHuntAutonomous-Overworld.md) |               | Video | All |
 ||
 | **RNG:** |
-| [RNG Seed Finder](PokemonSwSh/SeedFinder.md) | Finds the current state to be used for manual RNG manipulation      | Video | Yes | Yes | Yes |
-| [Cram-o-matic RNG](PokemonSwSh/CramomaticRNG.md) | Farm apriballs using RNG manip of Cram-o-matic                  | Video | Yes | Yes | Degraded |
+| [RNG Seed Finder](PokemonSwSh/SeedFinder.md) | Finds the current state to be used for manual RNG manipulation      | Video | All |
+| [Cram-o-matic RNG](PokemonSwSh/CramomaticRNG.md) | Farm apriballs using RNG manip of Cram-o-matic                  | Video | All<br>(sbb2 degraded) |
 ||
 | **Multi-Switch Programs:** |
-| Synchronized Spinning |                                                    || Yes | Yes | Degraded |
-| [Raid Item Farmer (OHKO)](PokemonSwSh/RaidItemFarmerOHKO.md)  |            || Yes | Yes |      |
+| Synchronized Spinning |                                                    || All<br>(sbb2 degraded) |
+| [Raid Item Farmer (OHKO)](PokemonSwSh/RaidItemFarmerOHKO.md)  |            || Wired, Wireless |
 ||
 | [**Auto Max Lair 2.0:**](PokemonSwSh/MaxLair.md) |
-| [Max Lair: Standard](PokemonSwSh/MaxLair-Standard.md) | Run Dynamax Adventures until a shiny Legendary is found.               | Video | Yes | Yes | Yes |
-| [Max Lair: Strong Boss](PokemonSwSh/MaxLair-StrongBoss.md) | Run Dynamax Adventures and intelligently reset to keep paths with high win rates (for Legendaries that are hard to beat) | Video | Yes | Yes | Yes |
-| [Max Lair: Boss Finder](PokemonSwSh/MaxLair-BossFinder.md) | Run Dynamax Adventures until you find the boss you want.          | Video | Yes | Yes | Yes |
+| [Max Lair: Standard](PokemonSwSh/MaxLair-Standard.md) | Run Dynamax Adventures until a shiny Legendary is found.               | Video | All |
+| [Max Lair: Strong Boss](PokemonSwSh/MaxLair-StrongBoss.md) | Run Dynamax Adventures and intelligently reset to keep paths with high win rates (for Legendaries that are hard to beat) | Video | All |
+| [Max Lair: Boss Finder](PokemonSwSh/MaxLair-BossFinder.md) | Run Dynamax Adventures until you find the boss you want.          | Video | All |
 ||
 | **Deprecated Programs:** |
 ||
-| [Ball Thrower](PokemonSwSh/BallThrower.md) |                      |                  | Yes | Yes | Yes |
-| [Beam Reset](PokemonSwSh/BeamReset.md) |                                   |       | Yes | Yes |     |
-| [Egg Combined 2](PokemonSwSh/EggCombined2.md) |                            |       | Yes | Yes |     |
-| [Egg Super-Combined 2](PokemonSwSh/EggSuperCombined2.md) |                 |       | Yes | Yes |     |
-| [Shiny Hunt Unattended - Regi](PokemonSwSh/ShinyHuntUnattended-Regi.md) |                         |                  | Yes | Yes |     |
-| [Shiny Hunt Unattended - Swords Of Justice](PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md) | |                  | Yes | Yes |     |
-| [Shiny Hunt Unattended - Strong Spawn](PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md) |          |                  | Yes | Yes |     |
-| [Shiny Hunt Unattended - Regigigas2](PokemonSwSh/ShinyHuntUnattended-Regigigas2.md) |             |                  | Yes | Yes |     |
-| [Shiny Hunt Unattended - IoA Trade](PokemonSwSh/ShinyHuntUnattended-IoATrade.md) |                |                  | Yes | Yes |     |
+| [Ball Thrower](PokemonSwSh/BallThrower.md) |                               |       | All |
+| [Beam Reset](PokemonSwSh/BeamReset.md) |                                   |       | Wired, Wireless |
+| [Egg Combined 2](PokemonSwSh/EggCombined2.md) |                            |       | Wired, Wireless |
+| [Egg Super-Combined 2](PokemonSwSh/EggSuperCombined2.md) |                 |       | Wired, Wireless |
+| [Shiny Hunt Unattended - Regi](PokemonSwSh/ShinyHuntUnattended-Regi.md) |                         |                  | Wired, Wireless |
+| [Shiny Hunt Unattended - Swords Of Justice](PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md) | |                  | Wired, Wireless |
+| [Shiny Hunt Unattended - Strong Spawn](PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md) |          |                  | Wired, Wireless |
+| [Shiny Hunt Unattended - Regigigas2](PokemonSwSh/ShinyHuntUnattended-Regigigas2.md) |             |                  | Wired, Wireless |
+| [Shiny Hunt Unattended - IoA Trade](PokemonSwSh/ShinyHuntUnattended-IoATrade.md) |                |                  | Wired, Wireless |
 
 
 ## Pokémon Brilliant Diamond/Shining Pearl
@@ -315,6 +321,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
