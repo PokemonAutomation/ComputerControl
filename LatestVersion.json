@@ -1,9 +1,9 @@
 {
     "Release": {
         "VersionMajor": 0,
-        "VersionMinor": 54,
-        "VersionPatch": 29,
-        "Changes": "<b>Version 0.54.29:</b><br><br>- Major fixes to Tera Multi-Farmer. It should now be stable enough to farm wins on the shiny Treasures of Ruins raids. 4 Switches can farm >7000 wins in 1 week. Meaning you can single-handedly farm more than 1% of the 1 million win goal with just a single 4-Switch setup in around 10 days.<br>- The stats overlay refresh rate has been slowed down to 10/second and optimized to reduce lag on general UI responsiveness - especially on multi-Switch setups like Tera Multi-Farmer.<br>- Misc. performance optimizations to improve UI responsiveness when there are multiple simultaneous  video streams.<br><br><br><b>Version 0.54.28:</b><br><br>- Fixed FCE being broken on Switch 2. (reported by ghostassassinno1)<br>- Improved reliability of Tera Roller. (reported by Psyk)<br><br><b>Version 0.54.26:</b><br><br>Before you use this program on the Switch 2, please <a href=\"https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/NintendoSwitch/Switch2Notes.md\">read our notes</a>!"
+        "VersionMinor": 55,
+        "VersionPatch": 1,
+        "Changes": "<b>Version 0.54.29:</b><br><br>**New Features:**<br>- Added a beta program for farming SV mystery gifts by playing from game start to the first Pokemon center. <a href=\"https://youtu.be/F6uf7MzdBY0\" style=\"color: #0080ff\">Demo Video</a><br>- Added support for the Switch 2 C (GameChat) button for wired controllers.<br><br>**Bug Fixes / QoL Improvements:**<br>- Major fixes and stability improvements to AutoStory.<br>- AutoDA is now tolerant to nicknames and add-to-party being enabled.<br>- SV egg programs will ask you to check your Camera Support option if it can't find the basket.<br>- PLA programs that reset will tell you if it thinks you didn't save in Jubilife.<br>- Fixed Regigigas on Switch 2.<br>- Fixed date spam not working in German on Switch 2.<br>- Improved stability of ESP32 datespam.<br>- Reduce chance of false positive Tera rewards menu detection.<br>- Fixed Home Box Sorter not reading master balls.<br>- Fixed some Pokémon names not being correctly read in Chinese simplified due to name changes.<br>- Improved reliability of Y-COMM symbol detector.<br>- Fixed load profile not loading the resolution.<br>- Fixed some crashes."
     },
     "Beta": {
         "VersionMajor": 0,
