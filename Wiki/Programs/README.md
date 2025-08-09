@@ -52,13 +52,13 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 | Game Settings | --- | --- |
 ||
 | **General:** |
-| [Daily Item Farmer](PokemonLGPE/DailyItemFarmer.md)  | Video | Wireless Only |
+| [Daily Item Farmer](PokemonLGPE/DailyItemFarmer.md)  | Video         | Wireless Only |
 ||
 | **Shiny Hunting:** |
-| [Alolan Trade](PokemonLGPE/AlolanTrade.md)           | Video | Wireless Only |
-| [Fossil Revival](PokemonLGPE/FossilRevival.md)       | Video | Wireless Only |
-| [Gift Reset](PokemonLGPE/GiftReset.md)               | Video | Wireless Only |
-| [Legendary Reset](PokemonLGPE/LegendaryReset.md)     | Video | Wireless Only |
+| [Alolan Trade](PokemonLGPE/AlolanTrade.md)           | Video         | Wireless Only |
+| [Fossil Revival](PokemonLGPE/FossilRevival.md)       | Video         | Wireless Only |
+| [Gift Reset](PokemonLGPE/GiftReset.md)               | Video         | Wireless Only |
+| [Legendary Reset](PokemonLGPE/LegendaryReset.md)     | Video + Audio | Wireless Only |
 
 
 
@@ -321,6 +321,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
