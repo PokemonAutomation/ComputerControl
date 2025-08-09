@@ -74,12 +74,12 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 ||
 | **General Programs:** |
 | [Mass Release](PokemonSwSh/MassRelease.md) |                       |                  | All (Degraded: sbb2) |
-| [Surprise Trade](PokemonSwSh/SurpriseTrade.md) |                   |                  | Yes | Yes |     |
-| [Trade Bot](PokemonSwSh/TradeBot.md) |                             |                  | Yes | Yes |     |
-| [Clothing Buyer](PokemonSwSh/ClothingBuyer.md) |                   |                  | Yes | Yes | Yes |
-| [Autonomous Ball Thrower](PokemonSwSh/AutonomousBallThrower.md) |  | Video            | Yes | Yes | Yes |
+| [Surprise Trade](PokemonSwSh/SurpriseTrade.md) |                   |                  | Wired, Wireless |
+| [Trade Bot](PokemonSwSh/TradeBot.md) |                             |                  | Wired, Wireless |
+| [Clothing Buyer](PokemonSwSh/ClothingBuyer.md) |                   |                  | All |
+| [Autonomous Ball Thrower](PokemonSwSh/AutonomousBallThrower.md) |  | Video            | All |
 | [Dex Rec Finder](PokemonSwSh/DexRecFinder.md) |                    | Video (Optional) | All (Degraded: sbb2) |
-| [Box Reorder National Dex](PokemonSwSh/BoxReorderNationalDex.md) | | Video            | Yes | Yes |     |
+| [Box Reorder National Dex](PokemonSwSh/BoxReorderNationalDex.md) | | Video            | Wired, Wireless |
 ||
 | **Date-Spam Farmers:** |
 | [Date Spam: Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md) | Farm watts. To farm money, use watts to buy Luxury balls, then sell them. || All (Degraded: Wireless, sbb2) |
@@ -321,6 +321,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
