@@ -309,7 +309,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 ## Zelda: Tears of the Kingdom
 
 | **Program** | **Feedback** | **Controllers** |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- |
 | **Glitches (v1.1.1):** |
 | [Bow Item Duper](ZeldaTotK/BowItemDuper.md)             |                  | Wired, Wireless |
 | [Paraglide Item Duper](ZeldaTotK/ParaglideItemDuper.md) |                  | Wired, Wireless |
@@ -321,6 +321,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
