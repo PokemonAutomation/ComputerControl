@@ -100,8 +100,8 @@ We currently support 3 different types of controllers. So take your pick on whic
 | **Supported Microcontrollers:**<br>ESP32-WROOM-32<br><br><br><br><br> | **Supported Microcontrollers:**<br>ESP32-S3<br>Arduino Uno R3<br>Arduino Leonardo<br>Teensy 2.0 / Teensy++ 2.0<br>Pro Micro | **Supported Microcontrollers:**<br>None required.<br><br><br><br><br> |
 | Currently does not work on Switch 2. | Works on Switch 2. | Does not work on Switch 2 due to lack of CFW. |
 | Cheapest and easiest to setup for the average user. | More expensive. Also easy to setup if you pick ESP32-S3. Others are harder to setup. | Requires a hacked Switch running custom firmware (CFW). |
-| Can run LGPE programs.<br>Cannot run Sword/Shield day-skippers.<br>Runs all other programs.* | Cannot run LGPE programs.<br>Runs all other programs.* | Cannot run LGPE programs.<br>Runs most other programs.*<br>Cannot run programs that require timing precision. |
-| Fast and reliable for most programs. | Fastest and most reliable. Best for high-speed programs (date-spam exploits, FCE). | Runs most programs well. Slow and unreliable for high-speed programs. |
+| Can run LGPE programs.<br>Cannot run Sword/Shield day-skippers.<br>Runs all other programs.* | Cannot run LGPE programs.<br>Runs all other programs.* | sbb3: Identical to wired controllers.<br>sbb2: Cannot run programs that require timing precision. |
+| Fast and reliable for most programs. | Fastest and most reliable. Best for high-speed programs (date-spam exploits, FCE). | sbb3: Identical to wired controllers.<br>sbb2: Runs most programs well. Slow and unreliable for high-speed programs. |
 | Not recommended for remote access.<br>Not recommended for high density setups due to wireless interference. | Very good for remote access.<br>Very good for high density setups. | Not recommended for remote access. |
 | Recommended for all users including beginners. | Recommended for users who want maximum performance and reliability. | Recommended for regular CFW users who want to try CC programs with minimal investment. |
 
@@ -187,6 +187,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
