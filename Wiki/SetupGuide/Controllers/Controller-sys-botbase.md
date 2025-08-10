@@ -46,7 +46,7 @@ If not, you should go back to the [general setup guide](../README.md) and start 
 2. Copy the contents into the root of your SD card.
 
 Note that this is sys-botbase 3. This is an improved rewrite of the original sys-botbase that has additional features required by CC to achieve maximum performance and stability.
-sbb3 is largely? backwards compatible with the official sys-botbase (sbb2). So you should be able to still use all your existing programs that rely on sbb2.
+sbb3 is backwards compatible with the official sys-botbase (sbb2) aside from the removal of the ACNH features. So you should be able to still use all your existing programs that rely on sbb2.
 
 ### Step 3: Navigate your Switch to where it will accept a new controller.
 
@@ -174,6 +174,7 @@ Using ethernet instead of wireless does not solve this problem as local communic
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
