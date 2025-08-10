@@ -85,9 +85,15 @@ If not, you should go back to the [general setup guide](../README.md) and start 
 
 ### Step 1: Install UART drivers (potentially)
 
-Depending on exactly which ESP32-S3 model you bought, you may need to install UART drivers. Most of them do not require any drivers. But if you need drivers, it will likely be the CP2102 drivers.
+Depending on exactly which ESP32-S3 model you bought, you may need to install UART drivers.
 
+Open up Device Manager and look for ESP32-S3 under "Ports". If you don't see it, then you might not the correct driver installed. Or try a different USB port.
+
+If you need drivers, it will either be CH340 or CP210x, depending on what ESP32-S3 model you have. If you don't know which one you have, install both.
+
+Install the appropriate driver for it:
 - CP210x: https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip
+- CH340: https://www.arduined.eu/ch340-windows-10-driver-download/
 
 Only do this step if you do not see ESP32-S3 show up in device manager as a serial (COM) device.
 
@@ -229,6 +235,7 @@ There can be many causes of this:
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
