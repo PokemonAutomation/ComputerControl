@@ -37,15 +37,15 @@ If not, you should go back to the [general setup guide](../README.md) and start 
 
 ### Step 1: Install ldn-mitm
 
-1. Download and unzip ld-mitm: https://github.com/Lusamine/ldn_mitm/releases
+1. Download and unzip ld-mitm: https://github.com/Lusamine/ldn_mitm/releases/latest
 2. Copy the contents into the root of your SD card.
 
 ### Step 2: Install sys-botbase 3 (sbb3)
 
-1. Download and unzip sbb3: https://github.com/PokemonAutomation/sys-botbase-cpp/releases
+1. Download and unzip sbb3: https://github.com/PokemonAutomation/sys-botbase-cpp/releases/latest
 2. Copy the contents into the root of your SD card.
 
-Note that this is sys-botbase 3. This is a improved rewrite of the original sys-botbase that has additional features required by CC to achieve maximum performance and stability.
+Note that this is sys-botbase 3. This is an improved rewrite of the original sys-botbase that has additional features required by CC to achieve maximum performance and stability.
 sbb3 is largely? backwards compatible with the official sys-botbase (sbb2). So you should be able to still use all your existing programs that rely on sbb2.
 
 ### Step 3: Navigate your Switch to where it will accept a new controller.
@@ -62,7 +62,7 @@ Places where the Switch will accept a new controller:
 ### Step 4: Connect to the Switch
 
 1. At the top for the "Controller" option, click the dropdown and select `TCP: sys-botbase` .
-2. Enter the IP address and port of your Switch. (e.g. `192.168.1.123:6000`)
+2. Enter the IP address and port of your Switch. (e.g. `192.168.1.123:6000`) As of sbb3.1, the port is always 6000.
 
 If everything worked correctly, it will look like this:
 
@@ -111,7 +111,7 @@ These are standard network connection issues. Common causes:
  - Local connection is enabled and ldn-mitm is not enabled. This will block the network connection.
  - You have dual-band wifi where your Switch is connected to one band while your computer is connected to the other.
 
-Sometimes, an older connection does not shutdown properly causing new connections to fail (i.e. a zombie state). You can try undocking your Switch and going in/out of a game several times, similarly with airplane mode. Otherwise, you may need to reboot the Switch.
+If all else fails, try undocking your Switch and going in/out of a game several times, similarly with airplane mode. Otherwise, you may need to reboot the Switch.
 
 
 ### Connected, but keyboard commands don't work.
@@ -153,11 +153,6 @@ There is no general solution to this. For some programs, you may be able to work
 Using ethernet instead of wireless does not solve this problem as local communication mode will kill this as well.
 
 
-### usb-botbase
-
-usb-botbase is (generally) not an option because it requires the same USB port that is needed for the HDMI output.
-
-
 
 
 
@@ -179,6 +174,7 @@ usb-botbase is (generally) not an option because it requires the same USB port t
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
