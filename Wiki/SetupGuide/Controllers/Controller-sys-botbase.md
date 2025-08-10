@@ -1,5 +1,7 @@
 # Controller Setup: sys-botbase
 
+***Update August 9, 2025: This guide has been updated for sys-botbase 3 (sbb3).***
+
 This sys-botbase setup is intended for experienced CFW (custom firmware) Switch users who want to try out our computer-control (CC) programs without buying all the additional hardware that is needed.
 
 If you do not have CFW (and are thus starting from scratch), we [recommend going back](../README.md#the-controller-the-computers-hands) and choosing one of the other controller options as they are more reliable than this option. You do not need CFW or sys-botbase to run CC programs. Likewise, the CC programs only use sys-botbase for its controller. It does not touch any of its "hacking" features like reading and modifying game memory.
@@ -33,11 +35,20 @@ Make sure you have everything else setup so that it looks like this:
 
 If not, you should go back to the [general setup guide](../README.md) and start over.
 
-### Step 1: Install sys-botbase and ldn-mitm
+### Step 1: Install ldn_mitm
 
-If you are reading this, you probably already have these setup. If not, [here's the guide](https://github.com/kwsch/SysBot.NET/wiki/Bot-Startup-Details).
+1. Download and unzip ld-mitm: https://github.com/Lusamine/ldn_mitm/releases/latest
+2. Copy the contents into the root of your SD card.
 
-### Step 2: Navigate your Switch to where it will accept a new controller.
+### Step 2: Install sys-botbase 3 (sbb3)
+
+1. Download and unzip sbb3: https://github.com/PokemonAutomation/sys-botbase-cpp/releases/latest
+2. Copy the contents into the root of your SD card.
+
+Note that this is sys-botbase 3. This is an improved rewrite of the original sys-botbase that has additional features required by CC to achieve maximum performance and stability.
+sbb3 is backwards compatible with the official sys-botbase (sbb2) aside from the removal of the ACNH features. So you should be able to still use all your existing programs that rely on sbb2.
+
+### Step 3: Navigate your Switch to where it will accept a new controller.
 
 sys-botbase will create a virtual wired controller that behaves like a real controller. So it can only connect if your Switch is ready for it.
 
@@ -48,10 +59,10 @@ Places where the Switch will accept a new controller:
 
 <img src="../Images/GripMenu.png">
 
-### Step 3: Connect to the Switch
+### Step 4: Connect to the Switch
 
 1. At the top for the "Controller" option, click the dropdown and select `TCP: sys-botbase` .
-2. Enter the IP address and port of your Switch. (e.g. `192.168.1.123:6000`)
+2. Enter the IP address and port of your Switch. (e.g. `192.168.1.123:6000`) The port is always 6000 for all versions of sbb to date.
 
 If everything worked correctly, it will look like this:
 
@@ -59,7 +70,7 @@ If everything worked correctly, it will look like this:
 
 If not, see [troubleshooting](#troubleshooting).
 
-### Step 4: Test the connection
+### Step 5: Test the connection
 
 You can control your Switch from the keyboard. Click on the video display to activate the keyboard controls. Then try pressing some buttons. You can view the keyboard -> controller mapping by clicking on the "keyboard layout" at the bottom left corner of the program.
 
@@ -69,7 +80,7 @@ The default layout is the standard WASD setup for FPS games on the most common Q
 
 <img src="../Images/ControllerSetup-sbb-Controls.png">
 
-### Step 5: You are done!
+### Step 6: You are done!
 
 If keyboard commands are working (along with video and audio), you are done!
 
@@ -100,7 +111,7 @@ These are standard network connection issues. Common causes:
  - Local connection is enabled and ldn-mitm is not enabled. This will block the network connection.
  - You have dual-band wifi where your Switch is connected to one band while your computer is connected to the other.
 
-Sometimes, an older connection does not shutdown properly causing new connections to fail (i.e. a zombie state). You can try undocking your Switch and going in/out of a game several times, similarly with airplane mode. Otherwise, you may need to reboot the Switch.
+If all else fails, try undocking your Switch and going in/out of a game several times, similarly with airplane mode. Otherwise, you may need to reboot the Switch.
 
 
 ### Connected, but keyboard commands don't work.
@@ -115,11 +126,7 @@ Most programs will block keyboard inputs if the program is running. So if you ha
 
 The response time is how long it takes to round-trip from your computer to sys-botbase and back. It will always be longer than a ping due to overhead within sys-botbase and/or Atmosphere.
 
-It should be less than 5ms, but can occasionally spike to over 100ms during periods of high traffic. This is normal. But if it stays above 50ms, you will have difficulty running many of the programs. So you will want to fix this. (usually by improving your network connection)
-
-Sometimes the Switch will get into a temporary slow state where this response time stays very high (> 100ms). This can usually be cleared by rebooting the Switch.
-
-Overall, this is not great and is why sys-botbase is less reliable than the other (microcontroller) options which are usually <1ms latency.
+High reponse time used to be a huge problem with sys-botbase 2.4. But starting from sys-botbase 3.0, it is less of an issue since it can buffer commands to retain timing precision.
 
 ### "Last Ack: xxx seconds ago"
 
@@ -132,17 +139,9 @@ This means the Switch has stopped responding to the computer's commands. The mos
 
 <img src="../Images/ControllerSetup-sbb-TickPrecise.png">
 
-sys-botbase lacks the timing precision that the Arduino can achieve. Therefore programs that require precise controller timings will not run reliably over sys-botbase and are therefore blocked from running. (we don't want people to file bugs when they run the program and it breaks)
+If you are seeing this message, it means you are running sys-botbase 2.x. This version of sys-botbase lacks the timing precision needed to run many of our programs.
 
-The programs on the sidebar are color-coded on what controllers they can run on:
-- **Blue:** Runs on all controllers with no issues.
-- **Green:** Runs on all controllers, but will have degraded performance/reliability on imprecise controllers (such as sys-botbase).
-- **Purple:** Only runs on precise controllers. (will not run on sys-botbase)
-- **Red:** Specialized programs that only run on specific controllers. (will not run on sys-botbase)
-
-Thus sys-botbase can only run blue and green programs. For everything else, you will need to use one of the [microcontroller setups](README.md#the-controller-the-computers-hands).
-
-If you are a sysmodule developer and are interested in fixing sys-botbase, please hit us up in [Discord](https://discord.com/channels/695809740428673034/709201831066206268) to discuss. We think we know what the problem is and we have ideas on how to fix it. But we have neither the expertise nor the developer bandwidth to do it ourselves.
+Please upgrade to sys-botbase 3.0 or later.
 
 
 ### Multi-Switch programs don't work.
@@ -152,11 +151,6 @@ Multi-Switch programs generally involve the two Switches using local communicati
 There is no general solution to this. For some programs, you may be able to work-around this by having both Switches go online. But this is not possible for programs that require resetting the game.
 
 Using ethernet instead of wireless does not solve this problem as local communication mode will kill this as well.
-
-
-### usb-botbase
-
-usb-botbase is (generally) not an option because it requires the same USB port that is needed for the HDMI output.
 
 
 
@@ -180,6 +174,10 @@ usb-botbase is (generally) not an option because it requires the same USB port t
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
+
+
 
 
 
