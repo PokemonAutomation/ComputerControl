@@ -35,7 +35,7 @@ Make sure you have everything else setup so that it looks like this:
 
 If not, you should go back to the [general setup guide](../README.md) and start over.
 
-### Step 1: Install ldn-mitm
+### Step 1: Install ldn_mitm
 
 1. Download and unzip ld-mitm: https://github.com/Lusamine/ldn_mitm/releases/latest
 2. Copy the contents into the root of your SD card.
@@ -62,7 +62,7 @@ Places where the Switch will accept a new controller:
 ### Step 4: Connect to the Switch
 
 1. At the top for the "Controller" option, click the dropdown and select `TCP: sys-botbase` .
-2. Enter the IP address and port of your Switch. (e.g. `192.168.1.123:6000`) As of sbb3.1, the port is always 6000.
+2. Enter the IP address and port of your Switch. (e.g. `192.168.1.123:6000`) The port is always 6000 for all versions of sbb to date.
 
 If everything worked correctly, it will look like this:
 
@@ -174,6 +174,7 @@ Using ethernet instead of wireless does not solve this problem as local communic
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
