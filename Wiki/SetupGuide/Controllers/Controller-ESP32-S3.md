@@ -191,8 +191,9 @@ If you see that it gets stuck printing out `...` and never makes progress, try o
   5. Release the `BOOT` button.
 
 If neither solution works:
- - Try a different USB port.
+ - Try a different USB port on your computer.
  - Try putting a USB2 hub between the computer and the ESP32-S3.
+ - Make sure the correct USB port on the ESP32-S3 is connected to the computer. Connect the "COM"/"UART" side to your computer. The ports may be labeled on the board's underside. The port labeled as "OTG" should not be connected to your computer.
 
 If nothing works, you are not alone! This is a common problem with ESP32 boards.
  - Further reading: https://www.reddit.com/r/esp32/comments/11awl5h/a_fatal_error_occurred_failed_to_connect_to_esp32/
@@ -235,6 +236,7 @@ There can be many causes of this:
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
