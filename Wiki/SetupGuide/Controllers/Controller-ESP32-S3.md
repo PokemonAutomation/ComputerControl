@@ -217,6 +217,11 @@ Try the following:
  - If this still fails, review [step 1](#step-1-flash-the-firmware-to-the-esp32) above (Flash the firmware to the ESP32) and ensure that you flashed the firmware properly onto the device.
     - When flashing, ensure that the top left checkbox is checked. The top row should be green.
     - Make sure the correct USB port on the ESP32-S3 is connected to the computer. Connect the "COM"/"UART" side to your computer. The ports may be labeled on the board's underside. The port labeled as "OTG" should not be connected to your computer.
+  
+### Unable to connect to the Switch. e.g. "Connected: No - Ready: No"
+Likely an issue with the connection from the ESP32-S3 to the Switch. 
+- Try a different USB cable that connects the ESP32-S3 to the Switch; make sure it supports data transfer.
+- Try a different USB port on the Switch dock.
 
 ### Keyboard controls don't work.
 
@@ -236,6 +241,7 @@ There can be many causes of this:
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
