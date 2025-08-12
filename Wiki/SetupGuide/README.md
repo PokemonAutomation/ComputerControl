@@ -142,6 +142,7 @@ Here the guide will diverge depending on which controller type you have chosen. 
 
 **Wired Controller:**
  - [ESP32-S3](Controllers/Controller-ESP32-S3.md)
+   - Video tutorial: https://youtu.be/ezBuwk48z8w (recommended for new-comers)
  - [Arduino Leonardo](Controllers/Controller-ArduinoLeonardo.md)
    - Video tutorial: https://youtu.be/DFXZzWkOEMs
  - [Arduino Uno R3](Controllers/Controller-ArduinoUnoR3.md)
@@ -187,6 +188,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
