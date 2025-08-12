@@ -1,5 +1,9 @@
 # Controller Setup: ESP32-S3
 
+**Video tutorial:** Pokemon Automation Wired setup with ESP32-S3: https://youtu.be/ezBuwk48z8w
+
+<hr>
+
 This is the brand new wired controller setup that is much easier to do than the old AVR8 ones using Arduino or Teensy. This is the recommended controller for new and existing users alike as it is the only easy-to-setup controller that works on the Switch 2.
 
 If you are setting up a wired controller setup for the first time, we recommend this option.
@@ -241,6 +245,7 @@ There can be many causes of this:
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
