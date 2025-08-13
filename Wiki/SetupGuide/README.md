@@ -137,7 +137,7 @@ Here the guide will diverge depending on which controller type you have chosen. 
 
 **Wireless Controller:**
  - [ESP32-WROOM](Controllers/Controller-ESP32-WROOM.md)
-   - Video tutorial: https://youtu.be/YzGyQQOGjl8 (recommended for new-comers)
+   - Video tutorial: https://youtu.be/YzGyQQOGjl8
  - [ESP32-WROOM for MacOS](Controllers/Controller-ESP32-WROOM-MacOS.md)
 
 **Wired Controller:**
@@ -188,6 +188,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
