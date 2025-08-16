@@ -19,19 +19,23 @@ Discord bot integration can be useful for various things. For example:
 
 1. Go to [Discord's Developer Portal](https://discord.com/developers/applications) and create a new application.
 
-2. Navigate to the Bot tab and add a new bot. You can give it a username and an avatar if you wish. This is the tab you will get your bot token from, we'll need it later.
+2. Navigate to the `Bot` tab and add a new bot. You can give it a username and an avatar if you wish. This is the tab you will get your bot token from, we'll need it later.
 
-	***Important note: never share or reveal your token to anyone. If you do, other people will be able to access your bot account and abuse it.***
+    ***Important note: never share or reveal your token to anyone. If you do, other people will be able to access your bot account and abuse it.***
 
-3. Make sure your bot is set to private, otherwise anyone will be able to invite it to their servers.
+3. Navigate to the `Installation` tab. Make sure that `Installation Contexts` is set to `Guild Install`, and `Install Link` is set to `None`.
+
+<img src="images/discord-bot-installation.png">
+
+4. Make sure your bot is set to private, otherwise anyone will be able to invite it to their servers.
 
 <img src="images/discord-bot-private.png">
 
-4. Under Privileged Gateway Intents enable `Presence Intent`, `Server Members Intent`, and `Message Content Intent`. Save your changes.
+5. Under Privileged Gateway Intents enable `Presence Intent`, `Server Members Intent`, and `Message Content Intent`. Save your changes.
 
 <img src="images/discord-bot-intents-0.png">
 
-5. Now head to the OAuth2 tab and click URL Generator; we need to generate an invite URL with the correct permissions. Select `bot` under scopes.
+6. Now head to the OAuth2 tab and click URL Generator; we need to generate an invite URL with the correct permissions. Select `bot` under scopes.
 
 <img src="images/discord-bot-scopes.png">
 
