@@ -49,7 +49,7 @@ At this point, the webhook should be working and programs that send notification
 
 Navigate to any program that sends notifications. All programs that send notifications will have the following section near the bottom of the settings.
 
-<img src="images/discord-notifications-event-settings-0.png">
+<img src="images/discord-notifications-event-settings-1.png">
 
 Click on any of the "Send Test Message" buttons. If everything worked properly, this will send a message to your channel with the webhook.
 
@@ -108,6 +108,7 @@ The URL of the webhook. (duh!) It is blanked out because it is sensitive. Anyone
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
