@@ -13,8 +13,8 @@
     },
     "PrivateBeta": {
         "VersionMajor": 0,
-        "VersionMinor": 54,
-        "VersionPatch": 6,
-        "Changes": "<b>Version 0.54.6:</b><br>- Fixed incorrect detection user select on Switch 2. (reported by Zing)<br><br><b>Version 0.54.5:</b><br>- Improved detection of console type. (Switch 1 vs. Switch 2 international vs. Switch 2 Japan-locked) Most programs will be able to run without specifying the console type.<br>- Programs will now error out if the detected console type disagrees with the user selection.<br>- Fixed a serious issue with audio playback.<br>- Fixed various issues with the SV sandwich maker. (reported by babs)<br>- Improved reliability of Shaymin shiny hunt. (reported by .functionfrank)<br>- Improved reliability of LGPE legendary reset.<br>- Improved reliability of date-spam routines.<br>- Fixed SwSh Regi light corrections.<br>- Fixed LGPE gift reset not recovering from errors.<br>- Switch 2: Fixed update menu detection. It will now detect both firmware and game updates and bypass them."
+        "VersionMinor": 56,
+        "VersionPatch": 4,
+        "Changes": "<b>Version 0.56.4 (beta):</b><br><br>- The ESP32 will now connect to the Switch 2!<br>- The ESP32-S3 now lets you pick between the Switch 1 and Switch 2 wired controllers.<br>- Improved reliability of SV eggs with a new path to navigate to the egg basket.<br>- SV egg programs will fix your game settings.<br>- SV egg programs will warn you if it thinks your language is wrong.<br>- Fixed another program crash. (from error reports)<br><br>A lot of changes happened to the firmware, so you will need to flash new .hex and .bin files regardless of what you are using.<br><br>Note that all 4 shiny hunting LGPE programs have been affected by the new firmware changes due to the game disconnecting all controllers when SR'ing. This "just happened" to work in the past, but with the new firmware, it has become a lot more delicate.<br><br>As of today, these 4 programs should be working fine on the Switch 2 (only Gift Reset has been tested). But Switch 1 is more precarious since we are unable to get the ESP32 to reliably reconnect to the Switch outside of the grip menu. (for some reason it works perfectly on the Switch 2 - ironic yes)"
     }
 }
