@@ -23,6 +23,7 @@ If you came here intending to run [AutoMaxLair](https://github.com/PokemonAutoma
   - [Pokémon Legends Arceus](Wiki/Programs/README.md#pokémon-legends-arceus)
   - [Pokémon Scarlet/Violet](Wiki/Programs/README.md#pokémon-scarlet-and-violet)
   - [Zelda: Tears of the Kingdom](Wiki/Programs/README.md#zelda-tears-of-the-kingdom)
+- [Discord integration](Wiki/Software/DiscordIntegration.md)
 - [Developer Guide](Wiki/Developer/README.md)
 - [Version History](Wiki/VersionHistory.md)
 
@@ -33,6 +34,7 @@ The next level game console automation using computer control, machine learning,
 <img src="Wiki/SetupGuide/Images/ControllerSetup-ESP32-WROOM-Setup.jpg" width="800">
 <img src="Wiki/Programs/PokemonSwSh/images/ShinyHuntAutonomous-Overworld-1.jpg" width="800">
 <img src="Wiki/Programs/PokemonSwSh/images/MaxLair-0.png" width="800">
+
 
 
 
