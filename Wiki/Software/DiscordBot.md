@@ -19,11 +19,11 @@ Discord bot integration can be useful for various things. For example:
 
 1. Go to [Discord's Developer Portal](https://discord.com/developers/applications) and create a new application.
 
-2. Navigate to the `Bot` tab and add a new bot. You can give it a username and an avatar if you wish. This is the tab you will get your bot token from, we'll need it later.
+2. Navigate to the `Bot` tab on the left sidebar and add a new bot. You can give it a username and an avatar if you wish. This is the tab you will get your bot token from, we'll need it later. Under `TOKEN`, copy the token and save it somewhere. If you forget to copy and save it, just click `Reset Token`, and copy the new token. Note that this will invalidate the old token.
 
     ***Important note: never share or reveal your token to anyone. If you do, other people will be able to access your bot account and abuse it.***
 
-3. Navigate to the `Installation` tab. Make sure that `Installation Contexts` is set to `Guild Install`, and `Install Link` is set to `None`.
+3. Navigate to the `Installation` tab on the left sidebar. Under `Installation Contexts`, ensure `Guild Install` is checked, and `User Install` is unchecked. Under `Install Link`, set the dropdown to `None`.
 
 <img src="images/discord-bot-installation.png">
 
@@ -35,7 +35,9 @@ Discord bot integration can be useful for various things. For example:
 
 <img src="images/discord-bot-intents-0.png">
 
-6. Now head to the OAuth2 tab and click URL Generator; we need to generate an invite URL with the correct permissions. Select `bot` under scopes.
+6. Go to the OAuth2 tab in the left sidebar. We will now generate an invite URL with the correct permissions. 
+
+Under SCOPES, select `bot`.
 
 <img src="images/discord-bot-scopes.png">
 
@@ -43,46 +45,43 @@ Discord bot integration can be useful for various things. For example:
 
   **a.** Do not grant any permissions, copy the generated URL below and invite the bot to a server you have Manage Server permissions in. Bot will not have any permissions, you can configure a role in the server or configure on a per-channel basis. **This is the preferred option if you are setting up your bot in someone else's server.**
 
-  **b.** Grant `Send Messages`, `Embed Links`, `Attach Files`, `Read Message History` permissions. Copy the generated URL below and paste it into your browser of choice. This will allow you to invite the bot to a server you have Manage Server permissions in, and your bot will have a pre-configured role.
+  **b.** Grant `Send Messages`, `Embed Links`, `Attach Files`, `Read Message History` permissions. This will allow you to invite the bot to a server you have Manage Server permissions in, and your bot will have a pre-configured role.
 
 <img src="images/discord-bot-permissions-0.png">
+
+Copy the generated URL shown above and paste it into your browser of choice. Click `Continue`.
+
+<img src="images/discord-bot-paste-url-in-browser.png">
+
+**NOTE:** If you don't already have a server that you have Manage Server permissions in, one way is to create your own server. 
+- On the Discord left sidebar, scroll to the bottom of the list of servers that you're in.
+- Click the `+` button, `Add a Server`.
+- `Create My Own`. Then follow the rest of the prompts to create your own server.
 
 
 ## Step 2: Open up the Discord settings.
 
-Open up the serial programs and click on the Settings button in the bottom-left section. This opens up the settings panel. Scroll down to the Discord settings. Enable `Discord Integration Settings`.
+Open up the Pokemon Automation Computer control program and click on the Settings button in the bottom-left section. This opens up the settings panel. Scroll down to the Discord settings. Enable `Discord Integration Settings`.
 
-**Settings overview**
-
-* **`Run Discord Integration On Launch`**: If enabled, Discord bot integration will automatically start as soon as you open the program.
-* **`Discord Integration Library`**: Dropdown menu that allows you to choose which library you want to use: D++ (slash and message commands) or Sleepy Discord (deprecated, only message commands).
-* **`Discord Integration Command Type`**: Dropdown menu that allows you to choose between the modern slash commands or the older style message commands. **Only available when using the D++ library**.
-* **`Discord Token`**: This is where you'll paste your bot's token. It will be blanked so you don't accidentally reveal it.
-* **`Discord Command Prefix`**: Symbol or text your bot will recognize as the start of a command.
-* **`Use Suffix`**: If enabled the prefix will be matched at the end of a command. **Only available when using the Sleepy Discord library**.
-* **`Discord Game Status`**: Flavor text that will appear under your bot's name in the sidebar.
-* **`Discord Hello Message`**: Bot's response to the `$hi` command.
-* **`Discord Sudo`**: Enter comma-separated user IDs you wish to grant remote button click command access to. **Only available when using the Sleepy Discord library**.
-* **`Discord Owner`**: Enter your own user ID. This will also enable sudo commands. **Only available when using the Sleepy Discord library**.
 
 <img src="images/discord-bot-program-settings-0.png">
 
 
 ## Step 3: Get your Discord bot's token and your user ID.
 
-1. If you haven't already, head back to the Bot tab in Discord's Developer Portal, reveal and copy your bot's token. Then paste it into the `Discord Token` box.
+1. Paste the Discord Bot token into the `Discord Token` box. If you haven't already copied the token, head back to the Bot tab in Discord's Developer Portal, reveal and copy your bot's token. 
+<img src="images/discord-bot-token.png">
 
-If using Sleepy Discord integration:
+2. Your Discord ID is not "Username#1234". It's actually just a number. To get your Discord User ID, [follow this guide](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). You will first need to enable Developer mode on your account. Paste your User ID into the `Discord User ID` box.
 
-  2. Your Discord ID is not "Username#1234". It's actually just a number. To get your Discord ID, [follow this guide](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).
-     Paste your ID into the `Discord User ID` and `Discord owner` boxes.
+ <img src="images/discord-bot-userid.png">
 
 
 ## Step 4: Set up your channels and notifications.
 
 1. Click "Add Row". In the `Description` box enter your own description so it's easier for you to identify channels later on.
 
-2. Similarly to how you got your user ID for Sleepy Discord in the previous step, get the channel ID you want to send notifications to and enter it.
+2. Similarly to how you got your User ID in the previous step, get the channel ID you want to send notifications to and paste it into `Channel ID`. Note: we want the Channel ID, not the Server ID.
 
 3. If you want your bot to respond to commands in that channel, check `Allow Commands`.
 
@@ -91,7 +90,11 @@ If using Sleepy Discord integration:
 
 ## Step 5: Send a test message and try out commands.
 
-Click `Start Bot`. If channel permissions are configured properly, the bot should appear online after a few moments. If it doesn't, check the channel and role permissions.
+Click `Start Bot`. 
+
+<img src="images/discord-bot-start.png">
+
+If channel permissions are configured properly, the bot should appear online after a few moments. If it doesn't, check the channel and role permissions.
 
 If the bot is online, good job! Now let's test notifications and commands!
 
@@ -111,7 +114,22 @@ If it doesn't, there can literally be a million things wrong. A good place to st
 
 ***
 
-# Expanded Settings Overview
+
+# Settings overview
+
+* **`Run Discord Integration On Launch`**: If enabled, Discord bot integration will automatically start as soon as you open the program.
+* **`Discord Integration Library`**: Dropdown menu that allows you to choose which library you want to use: D++ (slash and message commands) or Sleepy Discord (deprecated, only message commands).
+* **`Discord Integration Command Type`**: Dropdown menu that allows you to choose between the modern slash commands or the older style message commands. **Only available when using the D++ library**.
+* **`Discord Token`**: This is where you'll paste your bot's token. It will be blanked so you don't accidentally reveal it.
+* **`Discord Command Prefix`**: Symbol or text your bot will recognize as the start of a command.
+* **`Use Suffix`**: If enabled the prefix will be matched at the end of a command. 
+**Only available when using the Sleepy Discord library**.
+* **`Discord Game Status`**: Flavor text that will appear under your bot's name in the sidebar.
+* **`Discord Hello Message`**: Bot's response to the `$hi` command.
+* **`Discord Sudo`**: Enter comma-separated user IDs you wish to grant remote button click command access to. **Only available when using the Sleepy Discord library**.
+* **`Discord Owner`**: Enter your own user ID. This will also enable sudo commands. **Only available when using the Sleepy Discord library**.
+
+## `Discord Channels` table - Settings overview
 
 ### Column: "Description"
 
@@ -150,7 +168,7 @@ This lets you specify and fine-tune channels for notifications and commands.
 
 ***
 
-## Command Overview
+# Command Overview
 
 A general command cheat sheet.
 
