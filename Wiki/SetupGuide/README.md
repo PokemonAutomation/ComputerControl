@@ -100,7 +100,7 @@ We currently support 3 different types of controllers. So take your pick on whic
 | **Supported Microcontrollers:**<br>ESP32-S3<br>Arduino Uno R3<br>Arduino Leonardo<br>Teensy 2.0 / Teensy++ 2.0<br>Pro Micro | **Supported Microcontrollers:**<br>ESP32-WROOM-32<br><br><br><br><br> | **Supported Microcontrollers:**<br>None required.<br><br><br><br><br> |
 | Works on Switch 2. | Works on Switch 2 starting from v0.56. | Does not work on Switch 2 due to lack of CFW. |
 | ESP32-S3 is easy to setup. Others are harder. | Cheapest and easiest to setup. No cables needed. | Requires a hacked Switch running custom firmware (CFW). |
-| Cannot run LGPE programs.<br>Runs all other programs.* | Can run LGPE programs.<br>Runs nearly all other programs.* | sbb3: Identical to wired controllers.<br>sbb2: Cannot run programs that require timing precision. |
+| Cannot run LGPE programs.<br>Runs all other programs.* | Runs nearly all programs - including LGPE.* | sbb3: Identical to wired controllers.<br>sbb2: Cannot run programs that require timing precision. |
 | Fastest and most reliable. | Slower and less reliable than wired. | sbb3: Identical to wired controllers.<br>sbb2: Very slow and unreliable. |
 | Very good for remote access.<br>Very good for high density setups. | Not recommended for remote access.<br>Not recommended for high density setups due to wireless interference. | Not recommended for remote access. |
 | Recommended for all users including beginners. | Recommended for users who want fewer cables or who want to automate LGPE. | Recommended for existing CFW users who want to try CC programs with minimal investment. |
@@ -112,7 +112,7 @@ We currently support 3 different types of controllers. So take your pick on whic
 | **User Type** | **Recommendation** | **Comments** |
 | --- | --- | --- |
 | You are completely new to automation. | Wired: ESP32-S3 | Easy to setup. Most stable and reliable. |
-| If you want to automate LGPE. | Wireless ESP32-WROOM | Easiest to setup, but less stable than wired.<br>This is the only option to automate LGPE. |
+| You want to automate LGPE. | Wireless ESP32-WROOM | Easiest to setup, but less stable than wired.<br>This is the only option to automate LGPE. |
 | You are an existing Computer Control user who already has the Arduino/Teensy setup. | Wired: Keep what you have. | Unless you need to automate LGPE, what you have already works. |
 | You are a CFW user who already uses sys-botbase with Sysbot/Forkbot/not-Forkbot. | Custom Firmware: sys-botbase | This setup is designed specifically for you at no additional cost (beyond a capture card)! |
 
@@ -188,6 +188,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
