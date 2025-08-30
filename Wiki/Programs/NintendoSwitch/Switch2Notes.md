@@ -99,7 +99,7 @@ Both the Switch 1 as well as any computer will poll the controller at this stead
 For developers, we now have 3 different controller setups with different minimum time units (tick size):
 - Wired controller (Switch 1): 8ms
 - Wired controller (Switch 2): 8ms or 16ms
-- ESP32 Wireless (Switch 1 only): 15ms
+- ESP32 Wireless: 15ms
 
 The minimum time unit is the minimum amount of time between controller state changes. Meaning that if you press A, you cannot release it until at least 8ms later (for 8ms tick size). ESP32 increased it to 15ms. Now on Switch 2, it needs to be at least 16ms.
 
@@ -113,5 +113,6 @@ In the vast majority of cases, this does not matter since buttons need to be hel
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
