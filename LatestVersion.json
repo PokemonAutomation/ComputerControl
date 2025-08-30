@@ -1,9 +1,9 @@
 {
     "Release": {
         "VersionMajor": 0,
-        "VersionMinor": 55,
-        "VersionPatch": 3,
-        "Changes": "<b>Version 0.55.3:</b><br>Fixed AutoStory and Mystery Gift programs failing due to missing resource.<br>Fixed SV autohost failing to clear the news menu on dark theme.<br>Improved reliability of Switch 2 type detection.<br><br><br><b>Version 0.55.2:</b><br>- Fixed the program crashing when rapidly resetting videos.<br>- Improved reliability of SwSh dialog box detection. (reported by arnim1203)<br>- Increased SV shiny egg detection window to decrease chance of missed shiny. (reported by mathieuj75)<br><br><b>New Features:</b><br>- Added a beta program for farming SV mystery gifts by playing from game start to the first Pokemon center. <a href=\"https://youtu.be/F6uf7MzdBY0\" style=\"color: #0080ff\">Demo Video</a><br>- Added support for the Switch 2 C (GameChat) button for wired controllers.<br><br><b>Bug Fixes / QoL Improvements:</b><br>- Major fixes and stability improvements to AutoStory.<br>- AutoDA is now tolerant to nicknames and add-to-party being enabled.<br>- SV egg programs will ask you to check your Camera Support option if it can't find the basket.<br>- PLA programs that reset will tell you if it thinks you didn't save in Jubilife.<br>- Fixed Regigigas on Switch 2.<br>- Fixed date spam not working in German on Switch 2.<br>- Improved stability of ESP32 datespam.<br>- Reduce chance of false positive Tera rewards menu detection.<br>- Fixed Home Box Sorter not reading master balls.<br>- Fixed some Pokémon names not being correctly read in Chinese simplified due to name changes.<br>- Improved reliability of Y-COMM symbol detector.<br>- Fixed load profile not loading the resolution.<br>- Fixed some crashes."
+        "VersionMinor": 56,
+        "VersionPatch": 5,
+        "Changes": "<b>Version 0.56.5:</b><br><br>- <b>The ESP32 will now connect to the Switch 2!</b><br>- <b>sys-botbase 3 has been released for CFW users!</b><br>- The ESP32-S3 now lets you pick between the Switch 1 and Switch 2 wired controllers.<br>- Improved reliability of SV eggs with a new path to navigate to the egg basket.<br>- SV egg programs will fix your game settings.<br>- SV egg programs will warn you if it thinks your language is wrong.<br>- Misc. improvements to AutoStory.<br>- The stats overlay now includes memory usage.<br>- Fixed another program crash."
     },
     "Beta": {
         "VersionMajor": 0,
