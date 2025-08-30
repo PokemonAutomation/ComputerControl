@@ -11,7 +11,7 @@ There are different skippers for each date format. Use the one that matches your
 
 ## Program Description
 
-This is a faster JPN day skipper that runs at 7827 skips/hour.
+This is a faster JPN day skipper that runs at 7827 skips/hour. This program only runs on the Switch 1 with a wired controller. All other setups are not supported.
 
 > This skipper is less tolerant to errors compared to the other skippers. **Don't use this skipper unless your system is very stable or if you're just experimenting.**
 
@@ -94,5 +94,6 @@ Perform an auto-recovery every this number of skips. This is the recovery routin
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
