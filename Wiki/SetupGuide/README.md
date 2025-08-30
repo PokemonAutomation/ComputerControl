@@ -64,6 +64,12 @@ If you're going to automate a Nintendo Switch game, then you need to have a Nint
 
 However, it needs to be a *regular* Nintendo Switch that can be docked with HDMI video output. You cannot use a Switch Lite. We need the video output for the computer to see your Switch. Unfortunately you cannot just point a camera at the Switch Lite's screen since that comes with too much loss of quality. (Even if this worked, it's bad idea anyway since 24/7 gameplay will burn out the screen.)
 
+**Switch 2:**
+
+Yes, we support the Switch 2!
+
+Partial support for Switch 2 began with version 0.54 for wired controllers only. Full support (including ESP32 wireless) began with version 0.56.
+
 
 ### Video Capture Card (the computer's eyes)
 
@@ -182,6 +188,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
