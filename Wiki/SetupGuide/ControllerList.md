@@ -1,6 +1,6 @@
 # Controller List
 
-This is a full list of controllers that we currently support.
+This is a full list of devices and controllers that we currently support.
 
 ## Setups/Devices
 
@@ -45,7 +45,7 @@ This uses Nintendo's proprietary 48-byte HID report 0x30.
 
 **Switch 1: Wired Pro Controller**
 
-This is official pro controller from Nintendo - connected to the Switch over USB.
+This is the official pro controller from Nintendo - connected to the Switch over USB.
 
 Currently, the only implementation we have is sys-botbase. It does not use reports and instead, directly sets the controller state by writing to system memory.
 
