@@ -60,9 +60,9 @@ For the purposes of program compatibility, each setup/device + controller combin
 
 Programs that are speed-critical will have separate execution paths optimized for each performance category. (i.e. date spam, Fast Code Entry...)
 
-**Wired:**
+### Wired:
 
-Wired controllers are by far the most stable with a button timing accuracy of < 1ms (typically ~100us). This makes it the best suited for automation.
+Wired controllers are by far the most stable with a button timing accuracy of < 1ms (typically ~100us). It is not prone to random disconnects and can connect to the Switch from almost anywhere. This makes it the best suited for automation.
 
 | **Device** | **Controller** |
 | --- | --- |
@@ -71,16 +71,18 @@ Wired controllers are by far the most stable with a button timing accuracy of < 
 | sys-botbase 3 (sbb3) | Switch 1: Wired Pro Controller |
 
 
-**Wireless:**
+### Wireless:
 
-Wireless controllers are less table and usually have timing variation on the order of 2-10ms. Wireless controllers are generally less reliable since they are prone to random disconnects and high latencies from wireless interference. Nintendo's complicated (and proprietary) wireless protocol means that 3rd party implementations (including this project) are typically less than perfect and prone to compatibility issues.
+Wireless controllers are less table and usually have timing variation on the order of 2-10ms. While they are clean and easy to setup with no additional cabling, wireless controllers are generally less reliable since they are prone to random disconnects and high latencies from wireless interference. Nintendo's complicated (and proprietary) wireless protocol means that 3rd party implementations (including this project) are typically less than perfect and prone to compatibility issues.
+
+The main issue with wireless is that it can only reliably connect to the Switch inside the grip menu. So if you get disconnected outside of the grip menu and are unable to reconnect, you will need another controller or physical access to navigate back to the grip menu to re-pair the controller. For this reason, wireless controllers are less suited for remotely controlled automation.
 
 | **Device** | **Controller** |
 | --- | --- |
 | ESP32 | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon |
 
 
-**sys-botbase 2:**
+### sys-botbase 2:
 
 This category exists simply because sys-botbase 2 (sbb2) is extremely unstable with timing variations upwards of 150ms along with massive throughput issues due to backpressure. As a result, many programs written for the above wired and wireless controllers do not work on sbb2.
 
