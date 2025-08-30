@@ -106,7 +106,7 @@ We currently support 3 different types of controllers. So take your pick on whic
 | **User Type** | **Recommendation** | **Comments** |
 | --- | --- | --- |
 | You are completely new to automation. | Wired: ESP32-S3 | Easy to setup. Most stable. |
-| If you want to automate LGPE. | Wireless ESP32-WROOM | This is the only option to automate LGPE. |
+| If you want to automate LGPE. | Wireless ESP32-WROOM | Easiest to setup, but less stable than wired.<br>This is the only option to automate LGPE. |
 | You are an existing Computer Control user who already has the Arduino/Teensy setup. | Wired: Keep what you have. | Unless you need to automate LGPE, what you have already works. |
 | You are a CFW user who already uses sys-botbase with Sysbot/Forkbot/not-Forkbot. | Custom Firmware: sys-botbase | This setup is designed specifically for you at no additional cost (beyond a capture card)! If you want to get serious with CC, you will eventually want to get one of the other microcontroller setups since they are faster and more reliable. |
 
@@ -182,6 +182,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
