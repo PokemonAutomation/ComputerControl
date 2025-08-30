@@ -64,12 +64,6 @@ If you're going to automate a Nintendo Switch game, then you need to have a Nint
 
 However, it needs to be a *regular* Nintendo Switch that can be docked with HDMI video output. You cannot use a Switch Lite. We need the video output for the computer to see your Switch. Unfortunately you cannot just point a camera at the Switch Lite's screen since that comes with too much loss of quality. (Even if this worked, it's bad idea anyway since 24/7 gameplay will burn out the screen.)
 
-**Switch 2:**
-
-Support for the Switch 2 is available starting from version 0.54 - but only for wired controllers. Support for wireless controllers (including joycons) on the Switch 2 remains a work in progress.
-
-As of July 2025, we expect most automation to remain on the Switch 1 even for Switch 2 owners. There are currently no Pokémon games exclusive to the Switch 2. Most of our users who have jumped on the Switch 2 train use the Switch 2 for manual/normal play while their existing Switch 1 becomes the spare for running 24/7 automation.
-
 
 ### Video Capture Card (the computer's eyes)
 
@@ -98,7 +92,7 @@ We currently support 3 different types of controllers. So take your pick on whic
 | <img src="Images/ControllerSetup-ESP32-WROOM.jpg" width="1000"> | <img src="Images/ControllerSetup-ESP32-S3.jpg" width="1000"> | <img src="Images/ControllerSetup-sbb.jpg" width="1000"> |
 | **Supported Controller Types:**<br>- Wireless Pro Controller<br>- Left Joycon<br>- Right Joycon | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> |
 | **Supported Microcontrollers:**<br>ESP32-WROOM-32<br><br><br><br><br> | **Supported Microcontrollers:**<br>ESP32-S3<br>Arduino Uno R3<br>Arduino Leonardo<br>Teensy 2.0 / Teensy++ 2.0<br>Pro Micro | **Supported Microcontrollers:**<br>None required.<br><br><br><br><br> |
-| Currently does not work on Switch 2. | Works on Switch 2. | Does not work on Switch 2 due to lack of CFW. |
+| Works on Switch 2 starting from v0.56. | Works on Switch 2. | Does not work on Switch 2 due to lack of CFW. |
 | Cheapest and easiest to setup for the average user. | More expensive. Also easy to setup if you pick ESP32-S3. Others are harder to setup. | Requires a hacked Switch running custom firmware (CFW). |
 | Can run LGPE programs.<br>Cannot run Sword/Shield day-skippers.<br>Runs all other programs.* | Cannot run LGPE programs.<br>Runs all other programs.* | sbb3: Identical to wired controllers.<br>sbb2: Cannot run programs that require timing precision. |
 | Fast and reliable for most programs. | Fastest and most reliable. Best for high-speed programs (date-spam exploits, FCE). | sbb3: Identical to wired controllers.<br>sbb2: Runs most programs well. Slow and unreliable for high-speed programs. |
@@ -111,7 +105,7 @@ We currently support 3 different types of controllers. So take your pick on whic
 
 | **User Type** | **Recommendation** | **Comments** |
 | --- | --- | --- |
-| You are completely new to automation. | Wired: ESP32-S3 | Easy to setup. Works on the Switch 2. |
+| You are completely new to automation. | Wired: ESP32-S3 | Easy to setup. Most stable. |
 | If you want to automate LGPE. | Wireless ESP32-WROOM | This is the only option to automate LGPE. |
 | You are an existing Computer Control user who already has the Arduino/Teensy setup. | Wired: Keep what you have. | Unless you need to automate LGPE, what you have already works. |
 | You are a CFW user who already uses sys-botbase with Sysbot/Forkbot/not-Forkbot. | Custom Firmware: sys-botbase | This setup is designed specifically for you at no additional cost (beyond a capture card)! If you want to get serious with CC, you will eventually want to get one of the other microcontroller setups since they are faster and more reliable. |
@@ -188,6 +182,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
