@@ -81,14 +81,6 @@ If using an HDR-capable card, we recommend turning it off in System Settings -> 
 |---|---|
 |<img src="images/Switch2-HDR-Off.png" width="400">|<img src="images/Switch2-HDR-On.png" width="400">|
 
-### ESP32 wireless is currently broken.
-
-As of today, our ESP32 wireless controllers fail to connect to the Switch 2. Even though they implement the Switch 1 wireless controller protocol, they don't do it well enough. So the Switch 2 rejects them.
-
-As of this writing, we do not yet know how to fix this. Many other controller emulation projects are broken in the same way. So we will be keeping a close eye on them to see how they adapt and fix the issue.
-
-Until this is fixed, the only option to connect to the Switch 2 is using wired controllers (ESP32-S3, Arduino/Teensy).
-
 
 ## For Developers
 
@@ -121,4 +113,5 @@ In the vast majority of cases, this does not matter since buttons need to be hel
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
