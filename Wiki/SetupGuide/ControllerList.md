@@ -52,7 +52,7 @@ Currently, the only implementation we have is sys-botbase. It does not use repor
 
 ## Controller Performance Classes
 
-For the purposes of program compatibility, each setup/device + controller combination is places into one of 3 performance categories:
+For the purposes of program compatibility, each setup/device + controller combination is placed into one of 3 performance categories:
 
 - Wired
 - Wireless
@@ -62,7 +62,7 @@ Programs that are speed-critical will have separate execution paths optimized fo
 
 **Wired:**
 
-Wired controllers are by far the most stable with a button timing accuracy of < 1ms (typically ~200us). This makes it the best suited for automation.
+Wired controllers are by far the most stable with a button timing accuracy of < 1ms (typically ~100us). This makes it the best suited for automation.
 
 | **Device** | **Controller** |
 | --- | --- |
