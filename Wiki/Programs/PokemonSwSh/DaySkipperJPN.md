@@ -12,8 +12,10 @@ There are different skippers for each date format. Use the one that matches your
 ## Program Description
 
 This is the original "7k Skipper".
-- Switch 1: **7619** skips/hour
-- Switch 2: **5655** skips/hour
+- Switch 1 (wired): **7619** skips/hour
+- Switch 2 (wired): **5655** skips/hour
+- Switch 1 (wireless): **< 7619 skip/hour** (not recommended)
+- Switch 2 (wireless): **not supported yet**
 
 <img src="images/DaySkipperJPN-0.png">
 
@@ -87,5 +89,6 @@ This option is ignored on the Switch 2.
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
