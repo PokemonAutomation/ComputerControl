@@ -1,6 +1,6 @@
 # Controller Setup: ESP32-WROOM (MacOS)
 
-### ***Note: This setup is currently does not work on the Switch 2. We hope to fix this in the future.***
+### ***Update v0.56: This setup will now work on the Switch 2!***
 
 This setup uses an ESP32 microcontroller to emulate a wireless controller. It can emulate both left and right joycons as well as the wireless pro controller. Since this covers all the controller types, an ESP32 will be able to run nearly our entire repertoire of programs for the Nintendo Switch.
 
@@ -287,6 +287,7 @@ It is as cute as it is stupid, and it will give you problems. We tried it so you
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
