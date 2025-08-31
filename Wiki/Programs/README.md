@@ -300,7 +300,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 | [Ride Cloner (1.0.1)](PokemonSV/RideCloner-101.md) | Clone your ride legendary and its item using the add-to-party glitch. (glitch patched) | Video         | Wired, Wireless |
 | [Clone Items (1.0.1)](PokemonSV/CloneItems-101.md) | Clone items using the add-to-party glitch. (glitch patched)                            | Video         | Wired, Wireless |
 ||
-| **Beta programs:** |
+| **Beta/WIP Programs:** |
 | [AutoStory](PokemonSV/AutoStory.md) | Progress through the tutorial and mainstory of Scarlet/Violet | Video         | Wired (Wireless untested) |
 | [Claim Mystery Gift](PokemonSV/ClaimMysteryGift.md) | Claim the Mystery Gift in Scarlet/Violet | Video              | Wired (Wireless untested) |
 ||
@@ -323,6 +323,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
