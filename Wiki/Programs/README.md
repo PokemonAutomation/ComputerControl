@@ -95,10 +95,10 @@ This game cannot be played with a Pro Controller and instead requires the use of
 | **Den Hunting:** |
 | [Purple Beam Finder](PokemonSwSh/PurpleBeamFinder.md) |         | Video            | All |
 | [Event Beam Finder](PokemonSwSh/EventBeamFinder.md) |           |                  | All |
-| [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md) |             |                  | Wired, Wireless (Degraded: Wireless) |
-| [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md) |               |                  | Wired, Wireless (Degraded: Wireless) |
-| [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md) |               |                  | Wired, Wireless (Degraded: Wireless) |
-| [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md) | |                  | Wired Only |
+| [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md) |             |                  | Switch 1: Wired, Wireless (Degraded: Wireless)<br>Switch 2: Wired Only |
+| [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md) |               |                  | Switch 1: Wired, Wireless (Degraded: Wireless)<br>Switch 2: Wired Only |
+| [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md) |               |                  | Switch 1: Wired, Wireless (Degraded: Wireless)<br>Switch 2: Wired Only |
+| [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md) | |                  | Switch 1: Wired Only<br>Switch 2: None |
 ||
 | **Hosting:** |
 | [Den Roller](PokemonSwSh/DenRoller.md) |                    | Video (Optional) | All (Degraded: sbb2) |
@@ -323,6 +323,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
