@@ -249,7 +249,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 | [Clothing Buyer](PokemonSV/ClothingBuyer.md) | Purchase clothing from shops.                                         | Video         | All |
 | [Autonomous Ball Thrower](PokemonSV/AutonomousBallThrower.md) | Repeatedly throw a ball until you catch the pokemon. | Video         | All |
 | [Size Checker](PokemonSV/SizeChecker.md) | Check boxes of Pokemon for size marks.                                    | Video         | All |
-| [Self Box Trade](PokemonSV/SelfBoxTrade.md) | Tade boxes of Pokemon between two local Switches.                      | Video         | All |
+| [Self Box Trade](PokemonSV/SelfBoxTrade.md) | Trade boxes of Pokemon between two local Switches.                      | Video         | All |
 | [Sandwich Maker](PokemonSV/SandwichMaker.md) | Make a sandwich  of your choice.                                      | Video         | All |
 || 
 | **Boxes:** |
@@ -323,6 +323,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
