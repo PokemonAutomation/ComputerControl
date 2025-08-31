@@ -105,7 +105,7 @@ While we support quite a few different setups, these are the 3 that we recommend
 | Very good for remote access.<br>Very good for high density setups. | Not recommended for remote access.<br>Not recommended for high density setups due to wireless interference. | Not recommended for remote access. |
 | Recommended for all users including beginners. | Recommended for users who want fewer cables or who want to automate LGPE. | Recommended for existing CFW users who want to try CC programs with minimal investment. |
 
-For a complete list of setups - including older ones we no longer recommend, see our [Controller List](ControllerList.md).
+For a complete list of setups - including older ones we no longer recommend, see our [Controller List](/Wiki/ControllerList.md).
 
 *Please consult the [program list](/Wiki/Programs/README.md) for the full compatibility table.
 
