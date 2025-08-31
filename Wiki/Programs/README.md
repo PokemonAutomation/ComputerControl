@@ -21,6 +21,8 @@ This is a list of all the computer-control programs. To run these programs, you 
 | --- | --- | --- |
 | - ESP32-S3<br>- Arduino Uno R3<br>- Arduino Leonardo<br>- Teensy 2.0<br>- Teensy++ 2.0<br>- Pro Micro<br>- sys-botbase 3 (sbb3) | - ESP32-WROOM | - sys-botbase 2.4 (sbb2) |
 
+Read more about [Controller Performance Categories](/Wiki/ControllerList.md#https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/ControllerList.md#controller-performance-classes).
+
 
 ## Nintendo Switch
 
@@ -45,7 +47,7 @@ This is a list of all the computer-control programs. To run these programs, you 
 
 ## Pokémon Let's Go Pikachu/Eevee (LGPE)
 
-Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wireless is the only supported controller.
+This game cannot be played with a Pro Controller and instead requires the use of joycons. Therefore, ESP32 wireless is the only supported setup since it is the only one that implements Joycons.
 
 | **Program** | **Feedback** | **Controllers** |
 | --- | --- | --- |
@@ -321,6 +323,7 @@ Note that this game cannot be played with a Pro Controller. Therefore, ESP32 wir
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
