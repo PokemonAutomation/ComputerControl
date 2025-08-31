@@ -10,8 +10,11 @@ This table lists all the setups that we have along with the controllers that the
 | --- | --- | ------------------------------------------------------------------------ | --- |
 | <img src="Images/ControllerSetup-ESP32-S3.jpg" width="200"> | ESP32-S3 | Switch 1: Wired Controller<br>Switch 2: Wired Controller<br>(compatible with Switch 1) | [Guide (Windows)](Controllers/Controller-ESP32-S3.md) |
 | <img src="Images/ControllerSetup-ESP32-WROOM.jpg" width="200"> | ESP32-WROOM | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | [Guide (Windows)](Controllers/Controller-ESP32-WROOM.md)<br>[Guide (Mac)](Controllers/Controller-ESP32-WROOM-MacOS.md) |
-| <img src="Images/ControllerSetup-Leonardo.jpg" width="200"> | Arduino Uno R3<br>Arduino Leonardo<br>Teensy 2.0<br>Teensy++ 2.0<br>Pro Micro | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Arduino Uno R3](Controllers/Controller-ArduinoUnoR3.md)<br>[Arduino Leonardo](Controllers/Controller-ArduinoLeonardo.md)<br>[Teensy(++) 2.0 (Mini-Grabbers)](Controllers/Controller-Teensy2-MiniGrabbers.md)<br>[Teensy(++) 2.0 (Hammer Headers)](Controllers/Controller-Teensy2-HammerHeaders.md)<br>[Pro Micro (Mini-Grabbers)](Controllers/Controller-ProMicro-MiniGrabber.md)<br>[Pro Micro (Hammer Headers)](Controllers/Controller-ProMicro-HammerHeaders.md) |
-| <img src="Images/ControllerSetup-sbb.jpg" width="200"> | sys-botbase 2/3 | Switch 1: Wired Pro Controller | [sys-botbase](Controllers/Controller-sys-botbase.md) |
+| <img src="Images/ControllerSetup-sbb.jpg" width="200"> | CFW: sys-botbase 2/3 | Switch 1: Wired Pro Controller | [sys-botbase](Controllers/Controller-sys-botbase.md) |
+| <img src="Images/ControllerSetup-UnoR3.jpg" width="200"> | Arduino Uno R3 | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Arduino Uno R3](Controllers/Controller-ArduinoUnoR3.md) |
+| <img src="Images/ControllerSetup-Leonardo.jpg" width="200"> | Arduino Leonardo | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Arduino Leonardo](Controllers/Controller-ArduinoLeonardo.md) |
+| <img src="Images/ControllerSetup-ProMicro-HammerHeaders.jpg" width="200"> | Pro Micro | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Pro Micro (Mini-Grabbers)](Controllers/Controller-ProMicro-MiniGrabbers.md)<br>[Pro Micro (Hammer Headers)](Controllers/Controller-ProMicro-HammerHeaders.md) |
+| <img src="Images/ControllerSetup-Teensy2-HammerHeaders.jpg" width="200"> | Teensy 2.0<br>Teensy++ 2.0 | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Teensy(++) 2.0 (Mini-Grabbers)](Controllers/Controller-Teensy2-MiniGrabbers.md)<br>[Teensy(++) 2.0 (Hammer Headers)](Controllers/Controller-Teensy2-HammerHeaders.md) |
 
 ## Controller Types
 
