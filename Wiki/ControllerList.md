@@ -2,6 +2,12 @@
 
 This is a full list of devices and controllers that we currently support.
 
+**Terminology:**
+- **Device** - A microcontroller such as an ESP32, Arduino, Teensy, etc...
+- **Controller** - A game controller such as the Nintendo Pro Controller or Joycon.
+- **Setup** or **Controller Setup** - A setup where a "device" is emulating a "controller" for automation.
+
+
 ## Controller Setups
 
 This table lists all the device and controller combinations that we support in this project.
