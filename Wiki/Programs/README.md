@@ -2,11 +2,6 @@
 
 This is a list of all the computer-control programs. To run these programs, you need the [computer-control setup](/Wiki/SetupGuide/README.md).
 
-**Notes:**
-- Programs that require video feedback cannot run on the Switch Lite because it does not have HDMI output.
-- Not every program can run on every controller. Please check the table for compatibility.
-- Controllers marked as "Degraded" mean that the program will run, but performance and reliability may be severely degraded.
-
 **Jump To:**
 - [Nintendo Switch](#nintendo-switch)
 - [Pokémon Let's Go Pikachu/Eevee](#pok%C3%A9mon-lets-go-pikachueevee-lgpe)
@@ -15,6 +10,11 @@ This is a list of all the computer-control programs. To run these programs, you 
 - [Pokémon Legends Arceus](#pokémon-legends-arceus)
 - [Pokémon Scarlet/Violet](#pokémon-scarlet-and-violet)
 - [Zelda: Tears of the Kingdom](#zelda-tears-of-the-kingdom)
+
+**Notes:**
+- Programs that require video feedback cannot run on the Switch Lite because it does not have HDMI output.
+- Not every program can run on every controller. Please check the table for compatibility.
+- Controllers marked as "Degraded" mean that the program will run, but performance and reliability may be severely degraded.
 
 **Controller Categories:**
 | **Wired** | **Wireless** | **Other** |
@@ -323,6 +323,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
