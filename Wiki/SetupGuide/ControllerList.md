@@ -16,41 +16,27 @@ This table lists all the setups that we have along with the controllers that the
 | <img src="Images/ControllerSetup-ProMicro-HammerHeaders.jpg" width="200"> | Pro Micro | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Pro Micro (Mini-Grabbers)](Controllers/Controller-ProMicro-MiniGrabbers.md)<br>[Pro Micro (Hammer Headers)](Controllers/Controller-ProMicro-HammerHeaders.md) |
 | <img src="Images/ControllerSetup-Teensy2-HammerHeaders.jpg" width="200"> | Teensy 2.0<br>Teensy++ 2.0 | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Teensy(++) 2.0 (Mini-Grabbers)](Controllers/Controller-Teensy2-MiniGrabbers.md)<br>[Teensy(++) 2.0 (Hammer Headers)](Controllers/Controller-Teensy2-HammerHeaders.md) |
 
+
+## Device Types
+
+
 ## Controller Types
 
-**Switch 1: Wired Controller**
+A "controller" (not to be confused with the microcontrollers above) refers to a game controller that will be emulated for the purpose of controlling the game console.
 
-This is the standard 3rd party wired that most "officially licensed" controllers use. They only support the standard buttons/joystick and do not support rumble or gyro. They also do not support custom colors in their icon when connected to the Switch.
+| Image | Description |
+| --- | --- |
+| <img src="Images/Controllers/Switch1-Horipad-Wired.jpg" width="300"> | **Switch 1: Wired Controller**<br><br>This is the standard 3rd party wired that most "officially licensed" controllers use. Most wired controllers from Horipad and PowerA fall into this category.<br><br>This controller type only supports the standard buttons/joystick and do not support rumble or gyro. It also does not support custom colors in its icon when connected to the Switch.<br><br>These use the standard 8-byte HID report type with 14 buttons, a dpad, and two joysticks with 8-bit precision. |
+| <img src="Images/Controllers/Switch2-PowerA-Wired.jpg" width="300"> | **Switch 2: Wired Controller**<br><br>This is the same as the Switch 1 wired controller, except that they add the GL, GR, and C (gamechat) buttons for the Switch 2. This controller type is backwards compatible with the Switch 1 such that pressing the new buttons simply do nothing on the Switch 1.<br><br>These also use the standard 8-byte HID report type with 17 buttons, a dpad, and two joysticks with 8-bit precision. Due to the button field having only 16 bits, the 17'th button (the C button) instead uses an unused bit in the dpad byte. |
+| <img src="Images/Controllers/Switch1-ProController.jpg" width="300"> | **Switch 1: Wireless Pro Controller**<br><br>This is the official pro controller from Nintendo - connected wirelessly to the Switch.<br><br>At this time, this project does not support gyro, rumble, NFC, or console wake up. So in effect, it is functionally the same as the wired controller - though less stable due to wireless communication.<br><br>This uses Nintendo's proprietary 48-byte HID report 0x30.<br><br>**Switch 1: Wired Pro Controller**<br><br>This is the official pro controller connected to the Switch over USB.<br><br>Currently, the only implementation we have is sys-botbase. It does not use reports and instead, directly sets the controller state by writing to system memory. |
+| <img src="Images/Controllers/Switch1-Joycons.jpg" width="300"> | **Switch 1: Left + Right Joycons**<br><br>These are the official joycons from Nintendo - connected wirelessly to the Switch.<br><br>At this time, this project does not support gyro, rumble, NFC, or console wake up.<br><br>This uses Nintendo's proprietary 48-byte HID report 0x30. |
 
-These use the standard 8-byte HID report type with 14 buttons, a dpad, and two joysticks with 8-bit precision.
 
-**Switch 2: Wired Controller**
 
-This is the same as the Switch 1 wired controller, except that they add the GL, GR, and C (gamechat) buttons for the Switch 2. This controller type is backwards compatible with the Switch 1 such that pressing the new buttons simply do nothing on the Switch 1.
 
-These also use the standard 8-byte HID report type with 17 buttons, a dpad, and two joysticks with 8-bit precision. Due to the button field having only 16 bits, the 17'th button (the C button) instead uses an unused bit in the dpad byte.
 
-**Switch 1: Wireless Pro Controller**
 
-This is the official pro controller from Nintendo - connected wirelessly to the Switch.
 
-At this time, this project does not support gyro, rumble, NFC, or console wake up. So in effect, it is functionally the same as the wired controller - though less stable due to wireless communication.
-
-This uses Nintendo's proprietary 48-byte HID report 0x30.
-
-**Switch 1: Left + Right Joycons**
-
-These are the official joycons from Nintendo - connected wirelessly to the Switch.
-
-At this time, this project does not support gyro, rumble, NFC, or console wake up.
-
-This uses Nintendo's proprietary 48-byte HID report 0x30.
-
-**Switch 1: Wired Pro Controller**
-
-This is the official pro controller from Nintendo - connected to the Switch over USB.
-
-Currently, the only implementation we have is sys-botbase. It does not use reports and instead, directly sets the controller state by writing to system memory.
 
 
 ## Controller Performance Classes
