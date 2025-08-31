@@ -2,9 +2,9 @@
 
 This is a full list of devices and controllers that we currently support.
 
-## Setups/Devices
+## Controller Setups
 
-This table lists all the setups that we have along with the controllers that they support.
+This table lists all the device and controller combinations that we support in this project.
 
 | | **Device Type** | **Supported Controllers** | **Guides** |
 | --- | --- | ------------------------------------------------------------------------ | --- |
@@ -24,12 +24,13 @@ A "device" is a microcontroller or development board that we will use to emulate
 | Image | Description |
 | --- | --- |
 | <img src="Images/ControllerSetup-ESP32-WROOM-Board-2.jpg" height="200"> | **ESP32-WROOM** |
-| <img src="Images/ControllerSetup-ESP32-S3-Board.jpg" width="200"> | **ESP32-S3** |
+| <img src="Images/Devices/ESP32-S3.jpg" height="200"> | **ESP32-S3**<br><br>Supported Controllers:<br>- Switch 1: Wired controller<br>- Switch 2: Wired controller<br><br>The ESP32-S3 is the newest device in our lineup. It has both USB OTG and USB UART as separate ports. The USB OTG can be programmed as a game controller while the USB UART elminates the need for the external UART that was needed by the AVR8 setups (Arduino/Teensy). Thus ESP32-S3 is the perfect replacement for those older setups. Ease of setup is very important as it lowers the technical bar of entry for new users.<br><br>As a bonus, the ESP32-S3 supports Bluetooth LE (BLE). This gives us future ambitions of supporting the Switch 2 wireless controllers as well. |
 | <img src="Images/Devices/ArduinoUnoR3.jpg" width="200"> | **Arduino Uno R3**<br><br>Supported Controllers:<br>- Switch 2: Wired controller<br><br>The Arduino Uno R3 is one of the original boards that spearheaded the Nintendo Switch automation community. However, it's ATmega16U2 AVR8 CPU is very weak with only 512 bytes of ram and 12KB of usable program memory.<br><br>This controller is only suitable for emulating the basic wired controllers. It doesn't even have enough memory to hold multiple controller implementations the way that some of the newer controllers can. |
 | <img src="Images/Devices/ArduinoLeonardo.jpg" width="200"> | **Arduino Leonardo**<br><br>Supported Controllers:<br>- Switch 2: Wired controller<br><br>The Arduino Leonardo uses an ATmega32U4 AVR8 CPU. It has significantly more ram and program memory at 2.5KB and 32KB respectively. This was the last addition to the AVR8 microcontroller line up and was chosen because it was easier to setup a serial connection than the Teensy or Pro Micro boards.<br><br>Being an AVR8 processor, it shares codebase with the Arduino Uno R3 and thus we only support a single wired controller type on it. |
 | <img src="Images/Devices/ProMicro.jpg" width="200"> | **Pro Micro**<br><br>Supported Controllers:<br>- Switch 2: Wired controller<br><br>The Pro Micro uses an ATmega32U4 AVR8 CPU and is functionally the same as the Arduino Leonardo and Teensy 2.0. This was added to our lineup because it was the cheapest microcontroller of this type in volume. Thus it became the work horse for many people with multiple Switches. |
 | <img src="Images/Devices/Teensy2.jpg" width="200"> | **Teensy 2.0**<br><br>Supported Controllers:<br>- Switch 2: Wired controller<br><br>The Arduino Uno R3 is one of the original boards that spearheaded the Nintendo Switch automation community.<br><br>The Teensy 2.0 uses an ATmega32U4 AVR8 CPU and is functionally the same as the Arduino Leonardo and Pro Micro. This (along with the Teensy++ 2.0) was by far the best board during the microcontroller-only automation era due to the easy-to-use button to put the board into flash mode. It began to fall out of use in the computer-control era due to the difficulty of setting up a serial connection on it. |
 | <img src="Images/Devices/TeensyPP2.jpg" width="200"> | **Teensy++ 2.0**<br><br>Supported Controllers:<br>- Switch 2: Wired controller<br><br>The Teensy++ 2.0 is the same as the Teensy 2.0 with an upgraded AT90USB1286 CPU which has much more ram and program memory.<br><br>This extra ram and program memory was never put to use in this project. So it is functionally the same as the Teensy 2.0 along with all its advantages and drawbacks. |
+
 
 
 
