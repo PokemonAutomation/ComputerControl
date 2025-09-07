@@ -24,7 +24,7 @@ x = 0 is left, x = 255 is right. y = 0 is up, y = 255 is down. 128 is neutral fo
 
 ## Credits
 
-- **Author:** Kuroneko/Mysticial
+- **Author:** pifopi
 
 
 
@@ -33,5 +33,6 @@ x = 0 is left, x = 255 is right. y = 0 is up, y = 255 is down. 128 is neutral fo
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
