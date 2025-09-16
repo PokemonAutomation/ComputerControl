@@ -115,7 +115,7 @@ For a complete list of setups - including older ones we no longer recommend, see
 | --- | --- | --- |
 | You are completely new to automation. | ESP32-S3 | Easy to setup. Most stable and reliable. |
 | You want to automate LGPE. | ESP32-WROOM | Cheapest and easiest to setup, but less reliable.<br>This is the only option to automate LGPE. |
-| You are an existing Computer Control user who already has the Arduino/Teensy setup. | Keep what you have. | See the [Controller List](ControllerList.md) to find the guide to re-setup your hardware. |
+| You are an existing Computer Control user who already has the Arduino/Teensy setup. | Keep what you have. | See the [Controller List](/Wiki/ControllerList.md) to find the guide to re-setup your hardware. |
 | You are an experienced CFW user. | sys-botbase 3 | This setup is designed specifically for you at no additional cost (beyond a capture card)! |
 
 Also, don't be afraid to get both wired and wireless setups! Many of us do exactly this!
@@ -179,6 +179,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
