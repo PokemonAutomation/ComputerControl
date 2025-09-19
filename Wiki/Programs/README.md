@@ -28,15 +28,16 @@ Read more about [Controller Performance Categories](/Wiki/ControllerList.md#cont
 
 | **Program** | **Feedback** | **Controllers** |
 | --- | --- | --- |
-| [Framework Settings](NintendoSwitch/FrameworkSettings.md)         | --- | --- |
-| [Virtual Console](NintendoSwitch/VirtualConsole.md)               | --- | All |
-| [Switch Viewer](NintendoSwitch/SwitchViewer.md)                   | --- | All |
-| [TurboA](NintendoSwitch/TurboA.md)                                |     | All |
-| [Turbo Button](NintendoSwitch/TurboButton.md)                     |     | All |
-| [Turbo Macro](NintendoSwitch/TurboMacro.md)                       |     | All |
-| [Prevent Sleep](NintendoSwitch/PreventSleep.md)                   |     | All |
-| [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)            |     | All (Degraded: sbb2) |
-| [Friend Delete](NintendoSwitch/FriendDelete.md)                   |     | All |
+| [Framework Settings](NintendoSwitch/FrameworkSettings.md)                 | --- | --- |
+| [Virtual Console](NintendoSwitch/VirtualConsole.md)                       | --- | All |
+| [Switch Viewer](NintendoSwitch/SwitchViewer.md)                           | --- | All |
+| [TurboA](NintendoSwitch/TurboA.md)                                        |     | All |
+| [Turbo Button](NintendoSwitch/TurboButton.md)                             |     | All |
+| [Turbo Macro](NintendoSwitch/TurboMacro.md)                               |     | All |
+| [Prevent Sleep](NintendoSwitch/PreventSleep.md)                           |     | All |
+| [Friend Code Adder](NintendoSwitch/FriendCodeAdder.md)                    |     | All (Degraded: sbb2) |
+| [Friend Delete](NintendoSwitch/FriendDelete.md)                           |     | All |
+| [Record Keyboard Controller](NintendoSwitch/RecordKeyboardController.md)  |     | All |
 
 ## Pokémon Home
 
