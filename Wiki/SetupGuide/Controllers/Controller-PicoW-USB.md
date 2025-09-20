@@ -3,14 +3,10 @@
 ### ***This setup is still in development. It is not yet available to the public.***
 
 The Raspberry Pi Pico W is different from the other boards in that it has two operating modes:
-- USB Mode - easy (this guide)
-- [UART Mode - hard](Controller-PicoW-UART.md)
-
-The Pico W has a Bluetooth module that allows it to implement wireless controllers. It can emulate both left and right joycons as well as the wireless pro controller. Since this covers all the controller types, a Pico W will be able to run nearly our entire repertoire of programs for the Nintendo Switch.
-
-The USB port plugs into the computer which is how the program will control it. At the other end is an antenna that supports Bluetooth which is how it will fake itself as a joycon or a wireless pro controller to the Switch.
-
-In UART mode (not this guide), the Pico W will additionally support all the wired controllers as well.
+| **Mode** | **Connections** | **Controller Support** | **Setup Difficulty** |
+| --- | --- | --- | --- |
+| **USB Mode (this guide)** | 1. Pico W's USB port -> Computer | Wireless controllers only:<br>- Switch 1: Wireless Pro Controller<br>- Switch 1: Left Joycon<br>- Switch 1: Right Joycon | Very Easy |
+| [UART Mode](Controller-PicoW-UART.md) | 1. Pico W's USB port -> Switch<br>2. Pico W's pins 6/7/8 -> External UART<br>3. External UART -> Computer | Both wireless and wired:<br>- HID: Keyboard<br>- Switch 1: Wired Controller<br>- Switch 2: Wired Controller<br>- Switch 1: Wireless Pro Controller<br>- Switch 1: Left Joycon<br>- Switch 1: Right Joycon | More Difficult |
 
 <img src="../Images/ControllerSetup-PicoW-USB.jpg" height="350"> ***(insert image)***
 
