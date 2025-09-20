@@ -8,7 +8,7 @@ This is the brand new wired controller setup that is much easier to do than the 
 
 If you are setting up a wired controller setup for the first time, we recommend this option.
 
-<img src="../Images/ControllerSetup-ESP32-S3.jpg" height="350"> <img src="../Images/ControllerSetup-ESP32-S3-Setup.jpg" height="350">
+<img src="../Images/ESP32-S3/ControllerSetup-ESP32-S3.jpg" height="350"> <img src="../Images/ESP32-S3/ControllerSetup-ESP32-S3-Setup.jpg" height="350">
 
 
 Note that ESP32 and ESP32-S3 are different controllers made by the same company (Espressif).
@@ -32,7 +32,7 @@ While the ESP32-S3 supports Bluetooth, it only supports Bluetooth LE. It does no
 - **Single Setup:** $25 - $35
 - **Bulk Purchase:** ~$18 per setup
 
-<img src="../Images/ControllerSetup-ESP32-S3-Setup-Annotated.jpg" width="800">
+<img src="../Images/ESP32-S3/ControllerSetup-ESP32-S3-Setup-Annotated.jpg" width="800">
 
 **Important:** There are many variants of the ESP32 microcontroller. Only the ESP32-S3 will work. So you must get that specific model. (e.g. Don't get the ESP32-WROOM, or ESP32-S2-WROOM, or ESP32-C2, etc.)
 
@@ -56,7 +56,7 @@ The ESP32-S3 exists in two variants: 1 USB or 2 USBs. You must get a model that 
 
 We recommend getting ones without pins since you don't need them. Having the pins is a liability for accidentally shorting out and damaging the board.
 
-<img src="../Images/ControllerSetup-ESP32-S3-Board.jpg" height="300">
+<img src="../Images/ESP32-S3/ControllerSetup-ESP32-S3-Board.jpg" height="300">
 
 **USB Cables:**
 - USB-C -> USB-A: https://www.amazon.com/Charging-Durable-Station-Compatible-Samsung/dp/B08LL1SVZD
@@ -72,7 +72,7 @@ Unlike the ESP32 wireless setup, there are two USB ports. They are not interchan
 2. Connect the "USB"/"OTG" side to your Nintendo Switch.
 3. Connect the "COM"/"UART" side to your computer.
 
-<img src="../Images/ControllerSetup-ESP32-S3-Backside.jpg" height="600"><img src="../Images/ControllerSetup-ESP32-S3-Backside-2.jpg" height="600">
+<img src="../Images/ESP32-S3/ControllerSetup-ESP32-S3-Backside.jpg" height="600"><img src="../Images/ESP32-S3/ControllerSetup-ESP32-S3-Backside-2.jpg" height="600">
 
 And that's it! One extra cable compared to the ESP32 wireless setup, but still much simpler than the Arduino/Teensy setups. The "COM" port is the built-in UART that eliminates the need to manually wire up an external UART.
 
@@ -110,7 +110,7 @@ Only do this step if you do not see ESP32-S3 show up in device manager as a seri
 2. Unzip, then run `flash_download_tool_3.9.7.exe` (version number may vary)
 3. When you see the following menu, select "ESP32-S3", "Develop", and "UART". Then hit OK.
 
-<img src="../Images/ControllerSetup-ESP32-S3-Flash-0.png">
+<img src="../Images/ESP32-S3/ControllerSetup-ESP32-S3-Flash-0.png">
 
 4. You will then be prompted with this complicated window. Fill everything as follows:
    - Check the box for the first entry, at the top left.
@@ -120,13 +120,13 @@ Only do this step if you do not see ESP32-S3 show up in device manager as a seri
    - At the bottom right corner, select the COM port of your ESP32-S3.
    - Change "BAUD" to 460800.
 
-<img src="../Images/ControllerSetup-ESP32-S3-Flash-1.png">
+<img src="../Images/ESP32-S3/ControllerSetup-ESP32-S3-Flash-1.png">
 
 5. Click Start and it should flash the PABotBase firmware to your ESP32-S3.
 
 If everything worked correctly, you should see a green progress bar like this. If you see that it gets stuck printing out `...` and never makes progress, see [troubleshooting](#unable-to-flash-the-esp32-s3-stuck-on-).
 
-<img src="../Images/ControllerSetup-ESP32-S3-Flash-2.png">
+<img src="../Images/ESP32-S3/ControllerSetup-ESP32-S3-Flash-2.png">
 
 6. Reboot your ESP32-S3. You can do this either by:
    - Pressing either the `EN` or `RESET` button on the ESP32-S3.
@@ -141,7 +141,7 @@ If you don't see the device in the dropdown, you probably need to refresh it (es
 
 If everything worked correctly, it will look like this:
 
-<img src="../Images/ControllerSetup-ESP32-S3-Connected-Cropped.png">
+<img src="../Images/ESP32-S3/ControllerSetup-ESP32-S3-Connected-Cropped.png">
 
 ### Step 4: Navigate your Switch to where it will accept a new controller.
 
@@ -162,7 +162,7 @@ We recommend familiarizing yourself with the keyboard controls as this is the pr
 
 The default layout is the standard WASD setup for FPS games on the most common QWERTY keyboard layout. If you don't like it or you have a different keyboard layout, you can change the key mappings in the "Framework Settings" panel at the top of the program list to the left.
 
-<img src="../Images/ControllerSetup-ESP32-S3-Controls.png">
+<img src="../Images/ESP32-S3/ControllerSetup-ESP32-S3-Controls.png">
 
 ### Step 6: You are done!
 
