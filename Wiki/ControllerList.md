@@ -12,15 +12,21 @@ This is a full list of devices and controllers that we currently support.
 
 This table lists all the device and controller combinations that we support in this project.
 
+
 | | **Device Type** | **Supported Controllers** | **Guides** |
-| --- | --- | ------------------------------------------------------------------------ | --- |
+| --- | --- | --- | --- |
+| **Recommended Setups:** | | | |
 | <img src="SetupGuide/Images/ControllerSetup-ESP32-S3.jpg" width="200"> | ESP32-S3 | HID: Keyboard (ETA: v0.57)<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller | [Guide (Windows)](SetupGuide/Controllers/Controller-ESP32-S3.md) |
 | <img src="SetupGuide/Images/ControllerSetup-ESP32-WROOM.jpg" width="200"> | ESP32-WROOM | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | [Guide (Windows)](SetupGuide/Controllers/Controller-ESP32-WROOM.md)<br>[Guide (Mac)](SetupGuide/Controllers/Controller-ESP32-WROOM-MacOS.md) |
 | <img src="SetupGuide/Images/ControllerSetup-sbb.jpg" width="200"> | CFW: sys-botbase 2<br>CFW: sys-botbase 3 | Switch 1: Wired Pro Controller | [sys-botbase](SetupGuide/Controllers/Controller-sys-botbase.md) |
+| **Deprecated Setups:** | | | |
 | <img src="SetupGuide/Images/ControllerSetup-UnoR3.jpg" width="200"> | Arduino Uno R3 | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Arduino Uno R3](SetupGuide/Controllers/Controller-ArduinoUnoR3.md) |
 | <img src="SetupGuide/Images/ControllerSetup-Leonardo.jpg" width="200"> | Arduino Leonardo | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Arduino Leonardo](SetupGuide/Controllers/Controller-ArduinoLeonardo.md) |
 | <img src="SetupGuide/Images/ControllerSetup-ProMicro-HammerHeaders.jpg" width="200"> | Pro Micro | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Pro Micro (Mini-Grabbers)](SetupGuide/Controllers/Controller-ProMicro-MiniGrabbers.md)<br>[Pro Micro (Hammer Headers)](SetupGuide/Controllers/Controller-ProMicro-HammerHeaders.md) |
 | <img src="SetupGuide/Images/ControllerSetup-Teensy2-HammerHeaders.jpg" width="200"> | Teensy 2.0<br>Teensy++ 2.0 | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Teensy(++) 2.0 (Mini-Grabbers)](SetupGuide/Controllers/Controller-Teensy2-MiniGrabbers.md)<br>[Teensy(++) 2.0 (Hammer Headers)](SetupGuide/Controllers/Controller-Teensy2-HammerHeaders.md) |
+| **In Development:** | | | |
+| <img src="SetupGuide/Images/ControllerSetup-PicoW-USB.jpg" width="200"> | Raspberry Pi Pico W<br>(USB Mode) | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon |  |
+| <img src="SetupGuide/Images/ControllerSetup-PicoW-UART.jpg" width="200"> | Raspberry Pi Pico W<br>(UART Mode) | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller<br>Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon |  |
 
 
 ## Device Types
@@ -36,6 +42,7 @@ A "device" is a microcontroller or development board that we will use to impleme
 | <img src="Images/Devices/ProMicro.jpg" width="200"> | **Pro Micro**<br><br>Supported Controllers:<br>- Switch 2: Wired controller<br><br>The Pro Micro uses an ATmega32U4 AVR8 CPU and is functionally the same as the Arduino Leonardo and Teensy 2.0. This was added to our lineup because it was the cheapest microcontroller of this type in volume. Thus it became the work horse for many people with multiple Switches. |
 | <img src="Images/Devices/Teensy2.jpg" width="200"> | **Teensy 2.0**<br><br>Supported Controllers:<br>- Switch 2: Wired controller<br><br>The Arduino Uno R3 is one of the original boards that spearheaded the Nintendo Switch automation community.<br><br>The Teensy 2.0 uses an ATmega32U4 AVR8 CPU and is functionally the same as the Arduino Leonardo and Pro Micro. This (along with the Teensy++ 2.0) was by far the best board during the microcontroller-only automation era due to the easy-to-use button to put the board into flash mode. It began to fall out of use in the computer-control era due to the difficulty of setting up a serial connection on it. |
 | <img src="Images/Devices/TeensyPP2.jpg" width="200"> | **Teensy++ 2.0**<br><br>Supported Controllers:<br>- Switch 2: Wired controller<br><br>The Teensy++ 2.0 is the same as the Teensy 2.0, but with an upgraded AT90USB1286 CPU which has much more ram and program memory.<br><br>This extra ram and program memory was never put to use in this project. So it is functionally the same as the Teensy 2.0 along with all its advantages and drawbacks. |
+| <img src="Images/Devices/PicoW.jpg" width="200"> | **Raspberry Pi Pico W (in development)**<br><br>Supported Controllers:<br>- HID: Keyboard<br>- Switch 1: Wired Controller<br>- Switch 2: Wired Controller<br>- Switch 1: Wireless Pro Controller<br>- Switch 1: Left Joycon<br>- Switch 1: Right Joycon<br><br>The Raspberry Pi Pico W is unique in that it can support every single controller. However, accessing the wired controllers is more difficult as it requires more setup.<br><br>The large (silver) chip is a Bluetooth module that supports both BTC and BLE. This allows it to implement wireless controllers. Meanwhile, the USB port on it is USB OTG which allows it to implement the wired controllers. But unlike the ESP32-S3, it does not have a 2nd USB port to use as a UART connection to the computer. <br><br>Therefore we have programmed two operating modes for the Pico W:<br>- USB Mode<br>- UART Mode<br><br>In USB mode, the USB port acts as a serial port that can be plugged directly into the computer. This makes it functionally the same as the ESP32 with only wireless controller support.<br><br>In UART mode, the USB port becomes a wired controller plugged into the console. This unlocks all the remaining (wired) controllers. However, you need to wire up an external UART to UART1 in order for it to communicate with the computer. Thus this setup is similar to that of the Teensy 2 and Pro Micro with the added bonus of the wireless controller support.<br><br>Both operating modes use the same firmware binary. On boot, it starts in USB mode. It will automatically switch to UART mode the moment it sees valid traffic on UART1. |
 
 
 
@@ -76,6 +83,7 @@ Wired controllers are by far the most stable with a button timing accuracy of < 
 | **Device** | **Controller** |
 | --- | --- |
 | ESP32-S3 | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller |
+| Pico W<br>(UART Mode) | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller |
 | Arduino Uno R3<br>Arduino Leonardo<br>Pro Micro<br>Teensy 2.0<br>Teensy++ 2.0 | Switch 2: Wired Controller |
 | sys-botbase 3 (sbb3) | Switch 1: Wired Pro Controller |
 
@@ -89,6 +97,7 @@ The main issue with wireless is that it can only reliably connect to the Switch 
 | **Device** | **Controller** |
 | --- | --- |
 | ESP32 | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon |
+| Pico W<br>(Both Modes) | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon |
 
 
 ### sys-botbase 2:
