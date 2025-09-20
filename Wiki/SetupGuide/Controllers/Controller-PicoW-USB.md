@@ -135,7 +135,7 @@ Changing programs (or even closing the application entirely) will not disconnect
 
 If you intend to do a lot of remote access, we recommend that you use a wired setup as a wired controller can connect to the Switch from anywhere and take control. The Pico W can do this, but only in UART mode.
 
-**Connecting as Joycon:**
+**Connecting as a Joycon:**
 
 When you connect as a joycon, it will behave like a normal joycon. It doesn't immediately connect and wants you to either pair with a 2nd joycon or press SL+SR to put it into horizontal mode.
 

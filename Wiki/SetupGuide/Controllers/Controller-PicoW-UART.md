@@ -188,7 +188,7 @@ You will notice that there are 7 controller options:
 
 If you are switching to a wireless controller, you will need to be in the grip menu for the connection to be successful. If not, you can just switch back to a wired controller to navigate there. This is the biggest advantage that the Pico W (UART mode) has over the ESP32!
 
-**Connecting as Joycon:**
+**Connecting as a Joycon:**
 
 When you connect as a joycon, it will behave like a normal joycon. It doesn't immediately connect and wants you to either pair with a 2nd joycon or press SL+SR to put it into horizontal mode.
 
