@@ -53,17 +53,17 @@ There are many options here. The one we recommend (for ease of use) is the Adafr
   - https://www.digikey.com/en/products/detail/adafruit-industries-llc/954/7064488
   - https://www.amazon.com/dp/B00DJUHGHI/
 
-<img src="../Images/ControllerSetup-UART-Adafruit.jpg" height="200">
+<img src="../Images/UART/ControllerSetup-UART-Adafruit.jpg" height="200">
 
 Or you can search for "CP2102" and you'll get tons of hits from various brands/sellers that look like these:
 
-<img src="../Images/ControllerSetup-UART-CP210x-Blue.png" height="150"> <img src="../Images/ControllerSetup-UART-CP210x-Red.jpg" height="150">
+<img src="../Images/UART/ControllerSetup-UART-CP210x-Blue.png" height="150"> <img src="../Images/UART/ControllerSetup-UART-CP210x-Red.jpg" height="150">
 
 **Important:**
 
 **DO NOT get cables with the Prolific controllers. e.g. PL2303 or any other model number.** They are cheap, do not work, and they are explicitly blocked in the program. **They often look deceptively similar to the Adafruit UART, but they are not the same.** If you buy outside of this link, verify it does not use PL controllers. If you buy it anyway, you will be wasting your time and money. **YOU HAVE BEEN WARNED!**
 
-<img src="../Images/ControllerSetup-UART-NoProlific.png" height="500">
+<img src="../Images/UART/ControllerSetup-UART-NoProlific.png" height="500">
 
 
 **Male-Male Jumper Wires:**
@@ -73,7 +73,7 @@ Or you can search for "CP2102" and you'll get tons of hits from various brands/s
 If purchasing the items from this list, you will need Male to Male Jumper wires.
 **WARNING:** If you do ***not*** buy Hardware from this list, you will need to evaluate what you purchased for the correct type of Jumper Wire. e.g. Female-Male jumper wires may be needed instead.
 
-<img src="../Images/ControllerSetup-UART-JumperCables.jpg" height="200">
+<img src="../Images/UART/ControllerSetup-UART-JumperCables.jpg" height="200">
 
 
 ### Hardware Assembly:

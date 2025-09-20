@@ -40,18 +40,18 @@ There are many options here. The one we recommend (for ease of use) is the Adafr
   - https://www.digikey.com/en/products/detail/adafruit-industries-llc/954/7064488
   - https://www.amazon.com/dp/B00DJUHGHI/
 
-<img src="../Images/ControllerSetup-UART-Adafruit.jpg" height="200">
+<img src="../Images/UART/ControllerSetup-UART-Adafruit.jpg" height="200">
 
 Or you can search for "CP2102" and you'll get tons of hits from various brands/sellers that look like these:
 
-<img src="../Images/ControllerSetup-UART-CP210x-Blue.png" height="150"> <img src="../Images/ControllerSetup-UART-CP210x-Red.jpg" height="150">
+<img src="../Images/UART/ControllerSetup-UART-CP210x-Blue.png" height="150"> <img src="../Images/UART/ControllerSetup-UART-CP210x-Red.jpg" height="150">
 
 **Solderless Hammer Headers**
 - https://www.adafruit.com/product/3662
 
 These "hammer headers" have a bulge on the short side which enables it to attach to pin holes without the use of solder.
 
-<img src="../Images/ControllerSetup-UART-HammerHeaders.jpg" height="200">
+<img src="../Images/UART/ControllerSetup-UART-HammerHeaders.jpg" height="200">
 
 
 ### Hardware Assembly:

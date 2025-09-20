@@ -38,18 +38,18 @@ There are many options here. The one we recommend (for ease of use) is the Adafr
   - https://www.digikey.com/en/products/detail/adafruit-industries-llc/954/7064488
   - https://www.amazon.com/dp/B00DJUHGHI/
 
-<img src="../Images/ControllerSetup-UART-Adafruit.jpg" height="200">
+<img src="../Images/UART/ControllerSetup-UART-Adafruit.jpg" height="200">
 
 Or you can search for "CP2102" and you'll get tons of hits from various brands/sellers that look like these:
 
-<img src="../Images/ControllerSetup-UART-CP210x-Blue.png" height="150"> <img src="../Images/ControllerSetup-UART-CP210x-Red.jpg" height="150">
+<img src="../Images/UART/ControllerSetup-UART-CP210x-Blue.png" height="150"> <img src="../Images/UART/ControllerSetup-UART-CP210x-Red.jpg" height="150">
 
 **Mini-Grabbers to Male Jumper Wires**
 - https://www.amazon.com/gp/product/B08M5GNY47
 
 If you choose a different UART make sure that the wire-end of the mini-grabber can plug into the UART. So if you picked the red CP2102 UART, you will want the female mini-grabber.
 
-<img src="../Images/ControllerSetup-UART-MiniGrabber.jpg" height="350">
+<img src="../Images/UART/ControllerSetup-UART-MiniGrabber.jpg" height="350">
 
 
 ### Hardware Assembly:
