@@ -86,6 +86,7 @@ If not, you should go back to the [general setup guide](../README.md) and start 
 4. Go to "This PC" and look for a storage device named, "RPI-RP2".
 5. Drag and drop the file `PABotBase-PicoW-2025091300.uf2` file into that storage device. (version number may vary) Once the copy is done, the device will disappear.
 
+<img src="../Images/ControllerSetup-PicoW-Flash1.png">
 
 ### Step 2: Navigate to the Grip Menu
 
