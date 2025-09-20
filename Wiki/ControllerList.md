@@ -25,8 +25,8 @@ This table lists all the device and controller combinations that we support in t
 | <img src="SetupGuide/Images/ControllerSetup-ProMicro-HammerHeaders.jpg" width="200"> | Pro Micro | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Pro Micro (Mini-Grabbers)](SetupGuide/Controllers/Controller-ProMicro-MiniGrabbers.md)<br>[Pro Micro (Hammer Headers)](SetupGuide/Controllers/Controller-ProMicro-HammerHeaders.md) |
 | <img src="SetupGuide/Images/ControllerSetup-Teensy2-HammerHeaders.jpg" width="200"> | Teensy 2.0<br>Teensy++ 2.0 | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Teensy(++) 2.0 (Mini-Grabbers)](SetupGuide/Controllers/Controller-Teensy2-MiniGrabbers.md)<br>[Teensy(++) 2.0 (Hammer Headers)](SetupGuide/Controllers/Controller-Teensy2-HammerHeaders.md) |
 | **In Development:** | | | |
-| <img src="SetupGuide/Images/ControllerSetup-PicoW-USB.jpg" width="200"> | Raspberry Pi Pico W<br>(USB Mode) | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon |  |
-| <img src="SetupGuide/Images/ControllerSetup-PicoW-UART.jpg" width="200"> | Raspberry Pi Pico W<br>(UART Mode) | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller<br>Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon |  |
+| <img src="SetupGuide/Images/ControllerSetup-PicoW-USB.jpg" width="200"> | Raspberry Pi Pico W<br>(USB Mode) | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | [Pico W (USB Mode)](SetupGuide/Controllers/Controller-PicoW-USB.md) |
+| <img src="SetupGuide/Images/ControllerSetup-PicoW-UART.jpg" width="200"> | Raspberry Pi Pico W<br>(UART Mode) | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller<br>Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | [Pico W (UART Mode)](SetupGuide/Controllers/Controller-PicoW-UART.md) |
 
 
 ## Device Types
@@ -82,8 +82,7 @@ Wired controllers are by far the most stable with a button timing accuracy of < 
 
 | **Device** | **Controller** |
 | --- | --- |
-| ESP32-S3 | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller |
-| Pico W<br>(UART Mode) | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller |
+| ESP32-S3<br>Pico W (UART mode) | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller |
 | Arduino Uno R3<br>Arduino Leonardo<br>Pro Micro<br>Teensy 2.0<br>Teensy++ 2.0 | Switch 2: Wired Controller |
 | sys-botbase 3 (sbb3) | Switch 1: Wired Pro Controller |
 
@@ -96,8 +95,7 @@ The main issue with wireless is that it can only reliably connect to the Switch 
 
 | **Device** | **Controller** |
 | --- | --- |
-| ESP32 | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon |
-| Pico W<br>(Both Modes) | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon |
+| ESP32<br>Pico W (both modes) | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon |
 
 
 ### sys-botbase 2:
