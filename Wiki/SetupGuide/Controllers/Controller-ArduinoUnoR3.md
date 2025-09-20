@@ -6,7 +6,7 @@ This version of the wired controller setup uses the Arduino Leonardo. The hardwa
 
 The Arduino Uno R3 is the legacy setup that we support only because we (barely*) still can. If you already one, then use this guide. If not, go buy an [Arduino Leonardo](Controller-ArduinoLeonardo.md) instead.
 
-<img src="../Images/ControllerSetup-UnoR3.jpg" height="350"> <img src="../Images/ControllerSetup-Leonardo-Setup.jpg" height="350">
+<img src="../Images/ArduinoUnoR3/ControllerSetup-UnoR3.jpg" height="350"> <img src="../Images/ControllerSetup-Leonardo-Setup.jpg" height="350">
 
 *The problem with the Uno R3 is that the ATmega16U2 USB chip has so little memory that is has caused us numerous problems in the past. While we have mostly mitigated these issues, we cannot guarantee that they will return in the future.
 
@@ -85,7 +85,7 @@ Make the following connections:
 
 > **If you did **not** buy the Adafruit UART, your wire colors will be different!** Refer to your UART's manual or board for the correct pins. Often, with CP210x modules, the pin type is written on the board itself. Also, note that the color of the jumper wires do not matter.
 
-<img src="../Images/ControllerSetup-UnoR3-Wiring-0.jpg" height="300"> <img src="../Images/ControllerSetup-UnoR3-Wiring-1.jpg" height="300">
+<img src="../Images/ArduinoUnoR3/ControllerSetup-UnoR3-Wiring-0.jpg" height="300"> <img src="../Images/ArduinoUnoR3/ControllerSetup-UnoR3-Wiring-1.jpg" height="300">
 
 
 **Step 2: Download and install FLIP**
@@ -102,18 +102,18 @@ The root folder of the SerialPrograms package should have a set of .hex files fo
 2. `Device` -> `Select`. Select `ATmega16U2` and click OK.
 3. `File` -> `Load HEX File...`. Open the .hex named `NintendoSwitch-PABotBase-xxxxxxxxx-ArduinoUnoR3.hex`.
 
-<img src="../Images/ControllerSetup-UnoR3-FLIP-0.png" height="400">
+<img src="../Images/ArduinoUnoR3/ControllerSetup-UnoR3-FLIP-0.png" height="400">
 
 4. Plug the Arduino into your computer.
 5. Short the following two pins with a conductive object, then release it. Your computer should play the unplug/plug sound.
 
-<img src="../Images/ControllerSetup-UnoR3-ResetPins-0.jpg" height="200"> <img src="../Images/ControllerSetup-UnoR3-ResetPins-1.jpg" height="200">
+<img src="../Images/ArduinoUnoR3/ControllerSetup-UnoR3-ResetPins-0.jpg" height="200"> <img src="../Images/ArduinoUnoR3/ControllerSetup-UnoR3-ResetPins-1.jpg" height="200">
 
 6. Click on the USB icon. Select `USB` and click `Open`.
 
 If everything worked correctly, it should look like this:
 
-<img src="../Images/ControllerSetup-UnoR3-FLIP-1.png" height="400">
+<img src="../Images/ArduinoUnoR3/ControllerSetup-UnoR3-FLIP-1.png" height="400">
 
 If you get an error, then it usually means one of the following:
 1. The ATmega16u2 driver hasn't been correctly installed.
@@ -130,7 +130,7 @@ We won't go into too much detail on how to debug things at this point. This is o
 
 7. Click Run.
 
-<img src="../Images/ControllerSetup-UnoR3-FLIP-2.png" height="400">
+<img src="../Images/ArduinoUnoR3/ControllerSetup-UnoR3-FLIP-2.png" height="400">
 
 If you see no errors, the you have successfully flashed the program to your Arduino!
 
