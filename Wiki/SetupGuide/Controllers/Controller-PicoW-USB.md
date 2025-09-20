@@ -163,7 +163,7 @@ If you have multiple of them, spread them out to reduce wireless interference.
 
 As tempting as it may be, do not do this:
 
-<img src="../Images/ControllerSetup-ESP32-WROOM-WirelessInterference-0.jpg" width="450"> <img src="../Images/ControllerSetup-ESP32-WROOM-WirelessInterference-1.jpg" width="450">
+<img src="../Images/ESP32/ControllerSetup-ESP32-WROOM-WirelessInterference-0.jpg" width="450"> <img src="../Images/ESP32/ControllerSetup-ESP32-WROOM-WirelessInterference-1.jpg" width="450">
 
 It is as cute as it is stupid, and it will give you problems. We tried it so you don't have to!
 

@@ -31,7 +31,7 @@ If you came here intending to run [AutoMaxLair](https://github.com/PokemonAutoma
 
 The next level game console automation using computer control, machine learning, and artificial intelligence.
 
-<img src="Wiki/SetupGuide/Images/ControllerSetup-ESP32-WROOM-Setup.jpg" width="800">
+<img src="Wiki/SetupGuide/Images/ESP32/ControllerSetup-ESP32-WROOM-Setup.jpg" width="800">
 <img src="Wiki/Programs/PokemonSwSh/images/ShinyHuntAutonomous-Overworld-1.jpg" width="800">
 <img src="Wiki/Programs/PokemonSwSh/images/MaxLair-0.png" width="800">
 

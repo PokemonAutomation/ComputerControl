@@ -59,7 +59,7 @@ We recommend getting ones without pins since you don't need them (though they ar
 
 Most likely you will end up buying a pack of at least 2 or 3 since they don't get any cheaper in single quantity. This is great if you want to automate multiple Switches.
 
-<img src="../Images/ControllerSetup-ESP32-WROOM-Board.jpg" height="300"> <img src="../Images/ControllerSetup-ESP32-WROOM-Board-2.jpg" height="300"> <img src="../Images/ControllerSetup-ESP32-WROOM-Board-Mini.jpg" height="250"> 
+<img src="../Images/ESP32/ControllerSetup-ESP32-WROOM-Board.jpg" height="300"> <img src="../Images/ESP32/ControllerSetup-ESP32-WROOM-Board-2.jpg" height="300"> <img src="../Images/ESP32/ControllerSetup-ESP32-WROOM-Board-Mini.jpg" height="250"> 
 
 **A micro-USB or USB-C to USB-A cable:**
 - Micro-USB -> USB-A Cable: https://www.amazon.com/Android-Compatible-Smartphones-Charging-Stations/dp/B095JZSHXQ
@@ -271,7 +271,7 @@ If you have multiple ESP32s, spread them out to reduce wireless interference.
 
 As tempting as it may be, do not do this:
 
-<img src="../Images/ControllerSetup-ESP32-WROOM-WirelessInterference-0.jpg" width="450"> <img src="../Images/ControllerSetup-ESP32-WROOM-WirelessInterference-1.jpg" width="450">
+<img src="../Images/ESP32/ControllerSetup-ESP32-WROOM-WirelessInterference-0.jpg" width="450"> <img src="../Images/ESP32/ControllerSetup-ESP32-WROOM-WirelessInterference-1.jpg" width="450">
 
 It is as cute as it is stupid, and it will give you problems. We tried it so you don't have to!
 
