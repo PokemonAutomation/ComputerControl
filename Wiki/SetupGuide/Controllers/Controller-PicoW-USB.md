@@ -8,7 +8,7 @@ The Raspberry Pi Pico W is different from the other boards in that it has two op
 | **USB Mode (this guide)** | 1. Pico W's USB port -> Computer | Wireless controllers only:<br>- Switch 1: Wireless Pro Controller<br>- Switch 1: Left Joycon<br>- Switch 1: Right Joycon | Very Easy |
 | [UART Mode](Controller-PicoW-UART.md) | 1. Pico W's USB port -> Switch<br>2. Pico W's pins 6/7/8 -> External UART<br>3. External UART -> Computer | Both wireless and wired:<br>- HID: Keyboard<br>- Switch 1: Wired Controller<br>- Switch 2: Wired Controller<br>- Switch 1: Wireless Pro Controller<br>- Switch 1: Left Joycon<br>- Switch 1: Right Joycon | More Difficult |
 
-<img src="../Images/ControllerSetup-PicoW-USB.jpg" height="350"> ***(insert image)***
+<img src="../Images/PicoW/ControllerSetup-PicoW-USB.jpg" height="350"> <img src="../Images/PicoW/ControllerSetup-PicoW-USB-Setup-Small.jpg" height="350">
 
 ## Hardware Setup:
 
@@ -25,7 +25,7 @@ The Raspberry Pi Pico W is different from the other boards in that it has two op
 - **Single Setup:** $30 - $40
 - **Bulk Purchase:** ~$18 per setup
 
-***(insert image)***
+<img src="../Images/PicoW/ControllerSetup-PicoW-USB-SetupCloseup-Annotated-Small.jpg" width="800">
 
 
 ### Recommended Purchase Links:
@@ -79,7 +79,7 @@ If not, you should go back to the [general setup guide](../README.md) and start 
 4. Go to "This PC" and look for a storage device named, "RPI-RP2".
 5. Drag and drop the file `PABotBase-PicoW-2025091300.uf2` file into that storage device. (version number may vary) Once the copy is done, the device will disappear.
 
-<img src="../Images/ControllerSetup-PicoW-Flash1.png">
+<img src="../Images/PicoW/ControllerSetup-PicoW-Flash1.png">
 
 ### Step 2: Navigate to the Grip Menu
 
@@ -98,7 +98,7 @@ If you don't see the device in the dropdown, you probably need to refresh it (es
 
 If everything worked correctly, it will look like this:
 
-<img src="../Images/ControllerSetup-PicoW-USB-Connected-Cropped.png">
+<img src="../Images/PicoW/ControllerSetup-PicoW-USB-Connected-Cropped.png">
 
 ### Step 4: Connect the Pico W to the Switch
 
@@ -108,7 +108,7 @@ After a few seconds, you should see a controller pop-up in the Grip menu on the 
 
 The controller colors are randomized and should match the color icons in the status indicator. This helps to distinguish controllers if you have multiple of them. You can change the colors in the `Nintendo Switch -> Framework Settings` menu.
 
-<img src="../Images/ControllerSetup-PicoW-USB-Ready-Annotated.png">
+<img src="../Images/PicoW/ControllerSetup-PicoW-USB-Ready-Annotated.png">
 
 
 ### Step 5: Test the connection
@@ -119,7 +119,7 @@ We recommend familiarizing yourself with the keyboard controls as this is the pr
 
 Overall, the idea here is that you can play your Switch from your computer. While it's not as nice as using a native controller, it is good enough to easily setup programs - especially if you're doing this remotely where you do not have physical access to the Switch.
 
-<img src="../Images/ControllerSetup-PicoW-USB-Controls.png">
+<img src="../Images/PicoW/ControllerSetup-PicoW-USB-Controls.png">
 
 **Controller Types:**
 

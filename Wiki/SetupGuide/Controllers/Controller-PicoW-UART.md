@@ -14,7 +14,7 @@ In UART mode, the line of communication between the Pico W and the computer is m
 
 This is the most versatile setup as it supports every single controller in our repertoire, both wired and wireless. 
 
-<img src="../Images/ControllerSetup-PicoW-UART.jpg" height="350"> ***(insert image)***
+<img src="../Images/PicoW/ControllerSetup-PicoW-UART.jpg" height="350"> <img src="../Images/PicoW/ControllerSetup-PicoW-UART-Setup-Small.jpg" height="350">
 
 ## Hardware Setup:
 
@@ -32,7 +32,7 @@ This is the most versatile setup as it supports every single controller in our r
 - **Single Setup:** $40 - $50
 - **Bulk Purchase:** ~$20 per setup
 
-***(insert image)***
+<img src="../Images/PicoW/ControllerSetup-PicoW-UART-SetupCloseup-Annotated-Small.jpg" height="600">
 
 
 ### Recommended Purchase Links:
@@ -86,7 +86,7 @@ Make the following connections:
 
 > **If you did **not** buy the Adafruit UART, your wire colors will be different!** Refer to your UART's manual or board for the correct pins. Often, with CP210x modules, the pin type is written on the board itself. Also, note that the color of the jumper wires do not matter.
 
-<img src="../Images/ControllerSetup-PicoW-UART-Wiring-0.jpg">
+<img src="../Images/PicoW/ControllerSetup-PicoW-UART-Wiring-0.jpg">
 
 
 ## Software Setup
@@ -107,7 +107,7 @@ If not, you should go back to the [general setup guide](../README.md) and start 
 4. Go to "This PC" and look for a storage device named, "RPI-RP2".
 5. Drag and drop the file `PABotBase-PicoW-2025091300.uf2` file into that storage device. (version number may vary) Once the copy is done, the device will disappear.
 
-<img src="../Images/ControllerSetup-PicoW-Flash1.png">
+<img src="../Images/PicoW/ControllerSetup-PicoW-Flash1.png">
 
 6. Unplug the Pico W's USB from your computer. Then plug it into your Switch.
 7. Plug the UART into your computer.
@@ -136,7 +136,7 @@ If you don't see the device in the dropdown, you probably need to refresh it (es
 
 If everything worked correctly, it will look like this:
 
-<img src="../Images/ControllerSetup-PicoW-UART-Connected-Cropped.png">
+<img src="../Images/PicoW/ControllerSetup-PicoW-UART-Connected-Cropped.png">
 
 If you see it stuck on `Connecting...`, try swapping the TX and RX lines between the Pico W and the UART. These are very commonly wrong!
 
@@ -148,7 +148,7 @@ After a few seconds, you should see a controller pop-up in the Grip menu on the 
 
 The controller colors are randomized and should match the color icons in the status indicator. This helps to distinguish controllers if you have multiple of them. You can change the colors in the `Nintendo Switch -> Framework Settings` menu.
 
-<img src="../Images/ControllerSetup-PicoW-UART-Wireless-Ready-Annotated.png">
+<img src="../Images/PicoW/ControllerSetup-PicoW-UART-Wireless-Ready-Annotated.png">
 
 ### Step 6: Connect the Pico W to the Switch as a Wired Controller
 
@@ -158,7 +158,7 @@ Now lets try a wired connection:
 
 You should now see a black controller show up.
 
-<img src="../Images/ControllerSetup-PicoW-UART-Wired-Ready.png">
+<img src="../Images/PicoW/ControllerSetup-PicoW-UART-Wired-Ready.png">
 
 Even though we used the grip menu here, wired controllers will connect from almost anywhere.
 
@@ -171,7 +171,7 @@ We recommend familiarizing yourself with the keyboard controls as this is the pr
 
 Overall, the idea here is that you can play your Switch from your computer. While it's not as nice as using a native controller, it is good enough to easily setup programs - especially if you're doing this remotely where you do not have physical access to the Switch.
 
-<img src="../Images/ControllerSetup-PicoW-UART-Controls.png">
+<img src="../Images/PicoW/ControllerSetup-PicoW-UART-Controls.png">
 
 **Controller Types:**
 
