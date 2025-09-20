@@ -6,7 +6,7 @@ This version of the wired controller setup uses the Arduino Leonardo. The hardwa
 
 The Arduino Uno R3 is the legacy setup that we support only because we (barely*) still can. If you already one, then use this guide. If not, go buy an [Arduino Leonardo](Controller-ArduinoLeonardo.md) instead.
 
-<img src="../Images/ArduinoUnoR3/ControllerSetup-UnoR3.jpg" height="350"> <img src="../Images/ControllerSetup-Leonardo-Setup.jpg" height="350">
+<img src="../Images/ArduinoUnoR3/ControllerSetup-UnoR3.jpg" height="350"> <img src="../Images/ArduinoLeonardo/ControllerSetup-Leonardo-Setup.jpg" height="350">
 
 *The problem with the Uno R3 is that the ATmega16U2 USB chip has so little memory that is has caused us numerous problems in the past. While we have mostly mitigated these issues, we cannot guarantee that they will return in the future.
 
@@ -144,7 +144,7 @@ If you see no errors, the you have successfully flashed the program to your Ardu
 
 At this point, your final setup should look like this: (but with an Uno R3 instead of a Leonardo)
 
-<img src="../Images/ControllerSetup-Leonardo-Setup.jpg">
+<img src="../Images/ArduinoLeonardo/ControllerSetup-Leonardo-Setup.jpg">
 
 
 
