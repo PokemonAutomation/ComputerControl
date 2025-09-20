@@ -100,7 +100,7 @@ If everything worked correctly, it will look like this:
 
 <img src="../Images/ControllerSetup-PicoW-USB-Connected-Cropped.png">
 
-### Step 4: Connect the ESP32 to the Switch
+### Step 4: Connect the Pico W to the Switch
 
 In the 3rd dropdown, choose "NS1: Wireless Pro Controller".
 
