@@ -36,16 +36,16 @@ The Raspberry Pi Pico W is different from the other boards in that it has two op
 
 | **Quantity** | **Price / Unit** | **Shopping Link** |
 | --- | --- | --- |
-| 1 (no pins) | $12 / unit | [https://www.amazon.com/gp/product/B0FJFLM9DW](https://www.amazon.com/gp/product/B0FJFLM9DW) |
-| 2 (no pins) | $10 / unit | [https://www.amazon.com/gp/product/B0B72GV3K3/](https://www.amazon.com/gp/product/B0B72GV3K3/) |
 | 1 (with pins) | $12 / unit | [https://www.amazon.com/gp/product/B0BHM95WCM](https://www.amazon.com/gp/product/B0BHM95WCM) |
 | 2 (with pins) | $11 / unit | [https://www.amazon.com/gp/product/B0BHM7TH1C](https://www.amazon.com/gp/product/B0BHM7TH1C) |
-| 1 (no pins) | $6 / unit | [Micro Center](https://www.microcenter.com/product/650108/raspberry-pi-pico-w) |
+| 1 (no pins) | $12 / unit | [https://www.amazon.com/gp/product/B0FJFLM9DW](https://www.amazon.com/gp/product/B0FJFLM9DW) |
+| 2 (no pins) | $10 / unit | [https://www.amazon.com/gp/product/B0B72GV3K3/](https://www.amazon.com/gp/product/B0B72GV3K3/) |
 | 1 (with pins) | $7 / unit | [Micro Center](https://www.microcenter.com/product/650109/raspberry-pi-pico-wh-pico-wireless-with-headers-soldered) |
+| 1 (no pins) | $6 / unit | [Micro Center](https://www.microcenter.com/product/650108/raspberry-pi-pico-w) |
 
 You must get either a Pico W or Pico WH. The Pico 2 W/WH is not compatible! The Pico and Pico H do not work because they have no wireless module.
 
-Normally we advise against getting boards with pins since they get in the way. But the Pico W is different because the pins make it much easier to setup UART mode. We recommend reading the Pico W (UART) mode guide to help you decide.
+Unlike other controllers, we recommend the ones with pins for the sole reason that the pins make it much easier to do [UART Mode](Controller-PicoW-UART.md) in the future. We only recommend the pinless boards if you never intend to do UART mode, or if you are experienced with soldering or have another way to connect to the holes.
 
 **A micro-USB  cable:**
 - Micro-USB -> USB-A Cable: https://www.amazon.com/Android-Compatible-Smartphones-Charging-Stations/dp/B095JZSHXQ
