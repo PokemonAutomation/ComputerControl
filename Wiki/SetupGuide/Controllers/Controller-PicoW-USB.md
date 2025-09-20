@@ -43,11 +43,7 @@ The Raspberry Pi Pico W is different from the other boards in that it has two op
 | 1 (no pins) | $6 / unit | [Micro Center](https://www.microcenter.com/product/650108/raspberry-pi-pico-w) |
 | 1 (with pins) | $7 / unit | [Micro Center](https://www.microcenter.com/product/650109/raspberry-pi-pico-wh-pico-wireless-with-headers-soldered) |
 
-**Important:**
-
-You must get either a Pico W or Pico WH. The Pico 2 W/WH is not compatible! The Pico and Pico H does not work because it has no wireless module.
-
-**Pins vs. No Pins:**
+You must get either a Pico W or Pico WH. The Pico 2 W/WH is not compatible! The Pico and Pico H do not work because they have no wireless module.
 
 Normally we advise against getting boards with pins since they get in the way. But the Pico W is different because the pins make it much easier to setup UART mode. We recommend reading the Pico W (UART) mode guide to help you decide.
 
