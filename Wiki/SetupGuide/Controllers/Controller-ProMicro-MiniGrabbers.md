@@ -6,7 +6,7 @@ The Pro Micro is the recommended microcontroller to use for experimenced users. 
 
 This tutorial will use mini-grabber cables to connect the UART to the Pro Micro. While it is ugly and bulky, it is the easiest option for users who prefer not to do any soldering.
 
-<img src="../Images/ControllerSetup-ProMicro-MiniGrabbers.jpg" height="350"> <img src="../Images/ControllerSetup-Teensy-Setup.jpg" height="350">
+<img src="../Images/ProMicro/ControllerSetup-ProMicro-MiniGrabbers.jpg" height="350"> <img src="../Images/ControllerSetup-Teensy-Setup.jpg" height="350">
 
 ## Hardware Setup:
 
@@ -71,7 +71,7 @@ Make the following connections:
 
 Note that the mini grabber clips may not fit through the holes on the Pro Micro. This is fine.
 
-<img src="../Images/ControllerSetup-ProMicro-MiniGrabbers-0.jpg" height="350"> <img src="../Images/ControllerSetup-ProMicro-MiniGrabbers-1.jpg" height="350">
+<img src="../Images/ProMicro/ControllerSetup-ProMicro-MiniGrabbers-0.jpg" height="350"> <img src="../Images/ProMicro/ControllerSetup-ProMicro-MiniGrabbers-1.jpg" height="350">
 
 **Step 2: Download QMK Toolbox**
 
@@ -92,17 +92,17 @@ The root folder of the SerialPrograms package should have a set of .hex files fo
 3. Change the MCU to `atmega32u4`.
 4. Check the "Auto-Flash" box.
 
-<img src="../Images/ControllerSetup-ProMicro-Flash-0.png" height="600">
+<img src="../Images/ProMicro/ControllerSetup-ProMicro-Flash-0.png" height="600">
 
 5. Plug the Pro Micro into your computer.
 6. Short the RST and GND pins.
 
-<img src="../Images/ControllerSetup-ProMicro-Flash-1.jpg" height="400">
+<img src="../Images/ProMicro/ControllerSetup-ProMicro-Flash-1.jpg" height="400">
 
 The QMK program will now flash the program to the Pro Micro and show a bunch of logging.
 Afterwards, the 2 LEDs on the Pro Micro should flash in unison for 5 seconds before turning off.
 
-<img src="../Images/ControllerSetup-ProMicro-Flash-2.png" height="600">
+<img src="../Images/ProMicro/ControllerSetup-ProMicro-Flash-2.png" height="600">
 
 7. Unplug the Leonardo from your computer.
 
