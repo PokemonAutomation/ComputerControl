@@ -111,7 +111,7 @@ The controller colors are randomized and should match the color icons in the sta
 <img src="../Images/ControllerSetup-PicoW-USB-Ready-Annotated.png">
 
 
-### Step 6: Test the connection
+### Step 5: Test the connection
 
 You can control your Switch from the keyboard. Click on the video display to activate the keyboard controls. Then try pressing some buttons. You can view the keyboard -> controller mapping by clicking on the "keyboard layout" at the bottom left corner of the program.
 
@@ -145,7 +145,7 @@ To enter horizontal mode, you can press SL+SR on the keyboard controls by pressi
 
 *You cannot easily pair two Pico W joycons anyway since you need to press L+R on them simultaneously and the keyboard controls don't allow you simultaneously press buttons on different controllers. However, you can easily pair a Pico W joycon with a real joycon.
 
-### Step 7: You are done!
+### Step 6: You are done!
 
 If keyboard commands are working (along with video and audio), you are done!
 
