@@ -24,11 +24,11 @@ If you don't see the device in the dropdown, you probably need to refresh it (es
 
 If everything worked correctly, it will look like this:
 
-<img src="../Images/ControllerSetup-AVR8-Connected-Labeled.png">
+<img src="../Images/AVR8/ControllerSetup-AVR8-Connected-Labeled.png">
 
 If you see the following instead, then you actually connected to our wireless controller setup instead (ESP32-WROOM). (We love your enthusiasm for having both setups!)
 
-<img src="../Images/ControllerSetup-AVR8-ESP32.png">
+<img src="../Images/AVR8/ControllerSetup-AVR8-ESP32.png">
 
 Both the wired and wireless setups use serial ports. The program can distinguish them when it connects to it.
 
@@ -53,7 +53,7 @@ We recommend familiarizing yourself with the keyboard controls as this is the pr
 
 The default layout is the standard WASD setup for FPS games on the most common QWERTY keyboard layout. If you don't like it or you have a different keyboard layout, you can change the key mappings in the "Framework Settings" panel at the top of the program list to the left.
 
-<img src="../Images/ControllerSetup-AVR8-Controls.png">
+<img src="../Images/AVR8/ControllerSetup-AVR8-Controls.png">
 
 ### Step 5: You are done!
 
@@ -97,11 +97,11 @@ Step 2: Plug the UART side into the computer and select it in the dropdown.
 
 **Correct output window:** 
 
-<img src="../Images/ControllerSetup-AVR8-OutputWindow-Corrrect.png">
+<img src="../Images/AVR8/ControllerSetup-AVR8-OutputWindow-Corrrect.png">
 
 **Incorrect output window:** 
 
-<img src="../Images/ControllerSetup-AVR8-OutputWindow-Incorrrect.png">
+<img src="../Images/AVR8/ControllerSetup-AVR8-OutputWindow-Incorrrect.png">
 
 
 <hr>
