@@ -45,7 +45,7 @@ The Raspberry Pi Pico W is different from the other boards in that it has two op
 
 You must get either a Pico W or Pico WH. The Pico 2 W/WH is not compatible! The Pico and Pico H do not work because they have no wireless module.
 
-Unlike other controllers, we recommend the ones with pins for the sole reason that the pins make it much easier to do [UART Mode](Controller-PicoW-UART.md) in the future. We only recommend the pinless boards if you never intend to do UART mode, or if you are experienced with soldering or have another way to connect to the holes.
+Unlike other controllers, we ***strongly*** recommend the ones with pins for the sole reason that it becomes much easier to do [UART Mode](Controller-PicoW-UART.md) in the future. We only recommend the pinless boards if you either never intend to do UART mode, or if you have another way to connect to the holes (such as soldering, mini-grabbers, hammer headers, etc...)
 
 **A micro-USB  cable:**
 - Micro-USB -> USB-A Cable: https://www.amazon.com/Android-Compatible-Smartphones-Charging-Stations/dp/B095JZSHXQ
