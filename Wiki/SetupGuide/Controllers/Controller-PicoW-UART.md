@@ -171,7 +171,7 @@ We recommend familiarizing yourself with the keyboard controls as this is the pr
 
 Overall, the idea here is that you can play your Switch from your computer. While it's not as nice as using a native controller, it is good enough to easily setup programs - especially if you're doing this remotely where you do not have physical access to the Switch.
 
-***(insert image)***
+<img src="../Images/ControllerSetup-PicoW-UART-Controls.png">
 
 **Controller Types:**
 
