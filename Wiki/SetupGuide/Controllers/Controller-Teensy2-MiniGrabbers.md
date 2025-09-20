@@ -6,7 +6,7 @@ The Teensy 2.0 or Teensy++ 2.0 have been discontinued by the manufacturer. So we
 
 This tutorial will use mini-grabber cables to connect the UART to the Teensy. While it is ugly and bulky, it is the easiest option for Teensy users who prefer not to do any soldering.
 
-<img src="../Images/ControllerSetup-Teensy2-MiniGrabbers.jpg" height="350"> <img src="../Images/ControllerSetup-Teensy-Setup.jpg" height="350">
+<img src="../Images/Teensy2/ControllerSetup-Teensy2-MiniGrabbers.jpg" height="350"> <img src="../Images/ControllerSetup-Teensy-Setup.jpg" height="350">
 
 ## Hardware Setup:
 
@@ -70,11 +70,11 @@ Note that the mini grabber clips may not fit through the holes on the Teensy 2.0
 
 **Teensy 2.0:** (click on images to enlarge)
 
-<img src="../Images/ControllerSetup-Teensy2-MiniGrabbers-0.jpg" height="350"> <img src="../Images/ControllerSetup-Teensy2-MiniGrabbers-1.jpg" height="350">
+<img src="../Images/Teensy2/ControllerSetup-Teensy2-MiniGrabbers-0.jpg" height="350"> <img src="../Images/Teensy2/ControllerSetup-Teensy2-MiniGrabbers-1.jpg" height="350">
 
 **Teensy++ 2.0:** (click on images to enlarge)
 
-<img src="../Images/ControllerSetup-Teensypp2-MiniGrabbers-0.jpg" height="350"> <img src="../Images/ControllerSetup-Teensypp2-MiniGrabbers-1.jpg" height="350">
+<img src="../Images/Teensy2/ControllerSetup-Teensypp2-MiniGrabbers-0.jpg" height="350"> <img src="../Images/Teensy2/ControllerSetup-Teensypp2-MiniGrabbers-1.jpg" height="350">
 
 
 **Step 2: Download and install Teensy Loader**
@@ -92,18 +92,18 @@ The root folder of the SerialPrograms package should have a set of .hex files fo
 1. Run the Teensy Loader program that you downloaded earlier.
 2. Click the purple file icon and browse for `NintendoSwitch-PABotBase-xxxxxxxxx-Teensy2.hex` or `NintendoSwitch-PABotBase-xxxxxxxxx-TeensyPP2.hex` depending on which one you have.
 
-<img src="../Images/ControllerSetup-Teensy2-Loader-0.png">
+<img src="../Images/Teensy2/ControllerSetup-Teensy2-Loader-0.png">
 
 3. Plug the Teensy into your computer.
 4. Press the white button on the Teensy. You may need to wait for Windows to install drivers.
 
 At this point, two green arrows should show up in Teensy Loader.
 
-<img src="../Images/ControllerSetup-Teensy2-Loader-1.png">
+<img src="../Images/Teensy2/ControllerSetup-Teensy2-Loader-1.png">
 
 5. Click the left arrow. This flashes the program into the Teensy.
 
-<img src="../Images/ControllerSetup-Teensy2-Loader-2.png">
+<img src="../Images/Teensy2/ControllerSetup-Teensy2-Loader-2.png">
 
 6. Unplug the Teensy from your computer.
 

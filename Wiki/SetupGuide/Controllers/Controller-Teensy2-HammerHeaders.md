@@ -6,7 +6,7 @@ The Teensy 2.0 or Teensy++ 2.0 have been discontinued by the manufacturer. So we
 
 This tutorial will use solderless hammer headers to connect the UART to the Teensy. This is a cleaner, but harder setup while still avoiding any soldering.
 
-<img src="../Images/ControllerSetup-Teensy2-HammerHeaders.jpg" height="350"> <img src="../Images/ControllerSetup-Teensy-Setup.jpg" height="350">
+<img src="../Images/Teensy2/ControllerSetup-Teensy2-HammerHeaders.jpg" height="350"> <img src="../Images/ControllerSetup-Teensy-Setup.jpg" height="350">
 
 ## Hardware Setup:
 
@@ -74,8 +74,8 @@ Make the following connections:
 
 You will need a LOT of force to push the hammer headers into the holes. Recommend using pliers to pull the pins out of the plastic holds and inserting the long side into the microcontroller board. Then put the covers back on and use pliers to squeeze it in.
 
-<img src="../Images/ControllerSetup-Teensypp2-HammerHeaders-0.jpg" height="350"> <img src="../Images/ControllerSetup-Teensypp2-HammerHeaders-1.jpg" height="350">
-<img src="../Images/ControllerSetup-Teensy2-HammerHeaders-0.jpg" height="350"> <img src="../Images/ControllerSetup-Teensypp2-HammerHeaders-2.jpg" height="350">
+<img src="../Images/Teensy2/ControllerSetup-Teensypp2-HammerHeaders-0.jpg" height="350"> <img src="../Images/Teensy2/ControllerSetup-Teensypp2-HammerHeaders-1.jpg" height="350">
+<img src="../Images/Teensy2/ControllerSetup-Teensy2-HammerHeaders-0.jpg" height="350"> <img src="../Images/Teensy2/ControllerSetup-Teensypp2-HammerHeaders-2.jpg" height="350">
 
 
 
@@ -95,18 +95,18 @@ The root folder of the SerialPrograms package should have a set of .hex files fo
 1. Run the Teensy Loader program that you downloaded earlier.
 2. Click the purple file icon and browse for `NintendoSwitch-PABotBase-xxxxxxxxx-Teensy2.hex` or `NintendoSwitch-PABotBase-xxxxxxxxx-TeensyPP2.hex` depending on which one you have.
 
-<img src="../Images/ControllerSetup-Teensy2-Loader-0.png">
+<img src="../Images/Teensy2/ControllerSetup-Teensy2-Loader-0.png">
 
 3. Plug the Teensy into your computer.
 4. Press the white button on the Teensy. You may need to wait for Windows to install drivers.
 
 At this point, two green arrows should show up in Teensy Loader.
 
-<img src="../Images/ControllerSetup-Teensy2-Loader-1.png">
+<img src="../Images/Teensy2/ControllerSetup-Teensy2-Loader-1.png">
 
 5. Click the left arrow. This flashes the program into the Teensy.
 
-<img src="../Images/ControllerSetup-Teensy2-Loader-2.png">
+<img src="../Images/Teensy2/ControllerSetup-Teensy2-Loader-2.png">
 
 6. Unplug the Teensy from your computer.
 
