@@ -86,7 +86,7 @@ Make the following connections:
 
 > **If you did **not** buy the Adafruit UART, your wire colors will be different!** Refer to your UART's manual or board for the correct pins. Often, with CP210x modules, the pin type is written on the board itself. Also, note that the color of the jumper wires do not matter.
 
-<img src="../Images/ControllerSetup-PicoW-UART-Wiring-0.png">
+<img src="../Images/ControllerSetup-PicoW-UART-Wiring-0.jpg">
 
 
 ## Software Setup
