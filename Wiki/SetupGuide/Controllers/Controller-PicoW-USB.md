@@ -4,7 +4,7 @@
 
 The Raspberry Pi Pico W is different from the other boards in that it has two operating modes:
 - USB Mode - easy (this guide)
-- UART Mode - hard
+- [UART Mode - hard](Controller-PicoW-UART.md)
 
 The Pico W has a Bluetooth module that allows it to implement wireless controllers. It can emulate both left and right joycons as well as the wireless pro controller. Since this covers all the controller types, a Pico W will be able to run nearly our entire repertoire of programs for the Nintendo Switch.
 
@@ -182,8 +182,6 @@ It is as cute as it is stupid, and it will give you problems. We tried it so you
 
 **Credits:**
 - Kuroneko/Mysticial
-- jw
-- kichithewolf
 
 **Discord Server:** 
 
