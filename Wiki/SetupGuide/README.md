@@ -95,7 +95,7 @@ While we support quite a few different setups, these are the 3 that we recommend
 
 | **Wired** | **Wireless** | **Custom Firmware** |
 | --- | --- | --- |
-| <img src="Images/ControllerSetup-ESP32-S3.jpg" width="1000"> | <img src="Images/ControllerSetup-ESP32-WROOM.jpg" width="1000"> | <img src="Images/ControllerSetup-sbb.jpg" width="1000"> |
+| <img src="Images/ESP32-S3/ControllerSetup-ESP32-S3.jpg" width="1000"> | <img src="Images/ESP32/ControllerSetup-ESP32-WROOM.jpg" width="1000"> | <img src="Images/sys-botbase/ControllerSetup-sbb.jpg" width="1000"> |
 | **Supported Controller Types:**<br>Wired Controller<br><br><br> | **Supported Controller Types:**<br>- Wireless Pro Controller<br>- Left Joycon<br>- Right Joycon | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> |
 | **Recommended Microcontrollers:**<br>ESP32-S3 | **Recommended Microcontrollers:**<br>ESP32-WROOM-32 | **Recommended Microcontrollers:**<br>None required. |
 | Works on Switch 2. | Works on Switch 2 starting from v0.56. | Does not work on Switch 2 due to lack of CFW. |
@@ -179,6 +179,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
