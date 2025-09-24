@@ -6,7 +6,7 @@ The Raspberry Pi Pico W (and Pico 2 W) is the easiest controller setup to do. It
 
 However, the Pico W family is slightly more expensive than the ESP32. Furthermore, the wired controller capability is not comparable to the ESP32-S3 in terms of both price and ease-of-setup.
 
-There are two operating modes fo the Pico W family:
+There are two operating modes of the Pico W family:
 
 | **Mode** | **Connections** | **Controller Support** | **Setup Difficulty** |
 | --- | --- | --- | --- |
