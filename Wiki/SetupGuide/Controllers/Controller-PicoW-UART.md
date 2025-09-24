@@ -17,7 +17,7 @@ This is the harder version of the Pico W setup. If you haven't already, we recom
 
 In UART mode, the line of communication between the Pico W and the computer is moved to an external UART instead of using the USB port. This frees up the USB port to be plugged into the Switch as a wired controller.
 
-This is the most versatile setup as it supports every single controller in our repertoire, both wired and wireless. 
+This is the most versatile setup as it supports every single controller in this project - both wired and wireless. 
 
 <img src="../Images/PicoW/ControllerSetup-PicoW-UART.jpg" height="350"> <img src="../Images/PicoW/ControllerSetup-PicoW-UART-Setup-Small.jpg" height="350">
 
