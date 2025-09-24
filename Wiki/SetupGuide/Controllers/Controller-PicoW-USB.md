@@ -81,8 +81,13 @@ If not, you should go back to the [general setup guide](../README.md) and start 
 1. Unplug the Pico W from your computer.
 2. Press and hold the white `Bootsel` button.
 3. Plug the Pico W back into your computer while holding the `Bootsel` button. You can now release the button.
-4. Go to "This PC" and look for a storage device named, "RPI-RP2".
-5. Drag and drop the file `PABotBase-PicoW-2025091300.uf2` file into that storage device. (version number may vary) Once the copy is done, the device will disappear.
+4. Go to "This PC" and look for a storage device:
+     - On the Pico W(H), it will be named "RPI-RP2".
+     - On the Pico 2 W(H), it will be named "RP2350".
+5. Drag and drop one of the following files into that storage device. Once the copy is done, the device will disappear.
+     - Pico W(H): `PABotBase-Pico1W-2025092300.uf2`
+     - Pico 2 W(H): `PABotBase-Pico2W-2025092300.uf2`
+(version number may vary)
 
 <img src="../Images/PicoW/ControllerSetup-PicoW-Flash1.png">
 
