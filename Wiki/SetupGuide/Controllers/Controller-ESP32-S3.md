@@ -4,7 +4,7 @@
 
 <hr>
 
-The ESP32-S3 is by far the easiest wired controller setup for the simple reason that it has 2 USB ports. Given that wired controllers are the most reliable setups, the ESP32-S3 has become the go-to controller for automation.
+The ESP32-S3 is by far the easiest wired controller setup for the simple reason that it has 2 USB ports. Since wired controllers are the most reliable setups, the ESP32-S3 has become the go-to controller for automation.
 
 If you are setting up a wired controller setup for the first time, we recommend this option.
 
@@ -247,6 +247,7 @@ There can be many causes of this:
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
