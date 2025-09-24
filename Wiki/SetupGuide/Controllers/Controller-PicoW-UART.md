@@ -2,7 +2,12 @@
 
 ### ***This setup is still in beta and has not been officially released yet.***
 
-The Raspberry Pi Pico W (and Pico 2) is different from the other boards in that it has two operating modes:
+The Raspberry Pi Pico W (and Pico 2 W) is the easiest controller setup to do. It is easiest wireless setup (easier than the ESP32) and is also capable of wired connection.
+
+However, the Pico W family is slightly more expensive than the ESP32. Furthermore, the wired controller capability is not comparable to the ESP32-S3 in terms of both price and ease-of-setup.
+
+There are two operating modes fo the Pico W family:
+
 | **Mode** | **Connections** | **Controller Support** | **Setup Difficulty** |
 | --- | --- | --- | --- |
 | [USB Mode](Controller-PicoW-USB.md) | 1. Pico W's USB port -> Computer | Wireless controllers only:<br>- Switch 1: Wireless Pro Controller<br>- Switch 1: Left Joycon<br>- Switch 1: Right Joycon | Very Easy |
