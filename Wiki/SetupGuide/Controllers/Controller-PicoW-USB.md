@@ -1,8 +1,8 @@
-# Controller Setup: Raspberry Pi Pico W (USB Mode)
+# Raspberry Pi: Pico W and Pico 2 W (USB Mode)
 
-### ***This setup is still in development. It is not yet available to the public.***
+### ***This setup is still in beta.***
 
-The Raspberry Pi Pico W is different from the other boards in that it has two operating modes:
+The Raspberry Pi Pico W (and Pico 2 W) is different from the other boards in that it has two operating modes:
 | **Mode** | **Connections** | **Controller Support** | **Setup Difficulty** |
 | --- | --- | --- | --- |
 | **USB Mode (this guide)** | 1. Pico W's USB port -> Computer | Wireless controllers only:<br>- Switch 1: Wireless Pro Controller<br>- Switch 1: Left Joycon<br>- Switch 1: Right Joycon | Very Easy |
@@ -16,7 +16,7 @@ The Raspberry Pi Pico W is different from the other boards in that it has two op
 1. A regular [Nintendo Switch](../README.md#video-capture-card-the-computers-eyes) and its accessories (dock, power cable, HDMI cable). (You cannot use a Switch Lite.)
 2. A [computer](../README.md#the-computer-the-player) running x64 Windows. (or another OS if you are able to set it up.)
 3. A [video capture card](../README.md#video-capture-card-the-computers-eyes).
-4. A Raspberry Pi Pico W or Pico WH microcontroller.
+4. A Raspberry Pi Pico W, Pico WH, Pico 2 W, or Pico 2 WH microcontroller.
 5. A micro-USB to USB-A cable or dongle.
 
 #1-3 are part of the initial setup so you should have all of these already.
@@ -32,18 +32,23 @@ The Raspberry Pi Pico W is different from the other boards in that it has two op
 
 **Capture Card:** [See previous section.](../README.md#video-capture-card-the-computers-eyes)
 
-**Pico W or Pico WH Microcontroller:**
+**Pico W Microcontroller:**
 
-| **Quantity** | **Price / Unit** | **Shopping Link** |
-| --- | --- | --- |
-| 1 (with pins) | $12 / unit | [https://www.amazon.com/gp/product/B0BHM95WCM](https://www.amazon.com/gp/product/B0BHM95WCM) |
-| 2 (with pins) | $11 / unit | [https://www.amazon.com/gp/product/B0BHM7TH1C](https://www.amazon.com/gp/product/B0BHM7TH1C) |
-| 1 (no pins) | $12 / unit | [https://www.amazon.com/gp/product/B0FJFLM9DW](https://www.amazon.com/gp/product/B0FJFLM9DW) |
-| 2 (no pins) | $10 / unit | [https://www.amazon.com/gp/product/B0B72GV3K3/](https://www.amazon.com/gp/product/B0B72GV3K3/) |
-| 1 (with pins) | $7 / unit | [Micro Center](https://www.microcenter.com/product/650109/raspberry-pi-pico-wh-pico-wireless-with-headers-soldered) |
-| 1 (no pins) | $6 / unit | [Micro Center](https://www.microcenter.com/product/650108/raspberry-pi-pico-w) |
+| **Model** | **Quantity** | **Price / Unit** | **Shopping Link** |
+| --- | --- | --- | --- |
+| Pico WH | 1 (with pins) | $12 / unit | [https://www.amazon.com/gp/product/B0BHM95WCM](https://www.amazon.com/gp/product/B0BHM95WCM) |
+| Pico WH | 2 (with pins) | $11 / unit | [https://www.amazon.com/gp/product/B0BHM7TH1C](https://www.amazon.com/gp/product/B0BHM7TH1C) |
+| Pico WH | 1 (with pins) | $7 / unit | [Micro Center](https://www.microcenter.com/product/650109/raspberry-pi-pico-wh-pico-wireless-with-headers-soldered) |
+| Pico 2 WH | 1 (with pins + cable) | $15 / unit | [https://www.amazon.com/gp/product/B0F4W9J5CC](https://www.amazon.com/gp/product/B0F4W9J5CC) |
+| Pico 2 WH | 1 (with pins) | $14 / unit | [https://www.amazon.com/gp/product/B0FGVQPZP6](https://www.amazon.com/gp/product/B0FGVQPZP6) |
+| Pico 2 WH | 1 (with pins) | $8 / unit | [Micro Center](https://www.microcenter.com/product/692334/raspberry-pi-pico-2w-with-header) |
+| Pico W | 1 (no pins) | $12 / unit | [https://www.amazon.com/gp/product/B0FJFLM9DW](https://www.amazon.com/gp/product/B0FJFLM9DW) |
+| Pico W | 2 (no pins) | $10 / unit | [https://www.amazon.com/gp/product/B0B72GV3K3/](https://www.amazon.com/gp/product/B0B72GV3K3/) |
+| Pico W | 1 (no pins) | $6 / unit | [Micro Center](https://www.microcenter.com/product/650108/raspberry-pi-pico-w) |
+| Pico 2 W | 1 (no pins) | $13 / unit | [https://www.amazon.com/gp/product/B0DPF9N1MN](https://www.amazon.com/gp/product/B0DPF9N1MN) |
+| Pico 2 W | 1 (no pins) | $7 / unit | [Micro Center](https://www.microcenter.com/product/687384/raspberry-pi-pico-2-w) |
 
-You must get either a Pico W or Pico WH. The Pico 2 W/WH is not compatible! The Pico and Pico H do not work because they have no wireless module.
+You must get a Pico with "W" in its name. The "W" stands for "wireless". The Picos without the "W" lack the wireless module needed for the wireless connection!
 
 Unlike other controllers, we ***strongly*** recommend the ones with pins for the sole reason that it becomes much easier to do [UART Mode](Controller-PicoW-UART.md) in the future. We only recommend the pinless boards if you either never intend to do UART mode, or if you have another way to connect to the holes (such as soldering, mini-grabbers, hammer headers, etc...)
 

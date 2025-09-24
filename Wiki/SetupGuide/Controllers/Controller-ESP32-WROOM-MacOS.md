@@ -1,4 +1,4 @@
-# Controller Setup: ESP32-WROOM (MacOS)
+# Espressif ESP32-WROOM (MacOS)
 
 ### ***Update v0.56: This setup now works on the Switch 2!***
 

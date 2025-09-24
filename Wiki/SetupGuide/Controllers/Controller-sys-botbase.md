@@ -1,4 +1,4 @@
-# Controller Setup: sys-botbase
+# sys-botbase
 
 ***Update August 9, 2025: This guide has been updated for sys-botbase 3 (sbb3).***
 

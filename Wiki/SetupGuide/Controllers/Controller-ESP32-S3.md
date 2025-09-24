@@ -1,4 +1,4 @@
-# Controller Setup: ESP32-S3
+# Espressif ESP32-S3
 
 **Video tutorial:** Pokemon Automation Wired setup with ESP32-S3: https://youtu.be/ezBuwk48z8w
 

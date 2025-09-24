@@ -1,4 +1,4 @@
-# Controller Setup: Arduino Leonardo
+# Arduino Leonardo
 
 **Video tutorial:** Pokemon Automation Wired Setup with Arduino Leonardo: https://youtu.be/DFXZzWkOEMs
 

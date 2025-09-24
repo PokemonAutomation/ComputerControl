@@ -1,4 +1,4 @@
-# Controller Setup: Teensy 2.0 and Teensy++ 2.0 (using solderless hammer headers)
+# Teensy 2.0 and Teensy++ 2.0 (using solderless hammer headers)
 
 The wired controller setup is the most difficult of the setups. Most of you who joined us prior to 2025 will be familiar with this setup.
 

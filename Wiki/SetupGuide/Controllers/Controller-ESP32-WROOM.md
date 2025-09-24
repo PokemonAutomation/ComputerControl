@@ -1,4 +1,4 @@
-# Controller Setup: ESP32-WROOM
+# Espressif ESP32-WROOM
 
 **Video tutorial:** Pokemon Automation Wireless setup with ESP32: https://youtu.be/YzGyQQOGjl8
 
