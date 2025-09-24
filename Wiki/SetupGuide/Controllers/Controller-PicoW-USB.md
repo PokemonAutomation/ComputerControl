@@ -1,6 +1,6 @@
 # Raspberry Pi: Pico W and Pico 2 W (USB Mode)
 
-### ***This setup is still in beta.***
+### ***This setup is still in beta and has not been officially released yet.***
 
 The Raspberry Pi Pico W (and Pico 2 W) is different from the other boards in that it has two operating modes:
 | **Mode** | **Connections** | **Controller Support** | **Setup Difficulty** |
