@@ -30,7 +30,7 @@ This table lists all the device and controller combinations that we support in t
 
 ### Setup Comparison Table:
 
-| Setup | **Supported Controllers** | **Price (per Unit)** | **Setup<br>Difficulty(Scale 1-10)** | **Notes:** |
+| Setup | **Supported Controllers** | **Price (per Unit)** | **Setup Difficulty<br>(Scale 1-10)** | **Notes:** |
 | --- | --- | --- | --- | --- |
 | Raspberry Pi Pico W<br>(USB Mode) | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | Single: $14<br>Volume: $7 | 1 | Upgradable to UART mode. |
 | ESP32 | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | Single: $10<br>Volume: $4 | 3 | Buggier than Pico W. |
