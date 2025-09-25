@@ -118,6 +118,8 @@ For a complete list of setups - including older ones we no longer recommend, see
 | You are an existing Computer Control user who already has the Arduino/Teensy setup. | Keep what you have. | See the [Controller List](/Wiki/ControllerList.md) to find the guide to re-setup your hardware. |
 | You are an experienced CFW user. | sys-botbase 3 | This setup is designed specifically for you at no additional cost (beyond a capture card)! |
 
+A full comparison of prices and difficulty of setup can be found on the [Controller List](/Wiki/ControllerList.md#setup-comparison-table).
+
 Also, don't be afraid to get both wired and wireless setups! Many of us do exactly this!
 
 ## Step 2: General Setup: (setting up everything except the controller)
@@ -180,6 +182,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
