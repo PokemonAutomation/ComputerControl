@@ -96,7 +96,7 @@ Make the following connections:
 | --- | --- | --- |
 | RX | White | TX -> GP4 (pin 6) |
 | TX | Green | RX <- GP5 (pin 7) |
-| GND | Black | GND (pin 8, or any other GND ping) |
+| GND | Black | GND (pin 8, or any other GND pin) |
 | VCC | Red | Leave unconnected |
 
 > **If you did **not** buy the Adafruit UART, your wire colors will be different!** Refer to your UART's manual or board for the correct pins. Often, with CP210x modules, the pin type is written on the board itself. Also, note that the color of the jumper wires do not matter.
