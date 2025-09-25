@@ -32,14 +32,16 @@ This table lists all the device and controller combinations that we support in t
 
 | Setup | **Supported Controllers** | **Price (per Unit)** | **Difficulty of Setup (Scale 1-10)** |
 | --- | --- | --- | --- |
-| Raspberry Pi Pico W (USB Mode) | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | Single: $14<br>Volume: $7 | 1 |
+| Raspberry Pi Pico W<br>(USB Mode) | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | Single: $14<br>Volume: $7 | 1 |
 | ESP32 | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | Single: $10<br>Volume: $4 | 3 |
 | ESP32-S3 | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller | Single: $15<br>Volume: $8 | 3 |
-| Raspberry Pi Pico W (UART Mode) | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller<br>Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | Single: $24<br>Volume: $10 | 5 |
+| Raspberry Pi Pico W<br>(UART Mode) | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller<br>Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | Single: $24<br>Volume: $10 | 5 |
 | Arduino Uno R3 | Switch 2: Wired Controller | Single: $20 | 7 |
 | Arduino Leonardo | Switch 2: Wired Controller | Single: $25 | 7 |
-| Teensy 2/Teensy++ 2 | Switch 2: Wired Controller | (discontinued) | 8 - Mini Grabbers<br>10 - Hammer Headers |
-| Pro Micro | Switch 2: Wired Controller | Single: $25<br>Volume: $8 | 8 - Mini Grabbers<br>10 - Hammer Headers |
+| Teensy 2/Teensy++ 2<br>(Mini Grabbers) | Switch 2: Wired Controller | (discontinued) | 8 |
+| Teensy 2/Teensy++ 2<br>(Hammer Headers) | Switch 2: Wired Controller | (discontinued) | 10 |
+| Pro Micro<br>(Mini Grabbers) | Switch 2: Wired Controller | Single: $25<br>Volume: $10 | 8 |
+| Pro Micro<br>(Hammer Headers) | Switch 2: Wired Controller | Single: $25<br>Volume: $8 | 10 |
 
 
 ## Device Types
