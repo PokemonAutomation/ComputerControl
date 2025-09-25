@@ -18,8 +18,14 @@ The USB port plugs into the computer which is how the program will control it. A
 #1-3 are part of the initial setup so you should have all of these already.
 
 **Estimated Total Cost (USD):** (not including computer and Nintendo Switch)
-- **Single Setup:** $25 - $35
-- **Bulk Purchase:** ~$17 per setup
+- **Single Setup:** $20 - $30
+    - Capture Card: $10 - $20
+    - ESP32: $8
+    - USB Cable/Adapter: $2
+- **Bulk Purchase:** ~$14 per setup
+    - Capture Card: $10
+    - ESP32: $3 each from AliExpress
+    - USB Cable/Adapter: < $1 each from AliExpress
 
 <img src="../Images/Mac/esp32-setup.jpg" width="800">
 
@@ -287,6 +293,7 @@ It is as cute as it is stupid, and it will give you problems. We tried it so you
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
