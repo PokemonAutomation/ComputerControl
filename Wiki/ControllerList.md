@@ -32,16 +32,16 @@ This table lists all the device and controller combinations that we support in t
 
 | Setup | **Supported Controllers** | **Price (per Unit)** | **Setup Difficulty<br>(Scale 1-10)** | **Notes:** |
 | --- | --- | --- | --- | --- |
-| Raspberry Pi Pico W<br>(USB Mode) | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | Single: $14<br>Volume: $7 | 1 | Upgradable to UART mode. |
-| ESP32 | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | Single: $10<br>Volume: $4 | 3 | Buggier than the Pico W. |
-| ESP32-S3 | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller | Single: $15<br>Volume: $8 | 3 | Best wired setup by far.<br>Workhorse for most seasoned users. |
-| Raspberry Pi Pico W<br>(UART Mode) | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller<br>Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | Single: $24<br>Volume: $10 | 5 | Exposed pins can be annoying. |
-| Arduino Uno R3 | Switch 2: Wired Controller | Single: $20 | 7 |  |
-| Arduino Leonardo | Switch 2: Wired Controller | Single: $25 | 7 |  |
-| Teensy 2/Teensy++ 2<br>(Mini Grabbers) | Switch 2: Wired Controller | (discontinued) | 8 | Final product is bulky and fragile. |
-| Teensy 2/Teensy++ 2<br>(Hammer Headers) | Switch 2: Wired Controller | (discontinued) | 10 |  |
-| Pro Micro<br>(Mini Grabbers) | Switch 2: Wired Controller | Single: $25<br>Volume: $10 | 8 | Final product is bulky and fragile. |
-| Pro Micro<br>(Hammer Headers) | Switch 2: Wired Controller | Single: $25<br>Volume: $8 | 10 |  |
+| Raspberry Pi Pico W<br>(USB Mode) | NS1: Wireless Pro Controller<br>NS1: Left Joycon<br>NS1: Right Joycon | Single: $14<br>Volume: $7 | 1 | Upgradable to UART mode. |
+| ESP32 | NS1: Wireless Pro Controller<br>NS1: Left Joycon<br>NS1: Right Joycon | Single: $10<br>Volume: $4 | 3 | Buggier than the Pico W. |
+| ESP32-S3 | HID: Keyboard<br>NS1: Wired Controller<br>NS2: Wired Controller | Single: $15<br>Volume: $8 | 3 | Best wired setup by far.<br>Workhorse for most seasoned users. |
+| Raspberry Pi Pico W<br>(UART Mode) | HID: Keyboard<br>NS1: Wired Controller<br>NS2: Wired Controller<br>NS1: Wireless Pro Controller<br>NS1: Left Joycon<br>NS1: Right Joycon | Single: $24<br>Volume: $10 | 5 | Exposed pins can be annoying. |
+| Arduino Uno R3 | NS2: Wired Controller | Single: $20 | 7 |  |
+| Arduino Leonardo | NS2: Wired Controller | Single: $25 | 7 |  |
+| Teensy 2/Teensy++ 2<br>(Mini Grabbers) | NS2: Wired Controller | (discontinued) | 8 | Final product is bulky and fragile. |
+| Teensy 2/Teensy++ 2<br>(Hammer Headers) | NS2: Wired Controller | (discontinued) | 10 |  |
+| Pro Micro<br>(Mini Grabbers) | NS2: Wired Controller | Single: $25<br>Volume: $10 | 8 | Final product is bulky and fragile. |
+| Pro Micro<br>(Hammer Headers) | NS2: Wired Controller | Single: $25<br>Volume: $8 | 10 |  |
 
 
 ## Device Types
