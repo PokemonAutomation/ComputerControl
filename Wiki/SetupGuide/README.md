@@ -97,7 +97,7 @@ While we support quite a few different setups, these are the 3 that we recommend
 | --- | --- | --- |
 | <img src="Images/ESP32-S3/ControllerSetup-ESP32-S3.jpg" width="1000"> | <img src="Images/ESP32/ControllerSetup-ESP32-WROOM.jpg" width="1000"> | <img src="Images/sys-botbase/ControllerSetup-sbb.jpg" width="1000"> |
 | **Supported Controller Types:**<br>Wired Controller<br><br><br> | **Supported Controller Types:**<br>- Wireless Pro Controller<br>- Left Joycon<br>- Right Joycon | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> |
-| **Recommended Microcontrollers:**<br>ESP32-S3 | **Recommended Microcontrollers:**<br>ESP32-WROOM-32 | **Recommended Microcontrollers:**<br>None required. |
+| **Recommended Microcontrollers:**<br>ESP32-S3<br><br><br> | **Recommended Microcontrollers:**<br>ESP32-WROOM-32<br>Raspberry Pi Pico W (**beta!**)<br>Raspberry Pi Pico 2 W (**beta!**) | **Recommended Microcontrollers:**<br>None required.<br><br><br> |
 | Works on Switch 2. | Works on Switch 2 starting from v0.56. | Does not work on Switch 2 due to lack of CFW. |
 | Easy to setup. Slightly more expensive. | Cheapest and easiest to setup.<br>No cables needed. | Requires a hacked Switch running custom firmware (CFW). |
 | Cannot run LGPE programs.<br>Runs all other programs.* | Runs nearly all programs - including LGPE.* | sbb3: Identical to wired controllers.<br>sbb2: Cannot run programs that require timing precision. |
@@ -145,6 +145,7 @@ Here the guide will diverge depending on which controller type you have chosen. 
  - [ESP32-WROOM](Controllers/Controller-ESP32-WROOM.md)
    - Video tutorial: https://youtu.be/YzGyQQOGjl8
  - [ESP32-WROOM for MacOS](Controllers/Controller-ESP32-WROOM-MacOS.md)
+ - [Raspberry Pi Pico W and Pico 2 W (**beta!**)](Controllers/Controller-PicoW-USB.md)
 
 **Custom Firmware:**
  - [sys-botbase](Controllers/Controller-sys-botbase.md)
@@ -179,6 +180,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
