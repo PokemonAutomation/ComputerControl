@@ -30,7 +30,13 @@ While the ESP32-S3 supports Bluetooth, it only supports Bluetooth LE. The Ninten
 
 **Estimated Total Cost (USD):** (not including computer and Nintendo Switch)
 - **Single Setup:** $25 - $35
+    - Capture Card: $10 - $20
+    - ESP32-S3: $10
+    - 2 x USB Cables: $5
 - **Bulk Purchase:** ~$18 per setup
+    - Capture Card: $10 - $20
+    - ESP32-S3: $6
+    - 2 x USB Cables: < $2
 
 <img src="../Images/ESP32-S3/ControllerSetup-ESP32-S3-Setup-Annotated.jpg" width="800">
 
@@ -45,7 +51,7 @@ While the ESP32-S3 supports Bluetooth, it only supports Bluetooth LE. The Ninten
 
 | **Quantity** | **Price / Unit** | **Shopping Link** |
 | --- | --- | --- |
-| 1 (no pins) | $9 / unit | https://www.amazon.com/gp/product/B0BVVGNBB3/ |
+| 1 (no pins) | $10 / unit | https://www.amazon.com/gp/product/B0BVVGNBB3/ |
 | 3 (no pins) | $6 / unit | https://www.amazon.com/gp/product/B0C9H7Y66W/ |
 
 Even though these are all made in China, AliExpress isn't much cheaper. (~$6/unit in bulk)
@@ -247,6 +253,7 @@ There can be many causes of this:
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
