@@ -37,12 +37,12 @@ This is the most versatile setup as it supports every single controller in this 
 
 - **Single Setup:** $34 - $44
     - Capture Card: $10 - $20
-    - Pico W: $12
+    - Pico W (with pins): $12
     - USB Cable/Adapter: $2
     - UART: $10
-- **Bulk Purchase:** ~$19 per setup
+- **Bulk Purchase:** ~$20 per setup
     - Capture Card: $10
-    - Pico W: $6 each from Micro Center
+    - Pico W (with pins): $7 each from Micro Center
     - USB Cable/Adapter: < $1 each from AliExpress
     - UART: $2 each from Amazon
 
