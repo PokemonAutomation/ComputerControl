@@ -6,7 +6,7 @@ The Pro Micro is the recommended microcontroller to use for experimenced users. 
 
 This tutorial will use mini-grabber cables to connect the UART to the Pro Micro. While it is ugly and bulky, it is the easiest option for users who prefer not to do any soldering.
 
-<img src="../Images/ProMicro/ControllerSetup-ProMicro-MiniGrabbers.jpg" height="350"> <img src="../Images/ControllerSetup-Teensy-Setup.jpg" height="350">
+<img src="../Images/ProMicro/ControllerSetup-ProMicro-MiniGrabbers.jpg" height="350"> <img src="../Images/Teensy2/ControllerSetup-Teensy-Setup.jpg" height="350">
 
 ## Hardware Setup:
 
@@ -131,5 +131,6 @@ Continue to: [Wired Controller (AVR8) Software Setup](Controller-Software-AVR8.m
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
