@@ -25,8 +25,14 @@ There are two operating modes of the Pico W family:
 #1-3 are part of the initial setup so you should have all of these already.
 
 **Estimated Total Cost (USD):** (not including computer and Nintendo Switch)
-- **Single Setup:** $30 - $40
-- **Bulk Purchase:** ~$18 per setup
+- **Single Setup:** $24 - $34
+    - Capture Card: $10 - $20
+    - Pico W: $12
+    - USB Cable/Adapter: $2
+- **Bulk Purchase:** ~$17 per setup
+    - Capture Card: $10
+    - Pico W: $6 each from Micro Center
+    - USB Cable/Adapter: < $1 each from AliExpress
 
 <img src="../Images/PicoW/ControllerSetup-PicoW-USB-SetupCloseup-Annotated-Small.jpg" width="800">
 
