@@ -34,7 +34,7 @@ While the ESP32-S3 supports Bluetooth, it only supports Bluetooth LE. The Ninten
     - ESP32-S3: $10
     - 2 x USB Cables: $5
 - **Bulk Purchase:** ~$18 per setup
-    - Capture Card: $10 - $20
+    - Capture Card: $10
     - ESP32-S3: $6
     - 2 x USB Cables: < $2
 
@@ -253,6 +253,7 @@ There can be many causes of this:
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
