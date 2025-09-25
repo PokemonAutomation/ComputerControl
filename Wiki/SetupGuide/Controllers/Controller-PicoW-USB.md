@@ -2,9 +2,7 @@
 
 ### ***This setup is still in beta and has not been officially released yet.***
 
-The Raspberry Pi Pico W (and Pico 2 W) is the easiest controller setup to do. It is easiest wireless setup (easier than the ESP32) and is also capable of wired connection.
-
-However, the Pico W family is slightly more expensive than the ESP32. Furthermore, the wired controller capability is not comparable to the ESP32-S3 in terms of both price and ease-of-setup.
+The Raspberry Pi Pico W (and Pico 2 W) is the easiest setup to get up and running (even easier than the ESP32). Thus, it is ideal for new users who just want to try out this project without getting too deep.
 
 There are two operating modes of the Pico W family:
 
