@@ -1,5 +1,9 @@
 # Pokemon Home Box Sorter
 
+***Warning: This is a high-demand program that gets many requests for improvements yet is no longer maintained by anyone. The original author has abandoned it and nobody on the current dev team is interested in taking it up. So this program is dead until someone revives it.***
+
+***Do not expect any feature requests or bug reports to be addressed.***
+
 ## Program Description
 
 This program goes through each Pokémon summary page in HOME. It will check for the National Dex number to sort Pokémon starting at the current box and ending after a set number of boxes chosen by the user.
@@ -48,3 +52,4 @@ Make sure to put some margin if you are not confident with the delay you have ch
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
