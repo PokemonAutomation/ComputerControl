@@ -22,7 +22,7 @@ This table lists all the device and controller combinations that we support in t
 | **Beta Testing:** | | | |
 | <img src="SetupGuide/Images/PicoW/ControllerSetup-PicoW-USB.jpg" width="200"> | Raspberry Pi Pico W<br>Raspberry Pi Pico 2 W<br>(USB Mode) | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | [Pico W (USB Mode)](SetupGuide/Controllers/Controller-PicoW-USB.md) |
 | <img src="SetupGuide/Images/PicoW/ControllerSetup-PicoW-UART.jpg" width="200"> | Raspberry Pi Pico W<br>Raspberry Pi Pico 2 W<br>(UART Mode) | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller<br>Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | [Pico W (UART Mode)](SetupGuide/Controllers/Controller-PicoW-UART.md) |
-| **Deprecated Setups:** | | | |
+| **Deprecated Setups:** still works, but not recommended for new users | | | |
 | <img src="SetupGuide/Images/ArduinoUnoR3/ControllerSetup-UnoR3.jpg" width="200"> | Arduino Uno R3 | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Arduino Uno R3](SetupGuide/Controllers/Controller-ArduinoUnoR3.md) |
 | <img src="SetupGuide/Images/ArduinoLeonardo/ControllerSetup-Leonardo.jpg" width="200"> | Arduino Leonardo | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Arduino Leonardo](SetupGuide/Controllers/Controller-ArduinoLeonardo.md) |
 | <img src="SetupGuide/Images/ProMicro/ControllerSetup-ProMicro-HammerHeaders.jpg" width="200"> | Pro Micro | Switch 2: Wired Controller<br>(compatible with Switch 1) | [Pro Micro (Mini-Grabbers)](SetupGuide/Controllers/Controller-ProMicro-MiniGrabbers.md)<br>[Pro Micro (Hammer Headers)](SetupGuide/Controllers/Controller-ProMicro-HammerHeaders.md) |
