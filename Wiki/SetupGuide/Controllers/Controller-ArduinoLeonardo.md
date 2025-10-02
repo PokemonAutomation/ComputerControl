@@ -1,5 +1,7 @@
 # Arduino Leonardo
 
+**This setup is deprecated, though still supported. New users should pick something from the [recommended list](/Wiki/ControllerList.md).**
+
 **Video tutorial:** Pokemon Automation Wired Setup with Arduino Leonardo: https://youtu.be/DFXZzWkOEMs
 
 <hr>

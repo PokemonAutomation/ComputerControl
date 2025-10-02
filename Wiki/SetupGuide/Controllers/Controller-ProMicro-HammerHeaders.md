@@ -1,5 +1,9 @@
 # Pro Micro (using solderless hammer headers)
 
+**This setup is deprecated, though still supported. New users should pick something from the [recommended list](/Wiki/ControllerList.md).**
+
+<hr>
+
 The wired controller setup is the most difficult of the setups. Most of you who joined us prior to 2025 will be familiar with this setup.
 
 The Pro Micro is the recommended microcontroller to use for experimenced users. It is harder to setup than the Arduino Leonardo, but is smaller in space and cheaper in quantity for automating multiple Switches.

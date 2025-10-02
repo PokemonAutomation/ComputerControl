@@ -1,5 +1,9 @@
 # Teensy 2.0 and Teensy++ 2.0 (using solderless hammer headers)
 
+**This setup is deprecated, though still supported. New users should pick something from the [recommended list](/Wiki/ControllerList.md).**
+
+<hr>
+
 The wired controller setup is the most difficult of the setups. Most of you who joined us prior to 2025 will be familiar with this setup.
 
 The Teensy 2.0 or Teensy++ 2.0 have been discontinued by the manufacturer. So we do not recommend any new setups with these. Therefore, this guide is only if you already have a Teensy from our past era of microcontroller-only automation and wish to upgrade to full computer control.

@@ -1,5 +1,9 @@
 # Arduino Uno R3
 
+**This setup is deprecated, though still supported. New users should pick something from the [recommended list](/Wiki/ControllerList.md).**
+
+<hr>
+
 The wired controller setup is the most difficult of the setups. Most of you who joined us prior to 2025 will be familiar with this setup.
 
 This version of the wired controller setup uses the Arduino Leonardo. The hardware setup is visually identical to the Leonardo, but the firmware installation is completely different.
