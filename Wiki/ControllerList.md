@@ -32,10 +32,10 @@ This table lists all the device and controller combinations that we support in t
 
 | Setup | **Supported Controllers** | **Price (per Unit)** | **Setup Difficulty<br>(Scale 1-10)** | **Notes:** |
 | --- | --- | --- | --- | --- |
-| Raspberry Pi Pico W<br>(USB Mode) | NS1: Wireless Pro Controller<br>NS1: Left Joycon<br>NS1: Right Joycon | Single: $14<br>Volume: $7 | 1 | Upgradable to UART mode. |
-| ESP32 | NS1: Wireless Pro Controller<br>NS1: Left Joycon<br>NS1: Right Joycon | Single: $10<br>Volume: $4 | 3 | Buggier than the Pico W. |
+| Raspberry Pi Pico W<br>(USB Mode) | NS1: Wireless Pro Controller<br>NS1: Left Joycon<br>NS1: Right Joycon | Single: $14<br>Volume: $7 | 1 | Upgradable to UART mode.<br><br>Unresolved Bugs:<br>- [Issue 693](https://github.com/PokemonAutomation/Arduino-Source/issues/693) |
+| ESP32 | NS1: Wireless Pro Controller<br>NS1: Left Joycon<br>NS1: Right Joycon | Single: $10<br>Volume: $4 | 3 | Unresolved Bugs:<br>- [Issue 587](https://github.com/PokemonAutomation/Arduino-Source/issues/587)<br>- [Issue 694](https://github.com/PokemonAutomation/Arduino-Source/issues/694) |
 | ESP32-S3 | HID: Keyboard<br>NS1: Wired Controller<br>NS2: Wired Controller | Single: $15<br>Volume: $8 | 3 | Best wired setup by far.<br>Workhorse for most seasoned users. |
-| Raspberry Pi Pico W<br>(UART Mode) | HID: Keyboard<br>NS1: Wired Controller<br>NS2: Wired Controller<br>NS1: Wireless Pro Controller<br>NS1: Left Joycon<br>NS1: Right Joycon | Single: $24<br>Volume: $10 | 5 | Exposed pins can be annoying. |
+| Raspberry Pi Pico W<br>(UART Mode) | HID: Keyboard<br>NS1: Wired Controller<br>NS2: Wired Controller<br>NS1: Wireless Pro Controller<br>NS1: Left Joycon<br>NS1: Right Joycon | Single: $24<br>Volume: $10 | 5 | Exposed pins can be annoying.<br><br>Unresolved Bugs:<br>- [Issue 693](https://github.com/PokemonAutomation/Arduino-Source/issues/693) |
 | Arduino Uno R3 | NS2: Wired Controller | Single: $20 | 7 |  |
 | Arduino Leonardo | NS2: Wired Controller | Single: $25 | 7 |  |
 | Teensy 2/Teensy++ 2<br>(Mini Grabbers) | NS2: Wired Controller | (discontinued) | 8 | Final product is bulky and fragile. |
