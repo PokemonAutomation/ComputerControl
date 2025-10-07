@@ -2,6 +2,8 @@
 
 The Raspberry Pi Pico W (and Pico 2 W) is the easiest setup to get up and running (even easier than the ESP32). Thus, it is ideal for new users who just want to try out this project without getting too deep.
 
+There is no difference between the Pico W and the Pico 2 W for this project. Either will work. The Pico 2 is newer and $1 more expensive.
+
 There are two operating modes of the Pico W family:
 
 | **Mode** | **Connections** | **Controller Support** | **Setup Difficulty** |
