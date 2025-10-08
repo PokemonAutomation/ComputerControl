@@ -98,7 +98,7 @@ Programs that are speed-critical will have separate execution paths optimized fo
 
 ### Wired:
 
-Wired controllers are by far the most stable with a button timing accuracy of < 1ms (typically ~100us). They are not prone to random disconnects and can connect to the Switch from almost anywhere. This makes it the best suited for automation.
+Wired controllers are by far the most stable with a button timing accuracy of < 1ms (typically ~100us). They are not prone to random disconnects and can connect to the Switch from almost anywhere. This makes them the best suited for automation.
 
 | **Device** | **Controller** |
 | --- | --- |
