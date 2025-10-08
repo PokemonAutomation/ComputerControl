@@ -20,7 +20,7 @@ The computer control (CC) automation setup consists of 4 main components:
 
 The computer is the player. The capture card is its eyes. The controller is its hands.
 
-Here is an example of a full setup using an ESP32 microcontroller:
+Here is an example of a full setup using a Raspberry Pi Pico W microcontroller:
 
 <img src="Images/FullSetup-WirelessController2.jpg">
 
@@ -183,6 +183,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
