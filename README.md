@@ -6,8 +6,6 @@ This repo contains the computer-control programs (formerly known as "serial prog
 
 If you are new, you should start with our [Computer Control Setup Guide](Wiki/SetupGuide/README.md).
 
-If you came here intending to run [AutoMaxLair](https://github.com/PokemonAutomation/AutoMaxLair), there is a newer version of it that's built-into the Computer-Control programs now. But if you want to play with the original Python one anyway, the hardware setup is the same as the wired configuration for the Computer-Control programs.
-
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
 
 **Latest Downloads:**
@@ -34,6 +32,7 @@ The next level game console automation using computer control, machine learning,
 <img src="Wiki/SetupGuide/Images/ESP32/ControllerSetup-ESP32-WROOM-Setup.jpg" width="800">
 <img src="Wiki/Programs/PokemonSwSh/images/ShinyHuntAutonomous-Overworld-1.jpg" width="800">
 <img src="Wiki/Programs/PokemonSwSh/images/MaxLair-0.png" width="800">
+
 
 
 
