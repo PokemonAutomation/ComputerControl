@@ -98,7 +98,7 @@ While we support quite a few different setups, these are the 3 that we recommend
 | <img src="Images/ESP32-S3/ControllerSetup-ESP32-S3.jpg" width="1000"> | <img src="Images/ESP32/ControllerSetup-ESP32-WROOM.jpg" width="1000"> | <img src="Images/sys-botbase/ControllerSetup-sbb.jpg" width="1000"> |
 | **Supported Controller Types:**<br>- USB Keyboard<br>- Switch 1: Wired Controller<br>- Switch 2: Wired Controller | **Supported Controller Types:**<br>- Switch 1: Wireless Pro Controller<br>- Switch 1: Left Joycon<br>- Switch 1: Right Joycon | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> |
 | **Recommended Microcontrollers:**<br>ESP32-S3<br><br><br> | **Recommended Microcontrollers:**<br>ESP32-WROOM-32<br>Raspberry Pi Pico W (**beta!**)<br>Raspberry Pi Pico 2 W (**beta!**) | **Recommended Microcontrollers:**<br>None required.<br><br><br> |
-| More Expensive<br>Harder to setup.<br>Easiest to use after setup. | Cheapest<br>Easiest to setup.<br>Harder to use after setup. | Requires a hacked Switch running custom firmware (CFW). |
+| More Expensive<br>Harder to setup<br>Easiest to use after setup | Cheapest<br>Easiest to setup<br>Harder to use after setup | Requires a hacked Switch running custom firmware (CFW). |
 | Works on Switch 2. | Works on Switch 2. | Does not work on Switch 2 due to lack of CFW. |
 | Cannot run LGPE programs.<br>Runs all other programs.* | Runs nearly all programs - including LGPE.* | sbb3: Identical to wired controllers.<br>sbb2: Cannot run programs that require timing precision. |
 | Fastest and most reliable. | Slower and less reliable than wired. | sbb3: Identical to wired controllers.<br>sbb2: Very slow and unreliable. |
@@ -182,6 +182,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
