@@ -25,9 +25,9 @@ There are two operating modes of the Pico W family:
 #1-3 are part of the initial setup so you should have all of these already.
 
 **Estimated Total Cost (USD):** (not including computer and Nintendo Switch)
-- **Single Setup:** $24 - $34
+- **Single Setup:** $18 - $34
     - Capture Card: $10 - $20
-    - Pico W: $12
+    - Pico W: $6 - $12
     - USB Cable/Adapter: $2
 - **Bulk Purchase:** ~$17 per setup
     - Capture Card: $10
