@@ -140,20 +140,15 @@ When you are done, you should have the CC window running and looking like this:
 
 Here the guide will diverge depending on which controller type you have chosen. Pick the one you chose earlier.
 
-**Wireless Controller:**
- - [Raspberry Pi Pico W and Pico 2 W](Controllers/Controller-PicoW-USB.md)
- - [ESP32-WROOM](Controllers/Controller-ESP32-WROOM.md)
-   - Video tutorial: https://youtu.be/YzGyQQOGjl8
- - [ESP32-WROOM for MacOS](Controllers/Controller-ESP32-WROOM-MacOS.md)
+| | **Device Type** | **Supported Controllers** | **Setup Difficulty<br>(Scale 1-10)** | **Guides** |
+| --- | --- | --- | --- | --- |
+| <img src="Images/ESP32/ControllerSetup-ESP32-WROOM.jpg" width="200"> | ESP32 | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | 3 | [Windows](SetupGuide/Controllers/Controller-ESP32-WROOM.md)<br>[Mac](SetupGuide/Controllers/Controller-ESP32-WROOM-MacOS.md)<br>[Video Tutorial](https://youtu.be/YzGyQQOGjl8) |
+| <img src="Images/ESP32-S3/ControllerSetup-ESP32-S3.jpg" width="200"> | ESP32-S3 | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller | 3 | [Windows](SetupGuide/Controllers/Controller-ESP32-S3.md)<br>[Video Tutorial](https://youtu.be/ezBuwk48z8w) |
+| <img src="Images/PicoW/ControllerSetup-PicoW-USB.jpg" width="200"> | Raspberry Pi Pico W<br>Raspberry Pi Pico 2 W<br>(USB Mode) | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | 1 | [Guide](SetupGuide/Controllers/Controller-PicoW-USB.md) |
+| <img src="Images/PicoW/ControllerSetup-PicoW-UART.jpg" width="200"> | Raspberry Pi Pico W<br>Raspberry Pi Pico 2 W<br>(UART Mode) | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller<br>Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | 5 | [Guide](SetupGuide/Controllers/Controller-PicoW-UART.md) |
+| <img src="Images/sys-botbase/ControllerSetup-sbb.jpg" width="200"> | CFW: sys-botbase 2<br>CFW: sys-botbase 3 | Switch 1: Wired Pro Controller | 2 | [Guide](SetupGuide/Controllers/Controller-sys-botbase.md) |
 
-**Wired Controller:**
- - [ESP32-S3](Controllers/Controller-ESP32-S3.md)
-   - Video tutorial: https://youtu.be/ezBuwk48z8w (recommended for new-comers)
-
-**Custom Firmware:**
- - [sys-botbase](Controllers/Controller-sys-botbase.md)
-
-Note that usb-botbase is not supported because it clashes with the capture card which needs the same USB port.
+The full list can be found in the [Controller List](/Wiki/ControllerList.md).
 
 ## Step 4: Finishing Up
 
@@ -183,6 +178,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
