@@ -16,8 +16,8 @@ This table lists all the device and controller combinations that we support in t
 
 | | **Device Type** | **Supported Controllers** | **Setup Difficulty<br>(Scale 1-10)** | **Guides** |
 | --- | --- | --- | --- | --- |
+| <img src="SetupGuide/Images/ESP32/ControllerSetup-ESP32-WROOM.jpg" width="200"> | ESP32 | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | 3 | [Windows](SetupGuide/Controllers/Controller-ESP32-WROOM.md)<br>[Mac](SetupGuide/Controllers/Controller-ESP32-WROOM-MacOS.md) |
 | <img src="SetupGuide/Images/ESP32-S3/ControllerSetup-ESP32-S3.jpg" width="200"> | ESP32-S3 | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller | 3 | [Windows](SetupGuide/Controllers/Controller-ESP32-S3.md) |
-| <img src="SetupGuide/Images/ESP32/ControllerSetup-ESP32-WROOM.jpg" width="200"> | ESP32-WROOM | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | 3 | [Windows](SetupGuide/Controllers/Controller-ESP32-WROOM.md)<br>[Mac](SetupGuide/Controllers/Controller-ESP32-WROOM-MacOS.md) |
 | <img src="SetupGuide/Images/PicoW/ControllerSetup-PicoW-USB.jpg" width="200"> | Raspberry Pi Pico W<br>Raspberry Pi Pico 2 W<br>(USB Mode) | Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | 1 | [Guide](SetupGuide/Controllers/Controller-PicoW-USB.md) |
 | <img src="SetupGuide/Images/PicoW/ControllerSetup-PicoW-UART.jpg" width="200"> | Raspberry Pi Pico W<br>Raspberry Pi Pico 2 W<br>(UART Mode) | HID: Keyboard<br>Switch 1: Wired Controller<br>Switch 2: Wired Controller<br>Switch 1: Wireless Pro Controller<br>Switch 1: Left Joycon<br>Switch 1: Right Joycon | 5 | [Guide](SetupGuide/Controllers/Controller-PicoW-UART.md) |
 | <img src="SetupGuide/Images/sys-botbase/ControllerSetup-sbb.jpg" width="200"> | CFW: sys-botbase 2<br>CFW: sys-botbase 3 | Switch 1: Wired Pro Controller | 2 | [Guide](SetupGuide/Controllers/Controller-sys-botbase.md) |
