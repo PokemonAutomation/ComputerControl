@@ -126,7 +126,7 @@ Afterwards, the 2 LEDs on the Pro Micro should flash in unison for 5 seconds bef
 
 At this point, your final setup should look like this:
 
-<img src="../Images/ControllerSetup-Teensy-Setup.jpg">
+<img src="../Images/Teensy2/ControllerSetup-Teensy-Setup.jpg">
 
 
 ## Software Setup:
@@ -143,6 +143,7 @@ Continue to: [Wired Controller (AVR8) Software Setup](Controller-Software-AVR8.m
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
