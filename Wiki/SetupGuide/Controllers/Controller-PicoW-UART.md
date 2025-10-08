@@ -33,9 +33,9 @@ This is the most versatile setup as it supports every single controller in this 
 
 **Estimated Total Cost (USD):** (not including computer and Nintendo Switch)
 
-- **Single Setup:** $34 - $44
+- **Single Setup:** $29 - $44
     - Capture Card: $10 - $20
-    - Pico W (with pins): $12
+    - Pico W (with pins): $7 - $12
     - USB Cable/Adapter: $2
     - UART: $10
 - **Bulk Purchase:** ~$20 per setup
