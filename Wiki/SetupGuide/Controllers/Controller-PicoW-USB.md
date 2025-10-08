@@ -20,7 +20,7 @@ There are two operating modes of the Pico W family:
 2. A [computer](../README.md#the-computer-the-player) running x64 Windows. (or another OS if you are able to set it up.)
 3. A [video capture card](../README.md#video-capture-card-the-computers-eyes).
 4. A Raspberry Pi Pico W, Pico WH, Pico 2 W, or Pico 2 WH microcontroller.
-5. A micro-USB to USB-A cable or dongle.
+5. A micro-USB to USB-A cable or adapter.
 
 #1-3 are part of the initial setup so you should have all of these already.
 
@@ -62,8 +62,8 @@ You must get a Pico with "W" in its name. The "W" stands for "wireless". The Pic
 Unlike other controllers, we ***strongly*** recommend the ones with pins for the sole reason that it becomes much easier to do [UART Mode](Controller-PicoW-UART.md) in the future. We only recommend the pinless boards if you either never intend to do UART mode, or if you have another way to connect to the holes (such as soldering, mini-grabbers, hammer headers, etc...)
 
 **A micro-USB  cable:**
+- Micro-USB -> USB-A Adapter: https://www.amazon.com/gp/product/B09FXJD61Z
 - Micro-USB -> USB-A Cable: https://www.amazon.com/Android-Compatible-Smartphones-Charging-Stations/dp/B095JZSHXQ
-- Micro-USB -> USB-A Dongle: https://www.amazon.com/gp/product/B09FXJD61Z
 
 ### Hardware Assembly:
 
