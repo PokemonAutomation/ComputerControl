@@ -26,7 +26,7 @@ This is the most versatile setup as it supports every single controller in this 
 2. A [computer](../README.md#the-computer-the-player) running x64 Windows. (or another OS if you are able to set it up.)
 3. A [video capture card](../README.md#video-capture-card-the-computers-eyes).
 4. A Raspberry Pi Pico W, Pico WH, Pico 2 W, or Pico 2 WH microcontroller.
-5. A micro-USB to USB-A cable or dongle.
+5. A micro-USB to USB-A cable or adapter.
 6. USB to Serial TTL (UART)
 
 #1-5 is the same as the Pico W USB mode. #6 is the additional hardware that you will need.
@@ -67,8 +67,8 @@ You must get a Pico with "W" in its name. The "W" stands for "wireless". The Pic
 Here you will need the versions with pre-soldered pins in order to connect the UART. If you have other methods of connecting such as soldering or [press-fit/hammer headers](https://www.adafruit.com/product/5938), feel free to get the pinless ones and do your own thing.
 
 **A micro-USB  cable:**
+- Micro-USB -> USB-A Adapter: https://www.amazon.com/gp/product/B09FXJD61Z
 - Micro-USB -> USB-A Cable: https://www.amazon.com/Android-Compatible-Smartphones-Charging-Stations/dp/B095JZSHXQ
-- Micro-USB -> USB-A Dongle: https://www.amazon.com/gp/product/B09FXJD61Z
 
 **USB to Serial TTL (UART):**
 
