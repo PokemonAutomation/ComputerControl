@@ -64,7 +64,7 @@ This is the most versatile setup as it supports every single controller in this 
 
 You must get a Pico with "W" in its name. The "W" stands for "wireless". The Picos without the "W" lack the wireless module needed for the wireless connection! The "H" doesn't matter, though most of the boards with pins are also "H".
 
-Here you will need the versions with pre-soldered pins in order to connect the UART. If you are experienced with soldering, feel free to get the pinless ones and do your own thing.
+Here you will need the versions with pre-soldered pins in order to connect the UART. If you have other methods of connecting such as soldering or [press-fit/hammer headers](https://www.adafruit.com/product/5938), feel free to get the pinless ones and do your own thing.
 
 **A micro-USB  cable:**
 - Micro-USB -> USB-A Cable: https://www.amazon.com/Android-Compatible-Smartphones-Charging-Stations/dp/B095JZSHXQ
