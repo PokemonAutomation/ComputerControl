@@ -19,7 +19,7 @@ This is a list of all the computer-control programs. To run these programs, you 
 **Controller Categories:**
 | **Wired** | **Wireless** | **Other** |
 | --- | --- | --- |
-| - ESP32-S3<br>- Arduino Uno R3<br>- Arduino Leonardo<br>- Teensy 2.0<br>- Teensy++ 2.0<br>- Pro Micro<br>- sys-botbase 3 (sbb3) | - ESP32-WROOM | - sys-botbase 2.4 (sbb2) |
+| - ESP32-S3<br>- Pico W (wired controller)<br>- Pico 2 W (wired controller)<br>- sys-botbase 3 (sbb3)<br>- Arduino Uno R3<br>- Arduino Leonardo<br>- Teensy 2.0<br>- Teensy++ 2.0<br>- Pro Micro | - ESP32<br>- Pico W (wireless controller)<br>- Pico 2 W (wireless controller)<br><br><br><br><br><br><br> | - sys-botbase 2.4 (sbb2)<br><br><br><br><br><br><br><br><br> |
 
 Read more about [Controller Performance Categories](/Wiki/ControllerList.md#controller-performance-classes).
 
@@ -324,6 +324,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
