@@ -93,17 +93,17 @@ The controller is the most difficult part to setup because there is no off-the-s
 
 While we support quite a few different setups, these are the 3 that we recommend to new users:
 
-| **Wired** | **Wireless** | **Custom Firmware** |
+| **Wireless** | **Wired** | **Custom Firmware** |
 | --- | --- | --- |
-| <img src="Images/ESP32-S3/ControllerSetup-ESP32-S3.jpg" width="1000"> | <img src="Images/ESP32/ControllerSetup-ESP32-WROOM.jpg" width="1000"> | <img src="Images/sys-botbase/ControllerSetup-sbb.jpg" width="1000"> |
-| **Supported Controller Types:**<br>- USB Keyboard<br>- Switch 1: Wired Controller<br>- Switch 2: Wired Controller | **Supported Controller Types:**<br>- Switch 1: Wireless Pro Controller<br>- Switch 1: Left Joycon<br>- Switch 1: Right Joycon | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> |
-| **Recommended Microcontrollers:**<br>ESP32-S3<br><br><br> | **Recommended Microcontrollers:**<br>ESP32-WROOM-32<br>Raspberry Pi Pico W (**beta!**)<br>Raspberry Pi Pico 2 W (**beta!**) | **Recommended Microcontrollers:**<br>None required.<br><br><br> |
-| More Expensive<br>Harder to setup<br>Easiest to use after setup | Cheapest<br>Easiest to setup<br>Harder to use after setup | Requires a hacked Switch running custom firmware (CFW). |
+| <img src="Images/PicoW/ControllerSetup-PicoW-USB.jpg" width="1000"> | <img src="Images/ESP32-S3/ControllerSetup-ESP32-S3.jpg" width="1000"> | <img src="Images/sys-botbase/ControllerSetup-sbb.jpg" width="1000"> |
+| **Supported Controller Types:**<br>- Switch 1: Wireless Pro Controller<br>- Switch 1: Left Joycon<br>- Switch 1: Right Joycon | **Supported Controller Types:**<br>- USB Keyboard<br>- Switch 1: Wired Controller<br>- Switch 2: Wired Controller | **Supported Controller Types:**<br>Wired Pro Controller<br><br><br> |
+| **Recommended Microcontrollers:**<br>- Raspberry Pi Pico W<br>- ESP32 | **Recommended Microcontrollers:**<br>- ESP32-S3<br><br> | **Recommended Microcontrollers:**<br>- None required.<br><br> |
+| Cheapest. Easiest to setup.<br>Harder to use after setup. | More Expensive. Harder to setup.<br>Easiest to use after setup. | Requires a hacked Switch running custom firmware (CFW). |
 | Works on Switch 2. | Works on Switch 2. | Does not work on Switch 2 due to lack of CFW. |
-| Cannot run LGPE programs.<br>Runs all other programs.* | Runs nearly all programs - including LGPE.* | sbb3: Identical to wired controllers.<br>sbb2: Cannot run programs that require timing precision. |
-| Fastest and most reliable. | Slower and less reliable than wired. | sbb3: Identical to wired controllers.<br>sbb2: Very slow and unreliable. |
-| Very good for remote access.<br>Very good for high density setups. | Not recommended for remote access.<br>Not recommended for high density setups due to wireless interference. | Not recommended for remote access. |
-| Recommended for heavy users who want maximum reliability. | Recommended for users who want fewer cables. Required for LGPE. | Recommended for existing CFW users who want to try CC programs with minimal investment. |
+| Runs nearly all programs - including LGPE.* | Cannot run LGPE programs.<br>Runs all other programs.* | sbb3: Identical to wired controllers.<br>sbb2: Cannot run programs that require timing precision. |
+| Slower and less reliable than wired. | Fastest and most reliable. | sbb3: Identical to wired controllers.<br>sbb2: Very slow and unreliable. |
+| Not recommended for remote access.<br>Not recommended for high density setups due to wireless interference. | Very good for remote access.<br>Very good for high density setups. | Not recommended for remote access. |
+| Recommended for first time users. | Recommended for heavy users who want maximum reliability. | Recommended for existing CFW users who want to try CC programs with minimal investment. |
 
 For a complete list of setups - including older ones we no longer recommend, see our [Controller List](/Wiki/ControllerList.md).
 
@@ -113,8 +113,9 @@ For a complete list of setups - including older ones we no longer recommend, see
 
 | **User Type** | **Recommendation** | **Comments** |
 | --- | --- | --- |
-| You are completely new to automation. | ESP32-S3 | Most stable and reliable. No hassle after setup. |
-| You want to automate LGPE. | ESP32 or Pico W | Cheapest and easiest to setup, but less reliable.<br>This is the only option to automate LGPE. |
+| You are completely new to automation. | Pico W | Cheapest. Easiest to setup. |
+| You want to automate LGPE. | Pico W or ESP32 | Wireless is required for LGPE. |
+| You are a heavy user of automation with multiple Switches running 24/7. | ESP32-S3 | Most stable and reliable. No hassle after setup. |
 | You are an existing Computer Control user who already has the Arduino/Teensy setup. | Keep what you have. | See the [Controller List](/Wiki/ControllerList.md) to find the guide to re-setup your hardware. |
 | You are an experienced CFW user. | sys-botbase 3 | This setup is designed specifically for you at no additional cost (beyond a capture card)! |
 
@@ -139,15 +140,15 @@ When you are done, you should have the CC window running and looking like this:
 
 Here the guide will diverge depending on which controller type you have chosen. Pick the one you chose earlier.
 
-**Wired Controller:**
- - [ESP32-S3](Controllers/Controller-ESP32-S3.md)
-   - Video tutorial: https://youtu.be/ezBuwk48z8w (recommended for new-comers)
-
 **Wireless Controller:**
+ - [Raspberry Pi Pico W and Pico 2 W](Controllers/Controller-PicoW-USB.md)
  - [ESP32-WROOM](Controllers/Controller-ESP32-WROOM.md)
    - Video tutorial: https://youtu.be/YzGyQQOGjl8
  - [ESP32-WROOM for MacOS](Controllers/Controller-ESP32-WROOM-MacOS.md)
- - [Raspberry Pi Pico W and Pico 2 W (**beta!**)](Controllers/Controller-PicoW-USB.md)
+
+**Wired Controller:**
+ - [ESP32-S3](Controllers/Controller-ESP32-S3.md)
+   - Video tutorial: https://youtu.be/ezBuwk48z8w (recommended for new-comers)
 
 **Custom Firmware:**
  - [sys-botbase](Controllers/Controller-sys-botbase.md)
@@ -182,6 +183,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
