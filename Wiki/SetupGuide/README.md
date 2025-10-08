@@ -22,7 +22,7 @@ The computer is the player. The capture card is its eyes. The controller is its 
 
 Here is an example of a full setup using an ESP32 microcontroller:
 
-<img src="Images/FullSetup-WirelessController.jpg">
+<img src="Images/FullSetup-WirelessController2.jpg">
 
 
 ## Step 1: The Hardware
