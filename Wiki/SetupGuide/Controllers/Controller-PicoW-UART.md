@@ -33,9 +33,9 @@ This is the most versatile setup as it supports every single controller in this 
 
 **Estimated Total Cost (USD):** (not including computer and Nintendo Switch)
 
-- **Single Setup:** $29 - $44
+- **Single Setup:** $29 - $40
     - Capture Card: $10 - $20
-    - Pico W (with pins): $7 - $12
+    - Pico W (with pins): $7 - $8
     - USB Cable/Adapter: $2
     - UART: $10
 - **Bulk Purchase:** ~$20 per setup
@@ -55,12 +55,21 @@ This is the most versatile setup as it supports every single controller in this 
 
 | **Model** | **Quantity** | **Price / Unit** | **Shopping Link** |
 | --- | --- | --- | --- |
+| Pico WH | 1 (with pins) | $7 / unit | [Micro Center](https://www.microcenter.com/product/650109/raspberry-pi-pico-wh-pico-wireless-with-headers-soldered) |
+| Pico WH | 1 (with pins) | $7 / unit | [Adafruit](https://www.adafruit.com/product/5544) |
+| Pico 2 WH | 1 (with pins) | $8 / unit | [Micro Center](https://www.microcenter.com/product/692334/raspberry-pi-pico-2w-with-header) |
+| Pico 2 WH | 1 (with pins) | $8 / unit | [Adafruit](https://www.adafruit.com/product/6315) |
 | Pico WH | 1 (with pins) | $12 / unit | [https://www.amazon.com/gp/product/B0BHM95WCM](https://www.amazon.com/gp/product/B0BHM95WCM) |
 | Pico WH | 2 (with pins) | $11 / unit | [https://www.amazon.com/gp/product/B0BHM7TH1C](https://www.amazon.com/gp/product/B0BHM7TH1C) |
 | Pico 2 WH | 1 (with pins + cable) | $15 / unit | [https://www.amazon.com/gp/product/B0F4W9J5CC](https://www.amazon.com/gp/product/B0F4W9J5CC) |
 | Pico 2 WH | 1 (with pins) | $14 / unit | [https://www.amazon.com/gp/product/B0FGVQPZP6](https://www.amazon.com/gp/product/B0FGVQPZP6) |
-| Pico WH | 1 (with pins) | $7 / unit | [Micro Center](https://www.microcenter.com/product/650109/raspberry-pi-pico-wh-pico-wireless-with-headers-soldered) |
-| Pico 2 WH | 1 (with pins) | $8 / unit | [Micro Center](https://www.microcenter.com/product/692334/raspberry-pi-pico-2w-with-header) |
+| Pico W | 1 (no pins) | $6 / unit | [Micro Center](https://www.microcenter.com/product/650108/raspberry-pi-pico-w) |
+| Pico W | 1 (no pins) | $6 / unit | [Adafruit](https://www.adafruit.com/product/5526) |
+| Pico 2 W | 1 (no pins) | $7 / unit | [Micro Center](https://www.microcenter.com/product/687384/raspberry-pi-pico-2-w) |
+| Pico 2 W | 1 (no pins) | $7 / unit | [Adafruit](https://www.adafruit.com/product/6087) |
+| Pico W | 1 (no pins) | $12 / unit | [https://www.amazon.com/gp/product/B0FJFLM9DW](https://www.amazon.com/gp/product/B0FJFLM9DW) |
+| Pico W | 2 (no pins) | $10 / unit | [https://www.amazon.com/gp/product/B0B72GV3K3/](https://www.amazon.com/gp/product/B0B72GV3K3/) |
+| Pico 2 W | 1 (no pins) | $13 / unit | [https://www.amazon.com/gp/product/B0DPF9N1MN](https://www.amazon.com/gp/product/B0DPF9N1MN) |
 
 You must get a Pico with "W" in its name. The "W" stands for "wireless". The Picos without the "W" lack the wireless module needed for the wireless connection! The "H" doesn't matter, though most of the boards with pins are also "H".
 
