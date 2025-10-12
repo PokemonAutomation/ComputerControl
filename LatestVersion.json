@@ -2,8 +2,8 @@
     "Release": {
         "VersionMajor": 0,
         "VersionMinor": 58,
-        "VersionPatch": 2,
-        "Changes": "<b>Version 0.58.2:</b><br>- Support for Raspberry Pi Pico W and Pico 2 W has been officially released from beta.<br>- AutoStory has been extended to Orthworm. (credit jw)<br>- Fixed an issue in all firmware that may cause dropped buttons.<br>- Stability improvements to AutoDA. (reported by Saber)<br>- Improved reliability of sandwich OCR.<br>- Minor UI changes.<br><br>This is the last (feature) release until PZA. The main purpose is to get Pico W released in time for the PZA hype."
+        "VersionPatch": 3,
+        "Changes": "<b>Version 0.58.3: (bugfixes)</b><br>- SV AutoStory has been extended to Medali Gym. (credit jw)<br>- Rolled back DPP to fix a major crash in Discord integration. (credit Saber)<br>- Improved reliability of LGPE programs that reset the game. New firmware will be needed for both ESP32 and Pico W. (reported by frost)<br>- Fixed some program crashes.<br>- Fixed some program hangs and poor responsiveness.<br>- Minor UI changes.<br>- Pico W will now log rumble events. (requires new firmware)<br><br><br><br><b>Version 0.58.2:</b><br>- Support for Raspberry Pi Pico W and Pico 2 W has been officially released from beta.<br>- AutoStory has been extended to Orthworm. (credit jw)<br>- Fixed an issue in all firmware that may cause dropped buttons.<br>- Stability improvements to AutoDA. (reported by Saber)<br>- Improved reliability of sandwich OCR.<br>- Minor UI changes.<br><br>This is the last (feature) release until PZA. The main purpose is to get Pico W released in time for the PZA hype."
     },
     "Beta": {
         "VersionMajor": 0,
