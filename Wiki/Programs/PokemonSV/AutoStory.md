@@ -73,7 +73,7 @@ NOTE 2: I recommend disabling Move learning. So you skip all the dialog boxes fr
 ## Two additional Pokemon
 As mentioned above, you need an additional two Pokemon, so that you have three Pokemon to do the Team Star autobattle challenges. 
 
-I recommend having two Level 100 Talonflames. Fletchinder are commonly found in the Los Platos area. Evolve them and get them to level 100 by feeding them EXP candy on your main account, as detailed above. Since we only need them for autobattling, there's no need for these Talonflames to have specific moves, items or EVs.
+I recommend having two Level 100 Talonflames. Fletchinder are commonly found in the Los Platos area. Evolve them and get them to level 100 by feeding them EXP candy on your main account, as detailed above. Since we only need them for autobattling, there's no need for these Talonflames to have specific EVs/IVs. I recommend that the Talonflames have a strong attacking move as their first move, e.g. Acrobatics; this is helpful for double battles.
 
 # Options
 
@@ -101,5 +101,6 @@ End the autostory program at this segment in the story.
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
