@@ -14,7 +14,6 @@ Once you have downloaded the package, unzip to somewhere you can access later. *
 
 <img src="Images/GeneralSetup-CCFolder.png" height="400">
 
-
 ### If you are on x64 Linux:
 
 Our Linux setup does not work right now. It compiles and runs, but the video flickers too much to be usable.
@@ -31,6 +30,7 @@ If you want to tinker with this anyway, see: [How to Build (Qt 6.8.2) - Ubuntu 2
 At this point you will see a black bar and a white screen. That's because we haven't setup video or audio yet!
 
 If you get errors about missing files like `MSVCP140.dll` or `VCRUNTIME140.dll`, you need to install the Microsoft Redistributable:
+
 - https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 - Direct Download: https://aka.ms/vs/17/release/vc_redist.x64.exe
 
@@ -50,6 +50,7 @@ Depending on your capture card, it may look different from this:
 ## Step 4: Setup sound.
 
 The sound options are below the Camera options. Most of these options are self-explanatory.
+
 1. Select the Audio Input that comes from your capture card. If you don't know which one it is, try all of them.
 2. Select the Audio Output for your speakers. This will play back what your audio input is.
 3. The slider is for playback volume.
@@ -64,16 +65,16 @@ The Audio Output and playback are only for user consumption. You can mute the pr
 **Notes:**
 
 - Some high-end capture cards (such as AVerMedia) do not have audio inputs. They use a proprietary system that fuses the audio channel with the video. Since we do not support this, you will need to run an audio cable from your Switch's headphone jack into your computer's line-in or microphone jacks.
-- Due a quirk* with many cheap capture cards (including the ones we recommend), the left and right audio channels may be reversed. If this is the case for you, try the other "Interleaved Stereo" format.
+- Due a quirk\* with many cheap capture cards (including the ones we recommend), the left and right audio channels may be reversed. If this is the case for you, try the other "Interleaved Stereo" format.
 
 \*This "quirk" causes both Windows and OBS to treat these capture cards as mono-channel audio. While we are able to recover the stereo output by separating the left/right audio channels, we can't always determine which is which - hence the reversed left/right channels.
-
 
 ## Step 5: You are done!
 
 At this point, your computer is playing both the video and the audio from your Switch. In effect, you have turned your computer into a TV as far as your Switch is concerned. You can play your Switch on your computer using a controller connected to the Switch. (your regular joycons or pro controller)
 
 Feel free to adjust the visual settings:
+
 - You can toggle various overlays by checking/unchecking the boxes next to "Overlays". Right now, the only visible overlay is the stats in the upper right corner of the video feed.
 - You can change the audio visualization by clicking on the dropdown next to the volume slider.
 - You can change the theme (light or dark themes) in the "Settings" button at the bottom left corner of the window.
@@ -82,18 +83,20 @@ Of course there are many other programs that can also play video and audio from 
 
 Back to the [Setup Guide](README.md#step-3-controller-setup).
 
-
 ## Troubleshooting:
 
 ### Common video capture errors:
+
 - The capture card is in use by another program. Close OBS or any other program potentially using the card.
 - The capture card is not receiving enough power over the USB connection.
 - There are multiple capture cards connected to the same physical USB port on the computer (by means of a hub). (see [multiple capture cards](#multiple-switch-considerations))
 - The USB port is broken or does not provide enough power to the capture card. Try other USB ports.
-- Check your connection is secure for cables and capure card.
+- Check your connection is secure for cables and capture card.
 - The HDMI cable may be broken. Try a new cable.
+- Privacy Settings may block programs from seeing the capture card. (see [windows privacy settings](#windows-privacy-settings))
 
 To rule out possible video capture errors:
+
 - Check if the PC sees the capture card via Windows Device Manager (or other device management software).
 - Check if the video stream is available on OBS (or other streaming software).
 
@@ -108,28 +111,27 @@ However, we have found that setting up the hardware to handle multiple serial po
 Capture cards are very hit-and-miss when you try to put multiple of them on the same USB hub.
 
 Some general observations:
+
 1. Capture cards draw a lot of power. If you put them with other high-powered USB devices drawing power from the same source, the card may not function.
 2. Capture cards use a lot of USB bandwidth. If you put multiple capture cards on the same USB hub, you may saturate the bandwidth on that hub.
-3. For some unknown reason (even when both the above do not apply), it can be difficult to get multiple capture cards on the same physical USB port (by means of a hub) on the computer to work simultaneously. You may need to spread them out. Thus for a 4-Switch setup, your computer will need at least 4 USB ports - one for each capture card. But within each port, you can use a hub to connect *one* capture card and other devices as well. (such as the UART serial connections)
+3. For some unknown reason (even when both the above do not apply), it can be difficult to get multiple capture cards on the same physical USB port (by means of a hub) on the computer to work simultaneously. You may need to spread them out. Thus for a 4-Switch setup, your computer will need at least 4 USB ports - one for each capture card. But within each port, you can use a hub to connect _one_ capture card and other devices as well. (such as the UART serial connections)
+
+### Windows Privacy Settings
+
+If the capture card is not showing up in the Video Input dropdown, app access to your "camera" might be disabled. Depending on the type of capture card Windows might categorize the device as a camera. This can be found via "Device Manager" (Control Panel -> Hardware and Sound -> Device Manager).
+
+Generic Capture Card recognized as a camera:
+
+<img src="Images/GeneralSetup-DeviceManagerCaptureCardCamera.png" width="400">
+
+If so, the privacy settings for "Let apps access your camera" and "Let desktop apps access your camera" need to be enabled.
+
+Navigate to Settings -> Privacy & security -> Camera
+
+<img src="Images/GeneralSetup-WindowsCameraPrivacySetting.png" width="400">
 
 <hr>
 
-**Discord Server:** 
+**Discord Server:**
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
