@@ -7,9 +7,9 @@
     },
     "Beta": {
         "VersionMajor": 0,
-        "VersionMinor": 54,
-        "VersionPatch": 24,
-        "Changes": "<b>Version 0.54.24 (Release Candidate):</b><br><br>- Added partial support for the Switch 2 GR and GL buttons. All keyboard settings will be reset to default due to the button mappings shifting.<br>- Fixed Arduino/Teensy and ESP32-S3 controllers hanging if the Switch refuses the connection. New firmware will be needed.<br>- Fixed all PLA programs that navigate regions being broken. (regression in v0.54.12)<br>- The Home Box Sorter should recognize PLA balls now.<br>- Fixed SBB allowing joysticks to go diagonally out-of-bounds. (reported by Koi)<br>- Fixed a possible deadlock with SBB.<br>- Fixed an issue in the button scheduler where it may issue incorrect commands.<br>- Various stability improvements to CC itself."
+        "VersionMinor": 59,
+        "VersionPatch": 3,
+        "Changes": "<b>Version 0.59.3:</b><br><br><b>New Programs:</b><br>- Shiny Hunt: Bench Sit<br>- Shiny Hunt: Overworld Reset<br><br><b>Bug Fixes:</b><br>- Improved reliability of Restaurant Farmer."
     },
     "PrivateBeta": {
         "VersionMajor": 0,
