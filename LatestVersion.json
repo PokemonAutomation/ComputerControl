@@ -8,8 +8,8 @@
     "Beta": {
         "VersionMajor": 0,
         "VersionMinor": 59,
-        "VersionPatch": 3,
-        "Changes": "<b>Version 0.59.3:</b><br><br><b>New Programs:</b><br>- Shiny Hunt: Bench Sit<br>- Shiny Hunt: Overworld Reset<br><br><b>Bug Fixes:</b><br>- Improved reliability of Restaurant Farmer."
+        "VersionPatch": 4,
+        "Changes": "<b>Version 0.59.4:</b><br><br>- The Restaurant Farmer now has a button to stop after the current run.<br>- More fixes to the Restaurant Farmer. (reported by elitheguy, frostedgeulleisia, and mendedpearl)"
     },
     "PrivateBeta": {
         "VersionMajor": 0,
