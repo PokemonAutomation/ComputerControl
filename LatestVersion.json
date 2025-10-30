@@ -8,8 +8,8 @@
     "Beta": {
         "VersionMajor": 0,
         "VersionMinor": 59,
-        "VersionPatch": 4,
-        "Changes": "<b>Version 0.59.4:</b><br><br>- The Restaurant Farmer now has a button to stop after the current run.<br>- More fixes to the Restaurant Farmer. (reported by elitheguy, frostedgeulleisia, and mendedpearl)"
+        "VersionPatch": 5,
+        "Changes": "<b>Version 0.59.5:</b><br><br>- The Restaurant Farmer can now automatically select moves based on type effectiveness.<br>- Hopefully fixed more Restaurant Farmer hangs. (reported by numerous people)<br>- Bench Sit should be less CPU resource intensive. (reported by dlewis3040)<br><br><b>Version 0.59.4:</b><br><br>- The Restaurant Farmer now has a button to stop after the current run.<br>- More fixes to the Restaurant Farmer. (reported by elitheguy, frostedgeulleisia, and mendedpearl)"
     },
     "PrivateBeta": {
         "VersionMajor": 0,
