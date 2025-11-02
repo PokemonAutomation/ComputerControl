@@ -2,8 +2,8 @@
     "Release": {
         "VersionMajor": 0,
         "VersionMinor": 59,
-        "VersionPatch": 3,
-        "Changes": "<b>Version 0.59.3:</b><br><br><b>New Programs:</b><br>- Shiny Hunt: Bench Sit<br>- Shiny Hunt: Overworld Reset<br><br><b>Bug Fixes:</b><br>- Improved reliability of Restaurant Farmer."
+        "VersionPatch": 6,
+        "Changes": "<b>Version 0.59.6:</b><br><br>- Added Wild Zone Entrance reset for shiny hunting. (credit Saber)<br>- Added Mega Shard Farmer.<br>- Reliability improvements to Restaurant Farmer. (reported by kennyexile)<br>- Bench Sit now has an option to walk forward to increase spawn coverage.<br>- Fixed a potential crash in the video pipeline. (reported by jayco_tv2)<br>- Removed the option to notify on every shiny sound."
     },
     "Beta": {
         "VersionMajor": 0,
