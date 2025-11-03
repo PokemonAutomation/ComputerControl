@@ -2,8 +2,8 @@
     "Release": {
         "VersionMajor": 0,
         "VersionMinor": 59,
-        "VersionPatch": 6,
-        "Changes": "<b>Version 0.59.6:</b><br><br>- Added Wild Zone Entrance reset for shiny hunting. (credit Saber)<br>- Added Mega Shard Farmer.<br>- Reliability improvements to Restaurant Farmer. (reported by kennyexile)<br>- Bench Sit now has an option to walk forward to increase spawn coverage.<br>- Fixed a potential crash in the video pipeline. (reported by jayco_tv2)<br>- Removed the option to notify on every shiny sound."
+        "VersionPatch": 7,
+        "Changes": "<b>Version 0.59.7:</b><br><br>Urgent Bug Fixes:<br>- Fixed the Wild Zone Entrance program on the Switch 1. (reported by... everyone!)<br>- Fixed more dialog issues with the Restaurant Farmer. (found by pifopi)<br><br>Untested/Unverified:<br>- Berry Buyer (credit Nymphea)<br>- Fixed Bench Sit erroring on shiny encounter when moving forward.<br>- Potential (untested) fix for a serious regression with the Pico W firmware. (reported by cozi.mtf, cringejosh)<br><br><br><b>Version 0.59.6:</b><br><br>- Added Wild Zone Entrance reset for shiny hunting. (credit Saber)<br>- Added Mega Shard Farmer.<br>- Reliability improvements to Restaurant Farmer. (reported by kennyexile)<br>- Bench Sit now has an option to walk forward to increase spawn coverage.<br>- Fixed a potential crash in the video pipeline. (reported by jayco_tv2)<br>- Removed the option to notify on every shiny sound."
     },
     "Beta": {
         "VersionMajor": 0,
