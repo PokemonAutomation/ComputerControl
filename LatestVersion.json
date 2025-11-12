@@ -2,8 +2,8 @@
     "Release": {
         "VersionMajor": 0,
         "VersionMinor": 59,
-        "VersionPatch": 8,
-        "Changes": "<b>Version 0.59.8:</b><br>- More fixes to the Restaurant Farmer. (reported by kennyexile, quantum____)<br>- Mega Shard Farmer and Wild Zone Entrance should be working on a fully completed game. (reported by adamncrab, jayco_tv2)<br><br><b>Version 0.59.7:</b><br><br>Urgent Bug Fixes:<br>- Fixed the Wild Zone Entrance program on the Switch 1. (reported by... everyone!)<br>- Fixed more dialog issues with the Restaurant Farmer. (found by pifopi)<br><br>Untested/Unverified:<br>- Berry Buyer (credit Nymphea)<br>- Fixed Bench Sit erroring on shiny encounter when moving forward.<br>- Potential (untested) fix for a serious regression with the Pico W firmware. (reported by cozi.mtf, cringejosh)<br><br><br><b>Version 0.59.6:</b><br><br>- Added Wild Zone Entrance reset for shiny hunting. (credit Saber)<br>- Added Mega Shard Farmer.<br>- Reliability improvements to Restaurant Farmer. (reported by kennyexile)<br>- Bench Sit now has an option to walk forward to increase spawn coverage.<br>- Fixed a potential crash in the video pipeline. (reported by jayco_tv2)<br>- Removed the option to notify on every shiny sound."
+        "VersionPatch": 10,
+        "Changes": "<b>Version 0.59.10:</b><br><br><b>New Programs:</b><br><br>- Added Auto Fossil (credit Gin)<br>- Added Jachinth Infinite Farmer (credit Gin)<br>- Added Self Box Trade<br>- Added Post-Kill Catcher to help catch something with a low catch rate.<br>- Berry Buyer has been replaced with Stall Buyer. (credit pifopi)<br><br><b>Other:</b><br><br>- The Wild Zone Entrance program has been drastically improved. (credit Gin)<br>- Restaurant Farmer now keeps track of wins and losses.<br>- Restaurant Farmer now has an option to periodically save the game to minimize loss to game crashes.<br>- Bench Sit has been partially rewritten to improve reliability. (credit Gin)<br>- Bench Sit walk back duration has been increased. (reported by speechless7796)<br>- Improved reliability of LGPE Daily Item Farmer. (reported by unedit)
     },
     "Beta": {
         "VersionMajor": 0,
