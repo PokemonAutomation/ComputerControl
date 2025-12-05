@@ -2,8 +2,8 @@
     "Release": {
         "VersionMajor": 0,
         "VersionMinor": 60,
-        "VersionPatch": 2,
-        "Changes": "<b>Version 0.60.2:</b><br><br>- Added Fly Spot Reset. Shiny hunt by repeatedly flying to the same fly spot. (credit Gin)<br>- Added Wild Zone Cafe Reset. Shiny hunt the two cafes inside the Wild Zones. (credit Gin)<br>- Added In-Place Catcher. Fill your boxes for Floette stats reset or to use to mass transfer across saves.<br>- Wild Zone Entrance will now attempt to escape from being attacked. (credit Gin)<br>- Bench Sit now has an option to periodically save the game. (credit dolphincurry)<br>- Fixed Jancinthe program being broken due to botched lock-on recovery. (reported by salad0150, credit Gin)<br>- Misc. fixes from error reports.<br>- Performance optimizations to increase parallelism of video feedback.<br><br>Note for beta-testers, the Shuttle Run program did not make it into this release."
+        "VersionPatch": 3,
+        "Changes": "<b>Version 0.60.3:</b><br><br>- Fixed a regression in the Bench Sit program where it may fail to recover from missing the bench. (reported by inavoig5042, piggy_friend_not_food)<br><br><br><b>Version 0.60.2:</b><br><br>- Added Fly Spot Reset. Shiny hunt by repeatedly flying to the same fly spot. (credit Gin)<br>- Added Wild Zone Cafe Reset. Shiny hunt the two cafes inside the Wild Zones. (credit Gin)<br>- Added In-Place Catcher. Fill your boxes for Floette stats reset or to use to mass transfer across saves.<br>- Wild Zone Entrance will now attempt to escape from being attacked. (credit Gin)<br>- Bench Sit now has an option to periodically save the game. (credit dolphincurry)<br>- Fixed Jancinthe program being broken due to botched lock-on recovery. (reported by salad0150, credit Gin)<br>- Misc. fixes from error reports.<br>- Performance optimizations to increase parallelism of video feedback.<br><br>Note for beta-testers, the Shuttle Run program did not make it into this release."
     },
     "Beta": {
         "VersionMajor": 0,
