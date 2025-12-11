@@ -2,8 +2,8 @@
     "Release": {
         "VersionMajor": 0,
         "VersionMinor": 60,
-        "VersionPatch": 4,
-        "Changes": "<br><b>Version 0.60.4:</b><br><br>Last feature release before DLC drops.<br><br>- Added Sewer Hunter. (credit Gin, split from Saber's Shuttle Run)<br>- More routes for Fly Sport Reset. (credit Gin, Saber)<br>- PLZA Auto Fossil can now continue after finding a match. (credit pifopi)<br>- Improved reliability of fast travel. (credit Gin)<br><br>Turbo Macro Rewrite:<br><br>- Turbo Macro now supports simultaneous button presses.<br>- Turbo Macro now supports both the Pro Controller and the Joycons.<br>- Turbo Macro now has a new (condensed) file format.<br>- Turbo Macro now accepts multiple file formats: The old Turbo Macro format, the Record Keyboard Controller's format, and the new condensed format.<br>- Loading any file format into Turbo Macro will automatically convert to the new format.<br><br>This version has only been lightly tested. Please let us know if you encounter any problems."
+        "VersionPatch": 8,
+        "Changes": "<b>Release v0.60.8:</b><br><br>Bugfixes only. No real DLC stuff yet.<br><br>- Fixed Wild Zone 20 for DLC. (credit Gin)<br>- Fixed some more Turbo Macro and Keyboard Recorder incompatibilities. (reported by Dhruv)<br>- Fixed some CC hangs.<br><br>You will likely need to flash new firmware for this release.<br><br>Those of you with ESP32-S3 and/or Pico W (UART) mode may something new that hasn't been documented yet. Feel free to poke around and to ask us about it in chat. But we'll announce those when our documentation is ready. (which might take a while since we're all busy)"
     },
     "Beta": {
         "VersionMajor": 0,
