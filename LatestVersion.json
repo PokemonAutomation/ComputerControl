@@ -2,8 +2,8 @@
     "Release": {
         "VersionMajor": 0,
         "VersionMinor": 60,
-        "VersionPatch": 8,
-        "Changes": "<b>Release v0.60.8:</b><br><br>Bugfixes only. No real DLC stuff yet.<br><br>- Fixed Wild Zone 20 for DLC. (credit Gin)<br>- Fixed some more Turbo Macro and Keyboard Recorder incompatibilities. (reported by Dhruv)<br>- Fixed some CC hangs.<br><br>You will likely need to flash new firmware for this release.<br><br>Those of you with ESP32-S3 and/or Pico W (UART) mode may something new that hasn't been documented yet. Feel free to poke around and to ask us about it in chat. But we'll announce those when our documentation is ready. (which might take a while since we're all busy)"
+        "VersionPatch": 9,
+        "Changes": "<b>Release v0.60.9:</b><br><br>There are multiple DLC programs in the works, but none are ready yet. So stay tuned. Meanwhile, there's something else new to play with...<br><br>- Added support for wired OEM controllers. (wired Pro Controller and wired Joycon)<br>- Fly Spot Reset now supports Hyperspace wild zones. (credit Gin)<br>- Added Helioptile Hunter using weather detection. (credit Icaroto)<br>- Re-added Sewer Hunter which was accidentally disabled in the last release.<br>- Keyboard controls have been rewritten for some future plans. If you have custom keyboard mappings, you will need to redo them.<br>- Fixed battles sometimes not picking a move - affecting Jacinthe Farmer. (reported by jojoaman and kichi)<br>- Fixed duration fields jumping the cursor around. (reported by bgoproton)<br><br>Wired OEM controllers were actually released in the previous version (v0.60.8). But the wiki wasn't ready for it at the time. So it is being announced as part of this release."
     },
     "Beta": {
         "VersionMajor": 0,
