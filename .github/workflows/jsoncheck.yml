@@ -11,29 +11,33 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: json-syntax-check
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Check JSON syntax
         uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\.json$"
-      - if: success()
-        name: update success status
+
+      - name: Update success status
+        if: success()
         run : |
           gh api \
           --method POST \
           -H "Accept: application/vnd.github+json" \
-          /repos/PokemonAutomation/ServerConfigs-PA-SHA/statuses/${{ github.sha }} \
+          /repos/${{ github.repository }}/statuses/${{ github.sha }} \
           -f state='success' \
           -f context='json' \
         env:
           GH_TOKEN: ${{ github.token }}
-      - if: failure()
-        name: update failed status
+
+      - name: update failed status
+        if: failure()
         run : |
           gh api \
           --method POST \
           -H "Accept: application/vnd.github+json" \
-          /repos/PokemonAutomation/ServerConfigs-PA-SHA/statuses/${{ github.sha }} \
+          /repos/${{ github.repository }}/statuses/${{ github.sha }} \
           -f state='failure' \
           -f context='json' \
         env:
