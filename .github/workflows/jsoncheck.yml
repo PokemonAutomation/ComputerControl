@@ -18,27 +18,3 @@ jobs:
         uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\.json$"
-
-      - name: Update success status
-        if: success()
-        run : |
-          gh api \
-          --method POST \
-          -H "Accept: application/vnd.github+json" \
-          /repos/${{ github.repository }}/statuses/${{ github.sha }} \
-          -f state='success' \
-          -f context='json' \
-        env:
-          GH_TOKEN: ${{ github.token }}
-
-      - name: Update failed status
-        if: failure()
-        run : |
-          gh api \
-          --method POST \
-          -H "Accept: application/vnd.github+json" \
-          /repos/${{ github.repository }}/statuses/${{ github.sha }} \
-          -f state='failure' \
-          -f context='json' \
-        env:
-          GH_TOKEN: ${{ github.token }}
