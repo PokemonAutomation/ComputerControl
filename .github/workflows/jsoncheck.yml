@@ -12,10 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v2
 
       - name: Check JSON syntax
-        uses: limitusus/json-syntax-check@v2
+        uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\.json$"
 
@@ -31,7 +31,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
 
-      - name: update failed status
+      - name: Update failed status
         if: failure()
         run : |
           gh api \
