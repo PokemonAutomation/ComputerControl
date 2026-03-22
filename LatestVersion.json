@@ -9,7 +9,7 @@
         "VersionMajor": 0,
         "VersionMinor": 62,
         "VersionPatch": 7,
-        "Changes": "**Version 0.62.7 (public beta):**\n- Improved (and untested) support for Linux. (credit Anor Londo)\n- Enforce 720p+ and 16:9 aspect ratio for FRLG programs. (credit kichi)\n\nThis is the first public test run for Koi's new Azure build system!"
+        "Changes": "<b>Version 0.62.7 (public beta):</b><br>- Improved (and untested) support for Linux. (credit Anor Londo)<br>- Enforce 720p+ and 16:9 aspect ratio for FRLG programs. (credit kichi)<br><br>This is the first public test run for Koi's new Azure build system!"
     },
     "PrivateBeta": {
         "VersionMajor": 0,
