@@ -8,8 +8,8 @@
     "Beta": {
         "VersionMajor": 0,
         "VersionMinor": 62,
-        "VersionPatch": 6,
-        "Changes": "<b>Version 0.62.6 (public beta):</b><br><br>- Added Stream History. Allows you to save the last 30 seconds of video in CC. Currently only supports video and not audio. (credit jw)<br>- Added FRLG Nugget Farmer. (credit dolphincurry)<br>- Added FRLG overworld shiny hunt. (credit dolphincurry)<br>- Added FRLG Prize Corner Reset. (credit kichi)<br>- Fixed FRLG black border detector. (reported by ja1mean)<br>- Improved support for other FRLG languages. (credit kichi)<br>- FRLG Gift Reset will now notify on recoverable errors. (reported by .enio1, credit kichi)<br>- Incompatible firmware protocol will now link to the wiki. (credit jw)"
+        "VersionPatch": 7,
+        "Changes": "**Version 0.62.7 (public beta):**\n- Improved (and untested) support for Linux. (credit Anor Londo)\n- Enforce 720p+ and 16:9 aspect ratio for FRLG programs. (credit kichi)\n\nThis is the first public test run for Koi's new Azure build system!"
     },
     "PrivateBeta": {
         "VersionMajor": 0,
