@@ -8,8 +8,8 @@
     "Beta": {
         "VersionMajor": 0,
         "VersionMinor": 62,
-        "VersionPatch": 7,
-        "Changes": "<b>Version 0.62.7 (public beta):</b><br>- Improved (and untested) support for Linux. (credit Anor Londo)<br>- Enforce 720p+ and 16:9 aspect ratio for FRLG programs. (credit kichi)<br><br>This is the first public test run for Koi's new Azure build system!"
+        "VersionPatch": 8,
+        "Changes": "<p><strong>Version 0.62.8 (public beta):</strong><br />\n- Suppress sleep for Linux. (credit Anor Londo)<br />\n- Fix TCP:sys-botbase controller not having a text box for IP:Port</p>\n<p>This is the second attempt at automated Azure builds.</p>"
     },
     "PrivateBeta": {
         "VersionMajor": 0,
