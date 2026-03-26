@@ -1,5 +1,5 @@
-**Version 0.62.7 (public beta):**
-- Improved (and untested) support for Linux. (credit Anor Londo)
-- Enforce 720p+ and 16:9 aspect ratio for FRLG programs. (credit kichi)
+**Version 0.62.8 (public beta):**
+- Suppress sleep for Linux. (credit Anor Londo)
+- Fix TCP:sys-botbase controller not having a text box for IP:Port
 
-This is the first public test run for Koi's new Azure build system!
+This is the second attempt at automated Azure builds.
