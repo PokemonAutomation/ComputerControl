@@ -14,7 +14,7 @@
     "PrivateBeta": {
         "VersionMajor": 0,
         "VersionMinor": 63,
-        "VersionPatch": 3,
-        "Changes": "<p><strong>Version 0.63.3 (private beta):</strong></p>\n<ul>\n<li>New/Untested Program: FRLG RNG Helper (credit Astro)</li>\n<li>New/Untested Program: FRLG Lucky Egg Farmer (credit dolphincurry)</li>\n<li>New/Untested Program: Pokopia Cloud Island Reset (credit Gimikyu)</li>\n<li>Various stability improvements to FRLG programs. (credit Astro)</li>\n</ul>\n<p>We are going to try something new with regards to brand new programs.</p>\n<p>Normally we lock new programs to developers until multiple developers can test before we release. But it's pretty clear at this point that we simply do not have the throughput to do that. So it slows everything down.</p>\n<p>So instead, we will try something new. We're just gonna shove these new programs out to the ~900 of you who have private beta access. IOW, we're crowd-sourcing these raw programs to you folks to help us test them!</p>"
+        "VersionPatch": 5,
+        "Changes": "<p><strong>Version 0.63.5 (private beta):</strong><br />\n- Stability improvements to FRLG RNG Helper. (reported by Dhruv, credit Astro)<br />\n- Stability improvements to Lucky Egg Farmer. (credit dolphincurry)<br />\n- Improved stability of Cloud Island Reset. (reported by cristianaxe, credit Gimikyu)<br />\n- Improved stability of FRLG Legendary run away. (credit kichi)<br />\n- Added preliminary support for PABotBase2 firmware.</p>\n<hr />\n<p>PABotBase2 is the latest version of our microcontroller firmware that has been under development for the past few months.</p>\n<p>For now it is still very new and unstable. But we plan to eventually migrate to it and remove support with PABotBase1. This eventual removal of PABotBase1 will coincide with the removal of the AVR8 controllers (Arduino, Teensy, Pro Micro) as they will not be ported to PABotBase2.</p>"
     }
 }
