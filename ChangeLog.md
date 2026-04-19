@@ -1,12 +1,8 @@
-**Version 0.63.5 (private beta):**
-- Stability improvements to FRLG RNG Helper. (reported by Dhruv, credit Astro)
-- Stability improvements to Lucky Egg Farmer. (credit dolphincurry)
-- Improved stability of Cloud Island Reset. (reported by cristianaxe, credit Gimikyu)
-- Improved stability of FRLG Legendary run away. (credit kichi)
-- Added preliminary support for PABotBase2 firmware.
-
---------
-
-PABotBase2 is the latest version of our microcontroller firmware that has been under development for the past few months.
-
-For now it is still very new and unstable. But we plan to eventually migrate to it and remove support with PABotBase1. This eventual removal of PABotBase1 will coincide with the removal of the AVR8 controllers (Arduino, Teensy, Pro Micro) as they will not be ported to PABotBase2.
+**Version 0.63.6 (private beta):**
+- New/Untested Program: FRLG Item Duplication (credit dolphincurry)
+- Improved stability of FRLG run-away sequence. (reported by S.Night, credit dolphincurry)
+- Improved stability of FRLG legendary run-away. (credit kichi)
+- Improved stability of PLA Outbreak Finder. (credit Boombaastical)
+- Fixed FriendDelete which broke on firmware update.
+- Fixed Lucky Egg Farmer notifications. (credit dolphincurry)
+- Non-W Raspberry Pi Pico is now officially supported for PABotBase2 for wired controllers.
