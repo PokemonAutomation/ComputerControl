@@ -14,7 +14,7 @@
     "PrivateBeta": {
         "VersionMajor": 0,
         "VersionMinor": 63,
-        "VersionPatch": 6,
-        "Changes": "<p><strong>Version 0.63.6 (private beta):</strong><br />\n- New/Untested Program: FRLG Item Duplication (credit dolphincurry)<br />\n- Improved stability of FRLG run-away sequence. (reported by S.Night, credit dolphincurry)<br />\n- Improved stability of FRLG legendary run-away. (credit kichi)<br />\n- Improved stability of PLA Outbreak Finder. (credit Boombaastical)<br />\n- Fixed FriendDelete which broke on firmware update.<br />\n- Fixed Lucky Egg Farmer notifications. (credit dolphincurry)<br />\n- Non-W Raspberry Pi Pico is now officially supported for PABotBase2 for wired controllers.</p>"
+        "VersionPatch": 8,
+        "Changes": "<p><strong>Version 0.63.8 (private beta):</strong><br />\n- Tons of fixes to the Lucky Egg Farmer.</p>\n<p>Otherwise, this is the same as the v0.63.7 public beta.</p>"
     }
 }
