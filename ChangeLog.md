@@ -1,4 +1,2 @@
-**Version 0.63.8 (private beta):**
-- Tons of fixes to the Lucky Egg Farmer.
-
-Otherwise, this is the same as the v0.63.7 public beta.
+**Version 0.63.9:**
+- Fixed a major issue in PABotBase2 where it may disconnect after 30 seconds. (reported by bennian)
