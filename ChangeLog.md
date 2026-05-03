@@ -1,2 +1,3 @@
-**Version 0.63.9:**
-- Fixed a major issue in PABotBase2 where it may disconnect after 30 seconds. (reported by bennian)
+**Version 0.64.1 (public beta):**
+- Added Lucky Egg Farmer (credit dolphincurry)
+- FRLG Item Duplication (credit dolphincurry)
