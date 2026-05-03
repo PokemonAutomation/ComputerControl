@@ -1,6 +1,6 @@
 **Version 0.64.1 (public beta):**
 - Added Lucky Egg Farmer (credit dolphincurry)
-- FRLG Item Duplication (credit dolphincurry)
+- Added FRLG Item Duplication (credit dolphincurry)
 - Change in Pico firmware behavior: If you pair one OEM controller, it pairs all 3 of them. (not an intended feature, but rather a bugfix)
 - Fixed a video inference issue on slow computers. (reported by Astro)
 - Fixed the Cloud Island's run option. (credit Gimikyu)
