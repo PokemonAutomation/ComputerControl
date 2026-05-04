@@ -1,13 +1,9 @@
-**Version 0.64.1 (public beta):**
-- Added Lucky Egg Farmer (credit dolphincurry)
-- Added FRLG Item Duplication (credit dolphincurry)
-- Change in Pico firmware behavior: If you pair one OEM controller, it pairs all 3 of them. (not an intended feature, but rather a bugfix)
-- Fixed a video inference issue on slow computers. (reported by Astro)
-- Fixed the Cloud Island's run option. (credit Gimikyu)
-- Stability improvements to RNG Helper. (credit dolphincurry)
-- Stability improvements to most FRLG programs. (credit dolphincurry)
-- Stability improvements to AutoStory. (reported by Butters, credit jw)
-- General stability improvements to CC itself.
-- For developers: Support has been added for rumble inference. Feel free to ask us how to use it.
+**Version 0.64.2 (private beta):**
 
-While not required, we recommend flashing the new PABotBase2 firmware for this beta. There have been some big firmware changes we'd like to crowd-source test before going live.
+- New/Untested Program: FRLG SID finding RNG helper (credit Astro)
+- New/Untested Program: FRLG Starter Auto-RNG (credit Astro)
+- New/Untested Program: FRLG Gift Auto-RNG (credit Astro)
+- New/Untested Program: FRLG Static Auto-RNG (credit Astro)
+- New/Untested Program: FRLG Wild Encounter Auto-RNG (credit Astro)
+- New/Untested Feature: Added Volcanion to PLZA stats reset. (credit Nymphea)
+- New/Untested Feature: Cloud Island Reset can buy recipes. (credit Gimikyu)
