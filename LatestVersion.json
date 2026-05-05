@@ -14,7 +14,7 @@
     "PrivateBeta": {
         "VersionMajor": 0,
         "VersionMinor": 64,
-        "VersionPatch": 2,
-        "Changes": "<p><strong>Version 0.64.2 (private beta):</strong></p>\n<ul>\n<li>New/Untested Program: FRLG SID finding RNG helper (credit Astro)</li>\n<li>New/Untested Program: FRLG Starter Auto-RNG (credit Astro)</li>\n<li>New/Untested Program: FRLG Gift Auto-RNG (credit Astro)</li>\n<li>New/Untested Program: FRLG Static Auto-RNG (credit Astro)</li>\n<li>New/Untested Program: FRLG Wild Encounter Auto-RNG (credit Astro)</li>\n<li>New/Untested Feature: Added Volcanion to PLZA stats reset. (credit Nymphea)</li>\n<li>New/Untested Feature: Cloud Island Reset can buy recipes. (credit Gimikyu)</li>\n</ul>"
+        "VersionPatch": 3,
+        "Changes": "<p><strong>Version 0.64.3 (private beta):</strong></p>\n<ul>\n<li>Numerous fixes to RNG programs. (reported by Patrick, Isos, Titus, Nyashiro, credit Atro)</li>\n<li>Fixed Switch 2 datespam stability regression from FW updates. (reported by Patrick, Butters)</li>\n</ul>"
     }
 }
