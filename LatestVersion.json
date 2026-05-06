@@ -14,7 +14,7 @@
     "PrivateBeta": {
         "VersionMajor": 0,
         "VersionMinor": 64,
-        "VersionPatch": 3,
-        "Changes": "<p><strong>Version 0.64.3 (private beta):</strong></p>\n<ul>\n<li>Numerous fixes to RNG programs. (reported by Patrick, Isos, Titus, Nyashiro, credit Atro)</li>\n<li>Fixed Switch 2 datespam stability regression from FW updates. (reported by Patrick, Butters)</li>\n</ul>"
+        "VersionPatch": 4,
+        "Changes": "<p><strong>Version 0.64.4 (private beta):</strong></p>\n<ul>\n<li>More fixes to FRLG RNG programs. (credit Astro)</li>\n</ul>"
     }
 }
