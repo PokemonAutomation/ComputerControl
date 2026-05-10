@@ -1,10 +1,7 @@
 
-**Version 0.64.8 (private beta):**
-- Fixed missing resource files for Home Living Dex Sorter. (credit dolphincurry)
-
-**Version 0.64.7 (private beta):**
-- New/Untested Program: Home Living Dex sorter (a variant of the Box Sorter). (credit dolphincurry)
-- Includes all changes from 0.64.6 below.
+**Version 0.64.8 (public beta):**
+- Fixed more issues firmware issues.
+- More stability improvements to AutoStory. (reported by Butters, credit jw)
 
 **Version 0.64.6 (public beta):**
 - Fixed a major timing issue with PABotBase2. (credit Patrick and others for the clues that revealed this)
