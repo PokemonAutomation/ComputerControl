@@ -1,5 +1,5 @@
 **Version 0.64.5 (public beta):**
-- Fixed a major timing issue with PABotBase2. (credit Patrick and others for the clues that revealed this)
+- Fixed a major timing issue with PABotBase2. (credit Patrick, boombaastical, and others for the clues that revealed this)
 - The "HID: Keyboard" controller now displays Num/Caps/Scroll-lock status.
 - When using an OEM controller, programs will detect a connection failure and tell you do disconnect other controllers.
 - Added an option to make Friend Delete work on the Switch 2. (reported by Nikki)
