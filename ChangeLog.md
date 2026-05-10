@@ -1,5 +1,10 @@
-**Version 0.64.5 (public beta):**
-- Fixed a major timing issue with PABotBase2. (credit Patrick, boombaastical, and others for the clues that revealed this)
+
+**Version 0.64.7 (private beta):**
+- New/Untested Program: Home Living Dex sorter (a variant of the Box Sorter). (credit dolphincurry)
+- Includes all changes from 0.64.6 below.
+
+**Version 0.64.6 (public beta):**
+- Fixed a major timing issue with PABotBase2. (credit Patrick and others for the clues that revealed this)
 - The "HID: Keyboard" controller now displays Num/Caps/Scroll-lock status.
 - When using an OEM controller, programs will detect a connection failure and tell you do disconnect other controllers.
 - Added an option to make Friend Delete work on the Switch 2. (reported by Nikki)
