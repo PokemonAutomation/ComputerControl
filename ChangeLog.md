@@ -1,4 +1,7 @@
 
+**Version 0.64.8 (private beta):**
+- Fixed missing resource files for Home Living Dex Sorter. (credit dolphincurry)
+
 **Version 0.64.7 (private beta):**
 - New/Untested Program: Home Living Dex sorter (a variant of the Box Sorter). (credit dolphincurry)
 - Includes all changes from 0.64.6 below.
