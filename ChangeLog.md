@@ -1,6 +1,6 @@
-**Version 0.64.9 (private beta):**
-- Improved stability of RNG programs. (reported by Sheep Punter, Mimoza Ruins, credit Astro)
-- Fixed RNG programs not working for single-user consoles. (reported by Rare One, credit Astro)
-- AutoStory: Improved Alfornada routine. (reported by Butters, credit jw)
-- Pico wireless controllers on latest firmware no longer share the same MAC address. (credit Mitch from HOJA for his help)
-- Fixed a firmware regression where wireless controllers may be slow to connect.
+**Version 0.64.10 (private beta):**
+- AutoDA Boss Finder now has an option to automatically save bosses. (credit Boombaastical)
+- Fixed order of Pinsir and Dratini in LG. (reported by Sheep Punter, credit Astro)
+- Improved reliability of FRLG RNG programs. (credit Astro)
+- Improved stability of Box Living Dex Sorter. (reported by Butters, credit dolphincurry)
+- 
