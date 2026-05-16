@@ -1,9 +1,9 @@
 {
     "Release": {
         "VersionMajor": 0,
-        "VersionMinor": 63,
-        "VersionPatch": 9,
-        "Changes": "<p><strong>Version 0.63.9:</strong><br />\n- Fixed a major issue in PABotBase2 where it may disconnect after 30 seconds. (reported by bennian)</p>"
+        "VersionMinor": 64,
+        "VersionPatch": 11,
+        "Changes": "<p><strong>Version 0.64.11:</strong></p>\n<p><strong>New Changes:</strong><br />\n- AutoDA Boss Finder now has an option to automatically save bosses. (credit Boombaastical)<br />\n- Fixed order of Pinsir and Dratini in LG. (reported by Sheep Punter, credit Astro)<br />\n- AutoStory: Improved Alfornada routine. (reported by Butters, credit jw)<br />\n- Pico wireless controllers on latest firmware no longer share the same MAC address. (credit Mitch from HOJA for his help)</p>\n<p><strong>Changes Included from Betas:</strong><br />\n- Fixed a major timing issue with PABotBase2. (credit Patrick and others for the clues that revealed this)<br />\n- The \"HID: Keyboard\" controller now displays Num/Caps/Scroll-lock status.<br />\n- When using an OEM controller, programs will detect a connection failure and tell you do disconnect other controllers.<br />\n- Added an option to make Friend Delete work on the Switch 2. (reported by Nikki)<br />\n- Improved stability of AutoStory. (reported by daemon1337, credit jw)<br />\n- Fixed high CPU usage with PABotBase2.<br />\n- Fixed some glitches for controller status display.</p>"
     },
     "Beta": {
         "VersionMajor": 0,
