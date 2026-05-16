@@ -13,8 +13,8 @@
     },
     "PrivateBeta": {
         "VersionMajor": 0,
-        "VersionMinor": 64,
-        "VersionPatch": 10,
-        "Changes": "<p><strong>Version 0.64.10 (private beta):</strong><br />\n- AutoDA Boss Finder now has an option to automatically save bosses. (credit Boombaastical)<br />\n- Fixed order of Pinsir and Dratini in LG. (reported by Sheep Punter, credit Astro)<br />\n- Improved reliability of FRLG RNG programs. (credit Astro)<br />\n- Improved stability of Box Living Dex Sorter. (reported by Butters, credit dolphincurry)<br />\n- </p>"
+        "VersionMinor": 65,
+        "VersionPatch": 1,
+        "Changes": "<p><strong>Version 0.65.1 (private beta):</strong><br />\n- New Pico firmware (2026051503) will now be able to pair wireless over USB. (credit Mitch from HOJA for his help)<br />\n- 2nd attempt to fix FRLG Game Corner Reset options. (reported by Sheep Punter, credit Astro)<br />\n- Includes everything from v0.64.11 public release.</p>"
     }
 }
