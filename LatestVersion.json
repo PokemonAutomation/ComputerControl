@@ -14,7 +14,7 @@
     "PrivateBeta": {
         "VersionMajor": 0,
         "VersionMinor": 65,
-        "VersionPatch": 3,
-        "Changes": "<p><strong>Version 0.65.3 (private beta):</strong><br />\n- Stability improvements to RNG programs. (reported by Sollisnexus, Sheep Punter, credit Astro)<br />\n- Stability improvements to Cram-o-matic. (reported by Thursdays, credit fye)<br />\n- Stability improvements to CC application itself.<br />\n- New PABotBase2 firmware tuning.</p>\n<p>The PABotBase2 firmware is still undergoing rapid changes that require testing. Likewise, this release comes with an optional firmware upgrade. Feel free to help us by trying out the latest firmware.</p>"
+        "VersionPatch": 4,
+        "Changes": "<p><strong>Version 0.65.4 (private beta):</strong><br />\n- More FRLG RNG fixes. (reported by Sheep Punter, credit Astro)</p>\n<p><strong>Version 0.65.3 (private beta):</strong><br />\n- Stability improvements to RNG programs. (reported by Sollisnexus, Sheep Punter, credit Astro)<br />\n- Stability improvements to Cram-o-matic. (reported by Thursdays, credit fye)<br />\n- Stability improvements to CC application itself.<br />\n- New PABotBase2 firmware tuning.</p>\n<p>The PABotBase2 firmware is still undergoing rapid changes that require testing. Likewise, this release comes with an optional firmware upgrade. Feel free to help us by trying out the latest firmware.</p>"
     }
 }
