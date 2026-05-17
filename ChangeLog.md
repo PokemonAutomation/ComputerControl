@@ -1,7 +1,7 @@
-**Version 0.65.2 (private beta):**
-- Fixed a serious regression in the ESP32 firmware that will drop button presses.
+**Version 0.65.3 (private beta):**
+- Stability improvements to RNG programs. (reported by Sollisnexus, Sheep Punter, credit Astro)
+- Stability improvements to Cram-o-matic. (reported by Thursdays, credit fye)
+- Stability improvements to CC application itself.
+- New PABotBase2 firmware tuning.
 
-**Version 0.65.1 (private beta):**
-- New Pico firmware (2026051503) will now be able to pair wireless over USB. (credit Mitch from HOJA for his help)
-- 2nd attempt to fix FRLG Game Corner Reset options. (reported by Sheep Punter, credit Astro)
-- Includes everything from v0.64.11 public release.
+The PABotBase2 firmware is still undergoing rapid changes that require testing. Likewise, this release comes with an optional firmware upgrade. Feel free to help us by trying out the latest firmware.
