@@ -1,3 +1,6 @@
+**Version 0.65.4 (private beta):**
+- More FRLG RNG fixes. (reported by Sheep Punter, credit Astro)
+
 **Version 0.65.3 (private beta):**
 - Stability improvements to RNG programs. (reported by Sollisnexus, Sheep Punter, credit Astro)
 - Stability improvements to Cram-o-matic. (reported by Thursdays, credit fye)
