@@ -1,10 +1,5 @@
-**Version 0.65.4 (private beta):**
-- More FRLG RNG fixes. (reported by Sheep Punter, credit Astro)
+**Version 0.64.12:**
+- Attempt to fix a crash in CC. (reported by Kubby, Eragon, lightbornkayn, Jordi + more)
+- New Pico firmware will now successfully pair wireless over USB. (credit Mitch from HOJA for his help)
 
-**Version 0.65.3 (private beta):**
-- Stability improvements to RNG programs. (reported by Sollisnexus, Sheep Punter, credit Astro)
-- Stability improvements to Cram-o-matic. (reported by Thursdays, credit fye)
-- Stability improvements to CC application itself.
-- New PABotBase2 firmware tuning.
-
-The PABotBase2 firmware is still undergoing rapid changes that require testing. Likewise, this release comes with an optional firmware upgrade. Feel free to help us by trying out the latest firmware.
+While the fix here indeed fixes a bug, it has not yet been proven if it is the cause of the crashes that everyone is reporting. Furthermore, the fix is very invasive and may lead to more bugs. Please let us know if you encounter any issues.
