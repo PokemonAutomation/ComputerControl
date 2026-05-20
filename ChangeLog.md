@@ -1,3 +1,6 @@
+**Version 0.64.13:**
+- Fixed more fallout from previous bugfix. (reported by Eragon)
+
 **Version 0.64.12:**
 - Attempt to fix a crash in CC. (reported by Kubby, Eragon, lightbornkayn, Jordi + more)
 - New Pico firmware will now successfully pair wireless over USB. (credit Mitch from HOJA for his help)
