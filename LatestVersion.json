@@ -14,7 +14,7 @@
     "PrivateBeta": {
         "VersionMajor": 0,
         "VersionMinor": 65,
-        "VersionPatch": 6,
-        "Changes": "<p><strong>Version 0.64.13:</strong><br />\n- Fixed more fallout from previous bugfix. (reported by Eragon)</p>\n<p><strong>Version 0.64.12:</strong><br />\n- Attempt to fix a crash in CC. (reported by Kubby, Eragon, lightbornkayn, Jordi + more)<br />\n- New Pico firmware will now successfully pair wireless over USB. (credit Mitch from HOJA for his help)</p>\n<p>While the fix here indeed fixes a bug, it has not yet been proven if it is the cause of the crashes that everyone is reporting. Furthermore, the fix is very invasive and may lead to more bugs. Please let us know if you encounter any issues.</p>"
+        "VersionPatch": 7,
+        "Changes": "<p><strong>Version 0.65.7 (private beta):</strong><br />\n- Large PABotBase2 revamp with a protocol change. You will need to flash new firmware.<br />\n- More FRLG stability improvements. (credit Astro)</p>\n<p>The firmware changes in this release were to fix some concurrency issues and turned out to be very invasive. Please let us know if you encounter any issues.</p>"
     }
 }
