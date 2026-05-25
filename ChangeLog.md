@@ -1,5 +1,3 @@
-**Version 0.65.7 (private beta):**
-- Large PABotBase2 revamp with a protocol change. You will need to flash new firmware.
-- More FRLG stability improvements. (credit Astro)
-
-The firmware changes in this release were to fix some concurrency issues and turned out to be very invasive. Please let us know if you encounter any issues.
+**Version 0.65.8 (private beta):**
+- When flashing the ESP32 and ESP32-S3, you no longer need to manually reset the board by pressing the reset button or power cycling the board. CC will now do this automatically if needed. Therefore, ESP32 and ESP32-S3 can now be remotely flashed without physical contact.
+- More FRLG RNG fixes. (reported by multiple people, credit Astro)
