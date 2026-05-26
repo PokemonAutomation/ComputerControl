@@ -1,3 +1,5 @@
-**Version 0.65.8 (private beta):**
-- When flashing the ESP32 and ESP32-S3, you no longer need to manually reset the board by pressing the reset button or power cycling the board. CC will now do this automatically if needed. Therefore, ESP32 and ESP32-S3 can now be remotely flashed without physical contact.
-- More FRLG RNG fixes. (reported by multiple people, credit Astro)
+**Version 0.65.9 (private beta):**
+- (Potential) fix for ESP32 and ESP32-S3 boards resetting when attempting to change controllers. (reported by rL, Kykot [WFCD], )
+- Fixed Magearna Reset. (reported by arosmian, credit ZHDreamer)
+- Improved stability of Lucky Egg Farmer. (reported by MimozaRinus, credit dolphincurry)
+- Improved stability of FRLG Start Menu detection. (reported by Sheep Punter, credit Astro)
