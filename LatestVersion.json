@@ -14,7 +14,7 @@
     "PrivateBeta": {
         "VersionMajor": 0,
         "VersionMinor": 65,
-        "VersionPatch": 9,
-        "Changes": "<p><strong>Version 0.65.9 (private beta):</strong><br />\n- (Potential) fix for ESP32 and ESP32-S3 boards resetting when attempting to change controllers. (reported by rL, Kykot [WFCD], )<br />\n- Fixed Magearna Reset. (reported by arosmian, credit ZHDreamer)<br />\n- Improved stability of Lucky Egg Farmer. (reported by MimozaRinus, credit dolphincurry)<br />\n- Improved stability of FRLG Start Menu detection. (reported by Sheep Punter, credit Astro)</p>"
+        "VersionPatch": 10,
+        "Changes": "<p><strong>Version 0.65.10 (private beta):</strong><br />\n- Fix Bulbasaur for starter RNG. (reported by Sheep Punter, credit Astro)<br />\n- Improved reliability of Y-COMM detector. (repoted by Not Dreamer)</p>"
     }
 }
