@@ -7,9 +7,9 @@
     },
     "Beta": {
         "VersionMajor": 0,
-        "VersionMinor": 65,
-        "VersionPatch": 12,
-        "Changes": "<p><strong>Version 0.65.12:</strong><br />\n- New Program: Pokopia Cloud Reset (credit Gimikyu)<br />\n- Large PABotBase2 revamp with a protocol change. You will need to flash new firmware.<br />\n- The ESP32-S3 now defaults to \"None\" instead of \"NS1: Wired Controller\". We encourage people to use \"NS1: Wired Pro Controller\" instead since it has more features and can self-diagnose connection issues.<br />\n- When flashing the ESP32 and ESP32-S3, you no longer need to manually reset the board by pressing the reset button or power cycling the board. CC will now do this automatically if needed. Therefore, ESP32 and ESP32-S3 can now be remotely flashed without any physical contact.<br />\n- Added separate firmware for the non-wireless RP2040 and RP2350 boards. Wiki update coming later.<br />\n- All Pico-family boards (including the new generic firmware for RP2040 and RP2350) now support using GPIO 0/1 for UART mode. (selection between GPIO 0/1 vs. GPIO 4/5 is done by placing a jumper on GPIO 26+27.)<br />\n- Improved reliability of Y-COMM detector. (reported by Not Dreamer)<br />\n- Stability improvements to RNG programs. (reported by Sollisnexus, Sheep Punter, credit Astro)<br />\n- Stability improvements to Cram-o-matic. (reported by Thursdays, credit fye)<br />\n- Stability improvements to CC application itself.<br />\n- 2nd attempt to fix FRLG Game Corner Reset options. (reported by Sheep Punter, credit Astro)</p>\n<p>Automated RNG programs are getting close and are slated for v0.66! Please stay tuned!</p>"
+        "VersionMinor": 66,
+        "VersionPatch": 1,
+        "Changes": "<p><strong>Version 0.66.1 (public beta)</strong></p>\n<p>This is the release that many of you have been waiting for...</p>\n<ul>\n<li>Added: FRLG SID Helper for RNG (credit Astro)</li>\n<li>Added: FRLG Starter RNG (credit Astro)</li>\n<li>Added: FRLG Gift RNG (credit Astro)</li>\n<li>Added: FRLG Static RNG (credit Astro)</li>\n<li>Added: FRLG Wild RNG (credit Astro)</li>\n</ul>\n<p>These are <strong><em>fully automatic</em></strong> RNG programs. They will automatically calculate your frames, make adjustments, and eventually hit your shiny frame!</p>\n<p>These are complicated programs, thus they are in beta for now. Please let us know if you have any issues. (and we expect a lot of issues!)</p>"
     },
     "PrivateBeta": {
         "VersionMajor": 0,
