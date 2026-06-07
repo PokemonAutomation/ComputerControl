@@ -1,3 +1,8 @@
+**Version 0.66.2 (public beta)**
+
+- Fixed joycon controllers crashing.
+
+
 **Version 0.66.1 (public beta)**
 
 This is the release that many of you have been waiting for...
