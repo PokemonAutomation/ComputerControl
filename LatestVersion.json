@@ -8,8 +8,8 @@
     "Beta": {
         "VersionMajor": 0,
         "VersionMinor": 66,
-        "VersionPatch": 1,
-        "Changes": "<p><strong>Version 0.66.1 (public beta)</strong></p>\n<p>This is the release that many of you have been waiting for...</p>\n<ul>\n<li>Added: FRLG SID Helper for RNG (credit Astro)</li>\n<li>Added: FRLG Starter RNG (credit Astro)</li>\n<li>Added: FRLG Gift RNG (credit Astro)</li>\n<li>Added: FRLG Static RNG (credit Astro)</li>\n<li>Added: FRLG Wild RNG (credit Astro)</li>\n</ul>\n<p>These are <strong><em>fully automatic</em></strong> RNG programs. They will automatically calculate your frames, make adjustments, and eventually hit your shiny frame!</p>\n<p>These are complicated programs, thus they are in beta for now. Please let us know if you have any issues. (and we expect a lot of issues!)</p>"
+        "VersionPatch": 2,
+        "Changes": "<p><strong>Version 0.66.2 (public beta)</strong></p>\n<ul>\n<li>Fixed joycon controllers crashing.</li>\n<li>If you plug your ESP32-S3 and Pico (UART mode)'s wired procon/joycon into your computer, it will no longer keep your computer awake unless Steam has been opened at some point. (Requires flashing new firmware.)</li>\n</ul>\n<p><strong>Version 0.66.1 (public beta)</strong></p>\n<p>This is the release that many of you have been waiting for...</p>\n<ul>\n<li>Added: FRLG SID Helper for RNG (credit Astro)</li>\n<li>Added: FRLG Starter RNG (credit Astro)</li>\n<li>Added: FRLG Gift RNG (credit Astro)</li>\n<li>Added: FRLG Static RNG (credit Astro)</li>\n<li>Added: FRLG Wild RNG (credit Astro)</li>\n</ul>\n<p>These are <strong><em>fully automatic</em></strong> RNG programs. They will automatically calculate your frames, make adjustments, and eventually hit your shiny frame!</p>\n<p>These are complicated programs, thus they are in beta for now. Please let us know if you have any issues. (and we expect a lot of issues!)</p>"
     },
     "PrivateBeta": {
         "VersionMajor": 0,
