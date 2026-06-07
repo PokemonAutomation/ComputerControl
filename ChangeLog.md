@@ -1,6 +1,7 @@
 **Version 0.66.2 (public beta)**
 
 - Fixed joycon controllers crashing.
+- If you plug your ESP32-S3 and Pico (UART mode)'s wired procon/joycon into your computer, it will no longer keep your computer awake unless Steam has been opened at some point. (Requires flashing new firmware.)
 
 
 **Version 0.66.1 (public beta)**
