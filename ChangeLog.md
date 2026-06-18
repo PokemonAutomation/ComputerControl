@@ -1,19 +1,17 @@
-**Version 0.66.2 (public beta)**
+**Version 0.67.2:**
+- Major rewrite of the ESP32 firmware to fix some long standing issues. It should now (in theory) be as reliable as the Pico W for wireless.
+- ESP32 will now reliably reconnect to the Switch 1.
+- ESP32 no longer silently disconnects. (further testing needed to confirm)
+- Fixed an issue in both ESP32 and Pico where having two Switches in the grip menu when trying to pair can royally mess things up.
+- Added PLZA Stats Reset: Hoopa (credit ZHDreamer)
+- Added PLZA Stats Reset: Marshadow (credit Nymphia)
+- FRLG Item Cloning is now faster. (reported by Arc, credit dolphincurry)
+- Improved reliability of BDSP end battle detection. (reported by Qube340 and Patrick)
+- Fixed PLZA Box Sorter alpha sorting. (reported by Maxxetto, credit dolphincurry)
+- Fixed language option missing from EV Trainer. (reported by Patrick, credit pifopi)
+- Improved reliability of FRLG shiny box detection. (reported by Maxxetto, credit dolphincurry)
+- More FRLG RNG calibrations improvements/fixes. (credit Astro)
 
-- Fixed joycon controllers crashing.
-- If you plug your ESP32-S3 and Pico (UART mode)'s wired procon/joycon into your computer, it will no longer keep your computer awake unless Steam has been opened at some point. (Requires flashing new firmware.)
+If you have an ESP32 (not the ESP32-S3), please help us test the new firmware since it is a very large change.
 
-
-**Version 0.66.1 (public beta)**
-
-This is the release that many of you have been waiting for...
-
-- Added: FRLG SID Helper for RNG (credit Astro)
-- Added: FRLG Starter RNG (credit Astro)
-- Added: FRLG Gift RNG (credit Astro)
-- Added: FRLG Static RNG (credit Astro)
-- Added: FRLG Wild RNG (credit Astro)
-
-These are ***fully automatic*** RNG programs. They will automatically calculate your frames, make adjustments, and eventually hit your shiny frame!
-
-These are complicated programs, thus they are in beta for now. Please let us know if you have any issues. (and we expect a lot of issues!)
+ESP32 and Pico W will require new firmware for this version.
