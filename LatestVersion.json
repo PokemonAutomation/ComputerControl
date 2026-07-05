@@ -8,8 +8,8 @@
     "Beta": {
         "VersionMajor": 0,
         "VersionMinor": 67,
-        "VersionPatch": 5,
-        "Changes": "<p><strong>Version 0.67.5 (private beta):</strong><br />\n- New Program: Home Living Dex Sorter (credit dolphincurry)<br />\n- Fixed FRLG fishing program not stopping on shinies. (credit dolphincurry)<br />\n- Fixed FRLG Safari Zone. (reported by Patrick, credit Astro)<br />\n- Improved FRLG nature reading. (reported by Cris, Patrick, credit Astro)<br />\n- Improved reliability of Y-COMM detector. (reported by justin)<br />\n- Improved reliability of LGPE reset programs. (from error reports)<br />\n- Improved reliability  PLZA map detection. (credit Butters)<br />\n- Fixed crash in DPP on exit.<br />\n- Fixed a memory leak in the ESP32 firmware.</p>"
+        "VersionPatch": 7,
+        "Changes": "<p><strong>Version 0.67.7 (beta):</strong><br />\n- Fixed PLZA map detection.<br />\n- Fixed AutoDA end adventure sequence.</p>\n<p><strong>Version 0.67.5 (beta):</strong><br />\n- New Program: Home Living Dex Sorter (credit dolphincurry)<br />\n- Fixed FRLG fishing program not stopping on shinies. (credit dolphincurry)<br />\n- Fixed FRLG Safari Zone. (reported by Patrick, credit Astro)<br />\n- Improved FRLG nature reading. (reported by Cris, Patrick, credit Astro)<br />\n- Improved reliability of Y-COMM detector. (reported by justin)<br />\n- Improved reliability of LGPE reset programs. (from error reports)<br />\n- Improved reliability  PLZA map detection. (credit Butters)<br />\n- Fixed crash in DPP on exit.<br />\n- Fixed a memory leak in the ESP32 firmware.</p>"
     },
     "PrivateBeta": {
         "VersionMajor": 0,
