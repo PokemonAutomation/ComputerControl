@@ -1,4 +1,8 @@
-**Version 0.67.5 (private beta):**
+**Version 0.67.7 (beta):**
+- Fixed PLZA map detection.
+- Fixed AutoDA end adventure sequence.
+
+**Version 0.67.5 (beta):**
 - New Program: Home Living Dex Sorter (credit dolphincurry)
 - Fixed FRLG fishing program not stopping on shinies. (credit dolphincurry)
 - Fixed FRLG Safari Zone. (reported by Patrick, credit Astro)
