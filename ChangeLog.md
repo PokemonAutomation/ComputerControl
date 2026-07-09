@@ -1,7 +1,10 @@
-**Version 0.67.8:**
+
+**Version 0.67.9 (release):**
+
+**Changes since v0.67.8:**
+- Fixed a critical game reset issue. (reported by lairete, ryuzakidoragon)
 
 **Changes since v0.66.2:**
-- New Program: FRLG Roaming RNG. (credit Astro)
 - New Program: Home Living Dex Sorter (credit dolphincurry)
 - Added PLZA Stats Reset: Hoopa (credit ZHDreamer)
 - Added PLZA Stats Reset: Marshadow (credit Nymphia)
@@ -14,6 +17,6 @@
 - ESP32 wireless should be much more reliable now.
 - Improved reliability of game reset sequence. (repoted by lairete)
 
-+ numerous bug fixes... too many to list. See change notes for v0.67.4 beta.
+Along with numerous bug fixes... too many to list. See change notes for v0.67.4 beta.
 
 If you are upgrading from v0.66, you will need to flash new firmware to use this release.
