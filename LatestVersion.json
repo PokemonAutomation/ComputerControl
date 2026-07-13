@@ -13,8 +13,8 @@
     },
     "PrivateBeta": {
         "VersionMajor": 0,
-        "VersionMinor": 67,
-        "VersionPatch": 3,
-        "Changes": "<p><strong>Version 0.67.3 (private beta):</strong><br />\n- Discord integration no longer requires privileged intents. (credit Koi)<br />\n- FRLG battles will now tolerate battle start abilities. (credit dolphincurry)<br />\n- When you change from a pro controller to a 3rd party controller, you will get a warning.<br />\n- When you plug/unplug a serial device, the dropdowns will automatically update without needing to press Reset Ctrl.<br />\n- Improved reliability of SwSh Highlight RNG. (reported by Kingeun, credit fye)<br />\n- Improved reliability of FRLG fishing. (credit dolphincurry)</p>\n<p>You will need to flash new firmware for this release. Apologies for the inconvenience.</p>\n<p>You may have noticed that the wiki has been updated to mention that the AVR boards (Uno R3, Leonardo, Teensy, Pro Micro) are no longer supported. This is the next step in the deprecation of these older boards - pulling the guides and wikis for them. If you are still using these boards, you can still continue for now as we have yet to remove the CC-side driver code for PABotBase1. We are tentatively planning for a September timeframe for the complete removal of PABotBase1 (and thus support for the older AVR8 boards).</p>"
+        "VersionMinor": 68,
+        "VersionPatch": 6,
+        "Changes": "<p><strong>Version 0.68.4 (private beta):</strong><br />\n- Possible fix for SwSh Egg Autonomous getting stuck. (reported by many people)<br />\n- SV Egg Hatcher/Autonomous will now attempt to kill the wild Pokemon if you are attacked. (reported by many people)<br />\n- FRLG RNG for Unown. (credit Astro)<br />\n- Added game icons to the game select dropdown.<br />\n- Donut Maker will now attempt to recover from certain kinds of errors.<br />\n- Added a dropdown to select the video format.<br />\n- Improve reliability of Pokopia programs. (reported by Keagan, credit dolphincurry)</p>\n<p>For the new SV egg feature to kill wild mons, there are some untested corner cases such as losing to the mon or getting attacked in the lighthouse area. Please let us know if you encounter any issues. In most cases, the program should still recover albeit at the cost of a reset.</p>"
     }
 }
