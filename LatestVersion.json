@@ -14,7 +14,7 @@
     "PrivateBeta": {
         "VersionMajor": 0,
         "VersionMinor": 68,
-        "VersionPatch": 6,
-        "Changes": "<p><strong>Version 0.68.4 (private beta):</strong><br />\n- Possible fix for SwSh Egg Autonomous getting stuck. (reported by many people)<br />\n- SV Egg Hatcher/Autonomous will now attempt to kill the wild Pokemon if you are attacked. (reported by many people)<br />\n- FRLG RNG for Unown. (credit Astro)<br />\n- Added game icons to the game select dropdown.<br />\n- Donut Maker will now attempt to recover from certain kinds of errors.<br />\n- Added a dropdown to select the video format.<br />\n- Improve reliability of Pokopia programs. (reported by Keagan, credit dolphincurry)</p>\n<p>For the new SV egg feature to kill wild mons, there are some untested corner cases such as losing to the mon or getting attacked in the lighthouse area. Please let us know if you encounter any issues. In most cases, the program should still recover albeit at the cost of a reset.</p>"
+        "VersionPatch": 8,
+        "Changes": "<p><strong>Version 0.68.8 (private beta):</strong><br />\n- Improve reliability of game re-entry. (reported by Butters)<br />\n- Improve reliability of LGPE battle programs. (reported by Lairette)<br />\n- Fixed OCR issues. (reported by Drak3, credit kichi + jw)<br />\n- Improve reliability of Pokopia program. (reported by Keagan, credit Gimikyu)</p>"
     }
 }
