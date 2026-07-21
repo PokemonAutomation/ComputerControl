@@ -4,7 +4,6 @@
 - Added a dropdown to select the video format (which allows restoring the old video behavior).
 - Fixed SwSh Egg Autonomous getting stuck. (reported by many people)
 - SV Egg Hatcher/Autonomous will now attempt to kill the wild Pokemon if you are attacked. (reported by many people)
-- Added Pokopia Daily Farmer. (credit Gimikyu)
 - FRLG RNG for Unown. (credit Astro)
 - Added game icons to the game select dropdown.
 - Donut Maker will now attempt to recover from certain kinds of errors.
