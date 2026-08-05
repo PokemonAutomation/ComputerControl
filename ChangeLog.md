@@ -1,4 +1,4 @@
-**Version 0.69.3 (private beta):**
+**Version 0.69.7 (private beta):**
 - All OCR text recognition now uses the PaddleOCR library. (credit jw)
 - Partially rewritten SwSh Egg Autonomous to improve reliability. (credit jw)
 - Added Pokopia Daily Farmer. (credit Gimikyu)
