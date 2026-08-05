@@ -13,8 +13,8 @@
     },
     "PrivateBeta": {
         "VersionMajor": 0,
-        "VersionMinor": 68,
-        "VersionPatch": 8,
-        "Changes": "<p><strong>Version 0.68.8 (private beta):</strong><br />\n- Improve reliability of game re-entry. (reported by Butters)<br />\n- Improve reliability of LGPE battle programs. (reported by Lairette)<br />\n- Fixed OCR issues. (reported by Drak3, credit kichi + jw)<br />\n- Improve reliability of Pokopia program. (reported by Keagan, credit Gimikyu)</p>"
+        "VersionMinor": 69,
+        "VersionPatch": 7,
+        "Changes": "<p><strong>Version 0.69.7 (private beta):</strong><br />\n- All OCR text recognition now uses the PaddleOCR library. (credit jw)<br />\n- Partially rewritten SwSh Egg Autonomous to improve reliability. (credit jw)<br />\n- Added Pokopia Daily Farmer. (credit Gimikyu)<br />\n- Large tables and option groups are collapsed by default to improve loading times.<br />\n- Improved reliability of FRLG RNG programs. (credit Astro)<br />\n- Removed extraneous options from FRLG RNG programs. (credit Astro)<br />\n- Improve stability of Home Sorter. (repoted by Tethys, credit dolphincurry)<br />\n- PABotBase1 is now hidden by default. If you still need it, you need to turn it on in the settings.</p>\n<p>The OCR change from Tesseract to PaddleOCR is a very big and dangerous change. Lots of stuff broke and were fixed during testing and there's likely more that we missed. Please let us know if you encounter any issues.</p>\n<p>As part of this migration, both Tesseract and PaddleOCR are included in this release - thus the larger download size. You can choose which to use and can rollback to Tesseract if you encounter any issues. In the next release, Tesseract will no longer be included and will require a separate resource download. This will reduce download sizes again.</p>\n<p>External resource downloading is a new feature we will be pushing soon that will allow us to have very large resources while keeping the main CC download reasonably small. Thus we will be free to build and use large ML models in the future.</p>"
     }
 }
