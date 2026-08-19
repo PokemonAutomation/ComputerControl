@@ -1,4 +1,12 @@
-**Version 0.69.12 (private beta):**
+**Version 0.69.16 (private beta):**
+- Various improvements to SV AutoStory. (reported by chris, credit jw)
+- Fixed FRLG RNG programs failing on 4k. (reported by dolphincurry, credit Astro)
+- Improved reliability of SV AutoStory. (credit jw)
+- Fixed Togepi RNG. (reported by thewhitewolfking and clap, credit Astro)
+- Improved fault tolerance of Donut Maker.
+- Improved stability of PaddleOCR.
+-
+- **Version 0.69.12 (private beta):**
 - Improved reliability of PaddleOCR. (reported by Patrick, credit jw)
 - Improved reliability of FRLG stats reading. (credit Astro)
 - Lots of internal refactors that need testing.
