@@ -18,4 +18,4 @@ The migration from Tesseract to PaddleOCR for text recognition is a very big and
 
 As part of this migration, both Tesseract and PaddleOCR are included in this release - thus the larger download size. You can choose which to use and can rollback to Tesseract if you encounter any issues. In the next release, Tesseract will no longer be included and will require a separate resource download. This will reduce download sizes again.
 
-External resource downloading is a new feature we will be pushing in v0.70 that will allow us to have very large resources while keeping the main CC download reasonably small. Thus we will be free to build and use large ML models in the future.
+External resource downloading is a new feature we will be pushing in v0.70 that will allow us to have very large resources while keeping the main CC download reasonably small. This will allow us to use large ML models in the future.
