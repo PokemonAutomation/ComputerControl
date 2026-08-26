@@ -1,3 +1,8 @@
+**Version 0.69.19 (beta):**
+- Improved reliability of SwSh shiny detection. (reported by ryuzakidoragon)
+- Improved reliability of FRLG RNG stats reading. (credit Astro)
+- Fix FRLG SID Helper for Spanish. (reported by Albertovj, credit Astro)
+
 **Version 0.69.18 (beta):**
 - OCR text recognition now uses the PaddleOCR library. (credit jw)
 - Partially rewritten SwSh Egg Autonomous to improve reliability. (credit jw)
