@@ -5,7 +5,7 @@ This is a very early build for v0.70. It is far from feature complete, but we ar
 **Changes from 0.69.19:**
 - Online resource downloading. A new mechanism to download resources from the internet. (credit jw)
 - Tesseract and SV Auto Story require online resources that are not included in the program download.
-- FRLG Lucky Egg Farmer has been renamed to Held Item Farmer and extended to support Dragon Fang.
+- FRLG Lucky Egg Farmer has been renamed to Held Item Farmer and extended to support Dragon Fang. (credit dolphincurry)
 - Lucky Egg and Dragon Fang farmer programs now use the optimal catch method. (credit dolphincurry)
 - SwSh+BDSP shiny detection has been optimized and will run better on 4k60.
 - Added a new video backend with hardware acceleration.
