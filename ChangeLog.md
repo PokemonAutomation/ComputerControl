@@ -1,26 +1,16 @@
-**Version 0.69.19 (beta):**
-- Improved reliability of SwSh shiny detection. (reported by ryuzakidoragon)
-- Improved reliability of FRLG RNG stats reading. (credit Astro)
-- Fix FRLG SID Helper for Spanish. (reported by Albertovj, credit Astro)
+**Version 0.70.1 (private beta):**
 
-**Version 0.69.18 (beta):**
-- OCR text recognition now uses the PaddleOCR library. (credit jw)
-- Partially rewritten SwSh Egg Autonomous to improve reliability. (credit jw)
-- Added Pokopia Daily Farmer. (credit Gimikyu)
-- Large tables and option groups are collapsed by default to improve loading times.
-- Various improvements to SV AutoStory. (reported by chris, credit jw)
-- Fixed FRLG RNG programs failing on 4k. (reported by dolphincurry, credit Astro)
-- Fixed Togepi RNG. (reported by thewhitewolfking and clap, credit Astro)
-- Improved reliability of FRLG RNG programs. (credit Astro)
-- Fixed FRLG daycare pickup. (reported by Patrick, credit Astro)
-- Removed extraneous options from FRLG RNG programs. (credit Astro)
-- Improve stability of Home Sorter. (repoted by Tethys, credit dolphincurry)
-- Improved fault tolerance of Donut Maker.
-- Image processing is now done using OpenCV instead of Qt.
-- PABotBase1 is now hidden by default. If you still need it, you need to turn it on in the settings.
+This is a very early build for v0.70. It is far from feature complete, but we are opening it up for testing regardless.
 
-The migration from Tesseract to PaddleOCR for text recognition is a very big and dangerous change. Lots of stuff broke and were fixed during testing and there's likely more that we missed. Please let us know if you encounter any issues.
+**Changes from 0.69.19**
+- Online resource downloading. A new mechanism to download resources from the internet. (credit jw)
+- Tesseract and SV Auto Story require online resources that are not included in the program download.
+- FRLG Lucky Egg Farmer has been renamed to Held Item Farmer and extended to support Dragon Fang.
+- Lucky Egg and Dragon Fang farmer programs now use the optimal catch method. (credit dolphincurry)
+- SwSh+BDSP shiny detection has been optimized and will run better on 4k60.
+- Added a new video backend with hardware acceleration.
+- Support for Arduino, Teensy, and Pro Micro has been discontinued.
 
-As part of this migration, both Tesseract and PaddleOCR are included in this release - thus the larger download size. You can choose which to use and can rollback to Tesseract if you encounter any issues. In the next release, Tesseract will no longer be included and will require a separate resource download. This will reduce download sizes again.
-
-External resource downloading is a new feature we will be pushing in v0.70 that will allow us to have very large resources while keeping the main CC download reasonably small. This will allow us to use large ML models in the future.
+**Notes:**
+- The hardware accelerated video backend has only been tested on Windows and is slated for release in v0.71, not v0.70. So it is opt-in and you will need to turn it on manually to use it.
+- The download size has not been reduced yet. As of v0.70.1, it is still big. It will reduce before v0.70 goes to public beta.
