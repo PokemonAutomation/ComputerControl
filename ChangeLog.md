@@ -1,8 +1,9 @@
-**Version 0.70.2 (private beta):**
+**Version 0.70.4 (private beta):**
 - New firmware with potentially corrected gyro behavior (developer only). (credit Gin)
 - Fix FRLG SID Helper for French. (reported by Flip667, credit Astro)
 - Fix FRLG Roamer RNG for Spanish. (reported by Albertovj, credit Astro)
 - Improved AutoDA fault tolerance. (reported by ERich)
+- Improved reliability of BDSP auto-catch. (reported by ryuzakidoragon)
 
 **Version 0.70.1 (private beta):**
 - Online resource downloading. A new mechanism to download resources from the internet. (credit jw)
