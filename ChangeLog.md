@@ -1,3 +1,9 @@
+**Version 0.70.5 (private beta):**
+- Fixed SwSh dialog detector. (reported by edel176, credit jw)
+- Improved reliability of FRLG stats reading. (credit Astro)
+- Fix FRLG Roamer RNG for Spanish and Japanese. (reported by Albertovj and alee, credit Astro)
+- Lots of internal refactors that need testing.
+
 **Version 0.70.4 (private beta):**
 - New firmware with potentially corrected gyro behavior (developer only). (credit Gin)
 - Fix FRLG SID Helper for French. (reported by Flip667, credit Astro)
