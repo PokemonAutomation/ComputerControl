@@ -2,6 +2,7 @@
 - Fixed SwSh dialog detector. (reported by edel176, credit jw)
 - Improved reliability of FRLG stats reading. (credit Astro)
 - Fix FRLG Roamer RNG for Spanish and Japanese. (reported by Albertovj and alee, credit Astro)
+- Improved reliability of Pokopia Daily Farmer. (reported spicyseer)
 - Lots of internal refactors that need testing.
 
 **Version 0.70.4 (private beta):**
