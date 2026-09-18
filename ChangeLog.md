@@ -1,4 +1,5 @@
-**Version 0.70.5 (private beta):**
+**Version 0.70.6 (private beta):**
+- Discord slash commands have been revamped. You will need to re-register them.
 - Fixed SwSh dialog detector. (reported by edel176, credit jw)
 - Improved reliability of FRLG stats reading. (credit Astro)
 - Fix FRLG Roamer RNG for Spanish and Japanese. (reported by Albertovj and alee, credit Astro)
