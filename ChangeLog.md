@@ -1,6 +1,7 @@
-**Version 0.70.7 (beta):**
+**Version 0.70.8 (beta):**
 - Online resource downloading. A new mechanism to download resources from the internet. (credit jw)
 - Tesseract and SV Auto Story require online resources that are not included in the program download.
+- The download size is now smaller since the aforementioned resources are now online instead of included by default.
 - Home Box Sorter has box limit increased to 300. (credit dolphincurry)
 - Discord slash commands have been updated. You will need to re-register them.
 - FRLG Lucky Egg Farmer has been renamed to Held Item Farmer and extended to support Dragon Fang. (credit dolphincurry)
