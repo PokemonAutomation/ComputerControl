@@ -1,3 +1,7 @@
+**Version 0.70.9 (beta):**
+- Fixed options being locked while program is running. (credit Gin)
+- Fixed a rare crash. (credit Gin)
+
 **Version 0.70.8 (beta):**
 - Online resource downloading. A new mechanism to download resources from the internet. (credit jw)
 - Tesseract and SV Auto Story require online resources that are not included in the program download.
