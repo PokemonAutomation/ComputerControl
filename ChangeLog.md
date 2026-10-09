@@ -1,3 +1,7 @@
+**Version 0.70.10:**
+- Improved reliability of SwSh menu detection. (reported by thebeewaspguy, credit jw)
+- Improved reliability of PLZA dialog detection. (reported by sniper23, credit Gin)
+
 **Version 0.70.9 (beta):**
 - Fixed options being locked while program is running. (credit Gin)
 - Fixed a rare crash. (credit Gin)
