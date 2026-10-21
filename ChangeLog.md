@@ -1,27 +1,18 @@
-**Version 0.70.10:**
+**Version 0.71.2 (private beta):**
+- Add support for custom background themes. (credit dolphincurry)
+- On Windows, video rendering now supports hardware acceleration. (credit denvoros, koi)
+- The programs sidebar can now be collapsed. (credit dolphincurry)
+- Collapsible sections now use an arrow instead of a checkbox. (credit dolphincurry)
+- Discord commands now support string input for keyboard controller.
+- Added FRLG Elite Four Battler. (credit thewhitewolfking)
+- Added FRLG Egg RNG. (credit Astro)
+- TurboA now has different mash speeds. (credit Gin)
+- PLZA Overworld Reset now supports preset movement. (credit Gin)
+- Fixed a crash in SV Eggs when stopping early. (reported by Zing, credit Gin)
 - Improved reliability of SwSh menu detection. (reported by thebeewaspguy, credit jw)
+- Improved reliability of FRLG RNG programs. (credit Astro)
+- Improved reliability FRLG RNG programs for French. (reported by Antoine, credit Astro)
+- Improved reliability of PLZA weather detection. (credit Butters)
 - Improved reliability of PLZA dialog detection. (reported by sniper23, credit Gin)
-
-**Version 0.70.9 (beta):**
-- Fixed options being locked while program is running. (credit Gin)
-- Fixed a rare crash. (credit Gin)
-
-**Version 0.70.8 (beta):**
-- Online resource downloading. A new mechanism to download resources from the internet. (credit jw)
-- Tesseract and SV Auto Story require online resources that are not included in the program download.
-- The download size is now smaller since the aforementioned resources are now online instead of included by default.
-- Home Box Sorter has box limit increased to 300. (credit dolphincurry)
-- Discord slash commands have been updated. You will need to re-register them.
-- FRLG Lucky Egg Farmer has been renamed to Held Item Farmer and extended to support Dragon Fang. (credit dolphincurry)
-- Lucky Egg and Dragon Fang farmer programs now use the optimal catch method. (credit dolphincurry)
-- SwSh+BDSP shiny detection has been optimized and will run better on 4k60.
-- Fixed SwSh dialog detector. (reported by edel176, credit jw)
-- Improved reliability of FRLG stats reading. (credit Astro)
-- Fix FRLG Roamer RNG for Spanish and Japanese. (reported by Albertovj and alee, credit Astro)
-- Improved reliability of Pokopia Daily Farmer. (reported spicyseer)
-- New firmware with potentially corrected gyro behavior (developer only). (credit Gin)
-- Fix FRLG SID Helper for French. (reported by Flip667, credit Astro)
-- Fix FRLG Roamer RNG for Spanish. (reported by Albertovj, credit Astro)
-- Improved AutoDA fault tolerance. (reported by ERich)
-- Improved reliability of BDSP auto-catch. (reported by ryuzakidoragon)
-- Support for Arduino, Teensy, and Pro Micro has been removed.
+- All firmware updated to latest devkits.
+- Fixed an issue where a Pico may incorrectly switch to UART mode due to noise on the UART mode pins.
