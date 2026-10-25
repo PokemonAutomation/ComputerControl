@@ -1,4 +1,4 @@
-**Version 0.71.2 (private beta):**
+**Version 0.71.3 (beta):**
 - Add support for custom background themes. (credit dolphincurry)
 - On Windows, video rendering now supports hardware acceleration. (credit denvoros, koi)
 - The programs sidebar can now be collapsed. (credit dolphincurry)
@@ -14,5 +14,6 @@
 - Improved reliability FRLG RNG programs for French. (reported by Antoine, credit Astro)
 - Improved reliability of PLZA weather detection. (credit Butters)
 - Improved reliability of PLZA dialog detection. (reported by sniper23, credit Gin)
+ - Improved reliabilty of AutoDA lobby entry. (reported by william052979)
 - All firmware updated to latest devkits.
 - Fixed an issue where a Pico may incorrectly switch to UART mode due to noise on the UART mode pins.
