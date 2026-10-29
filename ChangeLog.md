@@ -1,3 +1,8 @@
+**Version 0.71.5 (beta):**
+- Fixed a hang in the SwSh and BDSP shiny detectors if you don't have enough cores. (credit Gin)
+- Fix FRLG Item Dupe and Held Item Farmer for Japanese. (credit dolphincurry)
+- SV Egg Autonomous only requires IV judge if checking IVs. (reported by madibye, credit Gin)
+
 **Version 0.71.3 (beta):**
 - Add support for custom background themes. (credit dolphincurry)
 - On Windows, video rendering now supports hardware acceleration. (credit denvoros, koi)
