@@ -1,4 +1,5 @@
-**Version 0.71.5 (beta):**
+**Version 0.71.6 (beta):**
+- Enable custom background themes for real. It was locked internal in the previous release.
 - Fixed a hang in the SwSh and BDSP shiny detectors if you don't have enough cores. (reported by sirsunspot, credit Gin)
 - Fix FRLG Item Dupe and Held Item Farmer for Japanese. (credit dolphincurry)
 - SV Egg Autonomous only requires IV judge if checking IVs. (reported by madibye, credit Gin)
