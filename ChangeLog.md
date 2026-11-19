@@ -10,7 +10,7 @@
 - Improved reliability of FRLG Gift RNG. (reported by kuri07405, credit Astro)
 - Fixed keyboard settings not being loaded unless Switch settings are loaded. (credit serpulga)
 - Fixed incorrect nature logging for SV. (credit serpulga)
-- Fixed crash from discord with flaky internet. (credit dolphincurry)
+- Fixed crash from Discord with flaky internet. (credit dolphincurry)
 - Improved reliability of SV AutoStory. (reported by qanthelas, credit jw)
 - Improved fault-tolerance of AutoDA. (reported by arosmian)
 - Improved reliability of AutoDA. (credit dayfine)
